@@ -1,0 +1,10 @@
+columns_text,target_chart
+year submittedPapers acceptedPapers,Bar
+country eventsCount,GeoMap
+series acceptanceRate,Line
+subfields events country,Tree
+countries events,Bubble
+field acceptanceRate,Bar
+series date acceptanceRate,Line
+events month,Bar
+series editionsCount,Bar
