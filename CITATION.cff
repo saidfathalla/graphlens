@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Fathalla"
+    given-names: "Said"
+    orcid: "https://orcid.org/0000-0002-2818-5890"
+title: "GraphLens: Automated Semantic Graph Scientometric Pipeline"
+version: "1.0.0"
+date-released: 2026-07-06
+url: "https://github.com/saidfathalla/GraphLens"
+repository-code: "https://github.com/saidfathalla/GraphLens"
+keywords:
+  - "semantic web"
+  - "knowledge graphs"
+  - "scientometrics"
+  - "machine learning"
+  - "sparql"
+  - "data pipeline"
+license: "MIT"
