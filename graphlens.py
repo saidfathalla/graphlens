@@ -3,11 +3,13 @@ import os
 import re
 import logging
 import requests
+import argparse
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import rdflib
+from rdflib.util import guess_format
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.cluster import KMeans
@@ -134,7 +136,6 @@ class GraphLensScientometricPipeline:
 
     def generate_publication_plots(self, df, yearly_df, meta):
         """Generates and exports high-resolution multi-panel plots optimized for journal formatting."""
-        # Enforce strict academic styling criteria
         sns.set_theme(style="whitegrid", context="paper", font_scale=1.2)
         plt.rcParams.update({
             'font.family': 'serif',
@@ -144,9 +145,7 @@ class GraphLensScientometricPipeline:
 
         print("\n[*] Generating high-resolution graphical assets and terminal captions...\n" + "="*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 1: Cluster Analysis with Overlaid OLS Trend Fit
-        # -----------------------------------------------------------------
         if 'venue_profile' in df.columns and len(df['venue_profile'].unique()) > 1:
             fig1, ax1 = plt.subplots(figsize=(9, 6))
             sns.scatterplot(
@@ -167,11 +166,9 @@ class GraphLensScientometricPipeline:
             plt.savefig(fig1_path, dpi=300)
             plt.close(fig1)
             print(f"[+] Exported: {fig1_path}")
-            print("    CAPTION: Figure 1: Multi-dimensional review behavior taxonomy mapping venue intake volumes against metric acceptance rates. Points categorize automatically via unsupervised K-Means clusters ($K=3$), overlaid with an OLS trend curve modeling structural competitiveness scaling patterns.\n" + "-"*80)
+            print("    CAPTION: Figure 1: Multi-dimensional review behavior taxonomy mapping venue intake volumes against metric acceptance rates. Points categorize automatically via unsupervised K-Means clusters (K=3), overlaid with an OLS trend curve modeling structural competitiveness scaling patterns.\n" + "-"*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 2: Longitudinal Distribution of Submissions Across Fields
-        # -----------------------------------------------------------------
         if 'field' in df.columns and len(df['field'].dropna().unique()) > 1:
             field_temporal = df.groupby(['year', 'field'])['submitted'].sum().unstack().fillna(0)
             
@@ -188,9 +185,7 @@ class GraphLensScientometricPipeline:
             print(f"[+] Exported: {fig2_path}")
             print("    CAPTION: Figure 2: Stacked longitudinal area matrix tracing total thematic distributions across computer science communities across five decades, exposing macro-scale structural shifts and field specialization pathways within knowledge networks.\n" + "-"*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 3: Geographic Distribution of Conference Hosting Nations
-        # -----------------------------------------------------------------
         if 'country' in df.columns and len(df['country'].dropna().unique()) > 1:
             geo_dist = df.groupby('country')['event'].nunique().sort_values(ascending=False).head(12)
             
@@ -206,9 +201,7 @@ class GraphLensScientometricPipeline:
             print(f"[+] Exported: {fig3_path}")
             print("    CAPTION: Figure 3: Concentration distribution profiling geographic host asymmetry of international scientific tracking instances, ranking top nations based on their cumulative count of elite conference events.\n" + "-"*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 4: Metrics Dependency Matrix Correlation Heatmap
-        # -----------------------------------------------------------------
         target_metrics = [c for c in ['year', 'submitted', 'accepted', 'acceptanceRate'] if c in df.columns]
         if len(target_metrics) > 1:
             fig4, ax4 = plt.subplots(figsize=(7.5, 6))
@@ -222,13 +215,7 @@ class GraphLensScientometricPipeline:
             print(f"[+] Exported: {fig4_path}")
             print("    CAPTION: Figure 4: Correlation heatmap illustrating Pearson linear dependency indices between temporal progression, submission volume scales, absolute acceptance counts, and review selectiveness constraints.\n" + "-"*80)
 
-        # =================================================================
-        # NEW SCIENTOMETRIC VISUAL ASSETS (FIGURES 5, 6, & 7)
-        # =================================================================
-
-        # -----------------------------------------------------------------
         # FIGURE 5: Operational Selectivity Variances Across Fields (Boxplot)
-        # -----------------------------------------------------------------
         if 'field' in df.columns and 'acceptanceRate' in df.columns:
             valid_fields = df.dropna(subset=['field', 'acceptanceRate'])
             if len(valid_fields['field'].unique()) > 1:
@@ -244,9 +231,7 @@ class GraphLensScientometricPipeline:
                 print(f"[+] Exported: {fig5_path}")
                 print("    CAPTION: Figure 5: Cross-domain selectivity variance analysis utilizing horizontal boxplots. This visualization illustrates the structural variation, inner quartiles, and outlier thresholds of peer-review stringency across distinct academic communities.\n" + "-"*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 6: Top 10 Conference Series Benchmarking (Bar Chart)
-        # -----------------------------------------------------------------
         if 'acronym' in df.columns and 'submitted' in df.columns:
             top_venues = df.groupby('acronym')['submitted'].sum().sort_values(ascending=False).head(10)
             if not top_venues.empty:
@@ -262,13 +247,11 @@ class GraphLensScientometricPipeline:
                 print(f"[+] Exported: {fig6_path}")
                 print("    CAPTION: Figure 6: Evaluation benchmark ranking the top ten most active publication series by historical submission volume within the triplestore metadata repository, highlighting dominant nodes of research productivity.\n" + "-"*80)
 
-        # -----------------------------------------------------------------
         # FIGURE 7: Density Volume Distribution by Taxonomy Cluster (Violin Plot)
-        # -----------------------------------------------------------------
         if 'venue_profile' in df.columns and 'submitted' in df.columns:
             fig7, ax7 = plt.subplots(figsize=(10, 6))
             sns.violinplot(data=df, x='venue_profile', y='submitted', palette='Pastel1', inner='quartile', ax=ax7)
-            ax7.set_yscale('log') # Ensure robust view over varying orders of magnitude safely
+            ax7.set_yscale('log')
             ax7.set_title("Figure 7: Density Distribution of Submission Volumes by Taxonomical Cluster", fontweight='bold', pad=12)
             ax7.set_xlabel("Unsupervised Taxonomy Profile Assignment", fontsize=12)
             ax7.set_ylabel("Inbound Submission Scale (Logarithmic Scale)", fontsize=12)
@@ -279,16 +262,69 @@ class GraphLensScientometricPipeline:
             print(f"[+] Exported: {fig7_path}")
             print("    CAPTION: Figure 7: Log-scaled violin plots tracking kernel density distributions of submission volumes across unsupervised venue profiles. This map exposes structural density thresholds and scale differences among elite, standard, and mega-venues.\n" + "="*80)
 
-    def execute_pipeline(self, rdf_source_url, query_str):
-        print(f"[*] Connecting to live semantic data channel: {rdf_source_url}")
+    def execute_pipeline(self, query_str, rdf_url=None, rdf_file=None):
+        """Ingests semantic data from remote URLs or local files with explicit layout structure validation."""
         graph = rdflib.Graph()
-        
-        response = requests.get(rdf_source_url)
-        response.raise_for_status()
-        graph.parse(data=response.text, format="turtle")
-        print(f"[+] Connected. Triplestore parsed successfully into memory. Size: {len(graph)} triples.")
+        detected_format = None
 
+        # Scenario 1: Processing Remote URL Endpoint Parameter
+        if rdf_url:
+            print(f"[*] Connecting to live semantic data channel: {rdf_url}")
+            try:
+                response = requests.get(rdf_url, timeout=30)
+                if response.status_code == 404:
+                    print(f"\n[!] Fatal Ingestion Error: The requested URL returned a '404 Not Found' status.")
+                    return
+                response.raise_for_status()
+                
+                # Attempt automatic format layout resolution from URL layout patterns
+                detected_format = guess_format(rdf_url)
+                if not detected_format:
+                    # Fallback to inspecting Content-Type header properties
+                    content_type = response.headers.get('Content-Type', '').lower()
+                    if 'turtle' in content_type or 'ttl' in content_type: detected_format = 'turtle'
+                    elif 'rdf+xml' in content_type or 'xml' in content_type: detected_format = 'xml'
+                    elif 'json-ld' in content_type: detected_format = 'json-ld'
+                    elif 'ntriples' in content_type: detected_format = 'nt'
+                
+                if not detected_format:
+                    print("\n[!] Fatal Ingestion Error: Could not determine RDF serialization framework from URL metadata strings.")
+                    return
+
+                try:
+                    graph.parse(data=response.text, format=detected_format)
+                except Exception as parse_error:
+                    print(f"\n[!] Fatal Structural Error: Target stream is not a valid RDF payload format ({detected_format}).\n    Parser Details: {parse_error}")
+                    return
+
+            except requests.exceptions.RequestException as network_err:
+                print(f"\n[!] Ingestion Failure: Unable to securely connect to remote service channel.\n    Network Details: {network_err}")
+                return
+
+        # Scenario 2: Processing Local File Parameter
+        elif rdf_file:
+            print(f"[*] Loading local semantic data asset: {rdf_file}")
+            if not os.path.exists(rdf_file):
+                print(f"\n[!] Fatal File Error: The configured system storage path '{rdf_file}' does not exist.")
+                return
+            
+            detected_format = guess_format(rdf_file)
+            if not detected_format:
+                print("\n[!] Fatal Configuration Error: Extension schema from target file name matches no known RDF serialization format layout.")
+                return
+                
+            try:
+                graph.parse(source=rdf_file, format=detected_format)
+            except Exception as parse_error:
+                print(f"\n[!] Fatal Structural Error: Provided file context is not a valid RDF serialization format layout ({detected_format}).\n    Parser Details: {parse_error}")
+                return
+        else:
+            print("\n[!] Technical Ingestion Bound: No active input stream parameter path provided.")
+            return
+
+        print(f"[+] Triplestore parsed successfully into memory using layout parsing mode: '{detected_format}'. Size: {len(graph)} triples.")
         print("[*] Compiling schema extraction query parsing operations...")
+        
         query_job = graph.query(query_str)
         columns = [str(var) for var in query_job.vars]
         
@@ -297,14 +333,13 @@ class GraphLensScientometricPipeline:
             rows.append([val.toPython() if hasattr(val, 'toPython') else str(val) if val is not None else None for val in row])
             
         raw_df = pd.DataFrame(rows, columns=columns)
-        
         if raw_df.empty:
             print("[!] Fatal Error: Extraction query generated an empty dataframe context.")
             return
 
         print(f"[+] Raw payload captured successfully: {len(raw_df)} metadata rows loaded.")
 
-        # Execute processing pipeline modules
+        # Execute analytical processing sub-modules
         processed_df = self.clean_and_normalize_payload(raw_df)
         analyzed_df, yearly_df, metadata = self.execute_advanced_analytics(processed_df)
         self.generate_publication_plots(analyzed_df, yearly_df, metadata)
@@ -315,11 +350,10 @@ class GraphLensScientometricPipeline:
         print(f"\n[+++] Success! All 7 visual assets and structural tables saved to: '{self.output_dir}/'\n")
 
 if __name__ == "__main__":
-    # Standardized query structure optimized for slash-based schema architectures
     BROAD_SCIENTOMETRIC_QUERY = """
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
     PREFIX co: <https://w3id.org/scholarlydata/ontology/conference-ontology.owl#>
-    PREFIX seo: <http://purl.org/seo/>
+    PREFIX seo: <https://w3id.org/seo#>
     
     SELECT ?event ?acronym ?date ?field ?country ?submitted ?accepted ?acceptanceRate
     WHERE {
@@ -333,7 +367,17 @@ if __name__ == "__main__":
     }
     """
     
-    DATASET_TARGET_URL = "https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl"
+    # Compile the command-line CLI option infrastructure
+    parser = argparse.ArgumentParser(description="GraphLens: Automated Semantic Graph Scientometric Pipeline")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("-u", "--url", help="Remote url target channel pointing to an RDF graph serialization (.ttl, .rdf, .jsonld)")
+    group.add_argument("-f", "--file", help="Local storage file path pointing directly to an RDF serialization data asset")
+    
+    args = parser.parse_args()
     
     pipeline = GraphLensScientometricPipeline()
-    pipeline.execute_pipeline(rdf_source_url=DATASET_TARGET_URL, query_str=BROAD_SCIENTOMETRIC_QUERY)
+    pipeline.execute_pipeline(
+        query_str=BROAD_SCIENTOMETRIC_QUERY, 
+        rdf_url=args.url, 
+        rdf_file=args.file
+    )
