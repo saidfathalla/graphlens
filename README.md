@@ -17,6 +17,7 @@ Rather than requiring researchers to manually construct, debug, and optimize com
 * **Unsupervised Taxonomic Profiling**: Applies $K$-means clustering ($K=3$) over continuous selectivity boundaries to automatically segment venues into standardized behavioral tiers (*Elite / Highly Selective*, *Standard Peer-Reviewed*, and *High-Acceptance / Mega-Venue*).
 * **Longitudinal Growth Trajectory Regression**: Embeds parallel Ordinary Least Squares (OLS) linear regression configurations to compute annual growth velocities and trend fit coefficients ($R^2$) across multi-decade timeline horizons.
 * **Automated Production Asset Materialization**: Systematically exports an entire suite of 7 high-density, journal-ready visualization plots (300 DPI, serif-typed) and a unified data matrix without manual plotting configurations.
+* **Query-agnostic**: Decouple the query structure and namespace definitions from the core Python execution logic by offloading the SPARQL query to an external file (e.g., a .rq or .sparql file). Standard SPARQL syntax natively handles its own prefix declarations at the top of the file, allowing you to change targets or schemas instantly without touching a single line of Python code.
 
 ## Installation
 
@@ -44,13 +45,13 @@ GraphLens is designed as an automated, single-command command-line tool.
 - TO **read from a URL**:
 
 ```bash
-python3 graphlens.py --url https:somedomain.com/RDFdataset.ttl
+python3 graphlens.py  --query query.rq --url https:somedomain.com/RDFdataset.ttl
 ```
 
 - TO **read from a local TTL file**:
 
 ```bash
-python3 graphlens.py --file local-file-path.ttl 
+python3 graphlens.py  --query query.rq --file local-file-path.ttl 
 ```
 
 
