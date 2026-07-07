@@ -40,11 +40,19 @@ pip install requests numpy pandas matplotlib seaborn rdflib scikit-learn
 ```
 
 ## Usage
-GraphLens is designed as an automated, single-command command-line tool. Run the main script file to execute the pipeline:
+GraphLens is designed as an automated, single-command command-line tool. 
+- TO **read from a URL**:
 
 ```bash
-python3 graphlens.py
+python3 graphlens.py --url https:somedomain.com/RDFdataset.ttl
 ```
+
+- TO **read from a local TTL file**:
+
+```bash
+python3 graphlens.py --file local-file-path.ttl 
+```
+
 
 By default, the pipeline automatically connects to the live open-science E[VENTSKG-Dataset](https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl) turtle data channel, 
 compiles the semantic schemas, runs the advanced analytics core, and routes all outputs directly to `output/`.
