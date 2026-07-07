@@ -1,0 +1,1394 @@
+event,acronym,date,field,country,submitted,accepted,acceptanceRate,year,cluster_label,venue_profile
+AAAI1986,AAAI1986,1986-08-11 00:00:00+00:00,ArtificialIntelligence,United_States,817.0,187.0,0.229,1986,2.0,Elite / Highly Selective
+AAAI19877,AAAI1987,1987-07-13 00:00:00+00:00,ArtificialIntelligence,United_States,715.0,149.0,0.208,1987,2.0,Elite / Highly Selective
+AAAI1988,AAAI1988,1988-08-21 00:00:00+00:00,ArtificialIntelligence,United_States,850.0,148.0,0.174,1988,2.0,Elite / Highly Selective
+AAAI1990,AAAI1990,1990-07-29 00:00:00+00:00,ArtificialIntelligence,United_States,892.0,161.0,0.18,1990,2.0,Elite / Highly Selective
+AAAI1991,AAAI1991,1991-07-14 00:00:00+00:00,ArtificialIntelligence,United_States,603.0,142.0,0.235,1991,2.0,Elite / Highly Selective
+AAAI1992,AAAI1992,1992-07-12 00:00:00+00:00,ArtificialIntelligence,United_States,636.0,133.0,0.209,1992,2.0,Elite / Highly Selective
+AAAI1993,AAAI1993,1993-07-11 00:00:00+00:00,ArtificialIntelligence,United_States,524.0,126.0,0.24,1993,2.0,Elite / Highly Selective
+AAAI1994,AAAI1994,1994-07-31 00:00:00+00:00,ArtificialIntelligence,United_States,780.0,222.0,0.285,1994,2.0,Elite / Highly Selective
+AAAI1996,AAAI1996,1996-08-04 00:00:00+00:00,ArtificialIntelligence,United_States,643.0,197.0,0.306,1996,2.0,Elite / Highly Selective
+AAAI1997,AAAI1997,1997-07-27 00:00:00+00:00,ArtificialIntelligence,United_States,323.0,117.0,0.362,1997,0.0,Standard Peer-Reviewed
+FOCS2017,FOCS 2017,2017-10-15 00:00:00+00:00,ComputerSystemsOrganization,United_States,323.0,90.0,0.279,2017,0.0,Standard Peer-Reviewed
+AAAI1998,AAAI1998,1998-07-26 00:00:00+00:00,ArtificialIntelligence,United_States,475.0,144.0,0.303,1998,2.0,Elite / Highly Selective
+AAAI1999,AAAI1999,1999-07-18 00:00:00+00:00,ArtificialIntelligence,United_States,400.0,109.0,0.273,1999,2.0,Elite / Highly Selective
+AISTATS2012,AISTATS 2012,2012-04-21 00:00:00+00:00,ArtificialIntelligence,Kingdom_of_the_Canary_Islands,400.0,134.0,0.335,2012,2.0,Elite / Highly Selective
+ICONIP2008,ICONIP 2008,2008-11-25 00:00:00+00:00,ArtificialIntelligence,New_Zealand,400.0,260.0,0.65,2008,2.0,Elite / Highly Selective
+AAAI2000,AAAI2000,2000-07-30 00:00:00+00:00,ArtificialIntelligence,United_States,431.0,143.0,0.332,2000,2.0,Elite / Highly Selective
+CVPR1993,CVPR 1993,1993-06-15 00:00:00+00:00,ArtificialIntelligence,United_States,431.0,186.0,0.432,1993,2.0,Elite / Highly Selective
+ICONIP2016,ICONIP 2016,2016-10-16 00:00:00+00:00,ArtificialIntelligence,Japan,431.0,296.0,0.687,2016,2.0,Elite / Highly Selective
+SIGMOD2004,SIGMOD 2004,2004-06-13 00:00:00+00:00,InformationSystems,France,431.0,69.0,0.16,2004,2.0,Elite / Highly Selective
+SIGMOD2005,SIGMOD 2005,2005-06-13 00:00:00+00:00,InformationSystems,United_States,431.0,65.0,0.151,2005,2.0,Elite / Highly Selective
+AAAI2002,AAAI2002,2002-07-28 00:00:00+00:00,ArtificialIntelligence,Canada,469.0,121.0,0.258,2002,2.0,Elite / Highly Selective
+AAAI2004,AAAI2004,2004-07-25 00:00:00+00:00,ArtificialIntelligence,United_States,453.0,121.0,0.267,2004,2.0,Elite / Highly Selective
+CVPR1998,CVPR 1998,1998-06-23 00:00:00+00:00,ArtificialIntelligence,United_States,453.0,139.0,0.307,1998,2.0,Elite / Highly Selective
+AAAI2005,AAAI2005,2005-07-09 00:00:00+00:00,ArtificialIntelligence,United_States,803.0,229.0,0.285,2005,2.0,Elite / Highly Selective
+AAAI2006,AAAI2006,2006-07-16 00:00:00+00:00,ArtificialIntelligence,United_States,774.0,236.0,0.305,2006,2.0,Elite / Highly Selective
+AAAI2007,AAAI2007,2007-07-22 00:00:00+00:00,ArtificialIntelligence,Canada,921.0,253.0,0.275,2007,2.0,Elite / Highly Selective
+AAAI2008,AAAI2008,2008-07-13 00:00:00+00:00,ArtificialIntelligence,United_States,937.0,227.0,0.242,2008,2.0,Elite / Highly Selective
+AAAI2010,AAAI2010,2010-07-11 00:00:00+00:00,ArtificialIntelligence,United_States,982.0,264.0,0.269,2010,2.0,Elite / Highly Selective
+AAAI2011,AAAI2011,2011-08-07 00:00:00+00:00,ArtificialIntelligence,United_States,975.0,242.0,0.248,2011,2.0,Elite / Highly Selective
+AAAI2012,AAAI2012,2012-07-22 00:00:00+00:00,ArtificialIntelligence,Canada,1129.0,294.0,0.26,2012,2.0,Elite / Highly Selective
+AAAI2013,AAAI2013,2013-07-14 00:00:00+00:00,ArtificialIntelligence,United_States,827.0,203.0,0.245,2013,2.0,Elite / Highly Selective
+AAAI2014,AAAI2014,2014-07-27 00:00:00+00:00,ArtificialIntelligence,Canada,1406.0,398.0,0.283,2014,1.0,High-Acceptance / Mega-Venue
+AAAI2015,AAAI2015,2015-01-25 00:00:00+00:00,ArtificialIntelligence,United_States,1991.0,531.0,0.267,2015,1.0,High-Acceptance / Mega-Venue
+AAAI2016,AAAI2016,2016-02-12 00:00:00+00:00,ArtificialIntelligence,United_States,2132.0,549.0,0.258,2016,1.0,High-Acceptance / Mega-Venue
+AAAI2017,AAAI2017,2017-02-04 00:00:00+00:00,ArtificialIntelligence,United_States,2590.0,638.0,0.246,2017,1.0,High-Acceptance / Mega-Venue
+AAMAS2002,AAMAS 2002,2002-07-15 00:00:00+00:00,ArtificialIntelligence,Italy,530.0,142.0,0.268,2002,2.0,Elite / Highly Selective
+AAMAS2005,AAMAS 2005,2005-07-25 00:00:00+00:00,ArtificialIntelligence,Netherlands,530.0,130.0,0.245,2005,2.0,Elite / Highly Selective
+CCS2013,CCS 2013,2013-11-04 00:00:00+00:00,SecurityAndPrivacy,Germany,530.0,105.0,0.198,2013,2.0,Elite / Highly Selective
+CSCW2017,CSCW 2017,2017-02-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,530.0,183.0,0.345,2017,2.0,Elite / Highly Selective
+ICSE2016,ICSE 2016,2016-05-14 00:00:00+00:00,SoftwareEngineering,United_States,530.0,101.0,0.191,2016,2.0,Elite / Highly Selective
+AAMAS2003,,2003-07-14 00:00:00+00:00,ArtificialIntelligence,Australia,466.0,115.0,0.247,2003,2.0,Elite / Highly Selective
+CVPR2000,CVPR 2000,2000-06-13 00:00:00+00:00,ArtificialIntelligence,United_States,466.0,220.0,0.472,2000,2.0,Elite / Highly Selective
+ICONIP2009,ICONIP 2009,2009-12-01 00:00:00+00:00,ArtificialIntelligence,Thailand,466.0,145.0,0.311,2009,2.0,Elite / Highly Selective
+AAMAS2004,AAMAS 2004,2004-07-19 00:00:00+00:00,ArtificialIntelligence,United_States,577.0,142.0,0.246,2004,2.0,Elite / Highly Selective
+AAMAS2006,AAMAS 2006,2006-05-08 00:00:00+00:00,ArtificialIntelligence,Japan,550.0,127.0,0.231,2006,2.0,Elite / Highly Selective
+AAMAS2016,AAMAS 2016,2016-05-09 00:00:00+00:00,ArtificialIntelligence,Singapore,550.0,151.0,0.253,2016,2.0,Elite / Highly Selective
+ICCV1998,ICCV 1998,1998-01-04 00:00:00+00:00,ArtificialIntelligence,India,550.0,167.0,0.304,1998,2.0,Elite / Highly Selective
+PKDD2014,ECML PKDD 2014,2014-09-15 00:00:00+00:00,InformationSystems,France,550.0,146.0,0.265,2014,2.0,Elite / Highly Selective
+TheWeb2005,TheWeb 2005,2005-05-10 00:00:00+00:00,WorldWideWeb,Japan,550.0,77.0,0.14,2005,2.0,Elite / Highly Selective
+AAMAS2007,AAMAS 2007,2007-05-14 00:00:00+00:00,ArtificialIntelligence,United_States,531.0,121.0,0.228,2007,2.0,Elite / Highly Selective
+AAMAS2008,AAMAS 2008,2008-05-12 00:00:00+00:00,ArtificialIntelligence,Portugal,721.0,141.0,0.196,2008,2.0,Elite / Highly Selective
+AAMAS2009,AAMAS 2009,2009-05-10 00:00:00+00:00,ArtificialIntelligence,Hungary,651.0,132.0,0.203,2009,2.0,Elite / Highly Selective
+AAMAS2010,AAMAS 2010,2010-05-10 00:00:00+00:00,ArtificialIntelligence,Canada,685.0,163.0,0.238,2010,2.0,Elite / Highly Selective
+AAMAS2011,AAMAS 2011,2011-05-02 00:00:00+00:00,ArtificialIntelligence,Taiwan,575.0,126.0,0.219,2011,2.0,Elite / Highly Selective
+CSCW2015,,2015-03-14 00:00:00+00:00,ComputerSystemsOrganization,Canada,575.0,161.0,0.28,2015,2.0,Elite / Highly Selective
+ICCV1999,ICCV 1999,1999-09-20 00:00:00+00:00,ArtificialIntelligence,Greece,575.0,178.0,0.31,1999,2.0,Elite / Highly Selective
+AAMAS2012,AAMAS 2012,2012-06-04 00:00:00+00:00,ArtificialIntelligence,Spain,671.0,137.0,0.204,2012,2.0,Elite / Highly Selective
+AAMAS2013,AAMAS 2013,2013-05-06 00:00:00+00:00,ArtificialIntelligence,United_States,599.0,140.0,0.23,2013,2.0,Elite / Highly Selective
+AAMAS2014,AAMAS 2014,2014-05-05 00:00:00+00:00,ArtificialIntelligence,Turkey,670.0,180.0,0.12,2014,2.0,Elite / Highly Selective
+ACCV2009,ACCV2009,2009-09-23 00:00:00+00:00,ArtificialIntelligence,China,670.0,166.0,0.248,2009,2.0,Elite / Highly Selective
+AAMAS2015,AAMAS 2015,2015-05-04 00:00:00+00:00,ArtificialIntelligence,Turkey,709.0,86.0,0.27,2015,2.0,Elite / Highly Selective
+AAMAS2017,AAMAS 2017,2017-05-08 00:00:00+00:00,ArtificialIntelligence,Brazil,595.0,155.0,0.26,2017,2.0,Elite / Highly Selective
+AAMAS2018,AAMAS 2018,2018-07-10 00:00:00+00:00,ArtificialIntelligence,Sweden,597.0,151.0,0.25,2018,2.0,Elite / Highly Selective
+ACCV1995,ACCV2018,1995-12-05 00:00:00+00:00,ArtificialIntelligence,Singapore,56.0,,,1995,,Unclassified Venues
+ACCV1998,ACCV1998,1998-01-08 00:00:00+00:00,ArtificialIntelligence,China,300.0,58.0,0.193,1998,0.0,Standard Peer-Reviewed
+CVPR1988,CVPR 1988,1988-06-05 00:00:00+00:00,ArtificialIntelligence,United_States,300.0,140.0,0.467,1988,0.0,Standard Peer-Reviewed
+ECCV1994,ECCV 1994,1994-05-02 00:00:00+00:00,ArtificialIntelligence,Sweden,300.0,115.0,0.383,1994,0.0,Standard Peer-Reviewed
+ICCV1987,ICCV 1987,1987-07-08 00:00:00+00:00,ArtificialIntelligence,England,300.0,60.0,0.2,1987,0.0,Standard Peer-Reviewed
+ICDE2001,ICDE,2001-04-02 00:00:00+00:00,SoftwareEngineering,Germany,300.0,50.0,0.167,2001,0.0,Standard Peer-Reviewed
+ICWS2006,ICWS 2006,2006-09-18 00:00:00+00:00,WorldWideWeb,United_States,300.0,48.0,0.16,2006,0.0,Standard Peer-Reviewed
+SIGGRAPH2001,SIGGRAPH 2001,2001-08-12 00:00:00+00:00,HumanCenteredComputing,United_States,300.0,65.0,0.22,2001,0.0,Standard Peer-Reviewed
+ACCV2007,ACCV2007,2007-11-18 00:00:00+00:00,ArtificialIntelligence,Japan,551.0,179.0,0.325,2007,2.0,Elite / Highly Selective
+CVPR1996,CVPR 1996,1996-06-18 00:00:00+00:00,ArtificialIntelligence,United_States,551.0,137.0,0.249,1996,2.0,Elite / Highly Selective
+ACCV2010,ACCV2010,2010-11-12 00:00:00+00:00,ArtificialIntelligence,New_Zealand,739.0,206.0,0.279,2010,2.0,Elite / Highly Selective
+ACCV2012,ACCV2012,2012-11-05 00:00:00+00:00,ArtificialIntelligence,Korea,869.0,226.0,0.26,2012,2.0,Elite / Highly Selective
+ACCV2014,ACCV2014,2014-11-01 00:00:00+00:00,ArtificialIntelligence,Singapore,814.0,227.0,0.279,2014,2.0,Elite / Highly Selective
+ACCV2016,ACCV2016,2016-11-20 00:00:00+00:00,ArtificialIntelligence,Taiwan,479.0,143.0,0.3,2016,2.0,Elite / Highly Selective
+ACSAC2000,ACSAC 2000,2000-12-11 00:00:00+00:00,SecurityAndPrivacy,United_States,100.0,42.0,0.42,2000,0.0,Standard Peer-Reviewed
+ASE2000,ASE 2000,2000-09-11 00:00:00+00:00,SoftwareEngineering,United_States,100.0,23.0,0.23,2000,0.0,Standard Peer-Reviewed
+ECOOP2011,ECOOP 2011,2011-07-25 00:00:00+00:00,SoftwareEngineering,England,100.0,26.0,0.26,2011,0.0,Standard Peer-Reviewed
+ICSC2010,ICSC 2010,2010-09-22 00:00:00+00:00,WorldWideWeb,United_States,100.0,35.0,0.32,2010,0.0,Standard Peer-Reviewed
+ICSC2011,ICSC 2011,2011-09-18 00:00:00+00:00,WorldWideWeb,United_States,100.0,20.0,0.21,2011,0.0,Standard Peer-Reviewed
+ICWE2014,ICWE 2014,2014-07-01 00:00:00+00:00,WorldWideWeb,France,100.0,20.0,0.2,2014,0.0,Standard Peer-Reviewed
+PKDD1998,PKDD 1998,1998-09-23 00:00:00+00:00,InformationSystems,France,100.0,46.0,0.46,1998,0.0,Standard Peer-Reviewed
+PKDD2000,PKDD 2000,2000-09-13 00:00:00+00:00,InformationSystems,France,100.0,43.0,0.43,2000,0.0,Standard Peer-Reviewed
+POPL1973,POPL 1973,1973-10-01 00:00:00+00:00,SoftwareEngineering,United_States,100.0,22.0,0.22,1973,0.0,Standard Peer-Reviewed
+POPL1975,POPL 1975,1975-01-20 00:00:00+00:00,SoftwareEngineering,United_States,100.0,23.0,0.23,1975,0.0,Standard Peer-Reviewed
+SPAA2005,SPAA 2005,2005-07-18 00:00:00+00:00,TheoryOfComputations,United_States,100.0,36.0,0.36,2005,0.0,Standard Peer-Reviewed
+VR1999,IEEE VR 1999,1999-03-13 00:00:00+00:00,HumanCenteredComputing,United_States,100.0,33.0,0.33,1999,0.0,Standard Peer-Reviewed
+ACSAC2001,ACSAC 2001,2001-12-11 00:00:00+00:00,SecurityAndPrivacy,United_States,119.0,38.0,0.319,2001,0.0,Standard Peer-Reviewed
+ACSAC2003,ACSAC 2003,2003-12-08 00:00:00+00:00,SecurityAndPrivacy,United_States,119.0,36.0,0.303,2003,0.0,Standard Peer-Reviewed
+CCC2012,CCC 2012,2012-06-26 00:00:00+00:00,TheoryOfComputations,Portugal,119.0,34.0,0.286,2012,0.0,Standard Peer-Reviewed
+ICFP2015,ICFP 2015,2015-08-31 00:00:00+00:00,SoftwareEngineering,Canada,119.0,35.0,0.294,2015,0.0,Standard Peer-Reviewed
+JCDL2007,,2007-06-18 00:00:00+00:00,,,119.0,43.0,0.36,2007,0.0,Standard Peer-Reviewed
+PODS2000,PODS 2000,2000-05-15 00:00:00+00:00,InformationSystems,United_States,119.0,26.0,0.218,2000,0.0,Standard Peer-Reviewed
+RecSys2012,RecSys 2012,2012-09-09 00:00:00+00:00,InformationSystems,Ireland,119.0,24.0,0.202,2012,0.0,Standard Peer-Reviewed
+UIST2000,UIST 2000,2000-11-06 00:00:00+00:00,ArtificialIntelligence,United_States,119.0,26.0,0.218,2000,0.0,Standard Peer-Reviewed
+PODS1998,PODS 1998,1998-06-01 00:00:00+00:00,InformationSystems,United_States,119.0,28.0,0.235,1998,0.0,Standard Peer-Reviewed
+ACSAC2002,ACSAC 2002,2002-12-09 00:00:00+00:00,SecurityAndPrivacy,United_States,102.0,33.0,0.324,2002,0.0,Standard Peer-Reviewed
+COLT2006,COLT 2006,2006-06-22 00:00:00+00:00,TheoryOfComputations,Frame_of_Government_of_Pennsylvania,102.0,43.0,0.422,2006,0.0,Standard Peer-Reviewed
+CSF2006,CSFW 2006,2006-07-05 00:00:00+00:00,SecurityAndPrivacy,Italy,102.0,25.0,0.245,2006,0.0,Standard Peer-Reviewed
+CSF2015,CSF 2015,2015-07-13 00:00:00+00:00,SecurityAndPrivacy,Italy,102.0,35.0,0.343,2015,0.0,Standard Peer-Reviewed
+JCDL2009,,2009-06-15 00:00:00+00:00,,,102.0,29.0,0.28,2009,0.0,Standard Peer-Reviewed
+SBAC-PAD2015,SBAC-PAD 2015,2015-10-18 00:00:00+00:00,ComputerSystemsOrganization,Brazil,102.0,27.0,0.255,2015,0.0,Standard Peer-Reviewed
+SPAA2006,SPAA 2006,2006-07-30 00:00:00+00:00,TheoryOfComputations,Canada,102.0,46.0,0.45,2006,0.0,Standard Peer-Reviewed
+ACSAC2004,ACSAC 2004,2004-12-06 00:00:00+00:00,SecurityAndPrivacy,United_States,134.0,35.0,0.261,2004,0.0,Standard Peer-Reviewed
+ACSAC2006,ACSAC 2006,2006-12-11 00:00:00+00:00,SecurityAndPrivacy,United_States,134.0,40.0,0.299,2006,0.0,Standard Peer-Reviewed
+FASE2012,FASE 2012,2012-03-24 00:00:00+00:00,SoftwareEngineering,Estonia,134.0,33.0,0.246,2012,0.0,Standard Peer-Reviewed
+VR2011,IEEE VR 2011,2011-03-19 00:00:00+00:00,HumanCenteredComputing,Singapore,134.0,33.0,0.246,2011,0.0,Standard Peer-Reviewed
+ACSAC2005,ACSAC 2005,2005-12-05 00:00:00+00:00,SecurityAndPrivacy,United_States,197.0,45.0,0.228,2005,0.0,Standard Peer-Reviewed
+ESWC2017,ESWC 2017,2017-05-28 00:00:00+00:00,WorldWideWeb,Greece,197.0,61.0,0.31,2017,0.0,Standard Peer-Reviewed
+EuroCrypt2014,EuroCrypt 2014,2014-05-11 00:00:00+00:00,SecurityAndPrivacy,Denmark,197.0,38.0,0.193,2014,0.0,Standard Peer-Reviewed
+KR2004,KR 2004,2004-06-02 00:00:00+00:00,ArtificialIntelligence,Canada,197.0,67.0,0.34,2004,0.0,Standard Peer-Reviewed
+ACSAC2007,ACSAC 2007,2007-12-10 00:00:00+00:00,SecurityAndPrivacy,United_States,191.0,42.0,0.22,2007,0.0,Standard Peer-Reviewed
+EDBT1998,EDBT 1998,1998-03-23 00:00:00+00:00,InformationSystems,Spain,191.0,32.0,0.168,1998,0.0,Standard Peer-Reviewed
+PODC2015,PODC 2015,2015-07-21 00:00:00+00:00,SoftwareEngineering,Spain,191.0,45.0,0.236,2015,0.0,Standard Peer-Reviewed
+POPL1989,POPL 1989,1989-01-11 00:00:00+00:00,SoftwareEngineering,United_States,191.0,30.0,0.16,1989,0.0,Standard Peer-Reviewed
+ACSAC2008,ACSAC 2026,2008-12-08 00:00:00+00:00,SecurityAndPrivacy,United_States,173.0,42.0,0.243,2008,0.0,Standard Peer-Reviewed
+ECOOP1996,ECOOP 1996,1996-07-08 00:00:00+00:00,SoftwareEngineering,Austria,173.0,21.0,0.121,1996,0.0,Standard Peer-Reviewed
+EuroCrypt2007,EuroCrypt 2007,2007-05-20 00:00:00+00:00,SecurityAndPrivacy,Spain,173.0,33.0,0.191,2007,0.0,Standard Peer-Reviewed
+OOPSLA2004,OOPSLA 2004,2004-10-24 00:00:00+00:00,SoftwareEngineering,Canada,173.0,27.0,0.156,2004,0.0,Standard Peer-Reviewed
+PLDI2000,PLDI 2000,2000-06-18 00:00:00+00:00,SoftwareEngineering,Canada,173.0,30.0,0.173,2000,0.0,Standard Peer-Reviewed
+POPL1994,POPL 1994,1994-01-17 00:00:00+00:00,SoftwareEngineering,United_States,173.0,39.0,0.23,1994,0.0,Standard Peer-Reviewed
+ACSAC2009,ACSAC 2009,2009-12-07 00:00:00+00:00,SecurityAndPrivacy,United_States,224.0,44.0,0.196,2009,0.0,Standard Peer-Reviewed
+CCS2004,CCS 2004,2004-10-25 00:00:00+00:00,SecurityAndPrivacy,United_States,224.0,35.0,0.156,2004,0.0,Standard Peer-Reviewed
+HPCA2017,HPCA 2017,2017-02-04 00:00:00+00:00,ComputerSystemsOrganization,United_States,224.0,50.0,0.223,2017,0.0,Standard Peer-Reviewed
+MOBICOM2005,MOBICOM 2005,2005-08-28 00:00:00+00:00,HumanCenteredComputing,Germany,224.0,23.0,0.103,2005,0.0,Standard Peer-Reviewed
+ACSAC2010,ACSAC 2010,2010-12-06 00:00:00+00:00,SecurityAndPrivacy,United_States,227.0,39.0,0.172,2010,0.0,Standard Peer-Reviewed
+DSN2015,DSN 2015,2015-06-22 00:00:00+00:00,ComputerSystemsOrganization,Brazil,227.0,50.0,0.22,2015,0.0,Standard Peer-Reviewed
+HPCA2011,HPCA 2011,2011-02-12 00:00:00+00:00,ComputerSystemsOrganization,United_States,227.0,42.0,0.185,2011,0.0,Standard Peer-Reviewed
+PERCOM2010,PERCOM 2010,2010-03-29 00:00:00+00:00,ComputerSystemsOrganization,Germany,227.0,28.0,0.123,2010,0.0,Standard Peer-Reviewed
+POPL2015,POPL 2015,2015-01-12 00:00:00+00:00,SoftwareEngineering,India,227.0,52.0,0.23,2015,0.0,Standard Peer-Reviewed
+ACSAC2011,ACSAC 2011,2011-12-05 00:00:00+00:00,SecurityAndPrivacy,United_States,195.0,39.0,0.2,2011,0.0,Standard Peer-Reviewed
+EuroCrypt2012,EuroCrypt 2012,2012-04-15 00:00:00+00:00,SecurityAndPrivacy,England,195.0,41.0,0.21,2012,0.0,Standard Peer-Reviewed
+ACSAC2012,ACSAC 2012,2012-12-03 00:00:00+00:00,SecurityAndPrivacy,United_States,231.0,44.0,0.19,2012,0.0,Standard Peer-Reviewed
+HPCA2015,HPCA 2015,2015-02-07 00:00:00+00:00,ComputerSystemsOrganization,United_States,231.0,51.0,0.221,2015,0.0,Standard Peer-Reviewed
+ACSAC2013,ACSAC 2013,2013-12-09 00:00:00+00:00,SecurityAndPrivacy,United_States,171.0,34.0,0.199,2013,0.0,Standard Peer-Reviewed
+NDSS2009,NDSS 2009,2009-02-08 00:00:00+00:00,SecurityAndPrivacy,United_States,171.0,20.0,0.117,2009,0.0,Standard Peer-Reviewed
+ACSAC2014,ACSAC 2014,2014-12-08 00:00:00+00:00,SecurityAndPrivacy,United_States,236.0,47.0,0.199,2014,0.0,Standard Peer-Reviewed
+DSN2012,DSN 2012,2012-06-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,236.0,51.0,0.216,2012,0.0,Standard Peer-Reviewed
+PLDI2011,PLDI 2011,2011-06-04 00:00:00+00:00,SoftwareEngineering,United_States,236.0,55.0,0.233,2011,0.0,Standard Peer-Reviewed
+ACSAC2015,ACSAC 2015,2015-12-07 00:00:00+00:00,SecurityAndPrivacy,United_States,193.0,47.0,0.244,2015,0.0,Standard Peer-Reviewed
+ASPLOS2013,ASPLOS 2013,2013-03-16 00:00:00+00:00,SoftwareEngineering,United_States,193.0,44.0,0.228,2013,0.0,Standard Peer-Reviewed
+CSCW2002,CSCW 2002,2002-11-16 00:00:00+00:00,ComputerSystemsOrganization,United_States,193.0,39.0,0.2,2002,0.0,Standard Peer-Reviewed
+EDBT2012,EDBT 2012,2012-03-27 00:00:00+00:00,InformationSystems,Germany,193.0,43.0,0.223,2012,0.0,Standard Peer-Reviewed
+OSDI2004,OSDI 2004,2004-12-06 00:00:00+00:00,SoftwareEngineering,United_States,193.0,27.0,0.14,2004,0.0,Standard Peer-Reviewed
+OSDI2008,OSDI 2008,2008-12-08 00:00:00+00:00,SoftwareEngineering,United_States,193.0,26.0,0.135,2008,0.0,Standard Peer-Reviewed
+PERCOM2004,PERCOM 2004,2004-03-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,193.0,31.0,0.161,2004,0.0,Standard Peer-Reviewed
+ACSAC2016,ACSAC 2016,2016-12-05 00:00:00+00:00,SecurityAndPrivacy,United_States,210.0,48.0,0.229,2016,0.0,Standard Peer-Reviewed
+AISTATS2009,AISTATS 2009,2009-04-17 00:00:00+00:00,ArtificialIntelligence,United_States,210.0,74.0,0.352,2009,0.0,Standard Peer-Reviewed
+ISCA2009,ISCA 2009,2009-06-20 00:00:00+00:00,ComputerSystemsOrganization,United_States,210.0,43.0,0.205,2009,0.0,Standard Peer-Reviewed
+ISWC2013,ISWC 2013,2013-10-21 00:00:00+00:00,WorldWideWeb,Australia,210.0,45.0,0.214,2013,0.0,Standard Peer-Reviewed
+KR2006,KR 2006,2006-06-02 00:00:00+00:00,ArtificialIntelligence,England,210.0,50.0,0.238,2006,0.0,Standard Peer-Reviewed
+SIGGRAPH1990,SIGGRAPH 1990,1990-08-06 00:00:00+00:00,HumanCenteredComputing,United_States,210.0,43.0,0.21,1990,0.0,Standard Peer-Reviewed
+TheWeb1996,TheWeb 1996,1996-05-06 00:00:00+00:00,WorldWideWeb,France,210.0,58.0,0.28,1996,0.0,Standard Peer-Reviewed
+ACSAC2017,ACSAC 2017,2017-12-04 00:00:00+00:00,SecurityAndPrivacy,United_States,244.0,48.0,0.197,2017,0.0,Standard Peer-Reviewed
+AISTATS2005,AISTATS 2005,2005-01-06 00:00:00+00:00,ArtificialIntelligence,Barbados,150.0,51.0,0.34,2005,0.0,Standard Peer-Reviewed
+AISTATS2007,AISTATS 2007,2007-03-21 00:00:00+00:00,ArtificialIntelligence,United_States,150.0,85.0,0.567,2007,0.0,Standard Peer-Reviewed
+ASE1998,ASE 1998,1998-10-13 00:00:00+00:00,SoftwareEngineering,United_States,150.0,24.0,0.16,1998,0.0,Standard Peer-Reviewed
+ASPLOS1992,ASPLOS 1992,1992-10-12 00:00:00+00:00,SoftwareEngineering,United_States,150.0,24.0,0.16,1992,0.0,Standard Peer-Reviewed
+EuroCrypt2000,EuroCrypt 2000,2000-05-14 00:00:00+00:00,SecurityAndPrivacy,Belgium,150.0,39.0,0.26,2000,0.0,Standard Peer-Reviewed
+Eurosys2015,EuroSys 2015,2015-04-21 00:00:00+00:00,ComputerSystemsOrganization,France,150.0,32.0,0.21,2015,0.0,Standard Peer-Reviewed
+OSDI2006,OSDI 2006,2006-11-06 00:00:00+00:00,SoftwareEngineering,United_States,150.0,27.0,0.18,2006,0.0,Standard Peer-Reviewed
+PERCOM2012,PERCOM 2012,2012-03-19 00:00:00+00:00,ComputerSystemsOrganization,Switzerland,150.0,28.0,0.187,2012,0.0,Standard Peer-Reviewed
+UAI1999,UAI 1999,1999-07-30 00:00:00+00:00,ArtificialIntelligence,Sweden,150.0,77.0,0.513,1999,0.0,Standard Peer-Reviewed
+AISTATS2010,AISTATS 2010,2010-05-13 00:00:00+00:00,ArtificialIntelligence,Italy,308.0,125.0,0.406,2010,0.0,Standard Peer-Reviewed
+ECCV1992,ECCV 1992,1992-05-19 00:00:00+00:00,ArtificialIntelligence,Italy,308.0,105.0,0.28,1992,0.0,Standard Peer-Reviewed
+AISTATS2011,AISTATS 2011,2011-04-11 00:00:00+00:00,ArtificialIntelligence,United_States,272.0,77.0,0.283,2011,0.0,Standard Peer-Reviewed
+FOCS2004,FOCS 2004,2004-10-17 00:00:00+00:00,ComputerSystemsOrganization,Italy,272.0,64.0,0.235,2004,0.0,Standard Peer-Reviewed
+FOCS2005,FOCS 2005,2005-10-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,272.0,62.0,0.228,2005,0.0,Standard Peer-Reviewed
+ICDE1999,ICDE,1999-03-23 00:00:00+00:00,SoftwareEngineering,Australia,272.0,42.0,0.154,1999,0.0,Standard Peer-Reviewed
+AISTATS2013,AISTATS 2013,2013-04-29 00:00:00+00:00,ArtificialIntelligence,United_States,211.0,71.0,0.337,2013,0.0,Standard Peer-Reviewed
+KR2010,KR 2010,2010-05-09 00:00:00+00:00,ArtificialIntelligence,Canada,211.0,53.0,0.251,2010,0.0,Standard Peer-Reviewed
+STOC1997,STOC 1997,1997-05-04 00:00:00+00:00,TheoryOfComputations,United_States,211.0,75.0,0.355,1997,0.0,Standard Peer-Reviewed
+AISTATS2014,AISTATS 2014,2014-04-22 00:00:00+00:00,ArtificialIntelligence,Iceland,335.0,120.0,0.358,2014,0.0,Standard Peer-Reviewed
+ICSE2000,ICSE 2000,2000-06-04 00:00:00+00:00,SoftwareEngineering,Ireland,335.0,49.0,0.146,2000,0.0,Standard Peer-Reviewed
+VLDB1997,VLDB 1997,1997-08-25 00:00:00+00:00,InformationSystems,Greece,335.0,51.0,0.152,1997,0.0,Standard Peer-Reviewed
+AISTATS2015,AISTATS 2015,2015-05-09 00:00:00+00:00,ArtificialIntelligence,United_States,442.0,127.0,0.287,2015,2.0,Elite / Highly Selective
+AISTATS2016,AISTATS 2016,2016-05-09 00:00:00+00:00,ArtificialIntelligence,Spain,537.0,165.0,0.307,2016,2.0,Elite / Highly Selective
+AISTATS2017,AISTATS 2017,2017-04-20 00:00:00+00:00,ArtificialIntelligence,United_States,526.0,167.0,0.317,2017,2.0,Elite / Highly Selective
+ASE1997,ASE 1997,1997-11-01 00:00:00+00:00,SoftwareEngineering,United_States,108.0,32.0,0.3,1997,0.0,Standard Peer-Reviewed
+ECOOP2001,ECOOP 2001,2001-06-18 00:00:00+00:00,SoftwareEngineering,Hungary,108.0,18.0,0.167,2001,0.0,Standard Peer-Reviewed
+ECOOP2010,ECOOP 2010,2010-06-21 00:00:00+00:00,SoftwareEngineering,Slovenia,108.0,25.0,0.231,2010,0.0,Standard Peer-Reviewed
+ISMAR2005,ISMAR 2005,2005-10-22 00:00:00+00:00,HumanCenteredComputing,Austria,108.0,24.0,0.222,2005,0.0,Standard Peer-Reviewed
+POPL1987,POPL 1987,1987-01-21 00:00:00+00:00,SoftwareEngineering,Germany,108.0,29.0,0.27,1987,0.0,Standard Peer-Reviewed
+SBAC-PAD2013,SBAC-PAD 2013,2013-10-23 00:00:00+00:00,ComputerSystemsOrganization,Brazil,108.0,28.0,0.26,2013,0.0,Standard Peer-Reviewed
+ASE1999,ASE 1999,1999-10-12 00:00:00+00:00,SoftwareEngineering,United_States,123.0,25.0,0.2,1999,0.0,Standard Peer-Reviewed
+ASPLOS1998,ASPLOS 1998,1998-10-03 00:00:00+00:00,SoftwareEngineering,United_States,123.0,28.0,0.228,1998,0.0,Standard Peer-Reviewed
+ASE2001,ASE 2001,2001-11-26 00:00:00+00:00,SoftwareEngineering,United_States,164.0,32.0,0.2,2001,0.0,Standard Peer-Reviewed
+ESORICS2007,ESORICS 2007,2007-09-24 00:00:00+00:00,SecurityAndPrivacy,Germany,164.0,39.0,0.238,2007,0.0,Standard Peer-Reviewed
+OOPSLA2010,OOPSLA 2010,2010-10-17 00:00:00+00:00,SoftwareEngineering,United_States,164.0,45.0,0.274,2010,0.0,Standard Peer-Reviewed
+ASE2002,ASE 2002,2002-09-23 00:00:00+00:00,SoftwareEngineering,England,94.0,19.0,0.2,2002,0.0,Standard Peer-Reviewed
+CCC2014,CCC 2014,2014-06-11 00:00:00+00:00,TheoryOfComputations,Canada,94.0,29.0,0.309,2014,0.0,Standard Peer-Reviewed
+CSF2017,CSF  2017,2017-08-22 00:00:00+00:00,SecurityAndPrivacy,United_States,94.0,32.0,0.34,2017,0.0,Standard Peer-Reviewed
+PODS1995,PODS 1995,1995-05-22 00:00:00+00:00,InformationSystems,United_States,94.0,25.0,0.266,1995,0.0,Standard Peer-Reviewed
+PODS2016,PODS 2016,2016-06-26 00:00:00+00:00,InformationSystems,United_States,94.0,31.0,0.33,2016,0.0,Standard Peer-Reviewed
+ASE2003,ASE 2003,2003-10-06 00:00:00+00:00,SoftwareEngineering,Canada,170.0,22.0,0.13,2003,0.0,Standard Peer-Reviewed
+CHI1985,CHI 1985,1985-04-14 00:00:00+00:00,HumanCenteredComputing,United_States,170.0,35.0,0.205,1985,0.0,Standard Peer-Reviewed
+InfoVis2017,Infovis 2017,2017-10-01 00:00:00+00:00,HumanCenteredComputing,United_States,170.0,39.0,0.229,2017,0.0,Standard Peer-Reviewed
+MOBICOM1999,MOBICOM 1999,1999-08-15 00:00:00+00:00,HumanCenteredComputing,United_States,170.0,23.0,0.135,1999,0.0,Standard Peer-Reviewed
+PERCOM2003,PERCOM 2003,2003-03-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,170.0,53.0,0.312,2003,0.0,Standard Peer-Reviewed
+POPL1983,POPL 1983,1983-01-24 00:00:00+00:00,SoftwareEngineering,United_States,170.0,28.0,0.16,1983,0.0,Standard Peer-Reviewed
+UIST2004,UIST 2004,2004-10-24 00:00:00+00:00,ArtificialIntelligence,United_States,170.0,36.0,0.212,2004,0.0,Standard Peer-Reviewed
+WSDM2009,WSDM 2009,2009-02-09 00:00:00+00:00,WorldWideWeb,Spain,170.0,29.0,0.17,2009,0.0,Standard Peer-Reviewed
+ASE2004,ASE 2004,2004-09-20 00:00:00+00:00,SoftwareEngineering,Austria,183.0,25.0,0.14,2004,0.0,Standard Peer-Reviewed
+ECOOP1999,ECOOP 1999,1999-06-14 00:00:00+00:00,SoftwareEngineering,Portugal,183.0,20.0,0.109,1999,0.0,Standard Peer-Reviewed
+ISWC2012,ISWC 2012,2012-11-11 00:00:00+00:00,WorldWideWeb,United_States,183.0,41.0,0.224,2012,0.0,Standard Peer-Reviewed
+PODS2004,PODS 2004,2004-06-14 00:00:00+00:00,InformationSystems,France,183.0,30.0,0.164,2004,0.0,Standard Peer-Reviewed
+UIST2009,UIST 2009,2009-10-04 00:00:00+00:00,ArtificialIntelligence,Canada,183.0,33.0,0.18,2009,0.0,Standard Peer-Reviewed
+ASE2005,ASE 2005,2005-11-07 00:00:00+00:00,SoftwareEngineering,United_States,291.0,28.0,0.096,2005,0.0,Standard Peer-Reviewed
+FSE2015,FSE 2015,2015-08-30 00:00:00+00:00,SoftwareEngineering,Italy,291.0,74.0,0.254,2015,0.0,Standard Peer-Reviewed
+UAI2015,UAI 2015,2015-07-12 00:00:00+00:00,ArtificialIntelligence,Netherlands,291.0,99.0,0.34,2015,0.0,Standard Peer-Reviewed
+ASE2006,ASE 2006,2006-09-18 00:00:00+00:00,SoftwareEngineering,Japan,121.0,22.0,0.18,2006,0.0,Standard Peer-Reviewed
+ISMAR2007,ISMAR 2007,2007-11-13 00:00:00+00:00,HumanCenteredComputing,Japan,121.0,50.0,0.413,2007,0.0,Standard Peer-Reviewed
+ISSAC1996,ISSAC 1996,1996-07-04 00:00:00+00:00,TheoryOfComputations,Switzerland,121.0,41.0,0.34,1996,0.0,Standard Peer-Reviewed
+NDSS2008,NDSS 2008,2008-02-10 00:00:00+00:00,SecurityAndPrivacy,United_States,121.0,20.0,0.165,2008,0.0,Standard Peer-Reviewed
+POPL1981,POPL 1981,1981-01-26 00:00:00+00:00,SoftwareEngineering,United_States,121.0,24.0,0.2,1981,0.0,Standard Peer-Reviewed
+POPL1982,POPL 1982,1982-01-25 00:00:00+00:00,SoftwareEngineering,United_States,121.0,38.0,0.31,1982,0.0,Standard Peer-Reviewed
+RecSys2008,RecSys 2008,2008-10-23 00:00:00+00:00,InformationSystems,Switzerland,121.0,38.0,0.314,2008,0.0,Standard Peer-Reviewed
+ASE2007,ASE 2007,2007-11-05 00:00:00+00:00,SoftwareEngineering,United_States,312.0,37.0,0.12,2007,0.0,Standard Peer-Reviewed
+CHI1999,CHI 1999,1999-05-15 00:00:00+00:00,HumanCenteredComputing,United_States,312.0,78.0,0.25,1999,0.0,Standard Peer-Reviewed
+STOC2007,STOC 2007,2007-06-11 00:00:00+00:00,TheoryOfComputations,United_States,312.0,77.0,0.247,2007,0.0,Standard Peer-Reviewed
+ASE2008,ASE 2008,2008-09-15 00:00:00+00:00,SoftwareEngineering,United_States,280.0,34.0,0.12,2008,0.0,Standard Peer-Reviewed
+FSE2014,FSE 2014,2014-11-16 00:00:00+00:00,SoftwareEngineering,China,280.0,61.0,0.218,2014,0.0,Standard Peer-Reviewed
+PERCOM2006,PERCOM 2006,2006-03-13 00:00:00+00:00,ComputerSystemsOrganization,Italy,280.0,23.0,0.082,2006,0.0,Standard Peer-Reviewed
+TheWeb2000,TheWeb 2000,2000-05-15 00:00:00+00:00,WorldWideWeb,Netherlands,280.0,57.0,0.2,2000,0.0,Standard Peer-Reviewed
+ASE2009,ASE 2009,2009-11-16 00:00:00+00:00,SoftwareEngineering,New_Zealand,222.0,38.0,0.17,2009,0.0,Standard Peer-Reviewed
+ICWS2010,ICWS 2010,2010-07-05 00:00:00+00:00,WorldWideWeb,United_States,222.0,39.0,0.176,2010,0.0,Standard Peer-Reviewed
+USENIX2012,USENIX 2012,2012-08-08 00:00:00+00:00,SoftwareEngineering,United_States,222.0,42.0,0.189,2012,0.0,Standard Peer-Reviewed
+ASE2010,ASE 2010,2010-09-20 00:00:00+00:00,SoftwareEngineering,Belgium,190.0,33.0,0.174,2010,0.0,Standard Peer-Reviewed
+EuroCrypt2005,EuroCrypt 2005,2005-05-22 00:00:00+00:00,SecurityAndPrivacy,Denmark,190.0,33.0,0.174,2005,0.0,Standard Peer-Reviewed
+HPCA1995,HPCA 1995,1995-01-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,190.0,36.0,0.189,1995,0.0,Standard Peer-Reviewed
+ICWE2003,ICWE 2003,2003-07-14 00:00:00+00:00,WorldWideWeb,Spain,190.0,25.0,0.13,2003,0.0,Standard Peer-Reviewed
+SIGGRAPH1989,SIGGRAPH 1989,1989-07-31 00:00:00+00:00,HumanCenteredComputing,United_States,190.0,38.0,0.2,1989,0.0,Standard Peer-Reviewed
+ASE2011,ASE 2011,2011-11-06 00:00:00+00:00,SoftwareEngineering,United_States,252.0,37.0,0.15,2011,0.0,Standard Peer-Reviewed
+ICDE1998,ICDE,1998-02-23 00:00:00+00:00,SoftwareEngineering,United_States,252.0,56.0,0.222,1998,0.0,Standard Peer-Reviewed
+POPL2016,POPL 2016,2016-01-20 00:00:00+00:00,SoftwareEngineering,United_States,252.0,59.0,0.23,2016,0.0,Standard Peer-Reviewed
+ASE2012,ASE 2012,2012-09-03 00:00:00+00:00,SoftwareEngineering,Germany,138.0,47.0,0.341,2012,0.0,Standard Peer-Reviewed
+ECOOP2008,ECOOP 2008,2008-07-07 00:00:00+00:00,SoftwareEngineering,Cyprus,138.0,27.0,0.196,2008,0.0,Standard Peer-Reviewed
+PODC2006,PODC 2006,2006-07-23 00:00:00+00:00,SoftwareEngineering,United_States,138.0,33.0,0.239,2006,0.0,Standard Peer-Reviewed
+ASE2013,ASE 2013,2013-11-11 00:00:00+00:00,SoftwareEngineering,United_States,254.0,43.0,0.169,2013,0.0,Standard Peer-Reviewed
+FOCS2003,FOCS 2003,2003-10-11 00:00:00+00:00,ComputerSystemsOrganization,United_States,254.0,62.0,0.244,2003,0.0,Standard Peer-Reviewed
+SP2009,S&P 2009,2009-05-17 00:00:00+00:00,SecurityAndPrivacy,United_States,254.0,26.0,0.102,2009,0.0,Standard Peer-Reviewed
+ASE2014,ASE 2014,2014-09-15 00:00:00+00:00,SoftwareEngineering,Sweden,337.0,82.0,0.24,2014,0.0,Standard Peer-Reviewed
+ASE2015,ASE 2015,2015-11-09 00:00:00+00:00,SoftwareEngineering,United_States,289.0,60.0,0.14,2015,0.0,Standard Peer-Reviewed
+SIGMOD2012,SIGMOD 2012,2012-05-20 00:00:00+00:00,InformationSystems,United_States,289.0,48.0,0.166,2012,0.0,Standard Peer-Reviewed
+ASE2016,ASE 2016,2016-09-03 00:00:00+00:00,SoftwareEngineering,Singapore,333.0,53.0,0.159,2016,0.0,Standard Peer-Reviewed
+SP2014,S&P 2014,2014-05-18 00:00:00+00:00,SecurityAndPrivacy,United_States,333.0,44.0,0.132,2014,0.0,Standard Peer-Reviewed
+UIST2014,UIST 2014,2014-10-05 00:00:00+00:00,ArtificialIntelligence,United_States,333.0,74.0,0.222,2014,0.0,Standard Peer-Reviewed
+ASE2017,ASE 2017,2017-10-30 00:00:00+00:00,SoftwareEngineering,United_States,388.0,65.0,0.168,2017,0.0,Standard Peer-Reviewed
+ASPLOS1987,ASPLOS 1987,1987-10-05 00:00:00+00:00,SoftwareEngineering,United_States,65.0,22.0,0.338,1987,0.0,Standard Peer-Reviewed
+CCS1995,CCS 1995,1995-11-07 00:00:00+00:00,SecurityAndPrivacy,United_States,65.0,38.0,0.585,1995,0.0,Standard Peer-Reviewed
+SP1994,S&P 1994,1994-05-16 00:00:00+00:00,SecurityAndPrivacy,United_States,65.0,19.0,0.292,1994,0.0,Standard Peer-Reviewed
+USENIX1998,USENIX 1998,1998-01-26 00:00:00+00:00,SoftwareEngineering,United_States,65.0,18.0,0.277,1998,0.0,Standard Peer-Reviewed
+ASPLOS1989,ASPLOS 1989,1989-04-03 00:00:00+00:00,SoftwareEngineering,United_States,114.0,27.0,0.237,1989,0.0,Standard Peer-Reviewed
+ASPLOS2000,ASPLOS 2000,2000-11-12 00:00:00+00:00,SoftwareEngineering,United_States,114.0,24.0,0.211,2000,0.0,Standard Peer-Reviewed
+ESORICS2003,ESORICS 2003,2003-10-13 00:00:00+00:00,SecurityAndPrivacy,Norway,114.0,19.0,0.167,2003,0.0,Standard Peer-Reviewed
+InfoVis2005,Infovis 2005,2005-10-23 00:00:00+00:00,HumanCenteredComputing,United_States,114.0,31.0,0.27,2005,0.0,Standard Peer-Reviewed
+SPAA2009,SPAA 2009,2009-08-11 00:00:00+00:00,TheoryOfComputations,Canada,114.0,35.0,0.31,2009,0.0,Standard Peer-Reviewed
+ASPLOS1991,ASPLOS 1991,1990-04-08 00:00:00+00:00,SoftwareEngineering,United_States,92.0,28.0,0.304,1990,0.0,Standard Peer-Reviewed
+COLT2003,COLT 2003,2003-08-24 00:00:00+00:00,TheoryOfComputations,United_States,92.0,49.0,0.533,2003,0.0,Standard Peer-Reviewed
+COLT2007,COLT 2007,2007-06-13 00:00:00+00:00,TheoryOfComputations,United_States,92.0,41.0,0.446,2007,0.0,Standard Peer-Reviewed
+FSE2000,FSE 2000,2000-11-06 00:00:00+00:00,SoftwareEngineering,United_States,92.0,17.0,0.18,2000,0.0,Standard Peer-Reviewed
+ICFP2011,ICFP 2011,2011-09-19 00:00:00+00:00,SoftwareEngineering,Japan,92.0,33.0,0.36,2011,0.0,Standard Peer-Reviewed
+ICWE2013,ICWE 2013,2013-07-08 00:00:00+00:00,WorldWideWeb,Denmark,92.0,21.0,0.228,2013,0.0,Standard Peer-Reviewed
+SP1991,S&P 1991,1991-05-20 00:00:00+00:00,SecurityAndPrivacy,United_States,92.0,28.0,0.304,1991,0.0,Standard Peer-Reviewed
+ASPLOS1994,ASPLOS 1994,1994-10-04 00:00:00+00:00,SoftwareEngineering,United_States,146.0,29.0,0.199,1994,0.0,Standard Peer-Reviewed
+POPL1979,POPL 1979,1979-01-29 00:00:00+00:00,SoftwareEngineering,United_States,146.0,27.0,0.18,1979,0.0,Standard Peer-Reviewed
+ASPLOS1996,ASPLOS 1996,1996-10-01 00:00:00+00:00,SoftwareEngineering,United_States,109.0,25.0,0.229,1996,0.0,Standard Peer-Reviewed
+ECOOP2000,ECOOP 2000,2000-06-12 00:00:00+00:00,SoftwareEngineering,France,109.0,20.0,0.183,2000,0.0,Standard Peer-Reviewed
+PODS2002,PODS 2002,2002-06-03 00:00:00+00:00,InformationSystems,United_States,109.0,24.0,0.22,2002,0.0,Standard Peer-Reviewed
+ASPLOS2002,ASPLOS 2002,2002-10-05 00:00:00+00:00,SoftwareEngineering,United_States,175.0,24.0,0.137,2002,0.0,Standard Peer-Reviewed
+HPCA2010,HPCA 2010,2010-01-09 00:00:00+00:00,ComputerSystemsOrganization,India,175.0,32.0,0.183,2010,0.0,Standard Peer-Reviewed
+PERCOM2014,PERCOM 2014,2014-03-24 00:00:00+00:00,ComputerSystemsOrganization,Hungary,175.0,25.0,0.143,2014,0.0,Standard Peer-Reviewed
+POPL1998,POPL 1998,1998-01-19 00:00:00+00:00,SoftwareEngineering,United_States,175.0,32.0,0.18,1998,0.0,Standard Peer-Reviewed
+SIGGRAPH1985,SIGGRAPH 1985,1985-07-22 00:00:00+00:00,HumanCenteredComputing,United_States,175.0,35.0,0.2,1985,0.0,Standard Peer-Reviewed
+STOC1986,STOC 1986,1986-05-28 00:00:00+00:00,TheoryOfComputations,United_States,175.0,47.0,0.269,1986,0.0,Standard Peer-Reviewed
+ASPLOS2004,ASPLOS 2004,2004-10-07 00:00:00+00:00,SoftwareEngineering,United_States,169.0,24.0,0.142,2004,0.0,Standard Peer-Reviewed
+FSE2004,FSE 2004,2004-10-31 00:00:00+00:00,SoftwareEngineering,United_States,169.0,25.0,0.15,2004,0.0,Standard Peer-Reviewed
+FSE2010,FSE 2010,2010-11-07 00:00:00+00:00,SoftwareEngineering,United_States,169.0,34.0,0.2,2010,0.0,Standard Peer-Reviewed
+PLDI2002,PLDI 2002,2002-06-17 00:00:00+00:00,SoftwareEngineering,Germany,169.0,28.0,0.166,2002,0.0,Standard Peer-Reviewed
+STOC1998,STOC 1998,1998-05-23 00:00:00+00:00,TheoryOfComputations,United_States,169.0,75.0,0.444,1998,0.0,Standard Peer-Reviewed
+ASPLOS2006,ASPLOS 2006,2006-10-21 00:00:00+00:00,SoftwareEngineering,United_States,158.0,38.0,0.241,2006,0.0,Standard Peer-Reviewed
+PLDI1997,PLDI 1997,1997-06-15 00:00:00+00:00,SoftwareEngineering,United_States,158.0,31.0,0.196,1997,0.0,Standard Peer-Reviewed
+ASPLOS2008,ASPLOS 2008,2008-03-01 00:00:00+00:00,SoftwareEngineering,United_States,127.0,31.0,0.244,2008,0.0,Standard Peer-Reviewed
+ICFP2017,ICFP 2017,2017-09-03 00:00:00+00:00,SoftwareEngineering,England,127.0,44.0,0.347,2017,0.0,Standard Peer-Reviewed
+NDSS2006,NDSS 2006,2006-02-02 00:00:00+00:00,SecurityAndPrivacy,United_States,127.0,17.0,0.134,2006,0.0,Standard Peer-Reviewed
+PLDI2004,PLDI 2004,2004-06-09 00:00:00+00:00,SoftwareEngineering,United_States,127.0,25.0,0.197,2004,0.0,Standard Peer-Reviewed
+SPAA2017,SPAA 2017,2017-07-24 00:00:00+00:00,TheoryOfComputations,United_States,127.0,31.0,0.25,2017,0.0,Standard Peer-Reviewed
+ASPLOS2009,ASPLOS 2009,2009-03-07 00:00:00+00:00,SoftwareEngineering,United_States,113.0,29.0,0.257,2009,0.0,Standard Peer-Reviewed
+CCC2009,CCC 2009,2009-07-15 00:00:00+00:00,TheoryOfComputations,France,113.0,37.0,0.327,2009,0.0,Standard Peer-Reviewed
+EuroCrypt1995,EuroCrypt 1995,1995-05-21 00:00:00+00:00,SecurityAndPrivacy,France,113.0,33.0,0.292,1995,0.0,Standard Peer-Reviewed
+ICSC2009,ICSC 2009,2009-09-14 00:00:00+00:00,WorldWideWeb,United_States,113.0,34.0,0.3,2009,0.0,Standard Peer-Reviewed
+PODS2010,PODS 2010,2010-06-06 00:00:00+00:00,InformationSystems,United_States,113.0,27.0,0.239,2010,0.0,Standard Peer-Reviewed
+PODS2011,PODS 2011,2011-06-12 00:00:00+00:00,InformationSystems,Greece,113.0,25.0,0.221,2011,0.0,Standard Peer-Reviewed
+ASPLOS2010,ASPLOS 2010,2010-03-13 00:00:00+00:00,SoftwareEngineering,United_States,181.0,32.0,0.177,2010,0.0,Standard Peer-Reviewed
+ESWC2006,ESWC 2006,2006-06-11 00:00:00+00:00,WorldWideWeb,Greece,181.0,48.0,0.324,2006,0.0,Standard Peer-Reviewed
+HPCA2005,HPCA 2005,2005-02-12 00:00:00+00:00,ComputerSystemsOrganization,United_States,181.0,28.0,0.155,2005,0.0,Standard Peer-Reviewed
+ASPLOS2011,ASPLOS 2011,2011-03-05 00:00:00+00:00,SoftwareEngineering,United_States,152.0,32.0,0.211,2011,0.0,Standard Peer-Reviewed
+FSE2008,FSE 2008,2008-11-09 00:00:00+00:00,SoftwareEngineering,United_States,152.0,31.0,0.2,2008,0.0,Standard Peer-Reviewed
+HPCA1997,HPCA 1997,1997-02-01 00:00:00+00:00,ComputerSystemsOrganization,United_States,152.0,30.0,0.197,1997,0.0,Standard Peer-Reviewed
+OOPSLA1999,OOPSLA 1999,1999-11-01 00:00:00+00:00,SoftwareEngineering,United_States,152.0,30.0,0.197,1999,0.0,Standard Peer-Reviewed
+POPL1991,POPL 1991,1991-01-21 00:00:00+00:00,SoftwareEngineering,United_States,152.0,31.0,0.2,1991,0.0,Standard Peer-Reviewed
+RecSys2014,RecSys 2014,2014-10-06 00:00:00+00:00,InformationSystems,United_States,152.0,35.0,0.23,2014,0.0,Standard Peer-Reviewed
+UBICOMP2007,UBICOMP 2007,2007-09-16 00:00:00+00:00,SecurityAndPrivacy,Austria,152.0,29.0,0.19,2007,0.0,Standard Peer-Reviewed
+ASPLOS2012,ASPLOS 2012,2012-03-03 00:00:00+00:00,SoftwareEngineering,England,172.0,37.0,0.215,2012,0.0,Standard Peer-Reviewed
+COLT2000,COLT 2000,2000-06-28 00:00:00+00:00,TheoryOfComputations,United_States,172.0,62.0,0.36,2000,0.0,Standard Peer-Reviewed
+ECOOP2005,ECOOP 2005,2005-07-25 00:00:00+00:00,SoftwareEngineering,England,172.0,24.0,0.14,2005,0.0,Standard Peer-Reviewed
+HPCA2006,HPCA 2006,2006-02-11 00:00:00+00:00,ComputerSystemsOrganization,United_States,172.0,22.0,0.128,2006,0.0,Standard Peer-Reviewed
+ICWE2007,ICWE 2007,2007-07-16 00:00:00+00:00,WorldWideWeb,Italy,172.0,39.0,0.227,2007,0.0,Standard Peer-Reviewed
+ISWC2015,ISWC 2015,2015-10-11 00:00:00+00:00,WorldWideWeb,United_States,172.0,38.0,0.221,2015,0.0,Standard Peer-Reviewed
+InfoVis2011,Infovis 2011,2011-10-23 00:00:00+00:00,HumanCenteredComputing,United_States,172.0,44.0,0.256,2011,0.0,Standard Peer-Reviewed
+KR2000,KR 2000,2000-04-11 00:00:00+00:00,ArtificialIntelligence,United_States,172.0,62.0,0.36,2000,0.0,Standard Peer-Reviewed
+POPL2005,POPL 2005,2005-01-12 00:00:00+00:00,SoftwareEngineering,United_States,172.0,31.0,0.18,2005,0.0,Standard Peer-Reviewed
+ASPLOS2014,ASPLOS 2014,2014-03-01 00:00:00+00:00,SoftwareEngineering,United_States,217.0,49.0,0.226,2014,0.0,Standard Peer-Reviewed
+FSE2009,FSE 2009,2009-08-24 00:00:00+00:00,SoftwareEngineering,Netherlands,217.0,32.0,0.15,2009,0.0,Standard Peer-Reviewed
+ISCA2004,ISCA 2004,2004-06-19 00:00:00+00:00,ComputerSystemsOrganization,Germany,217.0,31.0,0.143,2004,0.0,Standard Peer-Reviewed
+ISWC2005,ISWC 2005,2005-11-06 00:00:00+00:00,WorldWideWeb,Ireland,217.0,54.0,0.249,2005,0.0,Standard Peer-Reviewed
+ASPLOS2015,ASPLOS 2015,2015-03-14 00:00:00+00:00,SoftwareEngineering,Turkey,287.0,48.0,0.167,2015,0.0,Standard Peer-Reviewed
+ICDE2000,ICDE,2000-02-28 00:00:00+00:00,SoftwareEngineering,United_States,287.0,41.0,0.143,2000,0.0,Standard Peer-Reviewed
+ICDE2002,ICDE,2002-02-26 00:00:00+00:00,SoftwareEngineering,United_States,287.0,54.0,0.188,2002,0.0,Standard Peer-Reviewed
+PLDI2014,PLDI 2014,2014-06-09 00:00:00+00:00,SoftwareEngineering,England,287.0,52.0,0.181,2014,0.0,Standard Peer-Reviewed
+STOC2002,STOC 2002,2002-05-19 00:00:00+00:00,TheoryOfComputations,Canada,287.0,91.0,0.317,2002,0.0,Standard Peer-Reviewed
+ASPLOS2016,ASPLOS 2016,2016-04-02 00:00:00+00:00,SoftwareEngineering,United_States,232.0,53.0,0.228,2016,0.0,Standard Peer-Reviewed
+ASPLOS2017,ASPLOS 2017,2017-04-08 00:00:00+00:00,SoftwareEngineering,China,320.0,53.0,0.166,2017,0.0,Standard Peer-Reviewed
+SIGGRAPH1999,SIGGRAPH 1999,1999-08-08 00:00:00+00:00,HumanCenteredComputing,United_States,320.0,52.0,0.16,1999,0.0,Standard Peer-Reviewed
+CCC2005,CCC 2005,2005-06-11 00:00:00+00:00,TheoryOfComputations,United_States,79.0,30.0,0.38,2005,0.0,Standard Peer-Reviewed
+ECOOP2016,ECOOP 2016,2016-07-18 00:00:00+00:00,SoftwareEngineering,Italy,79.0,25.0,0.316,2016,0.0,Standard Peer-Reviewed
+ESORICS1994,ESORICS,1994-11-07 00:00:00+00:00,SecurityAndPrivacy,England,79.0,26.0,0.329,1994,0.0,Standard Peer-Reviewed
+ESORICS1994,ESORICS 1994,1994-11-07 00:00:00+00:00,SecurityAndPrivacy,England,79.0,26.0,0.329,1994,0.0,Standard Peer-Reviewed
+ESWC2004,ESWS 2004,2004-05-10 00:00:00+00:00,WorldWideWeb,Greece,79.0,,,2004,,Unclassified Venues
+IJCAR2016,IJCAR 2016,2016-06-27 00:00:00+00:00,TheoryOfComputations,Portugal,79.0,35.0,0.443,2016,0.0,Standard Peer-Reviewed
+MOBICOM1995,MOBICOM 1995,1995-11-13 00:00:00+00:00,HumanCenteredComputing,United_States,79.0,20.0,0.253,1995,0.0,Standard Peer-Reviewed
+NDSS2002,NDSS 2002,2002-02-06 00:00:00+00:00,SecurityAndPrivacy,United_States,79.0,16.0,0.203,2002,0.0,Standard Peer-Reviewed
+CCC2006,CCC 2006,2006-07-16 00:00:00+00:00,TheoryOfComputations,Czech_Republic,87.0,28.0,0.323,2006,0.0,Standard Peer-Reviewed
+CCC2008,CCC 2008,2008-06-23 00:00:00+00:00,TheoryOfComputations,United_States,87.0,32.0,0.368,2008,0.0,Standard Peer-Reviewed
+CSF2016,CSF 2016,2016-06-27 00:00:00+00:00,SecurityAndPrivacy,Portugal,87.0,31.0,0.356,2016,0.0,Standard Peer-Reviewed
+ICFP2005,ICFP 2005,2005-09-26 00:00:00+00:00,SoftwareEngineering,Estonia,87.0,26.0,0.3,2005,0.0,Standard Peer-Reviewed
+ISMAR2014,ISMAR 2014,2014-09-10 00:00:00+00:00,HumanCenteredComputing,Germany,87.0,33.0,0.379,2014,0.0,Standard Peer-Reviewed
+STOC1975,STOC 1975,1975-05-05 00:00:00+00:00,TheoryOfComputations,United_States,87.0,31.0,0.356,1975,0.0,Standard Peer-Reviewed
+STOC1977,STOC 1977,1977-05-04 00:00:00+00:00,TheoryOfComputations,United_States,87.0,31.0,0.356,1977,0.0,Standard Peer-Reviewed
+CCC2007,CCC 2007,2007-06-13 00:00:00+00:00,TheoryOfComputations,United_States,90.0,30.0,0.333,2007,0.0,Standard Peer-Reviewed
+CCC2013,CCC 2013,2013-06-05 00:00:00+00:00,TheoryOfComputations,United_States,90.0,29.0,0.322,2013,0.0,Standard Peer-Reviewed
+ECOOP1995,ECOOP 1995,1995-08-07 00:00:00+00:00,SoftwareEngineering,Denmark,90.0,18.0,0.2,1995,0.0,Standard Peer-Reviewed
+FASE2016,FASE 2016,2016-04-02 00:00:00+00:00,SoftwareEngineering,Netherlands,90.0,24.0,0.267,2016,0.0,Standard Peer-Reviewed
+ICWE2009,ICWE 2009,2009-06-24 00:00:00+00:00,WorldWideWeb,Spain,90.0,22.0,0.351,2009,0.0,Standard Peer-Reviewed
+ICWE2011,ICWE 2011,2011-06-20 00:00:00+00:00,WorldWideWeb,Cyprus,90.0,22.0,0.244,2011,0.0,Standard Peer-Reviewed
+InfoVis2003,Infovis 2003,2003-10-20 00:00:00+00:00,HumanCenteredComputing,United_States,90.0,29.0,0.32,2003,0.0,Standard Peer-Reviewed
+MOBICOM1996,MOBICOM 1996,1996-11-11 00:00:00+00:00,HumanCenteredComputing,,90.0,18.0,0.2,1996,0.0,Standard Peer-Reviewed
+POPL1976,POPL 1976,1976-01-19 00:00:00+00:00,SoftwareEngineering,United_States,90.0,20.0,0.22,1976,0.0,Standard Peer-Reviewed
+SPAA1999,SPAA 1999,1999-06-27 00:00:00+00:00,TheoryOfComputations,France,90.0,26.0,0.29,1999,0.0,Standard Peer-Reviewed
+UBICOMP2001,UBICOMP 2001,2001-09-30 00:00:00+00:00,SecurityAndPrivacy,United_States,90.0,14.0,0.15,2001,0.0,Standard Peer-Reviewed
+CCC2010,CCC 2010,2010-06-09 00:00:00+00:00,TheoryOfComputations,Canada,76.0,25.0,0.329,2010,0.0,Standard Peer-Reviewed
+ICFP2002,ICFP 2002,2002-10-04 00:00:00+00:00,SoftwareEngineering,United_States,76.0,24.0,0.32,2002,0.0,Standard Peer-Reviewed
+SBAC-PAD2011,SBAC-PAD 2011,2011-10-26 00:00:00+00:00,ComputerSystemsOrganization,Brazil,76.0,26.0,0.342,2011,0.0,Standard Peer-Reviewed
+CCC2011,CCC 2011,2011-06-08 00:00:00+00:00,TheoryOfComputations,United_States,83.0,30.0,0.361,2011,0.0,Standard Peer-Reviewed
+CCS1999,CCS 1999,1999-11-01 00:00:00+00:00,SecurityAndPrivacy,Singapore,83.0,16.0,0.193,1999,0.0,Standard Peer-Reviewed
+CSF2014,CSF 2014,2014-07-19 00:00:00+00:00,SecurityAndPrivacy,Austria,83.0,29.0,0.349,2014,0.0,Standard Peer-Reviewed
+ESORICS2002,ESORICS 2002,2002-10-14 00:00:00+00:00,SecurityAndPrivacy,Switzerland,83.0,19.0,0.229,2002,0.0,Standard Peer-Reviewed
+ICFP1996,ICFP 1996,1996-05-24 00:00:00+00:00,SoftwareEngineering,United_States,83.0,25.0,0.3,1996,0.0,Standard Peer-Reviewed
+IJCAR2014,IJCAR 2014,2014-07-19 00:00:00+00:00,TheoryOfComputations,Austria,83.0,37.0,0.446,2014,0.0,Standard Peer-Reviewed
+ISSAC2011,ISSAC 2011,2011-06-08 00:00:00+00:00,TheoryOfComputations,United_States,83.0,44.0,0.53,2011,0.0,Standard Peer-Reviewed
+SBAC-PAD2005,SBAC-PAD 2005,2005-10-24 00:00:00+00:00,ComputerSystemsOrganization,Brazil,83.0,29.0,0.349,2005,0.0,Standard Peer-Reviewed
+STOC1976,STOC 1976,1976-05-03 00:00:00+00:00,TheoryOfComputations,United_States,83.0,30.0,0.361,1976,0.0,Standard Peer-Reviewed
+CCC2015,CCC 2015,2015-06-17 00:00:00+00:00,TheoryOfComputations,United_States,110.0,30.0,0.273,2015,0.0,Standard Peer-Reviewed
+CSCW2009,CSCW 2009,2009-04-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,110.0,35.0,0.318,2009,0.0,Standard Peer-Reviewed
+CSCW2018,CSCW 2009,2009-04-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,110.0,35.0,0.318,2009,0.0,Standard Peer-Reviewed
+HPCA2001,HPCA 2001,2001-01-20 00:00:00+00:00,ComputerSystemsOrganization,Mexico,110.0,26.0,0.236,2001,0.0,Standard Peer-Reviewed
+ICFP2000,ICFP 2000,2000-09-18 00:00:00+00:00,SoftwareEngineering,Canada,110.0,24.0,0.22,2000,0.0,Standard Peer-Reviewed
+ICWE2015,ICWE 2015,2015-06-23 00:00:00+00:00,WorldWideWeb,Netherlands,110.0,26.0,0.24,2015,0.0,Standard Peer-Reviewed
+ISSAC2010,ISSAC 2010,2010-07-25 00:00:00+00:00,TheoryOfComputations,Germany,110.0,45.0,0.409,2010,0.0,Standard Peer-Reviewed
+JCDL2010,,2010-06-21 00:00:00+00:00,,,110.0,32.0,0.29,2010,0.0,Standard Peer-Reviewed
+OSDI1996,OSDI 1996,1996-10-28 00:00:00+00:00,SoftwareEngineering,United_States,110.0,19.0,0.173,1996,0.0,Standard Peer-Reviewed
+PODC2009,PODC 2009,2009-08-10 00:00:00+00:00,SoftwareEngineering,Canada,110.0,27.0,0.245,2009,0.0,Standard Peer-Reviewed
+RecSys2011,RecSys 2011,2011-10-23 00:00:00+00:00,InformationSystems,United_States,110.0,22.0,0.2,2011,0.0,Standard Peer-Reviewed
+SIGGRAPH1979,SIGGRAPH 1979,1979-08-08 00:00:00+00:00,HumanCenteredComputing,United_States,110.0,43.0,0.39,1979,0.0,Standard Peer-Reviewed
+SP1997,S&P 1997,1997-05-04 00:00:00+00:00,SecurityAndPrivacy,United_States,110.0,20.0,0.182,1997,0.0,Standard Peer-Reviewed
+SPAA2010,SPAA 2010,2010-06-13 00:00:00+00:00,TheoryOfComputations,Greece,110.0,35.0,0.32,2010,0.0,Standard Peer-Reviewed
+VR2001,IEEE VR 2001,2001-03-13 00:00:00+00:00,HumanCenteredComputing,Japan,110.0,33.0,0.3,2001,0.0,Standard Peer-Reviewed
+CCC2016,CCC 2016,2016-05-29 00:00:00+00:00,TheoryOfComputations,Japan,91.0,34.0,0.374,2016,0.0,Standard Peer-Reviewed
+FASE2004,FASE 2004,2004-03-29 00:00:00+00:00,SoftwareEngineering,Spain,91.0,22.0,0.242,2004,0.0,Standard Peer-Reviewed
+FASE2017,FASE 2017,2017-04-22 00:00:00+00:00,SoftwareEngineering,Sweden,91.0,23.0,0.253,2017,0.0,Standard Peer-Reviewed
+JCDL2012,,2012-06-10 00:00:00+00:00,,,91.0,25.0,0.27,2012,0.0,Standard Peer-Reviewed
+SP1986,S&P 1986,1986-05-07 00:00:00+00:00,SecurityAndPrivacy,United_States,91.0,25.0,0.275,1986,0.0,Standard Peer-Reviewed
+CCC2017,CCC 2017,2017-07-06 00:00:00+00:00,TheoryOfComputations,Latvia,98.0,33.0,0.337,2017,0.0,Standard Peer-Reviewed
+COLT2013,COLT 2013,2013-06-12 00:00:00+00:00,TheoryOfComputations,United_States,98.0,47.0,0.48,2013,0.0,Standard Peer-Reviewed
+ICWE2012,ICWE 2012,2012-07-23 00:00:00+00:00,WorldWideWeb,Germany,98.0,20.0,0.204,2012,0.0,Standard Peer-Reviewed
+IJCAR2008,IJCAR 2008,2008-08-10 00:00:00+00:00,TheoryOfComputations,Austria,98.0,39.0,0.398,2008,0.0,Standard Peer-Reviewed
+ISSAC2000,ISSAC 2000,2000-08-06 00:00:00+00:00,TheoryOfComputations,Scotland,98.0,40.0,0.408,2000,0.0,Standard Peer-Reviewed
+ISSAC2007,ISSAC 2007,2007-07-29 00:00:00+00:00,TheoryOfComputations,Canada,98.0,50.0,0.51,2007,0.0,Standard Peer-Reviewed
+NDSS2004,NDSS 2004,2004-02-05 00:00:00+00:00,SecurityAndPrivacy,United_States,98.0,16.0,0.163,2004,0.0,Standard Peer-Reviewed
+CCS1993,CCS 1993,1993-11-03 00:00:00+00:00,SecurityAndPrivacy,United_States,60.0,27.0,0.45,1993,0.0,Standard Peer-Reviewed
+FASE2000,FASE 2000,2000-03-25 00:00:00+00:00,SoftwareEngineering,Germany,60.0,21.0,0.35,2000,0.0,Standard Peer-Reviewed
+FASE2002,FASE 2002,2002-04-08 00:00:00+00:00,SoftwareEngineering,France,60.0,21.0,0.35,2002,0.0,Standard Peer-Reviewed
+JCDL2015,,2015-06-21 00:00:00+00:00,,,60.0,18.0,0.3,2015,0.0,Standard Peer-Reviewed
+SBAC-PAD2009,SBAC-PAD 2009,2009-10-28 00:00:00+00:00,ComputerSystemsOrganization,Brazil,60.0,21.0,0.35,2009,0.0,Standard Peer-Reviewed
+STOC1972,STOC 1972,1972-05-01 00:00:00+00:00,TheoryOfComputations,United_States,60.0,29.0,0.483,1972,0.0,Standard Peer-Reviewed
+CCS1994,CCS 1994,1994-11-02 00:00:00+00:00,SecurityAndPrivacy,United_States,70.0,31.0,0.443,1994,0.0,Standard Peer-Reviewed
+PKDD2002,ECML PKDD 2002,2002-08-19 00:00:00+00:00,InformationSystems,Finland,70.0,39.0,0.557,2002,0.0,Standard Peer-Reviewed
+SP1993,S&P 1993,1993-05-24 00:00:00+00:00,SecurityAndPrivacy,United_States,70.0,17.0,0.243,1993,0.0,Standard Peer-Reviewed
+STOC1970,STOC 1970,1970-05-04 00:00:00+00:00,TheoryOfComputations,United_States,70.0,27.0,0.386,1970,0.0,Standard Peer-Reviewed
+CCS1996,CCS 1996,1996-03-14 00:00:00+00:00,SecurityAndPrivacy,India,59.0,19.0,0.322,1996,0.0,Standard Peer-Reviewed
+EUROGP2011,EuroGP 2011,2011-04-27 00:00:00+00:00,ArtificialIntelligence,Italy,59.0,20.0,0.339,2011,0.0,Standard Peer-Reviewed
+EuroGP2006,EuroGP,2006-04-10 00:00:00+00:00,ArtificialIntelligence,Hungary,59.0,21.0,0.356,2006,0.0,Standard Peer-Reviewed
+EuroGP2006,EuroGP 2006,2006-04-10 00:00:00+00:00,ArtificialIntelligence,Hungary,59.0,21.0,0.356,2006,0.0,Standard Peer-Reviewed
+FASE1998,FASE 1998,1998-03-28 00:00:00+00:00,SoftwareEngineering,Portugal,59.0,18.0,0.305,1998,0.0,Standard Peer-Reviewed
+CCS1997,CCS 1997,1997-04-01 00:00:00+00:00,SecurityAndPrivacy,Switzerland,64.0,17.0,0.266,1997,0.0,Standard Peer-Reviewed
+EuroGP2005,EuroGP 2005,2005-03-30 00:00:00+00:00,ArtificialIntelligence,Switzerland,64.0,20.0,0.312,2005,0.0,Standard Peer-Reviewed
+CCS1998,CCS 1998,1998-11-02 00:00:00+00:00,SecurityAndPrivacy,United_States,85.0,17.0,0.2,1998,0.0,Standard Peer-Reviewed
+EuroCrypt1990,EuroCrypt 1990,1990-05-21 00:00:00+00:00,SecurityAndPrivacy,Denmark,85.0,42.0,0.494,1990,0.0,Standard Peer-Reviewed
+ICFP2009,ICFP 2009,2009-08-31 00:00:00+00:00,SoftwareEngineering,Scotland,85.0,26.0,0.31,2009,0.0,Standard Peer-Reviewed
+ICFP2014,ICFP 2014,2014-09-01 00:00:00+00:00,SoftwareEngineering,Sweden,85.0,28.0,0.33,2014,0.0,Standard Peer-Reviewed
+CCS2000,CCS 2000,2000-11-01 00:00:00+00:00,SecurityAndPrivacy,Greece,132.0,28.0,0.212,2000,0.0,Standard Peer-Reviewed
+CSCW2007,CSCW 2007,2007-11-04 00:00:00+00:00,ComputerSystemsOrganization,United_States,132.0,38.0,0.288,2007,0.0,Standard Peer-Reviewed
+ECOOP2004,ECOOP 2004,2004-06-14 00:00:00+00:00,SoftwareEngineering,Norway,132.0,25.0,0.189,2004,0.0,Standard Peer-Reviewed
+PODC1995,PODC 1995,1995-08-20 00:00:00+00:00,SoftwareEngineering,Canada,132.0,49.0,0.371,1995,0.0,Standard Peer-Reviewed
+SBAC-PAD2014,SBAC-PAD 2014,2014-10-22 00:00:00+00:00,ComputerSystemsOrganization,France,132.0,43.0,0.326,2014,0.0,Standard Peer-Reviewed
+SIGGRAPH1981,SIGGRAPH 1981,1981-08-03 00:00:00+00:00,HumanCenteredComputing,United_States,132.0,38.0,0.29,1981,0.0,Standard Peer-Reviewed
+CCS2001,CCS 2001,2001-11-05 00:00:00+00:00,SecurityAndPrivacy,United_States,153.0,27.0,0.176,2001,0.0,Standard Peer-Reviewed
+CCS2002,CCS 2002,2002-11-18 00:00:00+00:00,SecurityAndPrivacy,United_States,153.0,27.0,0.176,2002,0.0,Standard Peer-Reviewed
+HPCA2004,HPCA 2004,2004-02-14 00:00:00+00:00,ComputerSystemsOrganization,Spain,153.0,27.0,0.176,2004,0.0,Standard Peer-Reviewed
+CCS2003,CCS 2003,2003-10-27 00:00:00+00:00,SecurityAndPrivacy,United_States,253.0,35.0,0.138,2003,0.0,Standard Peer-Reviewed
+UAI2004,UAI 2004,2004-07-07 00:00:00+00:00,ArtificialIntelligence,Canada,253.0,76.0,0.3,2004,0.0,Standard Peer-Reviewed
+CCS2005,CCS 2005,2005-11-07 00:00:00+00:00,SecurityAndPrivacy,United_States,250.0,38.0,0.152,2005,0.0,Standard Peer-Reviewed
+ESWC2009,ESWC 2009,2009-05-31 00:00:00+00:00,WorldWideWeb,Greece,250.0,45.0,0.18,2009,0.0,Standard Peer-Reviewed
+ICWS2016,ICWS 2016,2016-06-27 00:00:00+00:00,WorldWideWeb,United_States,250.0,30.0,0.14,2016,0.0,Standard Peer-Reviewed
+ISWC2009,ISWC 2009,2009-10-25 00:00:00+00:00,WorldWideWeb,United_States,250.0,43.0,0.172,2009,0.0,Standard Peer-Reviewed
+JCDL2001,,2001-06-24 00:00:00+00:00,,,250.0,76.0,0.3,2001,0.0,Standard Peer-Reviewed
+NDSS2013,NDSS 2013,2013-02-24 00:00:00+00:00,SecurityAndPrivacy,United_States,250.0,47.0,0.188,2013,0.0,Standard Peer-Reviewed
+TheWeb1998,TheWeb 1998,1998-04-14 00:00:00+00:00,WorldWideWeb,Australia,250.0,54.0,0.22,1998,0.0,Standard Peer-Reviewed
+CCS2006,CCS 2006,2006-10-30 00:00:00+00:00,SecurityAndPrivacy,United_States,256.0,38.0,0.148,2006,0.0,Standard Peer-Reviewed
+CHI1996,CHI 1996,1996-04-13 00:00:00+00:00,HumanCenteredComputing,Canada,256.0,55.0,0.214,1996,0.0,Standard Peer-Reviewed
+UAI2008,UAI 2008,2008-07-09 00:00:00+00:00,ArtificialIntelligence,Finland,256.0,72.0,0.281,2008,0.0,Standard Peer-Reviewed
+CCS2007,CCS 2007,2007-10-29 00:00:00+00:00,SecurityAndPrivacy,United_States,302.0,55.0,0.182,2007,0.0,Standard Peer-Reviewed
+FOCS2007,FOCS 2007,2007-10-20 00:00:00+00:00,ComputerSystemsOrganization,United_States,302.0,66.0,0.219,2007,0.0,Standard Peer-Reviewed
+NDSS2015,NDSS 2015,2015-02-08 00:00:00+00:00,SecurityAndPrivacy,United_States,302.0,51.0,0.169,2015,0.0,Standard Peer-Reviewed
+UBICOMP2011,UBICOMP 2011,2011-09-17 00:00:00+00:00,SecurityAndPrivacy,China,302.0,50.0,0.17,2011,0.0,Standard Peer-Reviewed
+CCS2008,CCS 2008,2008-10-27 00:00:00+00:00,SecurityAndPrivacy,United_States,274.0,51.0,0.186,2008,0.0,Standard Peer-Reviewed
+EuroCrypt2016,EuroCrypt 2016,2016-05-08 00:00:00+00:00,SecurityAndPrivacy,Austria,274.0,62.0,0.226,2016,0.0,Standard Peer-Reviewed
+CCS2009,CCS 2009,2009-11-09 00:00:00+00:00,SecurityAndPrivacy,United_States,317.0,58.0,0.183,2009,0.0,Standard Peer-Reviewed
+UIST2013,UIST 2013,2013-10-08 00:00:00+00:00,ArtificialIntelligence,England,317.0,62.0,0.196,2013,0.0,Standard Peer-Reviewed
+CCS2010,CCS 2010,2010-10-04 00:00:00+00:00,SecurityAndPrivacy,United_States,325.0,55.0,0.169,2010,0.0,Standard Peer-Reviewed
+STOC2008,STOC 2008,2008-05-17 00:00:00+00:00,TheoryOfComputations,Canada,325.0,80.0,0.246,2008,0.0,Standard Peer-Reviewed
+CCS2011,CCS 2011,2011-10-17 00:00:00+00:00,SecurityAndPrivacy,United_States,429.0,60.0,0.14,2011,2.0,Elite / Highly Selective
+CCS2012,CCS 2012,2012-10-16 00:00:00+00:00,SecurityAndPrivacy,United_States,426.0,81.0,0.19,2012,2.0,Elite / Highly Selective
+USENIX2015,USENIX 2015,2015-08-12 00:00:00+00:00,SoftwareEngineering,United_States,426.0,198.0,0.465,2015,2.0,Elite / Highly Selective
+CCS2014,CCS 2014,2014-11-03 00:00:00+00:00,SecurityAndPrivacy,United_States,585.0,114.0,0.195,2014,2.0,Elite / Highly Selective
+CCS2015,CCS 2015,2015-10-12 00:00:00+00:00,SecurityAndPrivacy,United_States,660.0,128.0,0.194,2015,2.0,Elite / Highly Selective
+CCS2016,CCS 2016,2016-10-24 00:00:00+00:00,SecurityAndPrivacy,Austria,831.0,137.0,0.165,2016,2.0,Elite / Highly Selective
+TheWeb2013,TheWeb 2013,2013-05-13 00:00:00+00:00,WorldWideWeb,Brazil,831.0,125.0,0.15,2013,2.0,Elite / Highly Selective
+CCS2017,CCS 2017,2017-10-30 00:00:00+00:00,SecurityAndPrivacy,United_States,836.0,151.0,0.181,2017,2.0,Elite / Highly Selective
+CHI1982,CHI 1982,1982-05-15 00:00:00+00:00,HumanCenteredComputing,United_States,165.0,75.0,0.45,1982,0.0,Standard Peer-Reviewed
+InfoVis2016,Infovis 2016,2016-10-23 00:00:00+00:00,HumanCenteredComputing,United_States,165.0,38.0,0.23,2016,0.0,Standard Peer-Reviewed
+CHI1984,CHI 1983,1983-12-12 00:00:00+00:00,HumanCenteredComputing,United_States,176.0,59.0,0.335,1983,0.0,Standard Peer-Reviewed
+COLT2015,COLT 2015,2015-06-03 00:00:00+00:00,TheoryOfComputations,France,176.0,62.0,0.352,2015,0.0,Standard Peer-Reviewed
+CSCW2004,CSCW 2004,2004-11-06 00:00:00+00:00,ComputerSystemsOrganization,United_States,176.0,53.0,0.3,2004,0.0,Standard Peer-Reviewed
+ICWS2012,ICWS 2012,2012-06-24 00:00:00+00:00,WorldWideWeb,United_States,176.0,30.0,0.17,2012,0.0,Standard Peer-Reviewed
+POPL2004,POPL 2004,2004-01-14 00:00:00+00:00,SoftwareEngineering,Italy,176.0,29.0,0.16,2004,0.0,Standard Peer-Reviewed
+USENIX2009,USENIX 2009,2009-08-10 00:00:00+00:00,SoftwareEngineering,United_States,176.0,26.0,0.148,2009,0.0,Standard Peer-Reviewed
+CHI1986,CHI 1986,1986-04-13 00:00:00+00:00,HumanCenteredComputing,United_States,122.0,47.0,0.385,1986,0.0,Standard Peer-Reviewed
+EuroCrypt1999,EuroCrypt 1999,1999-05-02 00:00:00+00:00,SecurityAndPrivacy,Czech_Republic,122.0,32.0,0.262,1999,0.0,Standard Peer-Reviewed
+EuroCrypt2002,EuroCrypt 2002,2002-04-28 00:00:00+00:00,SecurityAndPrivacy,Netherlands,122.0,33.0,0.27,2002,0.0,Standard Peer-Reviewed
+ICSC2013,ICSC 2013,2013-09-16 00:00:00+00:00,WorldWideWeb,United_States,122.0,36.0,0.3,2013,0.0,Standard Peer-Reviewed
+SPAA2014,SPAA 2014,2014-06-23 00:00:00+00:00,TheoryOfComputations,Czech_Republic,122.0,30.0,0.25,2014,0.0,Standard Peer-Reviewed
+CHI1987,CHI 1987,1987-04-05 00:00:00+00:00,HumanCenteredComputing,Canada,166.0,46.0,0.277,1987,0.0,Standard Peer-Reviewed
+FASE2006,FASE 2006,2006-03-26 00:00:00+00:00,SoftwareEngineering,Austria,166.0,27.0,0.163,2006,0.0,Standard Peer-Reviewed
+OOPSLA2011,OOPSLA 2011,2011-10-22 00:00:00+00:00,SoftwareEngineering,United_States,166.0,61.0,0.367,2011,0.0,Standard Peer-Reviewed
+CHI1988,CHI,1988-06-15 00:00:00+00:00,HumanCenteredComputing,United_States,187.0,39.0,0.208,1988,0.0,Standard Peer-Reviewed
+DSN2006,DSN 2006,2006-06-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,187.0,34.0,0.182,2006,0.0,Standard Peer-Reviewed
+EDBT2000,EDBT 2000,2000-03-27 00:00:00+00:00,InformationSystems,Germany,187.0,30.0,0.16,2000,0.0,Standard Peer-Reviewed
+PODC2008,PODC 2008,2008-08-18 00:00:00+00:00,SoftwareEngineering,Canada,187.0,84.0,0.449,2008,0.0,Standard Peer-Reviewed
+PODS2007,PODS 2007,2007-06-11 00:00:00+00:00,InformationSystems,China,187.0,28.0,0.15,2007,0.0,Standard Peer-Reviewed
+RecSys2009,RecSys 2009,2009-10-23 00:00:00+00:00,InformationSystems,United_States,187.0,80.0,0.428,2009,0.0,Standard Peer-Reviewed
+USENIX2007,USENIX 2007,2007-08-06 00:00:00+00:00,SoftwareEngineering,United_States,187.0,23.0,0.123,2007,0.0,Standard Peer-Reviewed
+CHI1989,CHI 1989,1989-04-30 00:00:00+00:00,HumanCenteredComputing,United_States,199.0,54.0,0.271,1989,0.0,Standard Peer-Reviewed
+COLT2016,COLT 2016,2016-07-23 00:00:00+00:00,TheoryOfComputations,United_States,199.0,63.0,0.317,2016,0.0,Standard Peer-Reviewed
+CSCW2000,CSCW 2000,2000-12-02 00:00:00+00:00,ComputerSystemsOrganization,United_States,199.0,36.0,0.18,2000,0.0,Standard Peer-Reviewed
+OSDI2010,OSDI 2010,2010-10-04 00:00:00+00:00,SoftwareEngineering,Canada,199.0,32.0,0.161,2010,0.0,Standard Peer-Reviewed
+PERCOM2009,PERCOM 2009,2009-03-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,199.0,26.0,0.131,2009,0.0,Standard Peer-Reviewed
+CHI1990,CHI 1990,1990-04-01 00:00:00+00:00,HumanCenteredComputing,United_States,260.0,47.0,0.18,1990,0.0,Standard Peer-Reviewed
+DSN2009,DSN 2009,2009-06-29 00:00:00+00:00,ComputerSystemsOrganization,Portugal,260.0,63.0,0.242,2009,0.0,Standard Peer-Reviewed
+UAI2010,UAI 2010,2010-07-08 00:00:00+00:00,ArtificialIntelligence,United_States,260.0,88.0,0.338,2010,0.0,Standard Peer-Reviewed
+CHI1991,CHI 1991,1991-04-28 00:00:00+00:00,HumanCenteredComputing,Mexico,240.0,56.0,0.233,1991,0.0,Standard Peer-Reviewed
+FOCS2006,FOCS 2006,2006-10-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,240.0,71.0,0.296,2006,0.0,Standard Peer-Reviewed
+HPCA2016,HPCA 2016,2016-03-12 00:00:00+00:00,ComputerSystemsOrganization,Spain,240.0,53.0,0.221,2016,0.0,Standard Peer-Reviewed
+ICDE1997,ICDE,1997-04-07 00:00:00+00:00,SoftwareEngineering,England,240.0,45.0,0.188,1997,0.0,Standard Peer-Reviewed
+JCDL2002,,2002-06-14 00:00:00+00:00,,,240.0,69.0,0.29,2002,0.0,Standard Peer-Reviewed
+SIGMOD2002,SIGMOD 2002,2002-06-03 00:00:00+00:00,InformationSystems,United_States,240.0,42.0,0.175,2002,0.0,Standard Peer-Reviewed
+CHI1992,CHI 1992,1992-05-03 00:00:00+00:00,HumanCenteredComputing,United_States,216.0,67.0,0.31,1992,0.0,Standard Peer-Reviewed
+JCDL2003,,2003-05-27 00:00:00+00:00,,,216.0,54.0,0.25,2003,0.0,Standard Peer-Reviewed
+CHI1993,CHI 1993,1993-04-24 00:00:00+00:00,HumanCenteredComputing,Netherlands,330.0,62.0,0.187,1993,0.0,Standard Peer-Reviewed
+CHI1994,CHI 1994,1994-04-24 00:00:00+00:00,HumanCenteredComputing,United_States,263.0,70.0,0.266,1994,0.0,Standard Peer-Reviewed
+CHI1995,CHI 1995,1995-05-07 00:00:00+00:00,HumanCenteredComputing,United_States,228.0,66.0,0.289,1995,0.0,Standard Peer-Reviewed
+EDBT2015,EDBT 2015,2015-03-23 00:00:00+00:00,InformationSystems,Belgium,228.0,74.0,0.325,2015,0.0,Standard Peer-Reviewed
+ISWC2010,ISWC 2010,2010-11-07 00:00:00+00:00,WorldWideWeb,China,228.0,51.0,0.224,2010,0.0,Standard Peer-Reviewed
+OOPSLA2012,OOPSLA 2012,2012-10-21 00:00:00+00:00,SoftwareEngineering,United_States,228.0,59.0,0.259,2012,0.0,Standard Peer-Reviewed
+OSDI2014,OSDI 2014,2014-10-06 00:00:00+00:00,SoftwareEngineering,United_States,228.0,42.0,0.184,2014,0.0,Standard Peer-Reviewed
+CHI1997,CHI 1997,1997-03-22 00:00:00+00:00,HumanCenteredComputing,Kingdom_of_Georgia,234.0,55.0,0.235,1997,0.0,Standard Peer-Reviewed
+ESORICS2014,ESORICS 2014,2014-09-07 00:00:00+00:00,SecurityAndPrivacy,Poland,234.0,58.0,0.248,2014,0.0,Standard Peer-Reviewed
+ISCA2006,ISCA 2006,2006-06-17 00:00:00+00:00,ComputerSystemsOrganization,United_States,234.0,31.0,0.132,2006,0.0,Standard Peer-Reviewed
+CHI1998,CHI 1998,1998-04-18 00:00:00+00:00,HumanCenteredComputing,United_States,351.0,81.0,0.23,1998,0.0,Standard Peer-Reviewed
+SIGIR2015,SIGIR 2015,2015-08-09 00:00:00+00:00,InformationSystems,United_States,351.0,70.0,0.199,2015,0.0,Standard Peer-Reviewed
+VLDB2000,VLDB 2000,2000-09-10 00:00:00+00:00,InformationSystems,Egypt,351.0,53.0,0.151,2000,0.0,Standard Peer-Reviewed
+CHI2000,CHI 2000,2000-04-01 00:00:00+00:00,HumanCenteredComputing,Netherlands,336.0,72.0,0.211,2000,0.0,Standard Peer-Reviewed
+CHI2001,CHI 2001,2001-03-31 00:00:00+00:00,HumanCenteredComputing,United_States,352.0,69.0,0.196,2001,0.0,Standard Peer-Reviewed
+EDBT2006,EDBT 2006,2006-03-26 00:00:00+00:00,InformationSystems,Germany,352.0,60.0,0.17,2006,0.0,Standard Peer-Reviewed
+CHI2002,CHI 2002,2002-04-20 00:00:00+00:00,HumanCenteredComputing,United_States,414.0,61.0,0.147,2002,2.0,Elite / Highly Selective
+CHI2003,CHI 2003,2003-04-05 00:00:00+00:00,HumanCenteredComputing,United_States,468.0,75.0,0.16,2003,2.0,Elite / Highly Selective
+USENIX2016,USENIX 2016,2016-08-10 00:00:00+00:00,SoftwareEngineering,United_States,468.0,72.0,0.154,2016,2.0,Elite / Highly Selective
+VLDB2002,VLDB 2002,2002-08-20 00:00:00+00:00,InformationSystems,China,468.0,84.0,0.179,2002,2.0,Elite / Highly Selective
+CHI2004,CHI 2004,2004-04-24 00:00:00+00:00,HumanCenteredComputing,Austria,578.0,93.0,0.16,2004,2.0,Elite / Highly Selective
+CHI2005,CHI 2005,2005-04-02 00:00:00+00:00,HumanCenteredComputing,United_States,372.0,93.0,0.25,2005,0.0,Standard Peer-Reviewed
+SIGMOD2013,SIGMOD 2013,2013-06-22 00:00:00+00:00,InformationSystems,United_States,372.0,76.0,0.204,2013,0.0,Standard Peer-Reviewed
+WSDM2011,WSDM 2011,2011-02-09 00:00:00+00:00,WorldWideWeb,China,372.0,83.0,0.22,2011,0.0,Standard Peer-Reviewed
+CHI2006,CHI 2006,2006-04-24 00:00:00+00:00,HumanCenteredComputing,Canada,626.0,151.0,0.241,2006,2.0,Elite / Highly Selective
+VLDB2006,VLDB 2006,2006-09-12 00:00:00+00:00,InformationSystems,Korea,626.0,83.0,0.133,2006,2.0,Elite / Highly Selective
+CHI2007,CHI 2007,2007-04-28 00:00:00+00:00,HumanCenteredComputing,United_States,840.0,182.0,0.216,2007,2.0,Elite / Highly Selective
+CHI2008,CHI 2008,2008-04-05 00:00:00+00:00,HumanCenteredComputing,Italy,714.0,157.0,0.219,2008,2.0,Elite / Highly Selective
+CHI2009,CHI 2009,2009-04-04 00:00:00+00:00,HumanCenteredComputing,United_States,1130.0,277.0,0.245,2009,2.0,Elite / Highly Selective
+CHI2010,CHI 2010,2010-04-10 00:00:00+00:00,HumanCenteredComputing,United_States,1346.0,302.0,0.224,2010,1.0,High-Acceptance / Mega-Venue
+CHI2011,CHI 2011,2011-05-07 00:00:00+00:00,HumanCenteredComputing,Canada,1532.0,410.0,0.267,2011,1.0,High-Acceptance / Mega-Venue
+CHI2012,CHI 2012,2012-05-05 00:00:00+00:00,HumanCenteredComputing,United_States,1577.0,370.0,0.234,2012,1.0,High-Acceptance / Mega-Venue
+CHI2013,CHI 2013,2013-04-27 00:00:00+00:00,HumanCenteredComputing,France,1963.0,392.0,0.199,2013,1.0,High-Acceptance / Mega-Venue
+CHI2014,CHI 2014,2014-04-26 00:00:00+00:00,HumanCenteredComputing,Canada,2043.0,465.0,0.227,2014,1.0,High-Acceptance / Mega-Venue
+CHI2015,CHI 2015,2015-04-18 00:00:00+00:00,HumanCenteredComputing,Korea,2120.0,486.0,0.229,2015,1.0,High-Acceptance / Mega-Venue
+CHI2016,CHI 2016,2016-05-07 00:00:00+00:00,HumanCenteredComputing,United_States,2435.0,565.0,0.232,2016,1.0,High-Acceptance / Mega-Venue
+CHI2017,CHI 2017,2017-05-06 00:00:00+00:00,HumanCenteredComputing,United_States,2400.0,600.0,0.25,2017,1.0,High-Acceptance / Mega-Venue
+COLT1997,COLT 1997,1997-07-06 00:00:00+00:00,TheoryOfComputations,United_States,71.0,35.0,0.493,1997,0.0,Standard Peer-Reviewed
+COLT1999,COLT 1999,1999-07-07 00:00:00+00:00,TheoryOfComputations,United_States,71.0,35.0,0.493,1999,0.0,Standard Peer-Reviewed
+EuroGP2007,EuroGP 2007,2007-04-11 00:00:00+00:00,ArtificialIntelligence,Spain,71.0,21.0,0.296,2007,0.0,Standard Peer-Reviewed
+ISSAC2015,ISSAC 2015,2015-07-06 00:00:00+00:00,TheoryOfComputations,England,71.0,43.0,0.606,2015,0.0,Standard Peer-Reviewed
+SBAC-PAD2006,SBAC-PAD 2006,2006-10-17 00:00:00+00:00,ComputerSystemsOrganization,Brazil,71.0,23.0,0.324,2006,0.0,Standard Peer-Reviewed
+COLT2002,COLT 2002,2002-07-08 00:00:00+00:00,TheoryOfComputations,Australia,55.0,26.0,0.473,2002,0.0,Standard Peer-Reviewed
+COLT2004,COLT 2004,2004-07-01 00:00:00+00:00,TheoryOfComputations,Canada,107.0,44.0,0.411,2004,0.0,Standard Peer-Reviewed
+DSN2013,DSN 2013,2013-06-24 00:00:00+00:00,ComputerSystemsOrganization,Hungary,107.0,21.0,0.196,2013,0.0,Standard Peer-Reviewed
+ISMAR2010,ISMAR 2010,2010-10-13 00:00:00+00:00,HumanCenteredComputing,Korea,107.0,24.0,0.224,2010,0.0,Standard Peer-Reviewed
+InfoVis2008,Infovis 2008,2008-10-19 00:00:00+00:00,HumanCenteredComputing,United_States,107.0,28.0,0.26,2008,0.0,Standard Peer-Reviewed
+SBAC-PAD2007,SBAC-PAD 2007,2007-10-24 00:00:00+00:00,ComputerSystemsOrganization,Brazil,107.0,32.0,0.299,2007,0.0,Standard Peer-Reviewed
+SP2001,S&P 2001,2001-05-14 00:00:00+00:00,SecurityAndPrivacy,United_States,107.0,19.0,0.178,2001,0.0,Standard Peer-Reviewed
+COLT2005,COLT 2005,2005-06-27 00:00:00+00:00,TheoryOfComputations,Italy,120.0,45.0,0.375,2005,0.0,Standard Peer-Reviewed
+ICWE2010,ICWE 2010,2010-07-05 00:00:00+00:00,WorldWideWeb,Austria,120.0,26.0,0.217,2010,0.0,Standard Peer-Reviewed
+ISMAR2004,ISMAR 2004,2004-11-02 00:00:00+00:00,HumanCenteredComputing,United_States,120.0,24.0,0.2,2004,0.0,Standard Peer-Reviewed
+SIGGRAPH1978,SIGGRAPH 1978,1978-08-23 00:00:00+00:00,HumanCenteredComputing,United_States,120.0,64.0,0.53,1978,0.0,Standard Peer-Reviewed
+SPAA2012,SPAA 2012,2012-06-25 00:00:00+00:00,TheoryOfComputations,United_States,120.0,31.0,0.26,2012,0.0,Standard Peer-Reviewed
+SPAA2018,SPAA 2018,2018-07-16 00:00:00+00:00,TheoryOfComputations,Austria,120.0,36.0,0.3,2018,0.0,Standard Peer-Reviewed
+STOC1978,STOC 1978,1978-05-01 00:00:00+00:00,TheoryOfComputations,United_States,120.0,38.0,0.317,1978,0.0,Standard Peer-Reviewed
+VR2008,IEEE VR 2008,2008-03-08 00:00:00+00:00,HumanCenteredComputing,United_States,120.0,37.0,0.308,2008,0.0,Standard Peer-Reviewed
+COLT2008,COLT 2008,2008-07-09 00:00:00+00:00,TheoryOfComputations,Finland,126.0,44.0,0.349,2008,0.0,Standard Peer-Reviewed
+EuroCrypt1996,EuroCrypt 1996,1996-05-12 00:00:00+00:00,SecurityAndPrivacy,Spain,126.0,34.0,0.27,1996,0.0,Standard Peer-Reviewed
+POPL2001,POPL 2001,2001-01-17 00:00:00+00:00,SoftwareEngineering,England,126.0,24.0,0.19,2001,0.0,Standard Peer-Reviewed
+POPL2003,POPL 2003,2003-01-15 00:00:00+00:00,SoftwareEngineering,United_States,126.0,24.0,0.19,2003,0.0,Standard Peer-Reviewed
+COLT2010,COLT 2010,2010-06-27 00:00:00+00:00,TheoryOfComputations,Israel,133.0,40.0,0.301,2010,0.0,Standard Peer-Reviewed
+ICFP2013,ICFP 2013,2013-09-25 00:00:00+00:00,SoftwareEngineering,United_States,133.0,40.0,0.3,2013,0.0,Standard Peer-Reviewed
+ICWS2014,ICWS 2014,2014-06-27 00:00:00+00:00,WorldWideWeb,United_States,133.0,24.0,0.18,2014,0.0,Standard Peer-Reviewed
+PODC1994,PODC 1994,1994-08-14 00:00:00+00:00,SoftwareEngineering,United_States,133.0,67.0,0.504,1994,0.0,Standard Peer-Reviewed
+UIST2001,UIST 2001,2001-11-11 00:00:00+00:00,ArtificialIntelligence,United_States,133.0,25.0,0.188,2001,0.0,Standard Peer-Reviewed
+COLT2012,COLT 2012,2012-06-25 00:00:00+00:00,TheoryOfComputations,Scotland,139.0,41.0,0.295,2012,0.0,Standard Peer-Reviewed
+ICWE2017,ICWE 2017,2017-06-05 00:00:00+00:00,WorldWideWeb,Italy,139.0,20.0,0.144,2017,0.0,Standard Peer-Reviewed
+NDSS2011,NDSS 2011,2011-02-06 00:00:00+00:00,SecurityAndPrivacy,United_States,139.0,28.0,0.201,2011,0.0,Standard Peer-Reviewed
+COLT2014,COLT 2014,2014-06-13 00:00:00+00:00,TheoryOfComputations,Spain,140.0,52.0,0.371,2014,0.0,Standard Peer-Reviewed
+ECOOP2012,ECOOP 2012,2012-06-11 00:00:00+00:00,SoftwareEngineering,China,140.0,30.0,0.214,2012,0.0,Standard Peer-Reviewed
+Eurosys2010,EuroSys 2010,2010-04-13 00:00:00+00:00,ComputerSystemsOrganization,France,140.0,27.0,0.19,2010,0.0,Standard Peer-Reviewed
+PKDD2001,ECML PKDD 2001,2001-09-03 00:00:00+00:00,InformationSystems,Germany,140.0,50.0,0.357,2001,0.0,Standard Peer-Reviewed
+SIGGRAPH1980,SIGGRAPH 1980,1980-07-14 00:00:00+00:00,HumanCenteredComputing,United_States,140.0,52.0,0.37,1980,0.0,Standard Peer-Reviewed
+SIGGRAPH1987,SIGGRAPH 1987,1987-07-27 00:00:00+00:00,HumanCenteredComputing,United_States,140.0,33.0,0.24,1987,0.0,Standard Peer-Reviewed
+COLT2017,COLT 2017,2017-07-07 00:00:00+00:00,TheoryOfComputations,Netherlands,128.0,28.0,0.219,2017,0.0,Standard Peer-Reviewed
+FSE2002,FSE 2002,2002-11-18 00:00:00+00:00,SoftwareEngineering,United_States,128.0,17.0,0.13,2002,0.0,Standard Peer-Reviewed
+POPL2002,POPL 2002,2002-01-16 00:00:00+00:00,SoftwareEngineering,United_States,128.0,28.0,0.22,2002,0.0,Standard Peer-Reviewed
+SBAC-PAD2012,SBAC-PAD 2012,2012-10-24 00:00:00+00:00,ComputerSystemsOrganization,United_States,128.0,36.0,0.28,2012,0.0,Standard Peer-Reviewed
+SPAA2008,SPAA 2008,2008-06-14 00:00:00+00:00,TheoryOfComputations,Germany,128.0,36.0,0.28,2008,0.0,Standard Peer-Reviewed
+USENIX2003,USENIX 2003,2003-08-04 00:00:00+00:00,SoftwareEngineering,United_States,128.0,21.0,0.164,2003,0.0,Standard Peer-Reviewed
+CSCW1986,CSCW 1986,1986-12-03 00:00:00+00:00,ComputerSystemsOrganization,United_States,80.0,30.0,0.38,1986,0.0,Standard Peer-Reviewed
+FASE2015,FASE 2015,2015-04-11 00:00:00+00:00,SoftwareEngineering,England,80.0,23.0,0.288,2015,0.0,Standard Peer-Reviewed
+ICFP2004,ICFP 2004,2004-09-19 00:00:00+00:00,SoftwareEngineering,United_States,80.0,21.0,0.26,2004,0.0,Standard Peer-Reviewed
+USENIX2000,USENIX 2000,2000-08-14 00:00:00+00:00,SoftwareEngineering,United_States,80.0,20.0,0.25,2000,0.0,Standard Peer-Reviewed
+PODS2015,PODS 2015,2015-05-31 00:00:00+00:00,InformationSystems,Australia,80.0,25.0,0.313,2015,0.0,Standard Peer-Reviewed
+CSCW1994,CSCW 1994,1994-10-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,200.0,42.0,0.21,1994,0.0,Standard Peer-Reviewed
+Eurosys2017,EuroSys 2017,2017-04-23 00:00:00+00:00,ComputerSystemsOrganization,Serbia,200.0,41.0,0.2,2017,0.0,Standard Peer-Reviewed
+CSCW1998,CSCW 1998,1998-11-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,220.0,41.0,0.19,1998,0.0,Standard Peer-Reviewed
+DSN2017,DSN 2017,2017-06-26 00:00:00+00:00,ComputerSystemsOrganization,United_States,220.0,54.0,0.245,2017,0.0,Standard Peer-Reviewed
+EDBT1992,EDBT 1992,1992-03-23 00:00:00+00:00,InformationSystems,Austria,220.0,33.0,0.15,1992,0.0,Standard Peer-Reviewed
+ESORICS2009,ESORICS 2009,2009-09-21 00:00:00+00:00,SecurityAndPrivacy,France,220.0,42.0,0.191,2009,0.0,Standard Peer-Reviewed
+KR2014,KR 2014,2014-07-20 00:00:00+00:00,ArtificialIntelligence,Austria,220.0,58.0,0.264,2014,0.0,Standard Peer-Reviewed
+MOBICOM2014,MOBICOM 2014,2014-09-07 00:00:00+00:00,HumanCenteredComputing,United_States,220.0,36.0,0.164,2014,0.0,Standard Peer-Reviewed
+PKDD2005,ECML PKDD 2005,2005-10-03 00:00:00+00:00,InformationSystems,Portugal,220.0,35.0,0.159,2005,0.0,Standard Peer-Reviewed
+POPL2014,POPL 2014,2014-01-22 00:00:00+00:00,SoftwareEngineering,United_States,220.0,51.0,0.23,2014,0.0,Standard Peer-Reviewed
+CSCW2006,CSCW 2006,2006-11-04 00:00:00+00:00,ComputerSystemsOrganization,Canada,304.0,62.0,0.2,2006,0.0,Standard Peer-Reviewed
+SIGGRAPH2000,SIGGRAPH 2000,2000-07-23 00:00:00+00:00,HumanCenteredComputing,United_States,304.0,59.0,0.19,2000,0.0,Standard Peer-Reviewed
+STOC2011,STOC 2011,2011-06-06 00:00:00+00:00,TheoryOfComputations,United_States,304.0,84.0,0.276,2011,0.0,Standard Peer-Reviewed
+TheWeb1999,TheWeb 1999,1999-05-11 00:00:00+00:00,WorldWideWeb,Canada,304.0,48.0,0.16,1999,0.0,Standard Peer-Reviewed
+UAI2012,UAI 2012,2012-08-15 00:00:00+00:00,ArtificialIntelligence,United_States,304.0,94.0,0.309,2012,0.0,Standard Peer-Reviewed
+CSCW2008,CSCW 2008,2008-11-08 00:00:00+00:00,ComputerSystemsOrganization,United_States,370.0,86.0,0.232,2008,0.0,Standard Peer-Reviewed
+STOC2016,STOC 2016,2016-06-18 00:00:00+00:00,TheoryOfComputations,United_States,370.0,92.0,0.249,2016,0.0,Standard Peer-Reviewed
+CSCW2010,CSCW 2010,2010-02-06 00:00:00+00:00,ComputerSystemsOrganization,United_States,288.0,58.0,0.2,2010,0.0,Standard Peer-Reviewed
+ICONIP2007,ICONIP 2007,2007-11-13 00:00:00+00:00,ArtificialIntelligence,Japan,288.0,228.0,0.792,2007,0.0,Standard Peer-Reviewed
+ISCA2013,ISCA 2013,2013-06-23 00:00:00+00:00,ComputerSystemsOrganization,Israel,288.0,56.0,0.194,2013,0.0,Standard Peer-Reviewed
+ISCA2016,ISCA 2016,2016-06-18 00:00:00+00:00,ComputerSystemsOrganization,Korea,288.0,54.0,0.188,2016,0.0,Standard Peer-Reviewed
+STOC2006,STOC 2006,2006-05-21 00:00:00+00:00,TheoryOfComputations,United_States,288.0,78.0,0.271,2006,0.0,Standard Peer-Reviewed
+UIST2012,UIST 2012,2012-10-07 00:00:00+00:00,ArtificialIntelligence,United_States,288.0,62.0,0.215,2012,0.0,Standard Peer-Reviewed
+CSCW2011,CSCW 2011,2011-03-19 00:00:00+00:00,ComputerSystemsOrganization,China,264.0,58.0,0.22,2011,0.0,Standard Peer-Reviewed
+EuroCrypt2017,EuroCrypt 2017,2017-04-30 00:00:00+00:00,SecurityAndPrivacy,France,264.0,67.0,0.254,2017,0.0,Standard Peer-Reviewed
+ICDE1996,ICDE,1996-02-26 00:00:00+00:00,SoftwareEngineering,United_States,264.0,60.0,0.227,1996,0.0,Standard Peer-Reviewed
+ICWS2011,ICWS 2011,2011-07-04 00:00:00+00:00,WorldWideWeb,United_States,264.0,37.0,0.14,2011,0.0,Standard Peer-Reviewed
+ISWC2011,ISWC 2011,2011-10-23 00:00:00+00:00,WorldWideWeb,Germany,264.0,50.0,0.189,2011,0.0,Standard Peer-Reviewed
+MOBICOM2008,MOBICOM 2008,2008-09-14 00:00:00+00:00,HumanCenteredComputing,United_States,264.0,31.0,0.117,2008,0.0,Standard Peer-Reviewed
+CSCW2012,CSCW 2012,2012-02-11 00:00:00+00:00,ComputerSystemsOrganization,United_States,290.0,127.0,0.438,2012,0.0,Standard Peer-Reviewed
+SIGMOD1996,SIGMOD 1996,1996-06-04 00:00:00+00:00,InformationSystems,Canada,290.0,47.0,0.162,1996,0.0,Standard Peer-Reviewed
+WSDM2010,WSDM 2010,2010-02-03 00:00:00+00:00,WorldWideWeb,United_States,290.0,45.0,0.15,2010,0.0,Standard Peer-Reviewed
+CSCW2013,CSCW 2013,2013-02-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,390.0,139.0,0.356,2013,0.0,Standard Peer-Reviewed
+SIGGRAPH2010,SIGGRAPH 2010,2010-07-26 00:00:00+00:00,HumanCenteredComputing,United_States,390.0,103.0,0.26,2010,0.0,Standard Peer-Reviewed
+VLDB1999,VLDB 1999,1999-09-07 00:00:00+00:00,InformationSystems,Scotland,390.0,57.0,0.146,1999,0.0,Standard Peer-Reviewed
+CSCW2014,CSCW 2014,2014-02-15 00:00:00+00:00,ComputerSystemsOrganization,United_States,497.0,134.0,0.27,2014,2.0,Elite / Highly Selective
+CSCW2016,CSCW 2016,2016-02-27 00:00:00+00:00,ComputerSystemsOrganization,United_States,571.0,142.0,0.249,2016,2.0,Elite / Highly Selective
+CSF1999,CSFW 1999,1999-06-28 00:00:00+00:00,SecurityAndPrivacy,Italy,47.0,19.0,0.404,1999,0.0,Standard Peer-Reviewed
+EUROGP2013,EuroGP 2013,2013-04-03 00:00:00+00:00,ArtificialIntelligence,Austria,47.0,18.0,0.383,2013,0.0,Standard Peer-Reviewed
+InfoVis1999,Infovis 1999,1999-10-24 00:00:00+00:00,HumanCenteredComputing,United_States,47.0,19.0,0.4,1999,0.0,Standard Peer-Reviewed
+CSF2000,CSFW 2000,2000-07-03 00:00:00+00:00,SecurityAndPrivacy,England,48.0,22.0,0.458,2000,0.0,Standard Peer-Reviewed
+EUROGP2010,EuroGp 2010,2010-04-07 00:00:00+00:00,ArtificialIntelligence,Turkey,48.0,21.0,0.438,2010,0.0,Standard Peer-Reviewed
+CSF2001,CSFW 2001,2001-06-11 00:00:00+00:00,SecurityAndPrivacy,Canada,54.0,21.0,0.389,2001,0.0,Standard Peer-Reviewed
+CSF2002,CSFW 2002,2002-06-24 00:00:00+00:00,SecurityAndPrivacy,Canada,84.0,23.0,0.274,2002,0.0,Standard Peer-Reviewed
+ISMAR2016,ISMAR 2016,2016-09-19 00:00:00+00:00,HumanCenteredComputing,Mexico,84.0,16.0,0.19,2016,0.0,Standard Peer-Reviewed
+SBAC-PAD2001,SBAC-PAD 2001,2001-09-10 00:00:00+00:00,ComputerSystemsOrganization,Brazil,84.0,32.0,0.381,2001,0.0,Standard Peer-Reviewed
+SPAA1998,SPAA 1998,1998-06-28 00:00:00+00:00,TheoryOfComputations,Mexico,84.0,30.0,0.36,1998,0.0,Standard Peer-Reviewed
+UAI2000,UAI 2000,2000-06-30 00:00:00+00:00,ArtificialIntelligence,United_States,84.0,30.0,0.357,2000,0.0,Standard Peer-Reviewed
+USENIX2001,USENIX 2001,2001-08-13 00:00:00+00:00,SoftwareEngineering,United_States,84.0,25.0,0.298,2001,0.0,Standard Peer-Reviewed
+PODS1996,PODS 1996,1996-06-03 00:00:00+00:00,InformationSystems,Canada,84.0,22.0,0.262,1996,0.0,Standard Peer-Reviewed
+CSF2005,CSFW 2005,2005-06-20 00:00:00+00:00,SecurityAndPrivacy,France,96.0,20.0,0.208,2005,0.0,Standard Peer-Reviewed
+ECOOP2002,ECOOP 2002,2002-06-10 00:00:00+00:00,SoftwareEngineering,Spain,96.0,24.0,0.25,2002,0.0,Standard Peer-Reviewed
+FASE2010,FASE 2010,2010-03-20 00:00:00+00:00,SoftwareEngineering,Cyprus,96.0,24.0,0.25,2010,0.0,Standard Peer-Reviewed
+ISSAC2012,ISSAC 2012,2012-07-22 00:00:00+00:00,TheoryOfComputations,France,96.0,51.0,0.531,2012,0.0,Standard Peer-Reviewed
+ISSAC2014,ISSAC 2014,2014-07-23 00:00:00+00:00,TheoryOfComputations,Japan,96.0,51.0,0.531,2014,0.0,Standard Peer-Reviewed
+OSDI1999,OSDI 1999,1999-02-22 00:00:00+00:00,SoftwareEngineering,United_States,96.0,20.0,0.208,1999,0.0,Standard Peer-Reviewed
+CSF2007,CSF 2007,2007-07-06 00:00:00+00:00,SecurityAndPrivacy,Italy,101.0,25.0,0.248,2007,0.0,Standard Peer-Reviewed
+CSF2012,CSF 2012,2012-06-25 00:00:00+00:00,SecurityAndPrivacy,United_States,101.0,25.0,0.248,2012,0.0,Standard Peer-Reviewed
+ECOOP2014,ECOOP 2014,2014-07-28 00:00:00+00:00,SoftwareEngineering,Sweden,101.0,27.0,0.267,2014,0.0,Standard Peer-Reviewed
+MOBICOM1997,MOBICOM 1997,1997-09-26 00:00:00+00:00,HumanCenteredComputing,Hungary,101.0,26.0,0.257,1997,0.0,Standard Peer-Reviewed
+SPAA1995,SPAA 1995,1995-06-24 00:00:00+00:00,TheoryOfComputations,United_States,101.0,31.0,0.31,1995,0.0,Standard Peer-Reviewed
+PODS2012,PODS 2012,2012-05-20 00:00:00+00:00,InformationSystems,United_States,101.0,26.0,0.257,2012,0.0,Standard Peer-Reviewed
+CSF2008,CSF 2008,2008-06-23 00:00:00+00:00,SecurityAndPrivacy,United_States,115.0,21.0,0.183,2008,0.0,Standard Peer-Reviewed
+IJCAR2012,IJCAR 2012,2012-06-25 00:00:00+00:00,TheoryOfComputations,England,115.0,42.0,0.365,2012,0.0,Standard Peer-Reviewed
+UIST2008,UIST 2008,2008-10-19 00:00:00+00:00,ArtificialIntelligence,United_States,115.0,25.0,0.217,2008,0.0,Standard Peer-Reviewed
+PODS1993,PODS 1993,1993-05-25 00:00:00+00:00,InformationSystems,United_States,115.0,26.0,0.226,1993,0.0,Standard Peer-Reviewed
+CSF2009,CSF 2009,2009-07-08 00:00:00+00:00,SecurityAndPrivacy,United_States,93.0,22.0,0.237,2009,0.0,Standard Peer-Reviewed
+SBAC-PAD2004,SBAC-PAD 2004,2004-10-27 00:00:00+00:00,ComputerSystemsOrganization,Brazil,93.0,32.0,0.344,2004,0.0,Standard Peer-Reviewed
+SPAA2001,SPAA 2001,2001-07-04 00:00:00+00:00,TheoryOfComputations,Greece,93.0,34.0,0.37,2001,0.0,Standard Peer-Reviewed
+VR2000,IEEE VR 2000,2000-03-18 00:00:00+00:00,HumanCenteredComputing,United_States,93.0,31.0,0.333,2000,0.0,Standard Peer-Reviewed
+CSF2010,CSF 2010,2010-07-17 00:00:00+00:00,SecurityAndPrivacy,Kingdom_of_Scotland,81.0,23.0,0.28,2010,0.0,Standard Peer-Reviewed
+CSF2011,CSF 2011,2011-06-27 00:00:00+00:00,SecurityAndPrivacy,France,81.0,21.0,0.26,2011,0.0,Standard Peer-Reviewed
+ECOOP2017,ECOOP 2017,2017-06-18 00:00:00+00:00,SoftwareEngineering,Spain,81.0,27.0,0.333,2017,0.0,Standard Peer-Reviewed
+ICFP1999,ICFP 1999,1999-09-27 00:00:00+00:00,SoftwareEngineering,France,81.0,25.0,0.31,1999,0.0,Standard Peer-Reviewed
+CSF2013,CSF 2013,2013-06-26 00:00:00+00:00,SecurityAndPrivacy,United_States,73.0,19.0,0.26,2013,0.0,Standard Peer-Reviewed
+ISSAC2009,ISSAC 2009,2009-07-28 00:00:00+00:00,TheoryOfComputations,Korea,73.0,47.0,0.644,2009,0.0,Standard Peer-Reviewed
+PKDD1997,PKDD 1997,1997-06-24 00:00:00+00:00,InformationSystems,Norway,73.0,26.0,0.356,1997,0.0,Standard Peer-Reviewed
+SBAC-PAD2017,SBAC-PAD 2017,2017-10-17 00:00:00+00:00,ComputerSystemsOrganization,Brazil,73.0,23.0,0.32,2017,0.0,Standard Peer-Reviewed
+SBAC-PAD2018,SBAC-PAD 2018,2018-09-24 00:00:00+00:00,ComputerSystemsOrganization,France,73.0,23.0,0.32,2018,0.0,Standard Peer-Reviewed
+CSF2018,CSF 2018,2018-07-09 00:00:00+00:00,SecurityAndPrivacy,England,72.0,25.0,0.347,2018,0.0,Standard Peer-Reviewed
+SP1995,S&P 1995,1995-05-08 00:00:00+00:00,SecurityAndPrivacy,United_States,72.0,20.0,0.278,1995,0.0,Standard Peer-Reviewed
+CVPR1989,CVPR 1989,1989-06-04 00:00:00+00:00,ArtificialIntelligence,United_States,327.0,95.0,0.291,1989,0.0,Standard Peer-Reviewed
+EDBT2008,EDBT 2008,2008-03-25 00:00:00+00:00,InformationSystems,France,327.0,59.0,0.18,2008,0.0,Standard Peer-Reviewed
+MOBICOM2004,MOBICOM 2004,2004-09-26 00:00:00+00:00,HumanCenteredComputing,United_States,327.0,26.0,0.08,2004,0.0,Standard Peer-Reviewed
+VLDB1998,VLDB 1998,1998-08-24 00:00:00+00:00,InformationSystems,United_States,327.0,52.0,0.159,1998,0.0,Standard Peer-Reviewed
+CVPR1991,CVPR 1991,1991-06-03 00:00:00+00:00,ArtificialIntelligence,United_States,491.0,143.0,0.291,1991,2.0,Elite / Highly Selective
+CVPR1992,CVPR 1992,1992-06-15 00:00:00+00:00,ArtificialIntelligence,United_States,357.0,159.0,0.445,1992,0.0,Standard Peer-Reviewed
+CVPR1994,CVPR 1994,1994-06-21 00:00:00+00:00,ArtificialIntelligence,United_States,472.0,164.0,0.347,1994,2.0,Elite / Highly Selective
+CVPR1997,CVPR 1997,1997-06-17 00:00:00+00:00,ArtificialIntelligence,Puerto_Rico,544.0,173.0,0.318,1997,2.0,Elite / Highly Selective
+ICDE2014,ICDE,2014-03-31 00:00:00+00:00,SoftwareEngineering,United_States,544.0,127.0,0.233,2014,2.0,Elite / Highly Selective
+CVPR1999,CVPR 1999,1999-06-23 00:00:00+00:00,ArtificialIntelligence,United_States,503.0,192.0,0.382,1999,2.0,Elite / Highly Selective
+ICDE2012,ICDE,2012-04-01 00:00:00+00:00,SoftwareEngineering,United_States,503.0,137.0,0.272,2012,2.0,Elite / Highly Selective
+CVPR2001,CVPR 2001,2001-12-08 00:00:00+00:00,ArtificialIntelligence,United_States,920.0,273.0,0.297,2001,2.0,Elite / Highly Selective
+CVPR2003,CVPR 2003,2003-06-16 00:00:00+00:00,ArtificialIntelligence,United_States,905.0,209.0,0.231,2003,2.0,Elite / Highly Selective
+CVPR2004,CVPR 2004,2004-06-27 00:00:00+00:00,ArtificialIntelligence,United_States,873.0,260.0,0.298,2004,2.0,Elite / Highly Selective
+CVPR2005,CVPR 2005,2005-06-20 00:00:00+00:00,ArtificialIntelligence,United_States,1160.0,324.0,0.279,2005,2.0,Elite / Highly Selective
+CVPR2006,CVPR 2006,2006-06-17 00:00:00+00:00,ArtificialIntelligence,United_States,1131.0,318.0,0.281,2006,2.0,Elite / Highly Selective
+CVPR2007,CVPR 2007,2007-06-18 00:00:00+00:00,ArtificialIntelligence,United_States,1250.0,353.0,0.282,2007,1.0,High-Acceptance / Mega-Venue
+CVPR2008,CVPR 2008,2008-06-24 00:00:00+00:00,ArtificialIntelligence,United_States,1593.0,508.0,0.319,2008,1.0,High-Acceptance / Mega-Venue
+CVPR2009,CVPR 2009,2009-06-20 00:00:00+00:00,ArtificialIntelligence,United_States,1464.0,383.0,0.262,2009,1.0,High-Acceptance / Mega-Venue
+CVPR2010,CVPR 2010,2010-06-13 00:00:00+00:00,ArtificialIntelligence,United_States,1724.0,461.0,0.267,2010,1.0,High-Acceptance / Mega-Venue
+CVPR2011,CVPR 2011,2011-06-20 00:00:00+00:00,ArtificialIntelligence,United_States,1677.0,438.0,0.261,2011,1.0,High-Acceptance / Mega-Venue
+CVPR2012,CVPR 2012,2012-06-16 00:00:00+00:00,ArtificialIntelligence,United_States,1933.0,466.0,0.241,2012,1.0,High-Acceptance / Mega-Venue
+CVPR2013,CVPR 2013,2013-06-23 00:00:00+00:00,ArtificialIntelligence,United_States,1798.0,472.0,0.263,2013,1.0,High-Acceptance / Mega-Venue
+CVPR2014,CVPR 2014,2014-06-23 00:00:00+00:00,ArtificialIntelligence,United_States,1807.0,540.0,0.299,2014,1.0,High-Acceptance / Mega-Venue
+CVPR2015,CVPR 2015,2015-06-07 00:00:00+00:00,ArtificialIntelligence,United_States,2123.0,602.0,0.284,2015,1.0,High-Acceptance / Mega-Venue
+CVPR2016,CVPR 2016,2016-06-27 00:00:00+00:00,ArtificialIntelligence,United_States,2145.0,643.0,0.3,2016,1.0,High-Acceptance / Mega-Venue
+CVPR2017,CVPR 2017,2017-07-21 00:00:00+00:00,ArtificialIntelligence,United_States,2620.0,783.0,0.299,2017,1.0,High-Acceptance / Mega-Venue
+DSN2002,DSN 2002,2002-06-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,213.0,91.0,0.427,2002,0.0,Standard Peer-Reviewed
+HPCA2012,HPCA 2012,2012-02-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,213.0,36.0,0.169,2012,0.0,Standard Peer-Reviewed
+ICSE1996,ICSE 1996,1996-03-25 00:00:00+00:00,SoftwareEngineering,Germany,213.0,52.0,0.244,1996,0.0,Standard Peer-Reviewed
+SIGGRAPH1992,SIGGRAPH 1992,1992-07-27 00:00:00+00:00,HumanCenteredComputing,United_States,213.0,45.0,0.21,1992,0.0,Standard Peer-Reviewed
+UAI2006,UAI 2006,2006-07-13 00:00:00+00:00,ArtificialIntelligence,United_States,213.0,58.0,0.319,2006,0.0,Standard Peer-Reviewed
+UAI2006,UAI 2006,2006-07-13 00:00:00+00:00,ArtificialIntelligence,United_States,213.0,68.0,0.319,2006,0.0,Standard Peer-Reviewed
+DSN2003,DSN 2003,2003-06-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,225.0,80.0,0.356,2003,0.0,Standard Peer-Reviewed
+POPL1997,POPL 1997,1997-01-15 00:00:00+00:00,SoftwareEngineering,France,225.0,36.0,0.16,1997,0.0,Standard Peer-Reviewed
+SIGGRAPH1993,SIGGRAPH 1993,1993-08-02 00:00:00+00:00,HumanCenteredComputing,United_States,225.0,46.0,0.2,1993,0.0,Standard Peer-Reviewed
+DSN2004,DSN 2004,2004-06-28 00:00:00+00:00,ComputerSystemsOrganization,Italy,377.0,83.0,0.22,2004,0.0,Standard Peer-Reviewed
+DSN2005,DSN 2005,2005-06-28 00:00:00+00:00,ComputerSystemsOrganization,Japan,319.0,78.0,0.245,2005,0.0,Standard Peer-Reviewed
+STOC2014,STOC 2014,2014-05-31 00:00:00+00:00,TheoryOfComputations,United_States,319.0,91.0,0.285,2014,0.0,Standard Peer-Reviewed
+DSN2007,DSN 2007,2007-06-25 00:00:00+00:00,ComputerSystemsOrganization,England,212.0,48.0,0.226,2007,0.0,Standard Peer-Reviewed
+ESWC2012,ESWC 2012,2012-05-27 00:00:00+00:00,WorldWideWeb,Greece,212.0,53.0,0.25,2012,0.0,Standard Peer-Reviewed
+ISWC2016,ISWC 2016,2016-10-17 00:00:00+00:00,WorldWideWeb,Japan,212.0,39.0,0.184,2016,0.0,Standard Peer-Reviewed
+MOBICOM2012,MOBICOM 2012,2012-08-22 00:00:00+00:00,HumanCenteredComputing,Turkey,212.0,32.0,0.151,2012,0.0,Standard Peer-Reviewed
+POPL2008,POPL 2008,2008-01-10 00:00:00+00:00,SoftwareEngineering,United_States,212.0,35.0,0.17,2008,0.0,Standard Peer-Reviewed
+DSN2008,DSN 2008,2008-06-24 00:00:00+00:00,ComputerSystemsOrganization,United_States,174.0,40.0,0.23,2008,0.0,Standard Peer-Reviewed
+DSN2010,DSN 2010,2010-06-28 00:00:00+00:00,ComputerSystemsOrganization,United_States,174.0,40.0,0.23,2010,0.0,Standard Peer-Reviewed
+Eurosys2006,EuroSys 2006,2006-04-18 00:00:00+00:00,ComputerSystemsOrganization,Belgium,174.0,29.0,0.16,2006,0.0,Standard Peer-Reviewed
+Eurosys2007,EuroSys 2007,2007-03-21 00:00:00+00:00,ComputerSystemsOrganization,Portugal,174.0,65.0,0.37,2007,0.0,Standard Peer-Reviewed
+FOCS1996,FOCS 1996,1996-10-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,174.0,63.0,0.362,1996,0.0,Standard Peer-Reviewed
+HPCA2007,HPCA 2007,2007-02-10 00:00:00+00:00,ComputerSystemsOrganization,United_States,174.0,28.0,0.161,2007,0.0,Standard Peer-Reviewed
+OOPSLA2005,OOPSLA 2005,2005-10-16 00:00:00+00:00,SoftwareEngineering,United_States,174.0,32.0,0.184,2005,0.0,Standard Peer-Reviewed
+PERCOM2013,PERCOM 2013,2013-03-18 00:00:00+00:00,ComputerSystemsOrganization,United_States,174.0,27.0,0.155,2013,0.0,Standard Peer-Reviewed
+PLDI2006,PLDI 2006,2006-06-11 00:00:00+00:00,SoftwareEngineering,Canada,174.0,36.0,0.207,2006,0.0,Standard Peer-Reviewed
+USENIX2008,USENIX 2008,2008-07-28 00:00:00+00:00,SoftwareEngineering,United_States,174.0,27.0,0.155,2008,0.0,Standard Peer-Reviewed
+VR2017,IEEE VR 2017,2017-03-18 00:00:00+00:00,HumanCenteredComputing,United_States,174.0,39.0,0.224,2017,0.0,Standard Peer-Reviewed
+DSN2011,DSN 2011,2011-06-27 00:00:00+00:00,ComputerSystemsOrganization,China,148.0,26.0,0.176,2011,0.0,Standard Peer-Reviewed
+EDBT2011,EDBT 2011,2011-03-21 00:00:00+00:00,InformationSystems,Sweden,148.0,41.0,0.277,2011,0.0,Standard Peer-Reviewed
+ESWC2005,ESWC 2005,2005-05-29 00:00:00+00:00,WorldWideWeb,Greece,148.0,48.0,0.342,2005,0.0,Standard Peer-Reviewed
+EuroCrypt2009,EuroCrypt 2009,2009-04-26 00:00:00+00:00,SecurityAndPrivacy,Germany,148.0,33.0,0.223,2009,0.0,Standard Peer-Reviewed
+POPL1996,POPL 1996,1996-01-21 00:00:00+00:00,SoftwareEngineering,United_States,148.0,34.0,0.23,1996,0.0,Standard Peer-Reviewed
+DSN2014,DSN 2014,2014-06-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,185.0,56.0,0.303,2014,0.0,Standard Peer-Reviewed
+InfoVis2018,Infovis 2018,2018-10-21 00:00:00+00:00,HumanCenteredComputing,Germany,185.0,47.0,0.251,2018,0.0,Standard Peer-Reviewed
+PODS2006,PODS 2006,2006-06-26 00:00:00+00:00,InformationSystems,United_States,185.0,35.0,0.189,2006,0.0,Standard Peer-Reviewed
+DSN2016,DSN 2016,2016-06-28 00:00:00+00:00,ComputerSystemsOrganization,France,259.0,58.0,0.224,2016,0.0,Standard Peer-Reviewed
+ISCA2008,ISCA 2008,2008-06-21 00:00:00+00:00,ComputerSystemsOrganization,China,259.0,37.0,0.143,2008,0.0,Standard Peer-Reviewed
+ECAI1994,ECAI 1994,1994-08-08 00:00:00+00:00,ArtificialIntelligence,Netherlands,450.0,150.0,0.333,1994,2.0,Elite / Highly Selective
+ECAI1996,ECAI 1996,1996-08-11 00:00:00+00:00,ArtificialIntelligence,Hungary,450.0,133.0,0.3,1996,2.0,Elite / Highly Selective
+ECAI1998,ECAI 1998,1998-08-23 00:00:00+00:00,ArtificialIntelligence,England,456.0,158.0,0.347,1998,2.0,Elite / Highly Selective
+ECAI2000,ECAI 2000,2000-08-20 00:00:00+00:00,ArtificialIntelligence,Germany,443.0,140.0,0.316,2000,2.0,Elite / Highly Selective
+PKDD2012,ECML PKDD 2012,2012-09-24 00:00:00+00:00,InformationSystems,England,443.0,124.0,0.28,2012,2.0,Elite / Highly Selective
+ECAI2002,ECAI 2002,2002-07-21 00:00:00+00:00,ArtificialIntelligence,France,500.0,180.0,0.274,2002,2.0,Elite / Highly Selective
+ECAI2006,ECAI2006,2006-08-28 00:00:00+00:00,ArtificialIntelligence,Italy,500.0,130.0,0.26,2006,2.0,Elite / Highly Selective
+ECAI2004,ECAI 2004,2004-08-22 00:00:00+00:00,ArtificialIntelligence,Spain,787.0,180.0,0.229,2004,2.0,Elite / Highly Selective
+ECAI2008,ECAI 2008,2008-07-21 00:00:00+00:00,ArtificialIntelligence,Greece,680.0,121.0,0.23,2008,2.0,Elite / Highly Selective
+ECAI2010,ECAI 2010,2010-08-16 00:00:00+00:00,ArtificialIntelligence,Portugal,607.0,135.0,0.22,2010,2.0,Elite / Highly Selective
+ECAI2012,ECAI 2012,2012-08-27 00:00:00+00:00,ArtificialIntelligence,France,563.0,163.0,0.29,2012,2.0,Elite / Highly Selective
+ECAI2014,ECAI 2014,2014-08-18 00:00:00+00:00,ArtificialIntelligence,Czech_Republic,611.0,178.0,0.29,2014,2.0,Elite / Highly Selective
+ECAI2016,ECAI 2016,2016-08-29 00:00:00+00:00,ArtificialIntelligence,Netherlands,656.0,177.0,0.27,2016,2.0,Elite / Highly Selective
+ECAI2018,ECAI 2018,2018-07-13 00:00:00+00:00,ArtificialIntelligence,Sweden,3470.0,710.0,0.2,2018,1.0,High-Acceptance / Mega-Venue
+ECCV1996,ECCV 1996,1996-04-14 00:00:00+00:00,ArtificialIntelligence,England,328.0,123.0,0.375,1996,0.0,Standard Peer-Reviewed
+ECCV1998,ECCV 1998,1998-06-02 00:00:00+00:00,ArtificialIntelligence,Germany,223.0,42.0,0.188,1998,0.0,Standard Peer-Reviewed
+ECCV2000,ECCV 2000,2000-06-26 00:00:00+00:00,ArtificialIntelligence,Ireland,266.0,116.0,0.436,2000,0.0,Standard Peer-Reviewed
+EDBT2014,EDBT 2014,2014-03-24 00:00:00+00:00,InformationSystems,Greece,266.0,52.0,0.195,2014,0.0,Standard Peer-Reviewed
+SIGIR2003,SIGIR 2003,2003-08-28 00:00:00+00:00,InformationSystems,Canada,266.0,46.0,0.17,2003,0.0,Standard Peer-Reviewed
+ECCV2002,ECCV 2002,2002-05-28 00:00:00+00:00,ArtificialIntelligence,Denmark,600.0,226.0,0.377,2002,2.0,Elite / Highly Selective
+ICCV1995,ICCV 1995,1995-06-20 00:00:00+00:00,ArtificialIntelligence,United_States,600.0,150.0,0.25,1995,2.0,Elite / Highly Selective
+ICDE2010,ICDE,2010-03-01 00:00:00+00:00,SoftwareEngineering,United_States,600.0,110.0,0.183,2010,2.0,Elite / Highly Selective
+PKDD2011,ECML PKDD 2011,2011-09-05 00:00:00+00:00,InformationSystems,Greece,600.0,142.0,0.237,2011,2.0,Elite / Highly Selective
+ECCV2004,ECCV 2004,2004-05-11 00:00:00+00:00,ArtificialIntelligence,Czech_Republic,555.0,190.0,0.342,2004,2.0,Elite / Highly Selective
+ECCV2006,ECCV 2006,2006-05-07 00:00:00+00:00,ArtificialIntelligence,Austria,900.0,192.0,0.213,2006,2.0,Elite / Highly Selective
+ECCV2008,ECCV 2008,2008-10-12 00:00:00+00:00,ArtificialIntelligence,France,871.0,243.0,0.279,2008,2.0,Elite / Highly Selective
+ECCV2010,ECCV 2010,2010-09-05 00:00:00+00:00,ArtificialIntelligence,Greece,1174.0,328.0,0.28,2010,2.0,Elite / Highly Selective
+ECCV2012,ECCV 2012,2012-10-07 00:00:00+00:00,ArtificialIntelligence,Italy,1437.0,408.0,0.28,2012,1.0,High-Acceptance / Mega-Venue
+ECCV2014,ECCV 2014,2014-09-06 00:00:00+00:00,ArtificialIntelligence,Germany,1444.0,363.0,0.251,2014,1.0,High-Acceptance / Mega-Venue
+ECCV2016,ECCV 2016,2016-10-08 00:00:00+00:00,ArtificialIntelligence,Netherlands,1480.0,415.0,0.28,2016,1.0,High-Acceptance / Mega-Venue
+ECCV2018,ECCV 2018,2000-06-26 00:00:00+00:00,ArtificialIntelligence,Germany,2439.0,776.0,0.318,2000,1.0,High-Acceptance / Mega-Venue
+ECOOP1997,ECOOP 1997,1997-06-09 00:00:00+00:00,SoftwareEngineering,Finland,103.0,20.0,0.194,1997,0.0,Standard Peer-Reviewed
+ICFP2007,ICFP 2007,2007-10-01 00:00:00+00:00,SoftwareEngineering,Germany,103.0,26.0,0.25,2007,0.0,Standard Peer-Reviewed
+ICWE2006,ICWE 2006,2006-07-11 00:00:00+00:00,WorldWideWeb,United_States,103.0,44.0,0.43,2006,0.0,Standard Peer-Reviewed
+ISMAR2013,ISMAR 2013,2013-10-01 00:00:00+00:00,HumanCenteredComputing,Australia,103.0,26.0,0.252,2013,0.0,Standard Peer-Reviewed
+ISMAR2015,ISMAR 2015,2015-09-29 00:00:00+00:00,HumanCenteredComputing,Japan,103.0,23.0,0.223,2015,0.0,Standard Peer-Reviewed
+SBAC-PAD2003,SBAC-PAD 2003,2003-11-10 00:00:00+00:00,ComputerSystemsOrganization,Brazil,103.0,31.0,0.3,2003,0.0,Standard Peer-Reviewed
+VR2009,IEEE VR 2009,2009-03-14 00:00:00+00:00,HumanCenteredComputing,United_States,103.0,35.0,0.34,2009,0.0,Standard Peer-Reviewed
+ECOOP1998,ECOOP 1998,1998-07-20 00:00:00+00:00,SoftwareEngineering,Belgium,124.0,24.0,0.194,1998,0.0,Standard Peer-Reviewed
+FASE2009,FASE 2009,2009-03-22 00:00:00+00:00,SoftwareEngineering,England,124.0,30.0,0.242,2009,0.0,Standard Peer-Reviewed
+ISMAR2009,ISMAR 2009,2009-10-19 00:00:00+00:00,HumanCenteredComputing,United_States,124.0,24.0,0.194,2009,0.0,Standard Peer-Reviewed
+NDSS2005,NDSS 2005,2005-02-03 00:00:00+00:00,SecurityAndPrivacy,United_States,124.0,16.0,0.129,2005,0.0,Standard Peer-Reviewed
+ECOOP2003,ECOOP 2003,2003-07-21 00:00:00+00:00,SoftwareEngineering,Germany,88.0,18.0,0.205,2003,0.0,Standard Peer-Reviewed
+ICFP2012,ICFP 2012,2012-09-10 00:00:00+00:00,SoftwareEngineering,Denmark,88.0,32.0,0.36,2012,0.0,Standard Peer-Reviewed
+ECOOP2006,ECOOP 2006,2006-07-03 00:00:00+00:00,SoftwareEngineering,France,160.0,21.0,0.131,2006,0.0,Standard Peer-Reviewed
+ECOOP2007,ECOOP 2007,2007-07-30 00:00:00+00:00,SoftwareEngineering,Germany,160.0,25.0,0.156,2007,0.0,Standard Peer-Reviewed
+ESORICS2006,ESORICS 2006,2006-09-18 00:00:00+00:00,SecurityAndPrivacy,Germany,160.0,32.0,0.2,2006,0.0,Standard Peer-Reviewed
+PERCOM2008,PERCOM 2008,2008-03-17 00:00:00+00:00,ComputerSystemsOrganization,Hong_Kong,160.0,19.0,0.119,2008,0.0,Standard Peer-Reviewed
+PODC2005,PODC 2005,2005-07-17 00:00:00+00:00,SoftwareEngineering,United_States,160.0,22.0,0.138,2005,0.0,Standard Peer-Reviewed
+POPL2009,POPL 2009,2009-01-21 00:00:00+00:00,SoftwareEngineering,United_States,160.0,36.0,0.23,2009,0.0,Standard Peer-Reviewed
+ECOOP2009,ECOOP 2009,2009-07-06 00:00:00+00:00,SoftwareEngineering,Italy,117.0,25.0,0.214,2009,0.0,Standard Peer-Reviewed
+EuroCrypt1993,EuroCrypt 1993,1993-05-23 00:00:00+00:00,SecurityAndPrivacy,Norway,117.0,27.0,0.231,1993,0.0,Standard Peer-Reviewed
+HPCA1999,HPCA 1999,1999-01-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,117.0,37.0,0.316,1999,0.0,Standard Peer-Reviewed
+JCDL2008,,2008-06-16 00:00:00+00:00,,,117.0,33.0,0.28,2008,0.0,Standard Peer-Reviewed
+OOPSLA2008,OOPSLA 2008,2008-10-19 00:00:00+00:00,SoftwareEngineering,United_States,117.0,33.0,0.282,2008,0.0,Standard Peer-Reviewed
+PODC1996,PODC 1996,1996-05-23 00:00:00+00:00,SoftwareEngineering,United_States,117.0,69.0,0.59,1996,0.0,Standard Peer-Reviewed
+PODC2000,PODC 2000,2000-07-16 00:00:00+00:00,SoftwareEngineering,United_States,117.0,32.0,0.274,2000,0.0,Standard Peer-Reviewed
+UBICOMP2003,UBICOMP 2003,2003-10-12 00:00:00+00:00,SecurityAndPrivacy,United_States,117.0,16.0,0.14,2003,0.0,Standard Peer-Reviewed
+PODS1994,PODS 1994,1994-05-24 00:00:00+00:00,InformationSystems,United_States,117.0,28.0,0.239,1994,0.0,Standard Peer-Reviewed
+ECOOP2013,ECOOP 2013,2013-07-01 00:00:00+00:00,SoftwareEngineering,France,116.0,29.0,0.25,2013,0.0,Standard Peer-Reviewed
+InfoVis2007,InfoVis,2007-10-28 00:00:00+00:00,HumanCenteredComputing,United_States,116.0,27.0,0.23,2007,0.0,Standard Peer-Reviewed
+InfoVis2007,InfoVis 2007,2007-10-28 00:00:00+00:00,HumanCenteredComputing,United_States,116.0,27.0,0.23,2007,0.0,Standard Peer-Reviewed
+SP1998,S&P 1998,1998-05-03 00:00:00+00:00,SecurityAndPrivacy,United_States,116.0,19.0,0.164,1998,0.0,Standard Peer-Reviewed
+SPAA2011,SPAA 2011,2011-06-04 00:00:00+00:00,TheoryOfComputations,United_States,116.0,35.0,0.3,2011,0.0,Standard Peer-Reviewed
+UIST2003,UIST 2003,2003-11-02 00:00:00+00:00,ArtificialIntelligence,Canada,116.0,25.0,0.216,2003,0.0,Standard Peer-Reviewed
+VR2014,IEEE VR 2014,2014-03-29 00:00:00+00:00,HumanCenteredComputing,United_States,116.0,28.0,0.241,2014,0.0,Standard Peer-Reviewed
+PODS1999,PODS 1999,1999-05-31 00:00:00+00:00,InformationSystems,United_States,116.0,32.0,0.276,1999,0.0,Standard Peer-Reviewed
+ECOOP2015,ECOOP 2015,2015-07-05 00:00:00+00:00,SoftwareEngineering,Czech_Republic,136.0,31.0,0.228,2015,0.0,Standard Peer-Reviewed
+PLDI1998,PLDI 1998,1998-06-17 00:00:00+00:00,SoftwareEngineering,Canada,136.0,31.0,0.228,1998,0.0,Standard Peer-Reviewed
+PODS2003,PODS 2003,2003-06-09 00:00:00+00:00,InformationSystems,United_States,136.0,27.0,0.199,2003,0.0,Standard Peer-Reviewed
+POPL1999,POPL 1999,1999-01-20 00:00:00+00:00,SoftwareEngineering,United_States,136.0,24.0,0.18,1999,0.0,Standard Peer-Reviewed
+RecSys2013,RecSys 2013,2013-10-12 00:00:00+00:00,InformationSystems,China,136.0,32.0,0.235,2013,0.0,Standard Peer-Reviewed
+UBICOMP2002,UBICOMP 2002,2002-09-29 00:00:00+00:00,SecurityAndPrivacy,Sweden,136.0,15.0,0.11,2002,0.0,Standard Peer-Reviewed
+EDBT1990,EDBT 1990,1990-03-26 00:00:00+00:00,InformationSystems,Italy,178.0,27.0,0.152,1990,0.0,Standard Peer-Reviewed
+EDBT1996,EDBT 1996,1996-03-25 00:00:00+00:00,InformationSystems,France,178.0,31.0,0.174,1996,0.0,Standard Peer-Reviewed
+ESWC2014,ESWC 2014,2014-05-25 00:00:00+00:00,WorldWideWeb,Greece,178.0,41.0,0.23,2014,0.0,Standard Peer-Reviewed
+InfoVis2012,Infovis 2012,2012-10-14 00:00:00+00:00,HumanCenteredComputing,United_States,178.0,44.0,0.247,2012,0.0,Standard Peer-Reviewed
+InfoVis2015,Infovis 2015,2015-10-25 00:00:00+00:00,HumanCenteredComputing,United_States,178.0,38.0,0.213,2015,0.0,Standard Peer-Reviewed
+OSDI1994,OSDI 1994,1994-11-14 00:00:00+00:00,SoftwareEngineering,United_States,178.0,21.0,0.118,1994,0.0,Standard Peer-Reviewed
+PLDI2007,PLDI 2007,2007-06-10 00:00:00+00:00,SoftwareEngineering,United_States,178.0,45.0,0.253,2007,0.0,Standard Peer-Reviewed
+EDBT1994,EDBT 1994,1994-03-28 00:00:00+00:00,InformationSystems,England,180.0,31.0,0.172,1994,0.0,Standard Peer-Reviewed
+Eurosys2016,EuroSys 2016,2016-04-18 00:00:00+00:00,ComputerSystemsOrganization,England,180.0,38.0,0.21,2016,0.0,Standard Peer-Reviewed
+ISCA2002,ISCA 2002,2002-05-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,180.0,27.0,0.15,2002,0.0,Standard Peer-Reviewed
+ISWC2014,ISWC 2014,2014-10-19 00:00:00+00:00,WorldWideWeb,Italy,180.0,38.0,0.211,2014,0.0,Standard Peer-Reviewed
+EDBT2002,EDBT 2002,2002-03-25 00:00:00+00:00,InformationSystems,Czech_Republic,207.0,36.0,0.174,2002,0.0,Standard Peer-Reviewed
+MOBICOM2013,MOBICOM 2013,2013-09-30 00:00:00+00:00,HumanCenteredComputing,United_States,207.0,28.0,0.135,2013,0.0,Standard Peer-Reviewed
+MOBICOM2015,MOBICOM 2015,2015-09-07 00:00:00+00:00,HumanCenteredComputing,France,207.0,38.0,0.184,2015,0.0,Standard Peer-Reviewed
+POPL2010,POPL 2010,2012-01-17 00:00:00+00:00,SoftwareEngineering,Spain,207.0,39.0,0.19,2012,0.0,Standard Peer-Reviewed
+UIST2010,UIST 2010,2010-10-03 00:00:00+00:00,ArtificialIntelligence,United_States,207.0,38.0,0.184,2010,0.0,Standard Peer-Reviewed
+USENIX2010,USENIX 2010,2010-08-11 00:00:00+00:00,SoftwareEngineering,Canada,207.0,30.0,0.145,2010,0.0,Standard Peer-Reviewed
+EDBT2004,EDBT 2004,2004-03-14 00:00:00+00:00,InformationSystems,Greece,294.0,42.0,0.143,2004,0.0,Standard Peer-Reviewed
+EDBT2009,EDBT 2009,2009-03-24 00:00:00+00:00,InformationSystems,Republics_of_Russia,447.0,110.0,0.246,2009,2.0,Elite / Highly Selective
+ICWS2013,ICWS 2013,2013-06-27 00:00:00+00:00,WorldWideWeb,United_States,447.0,85.0,0.19,2013,2.0,Elite / Highly Selective
+PKDD2013,ECML PKDD 2013,2013-09-23 00:00:00+00:00,InformationSystems,Czech_Republic,447.0,111.0,0.248,2013,2.0,Elite / Highly Selective
+EDBT2010,EDBT 2010,2010-03-22 00:00:00+00:00,InformationSystems,Switzerland,307.0,54.0,0.176,2010,0.0,Standard Peer-Reviewed
+FOCS2016,FOCS 2016,2016-10-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,307.0,85.0,0.277,2016,0.0,Standard Peer-Reviewed
+SP2012,S&P 2012,2012-05-21 00:00:00+00:00,SecurityAndPrivacy,United_States,307.0,40.0,0.13,2012,0.0,Standard Peer-Reviewed
+EDBT2013,EDBT 2013,2013-03-18 00:00:00+00:00,InformationSystems,Italy,235.0,48.0,0.204,2013,0.0,Standard Peer-Reviewed
+SIGMOD1993,SIGMOD 1993,1993-05-26 00:00:00+00:00,InformationSystems,United_States,235.0,39.0,0.166,1993,0.0,Standard Peer-Reviewed
+EDBT2016,EDBT 2016,2016-03-15 00:00:00+00:00,InformationSystems,France,282.0,102.0,0.362,2016,0.0,Standard Peer-Reviewed
+MOBICOM2009,MOBICOM 2009,2009-09-20 00:00:00+00:00,HumanCenteredComputing,China,282.0,30.0,0.106,2009,0.0,Standard Peer-Reviewed
+POPL2017,POPL 2017,2017-01-15 00:00:00+00:00,SoftwareEngineering,France,282.0,64.0,0.23,2017,0.0,Standard Peer-Reviewed
+UAI2017,UAI 2017,2017-08-11 00:00:00+00:00,ArtificialIntelligence,Australia,282.0,87.0,0.309,2017,0.0,Standard Peer-Reviewed
+EDBT2017,EDBT 2017,2017-03-21 00:00:00+00:00,InformationSystems,Italy,168.0,37.0,0.22,2017,0.0,Standard Peer-Reviewed
+ESORICS2008,ESORICS 2008,2008-10-06 00:00:00+00:00,SecurityAndPrivacy,Spain,168.0,37.0,0.22,2008,0.0,Standard Peer-Reviewed
+FSE2003,FSE 2003,2003-09-01 00:00:00+00:00,SoftwareEngineering,Finland,168.0,33.0,0.2,2003,0.0,Standard Peer-Reviewed
+PERCOM2016,PERCOM 2016,2016-03-14 00:00:00+00:00,ComputerSystemsOrganization,Australia,168.0,25.0,0.149,2016,0.0,Standard Peer-Reviewed
+ESORICS1996,ESORICS 1996,1996-09-25 00:00:00+00:00,SecurityAndPrivacy,Italy,58.0,21.0,0.362,1996,0.0,Standard Peer-Reviewed
+ISWC2001,SWWS 2001,2001-07-30 00:00:00+00:00,WorldWideWeb,United_States,58.0,35.0,0.603,2001,0.0,Standard Peer-Reviewed
+ESORICS1998,ESORICS 1998,1998-09-16 00:00:00+00:00,SecurityAndPrivacy,Belgium,57.0,24.0,0.421,1998,0.0,Standard Peer-Reviewed
+EuroGP2009,EuroGP 2009,2009-04-15 00:00:00+00:00,ArtificialIntelligence,Germany,57.0,21.0,0.368,2009,0.0,Standard Peer-Reviewed
+ICWE2008,ICWE 2008,2008-07-14 00:00:00+00:00,WorldWideWeb,United_States,57.0,20.0,0.34,2008,0.0,Standard Peer-Reviewed
+ICWE2018,ICWE 2018,2018-06-05 00:00:00+00:00,WorldWideWeb,Spain,57.0,18.0,0.31,2018,0.0,Standard Peer-Reviewed
+ICWS2003,ICWS 2003,2003-06-23 00:00:00+00:00,WorldWideWeb,United_States,57.0,17.0,0.298,2003,0.0,Standard Peer-Reviewed
+SBAC-PAD2008,SBAC-PAD 2008,2008-11-29 00:00:00+00:00,ComputerSystemsOrganization,Brazil,57.0,22.0,0.385,2008,0.0,Standard Peer-Reviewed
+ESORICS2000,ESORICS 2000,2000-10-04 00:00:00+00:00,SecurityAndPrivacy,France,75.0,19.0,0.253,2000,0.0,Standard Peer-Reviewed
+ESORICS2004,ESORICS 2004,2004-09-13 00:00:00+00:00,SecurityAndPrivacy,France,159.0,27.0,0.17,2004,0.0,Standard Peer-Reviewed
+ESORICS2005,ESORICS 2005,2005-09-12 00:00:00+00:00,SecurityAndPrivacy,Italy,159.0,27.0,0.17,2005,0.0,Standard Peer-Reviewed
+PODS2008,PODS 2008,2008-06-09 00:00:00+00:00,InformationSystems,Canada,159.0,28.0,0.176,2008,0.0,Standard Peer-Reviewed
+RecSys2016,RecSys 2016,2016-09-15 00:00:00+00:00,InformationSystems,United_States,159.0,29.0,0.182,2016,0.0,Standard Peer-Reviewed
+UIST2005,UIST 2005,2005-10-23 00:00:00+00:00,ArtificialIntelligence,United_States,159.0,31.0,0.195,2005,0.0,Standard Peer-Reviewed
+ESORICS2010,ESORICS 2010,2010-09-20 00:00:00+00:00,SecurityAndPrivacy,Greece,201.0,42.0,0.209,2010,0.0,Standard Peer-Reviewed
+EuroCrypt2013,EuroCrypt 2013,2013-05-26 00:00:00+00:00,SecurityAndPrivacy,Greece,201.0,41.0,0.204,2013,0.0,Standard Peer-Reviewed
+FSE2005,FSE 2005,2005-09-05 00:00:00+00:00,SoftwareEngineering,Portugal,201.0,32.0,0.159,2005,0.0,Standard Peer-Reviewed
+FSE2012,FSE 2012,2012-09-11 00:00:00+00:00,SoftwareEngineering,United_States,201.0,34.0,0.169,2012,0.0,Standard Peer-Reviewed
+SIGIR2001,SIGIR 2001,2001-09-09 00:00:00+00:00,InformationSystems,United_States,201.0,47.0,0.23,2001,0.0,Standard Peer-Reviewed
+STOC1996,STOC 1996,1996-05-22 00:00:00+00:00,TheoryOfComputations,United_States,201.0,74.0,0.368,1996,0.0,Standard Peer-Reviewed
+ESORICS2011,ESORICS 2011,2011-09-12 00:00:00+00:00,SecurityAndPrivacy,Belgium,155.0,36.0,0.232,2011,0.0,Standard Peer-Reviewed
+EuroCrypt2001,EuroCrypt 2001,2001-05-06 00:00:00+00:00,SecurityAndPrivacy,Austria,155.0,32.0,0.206,2001,0.0,Standard Peer-Reviewed
+ICSE1995,ICSE 1995,1995-04-23 00:00:00+00:00,SoftwareEngineering,United_States,155.0,28.0,0.181,1995,0.0,Standard Peer-Reviewed
+ESORICS2012,ESORICS 2012,2012-09-10 00:00:00+00:00,SecurityAndPrivacy,Italy,248.0,50.0,0.202,2012,0.0,Standard Peer-Reviewed
+FOCS2012,FOCS 2012,2012-10-20 00:00:00+00:00,ComputerSystemsOrganization,United_States,248.0,79.0,0.319,2012,0.0,Standard Peer-Reviewed
+JCDL2006,,2006-06-11 00:00:00+00:00,,,248.0,57.0,0.23,2006,0.0,Standard Peer-Reviewed
+SIGMOD2000,SIGMOD 2000,2000-05-16 00:00:00+00:00,InformationSystems,United_States,248.0,42.0,0.169,2000,0.0,Standard Peer-Reviewed
+ESORICS2013,ESORICS 2013,2013-09-09 00:00:00+00:00,SecurityAndPrivacy,England,242.0,43.0,0.178,2013,0.0,Standard Peer-Reviewed
+SIGGRAPH1994,SIGGRAPH 1994,1994-07-24 00:00:00+00:00,HumanCenteredComputing,United_States,242.0,57.0,0.24,1994,0.0,Standard Peer-Reviewed
+ESORICS2015,ESORICS 2015,2015-09-21 00:00:00+00:00,SecurityAndPrivacy,Austria,293.0,59.0,0.201,2015,0.0,Standard Peer-Reviewed
+SIGMOD2001,SIGMOD 2001,2001-05-21 00:00:00+00:00,InformationSystems,United_States,293.0,44.0,0.15,2001,0.0,Standard Peer-Reviewed
+VLDB1994,VLDB 1994,1994-09-12 00:00:00+00:00,InformationSystems,Chile,293.0,54.0,0.184,1994,0.0,Standard Peer-Reviewed
+ESORICS2016,ESORICS 2016,2016-09-26 00:00:00+00:00,SecurityAndPrivacy,Greece,285.0,60.0,0.21,2016,0.0,Standard Peer-Reviewed
+ISCA2014,ISCA 2014,2014-06-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,285.0,46.0,0.161,2014,0.0,Standard Peer-Reviewed
+UAI2011,UAI 2011,2011-07-14 00:00:00+00:00,ArtificialIntelligence,Spain,285.0,96.0,0.337,2011,0.0,Standard Peer-Reviewed
+ESORICS2017,ESORICS 2017,2017-09-11 00:00:00+00:00,SecurityAndPrivacy,Norway,338.0,54.0,0.16,2017,0.0,Standard Peer-Reviewed
+ESORICS2018,ESORICS 2018,2018-09-03 00:00:00+00:00,SecurityAndPrivacy,Italy,283.0,56.0,0.198,2018,0.0,Standard Peer-Reviewed
+ESWC2008,ESWC 2008,2008-06-01 00:00:00+00:00,WorldWideWeb,Spain,270.0,51.0,0.189,2008,0.0,Standard Peer-Reviewed
+FOCS2010,FOCS 2010,2010-10-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,270.0,81.0,0.3,2010,0.0,Standard Peer-Reviewed
+ICDE1994,ICDE,1994-02-14 00:00:00+00:00,SoftwareEngineering,Taiwan,270.0,50.0,0.185,1994,0.0,Standard Peer-Reviewed
+ICWS2015,ICWS 2015,2015-06-27 00:00:00+00:00,WorldWideWeb,United_States,270.0,47.0,0.174,2015,0.0,Standard Peer-Reviewed
+JCDL2005,,2005-06-07 00:00:00+00:00,,,270.0,59.0,0.22,2005,0.0,Standard Peer-Reviewed
+STOC2003,STOC 2003,2003-06-09 00:00:00+00:00,TheoryOfComputations,United_States,270.0,80.0,0.296,2003,0.0,Standard Peer-Reviewed
+ESWC2010,ESWC 2010,2010-05-30 00:00:00+00:00,WorldWideWeb,Greece,245.0,52.0,0.212,2010,0.0,Standard Peer-Reviewed
+ISCA2010,ISCA 2010,2010-06-19 00:00:00+00:00,ComputerSystemsOrganization,France,245.0,44.0,0.18,2010,0.0,Standard Peer-Reviewed
+PLDI2016,PLDI 2016,2016-06-13 00:00:00+00:00,SoftwareEngineering,United_States,245.0,49.0,0.2,2016,0.0,Standard Peer-Reviewed
+ESWC2011,ESWC 2011,2011-05-29 00:00:00+00:00,WorldWideWeb,Greece,247.0,57.0,0.231,2011,0.0,Standard Peer-Reviewed
+SIGGRAPH1996,SIGGRAPH 1996,1996-08-04 00:00:00+00:00,HumanCenteredComputing,United_States,247.0,52.0,0.21,1996,0.0,Standard Peer-Reviewed
+ESWC2013,ESWC 2013,2013-05-26 00:00:00+00:00,WorldWideWeb,France,162.0,37.0,0.228,2013,0.0,Standard Peer-Reviewed
+ESWC2015,ESWC 2015,2015-05-31 00:00:00+00:00,WorldWideWeb,Greece,145.0,33.0,0.228,2015,0.0,Standard Peer-Reviewed
+OOPSLA2001,OOPSLA 2001,2001-10-14 00:00:00+00:00,SoftwareEngineering,United_States,145.0,27.0,0.186,2001,0.0,Standard Peer-Reviewed
+PODC2013,PODC 2013,2013-07-22 00:00:00+00:00,SoftwareEngineering,Canada,145.0,37.0,0.255,2013,0.0,Standard Peer-Reviewed
+ESWC2016,ESWC 2016,2016-05-29 00:00:00+00:00,WorldWideWeb,Greece,204.0,47.0,0.21,2016,0.0,Standard Peer-Reviewed
+FOCS1998,FOCS 1998,1998-11-08 00:00:00+00:00,ComputerSystemsOrganization,United_States,204.0,76.0,0.373,1998,0.0,Standard Peer-Reviewed
+ICWE2004,ICWE 2004,2004-07-26 00:00:00+00:00,WorldWideWeb,Germany,204.0,25.0,0.12,2004,0.0,Standard Peer-Reviewed
+ISCA2007,ISCA 2007,2007-06-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,204.0,46.0,0.225,2007,0.0,Standard Peer-Reviewed
+PODC2007,PODC 2007,2007-08-12 00:00:00+00:00,SoftwareEngineering,United_States,204.0,32.0,0.157,2007,0.0,Standard Peer-Reviewed
+POPL1992,POPL 1992,1992-01-19 00:00:00+00:00,SoftwareEngineering,United_States,204.0,30.0,0.15,1992,0.0,Standard Peer-Reviewed
+UBICOMP2006,UBICOMP 2006,2006-09-17 00:00:00+00:00,SecurityAndPrivacy,United_States,204.0,30.0,0.15,2006,0.0,Standard Peer-Reviewed
+EUROGP2001,EuroGP 2001,2001-04-18 00:00:00+00:00,ArtificialIntelligence,Italy,42.0,17.0,0.405,2001,0.0,Standard Peer-Reviewed
+EuroGP2002,EuroGP 2002,2002-04-03 00:00:00+00:00,ArtificialIntelligence,Ireland,42.0,18.0,0.429,2002,0.0,Standard Peer-Reviewed
+EUROGP2012,EuroGP 2012,2012-04-11 00:00:00+00:00,ArtificialIntelligence,Spain,46.0,18.0,0.391,2012,0.0,Standard Peer-Reviewed
+EuroCrypt1994,EuroCrypt 1994,1994-05-09 00:00:00+00:00,SecurityAndPrivacy,Italy,137.0,36.0,0.263,1994,0.0,Standard Peer-Reviewed
+FSE2001,FSE 2001,2001-09-10 00:00:00+00:00,SoftwareEngineering,Austria,137.0,29.0,0.21,2001,0.0,Standard Peer-Reviewed
+SP2000,S&P 2000,2000-05-14 00:00:00+00:00,SecurityAndPrivacy,United_States,137.0,18.0,0.131,2000,0.0,Standard Peer-Reviewed
+EuroCrypt1997,EuroCrypt 1997,1997-05-11 00:00:00+00:00,SecurityAndPrivacy,Germany,104.0,34.0,0.327,1997,0.0,Standard Peer-Reviewed
+ISMAR2008,ISMAR 2008,2008-09-15 00:00:00+00:00,HumanCenteredComputing,England,104.0,26.0,0.25,2008,0.0,Standard Peer-Reviewed
+InfoVis2006,Infovis 2006,2006-10-29 00:00:00+00:00,HumanCenteredComputing,United_States,104.0,27.0,0.23,2006,0.0,Standard Peer-Reviewed
+VR2003,IEEE VR 2003,2003-03-22 00:00:00+00:00,HumanCenteredComputing,United_States,104.0,29.0,0.279,2003,0.0,Standard Peer-Reviewed
+EuroCrypt1998,EuroCrypt 1998,1998-05-31 00:00:00+00:00,SecurityAndPrivacy,Finland,161.0,44.0,0.273,1998,0.0,Standard Peer-Reviewed
+Eurosys2011,EuroSys 2011,2011-04-10 00:00:00+00:00,ComputerSystemsOrganization,Austria,161.0,24.0,0.15,2011,0.0,Standard Peer-Reviewed
+HPCA2008,HPCA 2008,2008-02-16 00:00:00+00:00,ComputerSystemsOrganization,United_States,161.0,31.0,0.193,2008,0.0,Standard Peer-Reviewed
+SIGGRAPH1988,SIGGRAPH 1988,1988-08-01 00:00:00+00:00,HumanCenteredComputing,United_States,161.0,34.0,0.21,1988,0.0,Standard Peer-Reviewed
+VR2010,IEEE VR 2010,2010-03-20 00:00:00+00:00,HumanCenteredComputing,United_States,161.0,41.0,0.255,2010,0.0,Standard Peer-Reviewed
+EuroCrypt2003,EuroCrypt 2003,2003-05-04 00:00:00+00:00,SecurityAndPrivacy,Poland,156.0,37.0,0.237,2003,0.0,Standard Peer-Reviewed
+NDSS2010,NDSS 2010,2010-02-28 00:00:00+00:00,SecurityAndPrivacy,United_States,156.0,24.0,0.154,2010,0.0,Standard Peer-Reviewed
+OOPSLA2007,OOPSLA 2007,2007-10-21 00:00:00+00:00,SoftwareEngineering,Canada,156.0,33.0,0.212,2007,0.0,Standard Peer-Reviewed
+EuroCrypt2004,EuroCrypt 2004,2004-05-02 00:00:00+00:00,SecurityAndPrivacy,Switzerland,206.0,36.0,0.175,2004,0.0,Standard Peer-Reviewed
+FOCS2000,FOCS 2000,2000-11-12 00:00:00+00:00,ComputerSystemsOrganization,United_States,206.0,66.0,0.32,2000,0.0,Standard Peer-Reviewed
+PLDI2010,PLDI 2010,2010-06-05 00:00:00+00:00,SoftwareEngineering,Canada,206.0,41.0,0.199,2010,0.0,Standard Peer-Reviewed
+USENIX2011,USENIX 2011,2011-08-08 00:00:00+00:00,SoftwareEngineering,United_States,206.0,35.0,0.17,2011,0.0,Standard Peer-Reviewed
+EuroCrypt2006,EuroCrypt 2006,2006-05-28 00:00:00+00:00,SecurityAndPrivacy,Republics_of_Russia,198.0,33.0,0.167,2006,0.0,Standard Peer-Reviewed
+POPL2007,POPL 2007,2007-01-17 00:00:00+00:00,SoftwareEngineering,France,198.0,36.0,0.18,2007,0.0,Standard Peer-Reviewed
+EuroCrypt2008,EuroCrypt 2008,2008-04-13 00:00:00+00:00,SecurityAndPrivacy,Turkey,163.0,31.0,0.19,2008,0.0,Standard Peer-Reviewed
+HPCA2000,HPCA 2000,2000-01-08 00:00:00+00:00,ComputerSystemsOrganization,France,163.0,35.0,0.215,2000,0.0,Standard Peer-Reviewed
+ISCA2000,ISCA 2000,2000-06-10 00:00:00+00:00,ComputerSystemsOrganization,Canada,163.0,29.0,0.178,2000,0.0,Standard Peer-Reviewed
+ISCA2001,ISCA 2001,2001-06-30 00:00:00+00:00,ComputerSystemsOrganization,Sweden,163.0,24.0,0.147,2001,0.0,Standard Peer-Reviewed
+EuroCrypt2010,EuroCrypt 2010,2010-05-30 00:00:00+00:00,SecurityAndPrivacy,France,188.0,35.0,0.186,2010,0.0,Standard Peer-Reviewed
+EuroCrypt2011,EuroCrypt 2011,2011-05-15 00:00:00+00:00,SecurityAndPrivacy,Estonia,167.0,31.0,0.186,2011,0.0,Standard Peer-Reviewed
+POPL2006,POPL 2006,2006-01-11 00:00:00+00:00,SoftwareEngineering,United_States,167.0,33.0,0.2,2006,0.0,Standard Peer-Reviewed
+EuroCrypt2015,EuroCrypt 2015,2015-04-26 00:00:00+00:00,SecurityAndPrivacy,Bulgaria,194.0,57.0,0.294,2015,0.0,Standard Peer-Reviewed
+FSE1997,FSE 1997,1997-09-22 00:00:00+00:00,SoftwareEngineering,Switzerland,194.0,27.0,0.139,1997,0.0,Standard Peer-Reviewed
+FSE1998,FSE 1998,1998-11-03 00:00:00+00:00,SoftwareEngineering,United_States,194.0,39.0,0.201,1998,0.0,Standard Peer-Reviewed
+ISCA2005,ISCA 2005,2005-06-04 00:00:00+00:00,ComputerSystemsOrganization,United_States,194.0,45.0,0.232,2005,0.0,Standard Peer-Reviewed
+PERCOM2017,PERCOM 2017,2017-03-13 00:00:00+00:00,ComputerSystemsOrganization,United_States,194.0,32.0,0.165,2017,0.0,Standard Peer-Reviewed
+PLDI2009,PLDI 2009,2009-06-15 00:00:00+00:00,SoftwareEngineering,Ireland,194.0,41.0,0.211,2009,0.0,Standard Peer-Reviewed
+UAI2007,UAI 2007,2007-07-17 00:00:00+00:00,ArtificialIntelligence,Canada,194.0,58.0,0.299,2007,0.0,Standard Peer-Reviewed
+EuroGP2000,EuroGP 2000,2000-04-15 00:00:00+00:00,ArtificialIntelligence,England,39.0,14.0,0.359,2000,0.0,Standard Peer-Reviewed
+SP1984,S&P 1984,1984-04-29 00:00:00+00:00,SecurityAndPrivacy,United_States,39.0,25.0,0.641,1984,0.0,Standard Peer-Reviewed
+EuroGP2003,EuroGP 2003,2003-04-14 00:00:00+00:00,ArtificialIntelligence,England,61.0,24.0,0.393,2003,0.0,Standard Peer-Reviewed
+EuroGP2004,EuroGP 2004,2004-04-05 00:00:00+00:00,ArtificialIntelligence,Portugal,61.0,19.0,0.311,2004,0.0,Standard Peer-Reviewed
+EuroGP2008,EuroGP 2008,2008-03-26 00:00:00+00:00,ArtificialIntelligence,Italy,61.0,21.0,0.34,2008,0.0,Standard Peer-Reviewed
+SP1999,S&P 1999,1999-05-09 00:00:00+00:00,SecurityAndPrivacy,United_States,61.0,15.0,0.246,1999,0.0,Standard Peer-Reviewed
+EuroGP2014,EuroGP 2014,2014-04-23 00:00:00+00:00,ArtificialIntelligence,Spain,40.0,15.0,0.375,2014,0.0,Standard Peer-Reviewed
+EuroGP2015,EuroGP 2015,2015-04-08 00:00:00+00:00,ArtificialIntelligence,Denmark,36.0,12.0,0.333,2015,0.0,Standard Peer-Reviewed
+EuroGP2016,EuroGP 2016,2016-03-30 00:00:00+00:00,ArtificialIntelligence,Portugal,36.0,11.0,0.306,2016,0.0,Standard Peer-Reviewed
+EuroGP2018,EuroGP 2018,2018-04-04 00:00:00+00:00,ArtificialIntelligence,Italy,36.0,11.0,0.306,2018,0.0,Standard Peer-Reviewed
+EuroGP2017,EuroGP 2017,2017-04-19 00:00:00+00:00,ArtificialIntelligence,Netherlands,32.0,14.0,0.438,2017,0.0,Standard Peer-Reviewed
+Eurosys2008,EuroSys 2008,2008-03-31 00:00:00+00:00,ComputerSystemsOrganization,Scotland,131.0,24.0,0.18,2008,0.0,Standard Peer-Reviewed
+HPCA1996,HPCA 1996,1996-02-03 00:00:00+00:00,ComputerSystemsOrganization,United_States,131.0,29.0,0.221,1996,0.0,Standard Peer-Reviewed
+ISSAC2004,ISSAC 2004,2004-07-04 00:00:00+00:00,TheoryOfComputations,Spain,131.0,48.0,0.366,2004,0.0,Standard Peer-Reviewed
+PLDI2003,PLDI 2003,2003-06-09 00:00:00+00:00,SoftwareEngineering,United_States,131.0,28.0,0.214,2003,0.0,Standard Peer-Reviewed
+RecSys2015,RecSys 2015,2015-09-16 00:00:00+00:00,InformationSystems,Austria,131.0,28.0,0.214,2015,0.0,Standard Peer-Reviewed
+SP2003,S&P 2003,2003-05-11 00:00:00+00:00,SecurityAndPrivacy,United_States,131.0,19.0,0.145,2003,0.0,Standard Peer-Reviewed
+SPAA2015,SPAA 2015,2015-06-13 00:00:00+00:00,TheoryOfComputations,United_States,131.0,31.0,0.24,2015,0.0,Standard Peer-Reviewed
+Eurosys2009,EuroSys 2009,2009-03-31 00:00:00+00:00,ComputerSystemsOrganization,Germany,149.0,64.0,0.42,2009,0.0,Standard Peer-Reviewed
+PODC1997,PODC 1997,1997-08-21 00:00:00+00:00,SoftwareEngineering,United_States,149.0,46.0,0.309,1997,0.0,Standard Peer-Reviewed
+PODC2002,PODC 2002,2002-07-21 00:00:00+00:00,SoftwareEngineering,United_States,149.0,43.0,0.289,2002,0.0,Standard Peer-Reviewed
+PODC2016,PODC 2016,2016-07-25 00:00:00+00:00,SoftwareEngineering,United_States,149.0,40.0,0.268,2016,0.0,Standard Peer-Reviewed
+USENIX2005,USENIX 2005,2005-07-31 00:00:00+00:00,SoftwareEngineering,United_States,149.0,22.0,0.148,2005,0.0,Standard Peer-Reviewed
+Eurosys2012,EuroSys 2012,2012-04-10 00:00:00+00:00,ComputerSystemsOrganization,Switzerland,179.0,27.0,0.15,2012,0.0,Standard Peer-Reviewed
+PODC2010,PODC 2010,2010-07-25 00:00:00+00:00,SoftwareEngineering,Switzerland,179.0,39.0,0.218,2010,0.0,Standard Peer-Reviewed
+USENIX2006,USENIX 2006,2006-07-31 00:00:00+00:00,SoftwareEngineering,United_States,179.0,22.0,0.123,2006,0.0,Standard Peer-Reviewed
+Eurosys2013,EuroSys 2013,2013-04-14 00:00:00+00:00,ComputerSystemsOrganization,Czech_Republic,143.0,28.0,0.19,2013,0.0,Standard Peer-Reviewed
+Eurosys2014,EuroSys 2014,2014-04-13 00:00:00+00:00,ComputerSystemsOrganization,Netherlands,147.0,27.0,0.18,2014,0.0,Standard Peer-Reviewed
+MOBICOM1998,MOBICOM 1998,1998-10-25 00:00:00+00:00,HumanCenteredComputing,United_States,147.0,27.0,0.184,1998,0.0,Standard Peer-Reviewed
+OOPSLA2003,OOPSLA 2003,2003-10-26 00:00:00+00:00,SoftwareEngineering,United_States,147.0,26.0,0.177,2003,0.0,Standard Peer-Reviewed
+VR2015,IEEE VR 2015,2015-03-23 00:00:00+00:00,HumanCenteredComputing,France,147.0,32.0,0.218,2015,0.0,Standard Peer-Reviewed
+Eurosys2018,EuroSys 2018,2018-04-23 00:00:00+00:00,ComputerSystemsOrganization,Portugal,262.0,43.0,0.164,2018,0.0,Standard Peer-Reviewed
+ISCA2012,ISCA 2012,2012-06-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,262.0,47.0,0.179,2012,0.0,Standard Peer-Reviewed
+ISWC2003,ISWC 2003,2003-10-20 00:00:00+00:00,WorldWideWeb,United_States,262.0,49.0,0.187,2003,0.0,Standard Peer-Reviewed
+UIST2011,UIST 2011,2011-10-16 00:00:00+00:00,ArtificialIntelligence,United_States,262.0,67.0,0.256,2011,0.0,Standard Peer-Reviewed
+FASE2001,FASE 2001,2001-04-02 00:00:00+00:00,SoftwareEngineering,Italy,74.0,22.0,0.297,2001,0.0,Standard Peer-Reviewed
+ICFP2006,ICFP 2006,2006-09-18 00:00:00+00:00,SoftwareEngineering,United_States,74.0,24.0,0.32,2006,0.0,Standard Peer-Reviewed
+SBAC-PAD2002,SBAC-PAD 2002,2002-10-28 00:00:00+00:00,ComputerSystemsOrganization,Brazil,74.0,25.0,0.337,2002,0.0,Standard Peer-Reviewed
+FASE2003,FASE 2003,2003-04-07 00:00:00+00:00,SoftwareEngineering,Poland,89.0,20.0,0.225,2003,0.0,Standard Peer-Reviewed
+IJCAR2010,IJCAR 2010,2010-07-16 00:00:00+00:00,TheoryOfComputations,England,89.0,40.0,0.449,2010,0.0,Standard Peer-Reviewed
+InfoVis2004,Infovis 2004,2004-10-10 00:00:00+00:00,HumanCenteredComputing,United_States,89.0,27.0,0.3,2004,0.0,Standard Peer-Reviewed
+SP1992,S&P 1992,1992-05-04 00:00:00+00:00,SecurityAndPrivacy,United_States,89.0,21.0,0.236,1992,0.0,Standard Peer-Reviewed
+FASE2005,FASE 2005,2005-04-04 00:00:00+00:00,SoftwareEngineering,England,99.0,22.0,0.222,2005,0.0,Standard Peer-Reviewed
+FASE2011,FASE 2011,2011-03-26 00:00:00+00:00,SoftwareEngineering,Germany,99.0,29.0,0.293,2011,0.0,Standard Peer-Reviewed
+ICFP2008,ICFP 2008,2008-09-22 00:00:00+00:00,SoftwareEngineering,Canada,99.0,35.0,0.35,2008,0.0,Standard Peer-Reviewed
+ICFP2010,ICFP 2010,2010-09-27 00:00:00+00:00,SoftwareEngineering,United_States,99.0,33.0,0.33,2010,0.0,Standard Peer-Reviewed
+ISSAC2008,ISSAC 2008,2008-07-20 00:00:00+00:00,TheoryOfComputations,Austria,99.0,40.0,0.404,2008,0.0,Standard Peer-Reviewed
+PODS2001,PODS 2001,2001-05-21 00:00:00+00:00,InformationSystems,United_States,99.0,26.0,0.263,2001,0.0,Standard Peer-Reviewed
+FASE2007,FASE 2007,2007-04-22 00:00:00+00:00,SoftwareEngineering,Portugal,141.0,30.0,0.213,2007,0.0,Standard Peer-Reviewed
+FSE1999,FSE 1999,1999-09-06 00:00:00+00:00,SoftwareEngineering,France,141.0,29.0,0.206,1999,0.0,Standard Peer-Reviewed
+HPCA1998,HPCA 1998,1998-01-31 00:00:00+00:00,ComputerSystemsOrganization,United_States,141.0,26.0,0.184,1998,0.0,Standard Peer-Reviewed
+HPCA2003,HPCA 2003,2003-02-08 00:00:00+00:00,ComputerSystemsOrganization,United_States,141.0,31.0,0.22,2003,0.0,Standard Peer-Reviewed
+ISMAR2011,ISMAR 2011,2011-10-26 00:00:00+00:00,HumanCenteredComputing,Switzerland,141.0,26.0,0.184,2011,0.0,Standard Peer-Reviewed
+InfoVis2009,Infovis 2009,2009-10-11 00:00:00+00:00,HumanCenteredComputing,United_States,141.0,37.0,0.26,2009,0.0,Standard Peer-Reviewed
+PODC2014,PODC 2014,2014-07-15 00:00:00+00:00,SoftwareEngineering,France,141.0,39.0,0.277,2014,0.0,Standard Peer-Reviewed
+FASE2013,FASE 2013,2013-03-16 00:00:00+00:00,SoftwareEngineering,Italy,112.0,26.0,0.232,2013,0.0,Standard Peer-Reviewed
+IJCAR2001,IJCAR 2001,2001-06-18 00:00:00+00:00,TheoryOfComputations,Italy,112.0,56.0,0.5,2001,0.0,Standard Peer-Reviewed
+PLDI1996,PLDI 1996,1996-05-21 00:00:00+00:00,SoftwareEngineering,United_States,112.0,28.0,0.25,1996,0.0,Standard Peer-Reviewed
+FASE2014,FASE 2014,2014-04-05 00:00:00+00:00,SoftwareEngineering,France,125.0,28.0,0.224,2014,0.0,Standard Peer-Reviewed
+FSE2006,FSE 2006,2006-11-05 00:00:00+00:00,SoftwareEngineering,Provisional_Government_of_Oregon,125.0,30.0,0.24,2006,0.0,Standard Peer-Reviewed
+ICWE2016,ICWE 2016,2016-06-06 00:00:00+00:00,WorldWideWeb,Switzerland,125.0,19.0,0.21,2016,0.0,Standard Peer-Reviewed
+NDSS2007,NDSS 2007,2007-02-28 00:00:00+00:00,SecurityAndPrivacy,United_States,125.0,18.0,0.144,2007,0.0,Standard Peer-Reviewed
+OOPSLA2002,OOPSLA 2002,2002-11-04 00:00:00+00:00,SoftwareEngineering,United_States,125.0,25.0,0.2,2002,0.0,Standard Peer-Reviewed
+RecSys2017,RecSys 2017,2017-08-27 00:00:00+00:00,InformationSystems,Italy,125.0,26.0,0.208,2017,0.0,Standard Peer-Reviewed
+STOC1980,STOC 1980,1980-04-28 00:00:00+00:00,TheoryOfComputations,United_States,125.0,47.0,0.376,1980,0.0,Standard Peer-Reviewed
+FOCS1995,FOCS 1995,1995-10-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,196.0,70.0,0.357,1995,0.0,Standard Peer-Reviewed
+InfoVis2014,Infovis 2014,2014-11-09 00:00:00+00:00,HumanCenteredComputing,France,196.0,45.0,0.23,2014,0.0,Standard Peer-Reviewed
+PERCOM2015,PERCOM 2015,2015-03-23 00:00:00+00:00,ComputerSystemsOrganization,United_States,196.0,29.0,0.148,2015,0.0,Standard Peer-Reviewed
+STOC1989,STOC 1989,1989-05-14 00:00:00+00:00,TheoryOfComputations,United_States,196.0,56.0,0.286,1989,0.0,Standard Peer-Reviewed
+UBICOMP2017,UBICOMP 2017,2017-09-11 00:00:00+00:00,SecurityAndPrivacy,United_States,196.0,38.0,0.194,2017,0.0,Standard Peer-Reviewed
+FOCS1999,FOCS 1999,1999-10-17 00:00:00+00:00,ComputerSystemsOrganization,United_States,218.0,67.0,0.307,1999,0.0,Standard Peer-Reviewed
+FOCS2001,FOCS 2001,2001-10-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,2014.0,63.0,0.031,2001,1.0,High-Acceptance / Mega-Venue
+FOCS2002,FOCS 2002,2002-11-16 00:00:00+00:00,ComputerSystemsOrganization,Canada,279.0,77.0,0.276,2002,0.0,Standard Peer-Reviewed
+SIGMOD1994,SIGMOD 1994,1994-05-24 00:00:00+00:00,InformationSystems,United_States,279.0,40.0,0.143,1994,0.0,Standard Peer-Reviewed
+STOC2010,STOC 2010,2010-06-05 00:00:00+00:00,TheoryOfComputations,United_States,279.0,78.0,0.28,2010,0.0,Standard Peer-Reviewed
+FOCS2008,FOCS 2008,2008-10-25 00:00:00+00:00,ComputerSystemsOrganization,United_States,276.0,79.0,0.286,2008,0.0,Standard Peer-Reviewed
+TheWeb1997,TheWeb 1997,1997-04-07 00:00:00+00:00,WorldWideWeb,United_States,276.0,62.0,0.22,1997,0.0,Standard Peer-Reviewed
+FOCS2009,FOCS 2009,2009-10-24 00:00:00+00:00,ComputerSystemsOrganization,United_States,249.0,75.0,0.301,2009,0.0,Standard Peer-Reviewed
+HPCA2013,HPCA 2013,2013-02-23 00:00:00+00:00,ComputerSystemsOrganization,China,249.0,51.0,0.205,2013,0.0,Standard Peer-Reviewed
+JCDL2004,,2004-06-07 00:00:00+00:00,,,249.0,61.0,0.24,2004,0.0,Standard Peer-Reviewed
+SP2008,S&P 2008,2008-05-18 00:00:00+00:00,SecurityAndPrivacy,United_States,249.0,28.0,0.112,2008,0.0,Standard Peer-Reviewed
+FOCS2011,FOCS 2011,2011-10-22 00:00:00+00:00,ComputerSystemsOrganization,United_States,292.0,85.0,0.291,2011,0.0,Standard Peer-Reviewed
+UAI2014,UAI 2014,2014-07-23 00:00:00+00:00,ArtificialIntelligence,Canada,292.0,94.0,0.322,2014,0.0,Standard Peer-Reviewed
+FOCS2013,FOCS 2013,2013-10-27 00:00:00+00:00,ComputerSystemsOrganization,United_States,281.0,79.0,0.281,2013,0.0,Standard Peer-Reviewed
+MOBICOM2001,MOBICOM 2001,2001-07-16 00:00:00+00:00,HumanCenteredComputing,Italy,281.0,30.0,0.107,2001,0.0,Standard Peer-Reviewed
+MOBICOM2003,MOBICOM 2003,2003-09-14 00:00:00+00:00,HumanCenteredComputing,United_States,281.0,27.0,0.096,2003,0.0,Standard Peer-Reviewed
+FOCS2014,FOCS 2014,2014-10-18 00:00:00+00:00,ComputerSystemsOrganization,United_States,273.0,68.0,0.249,2014,0.0,Standard Peer-Reviewed
+FOCS2015,FOCS 2015,2015-10-18 00:00:00+00:00,ComputerSystemsOrganization,United_States,314.0,86.0,0.274,2015,0.0,Standard Peer-Reviewed
+PODC2004,PODC 2004,2004-07-25 00:00:00+00:00,SoftwareEngineering,Canada,314.0,75.0,0.239,2004,0.0,Standard Peer-Reviewed
+FOGA2007,FOGA 2007,2007-01-08 00:00:00+00:00,ArtificialIntelligence,United_States,22.0,12.0,0.545,2007,0.0,Standard Peer-Reviewed
+FOGA2009,FOGA 2009,2009-01-09 00:00:00+00:00,ArtificialIntelligence,United_States,30.0,18.0,0.6,2009,0.0,Standard Peer-Reviewed
+FOGA2011,FOGA 2011,2011-01-05 00:00:00+00:00,ArtificialIntelligence,Austria,35.0,21.0,0.6,2011,0.0,Standard Peer-Reviewed
+RecSys2007,RecSys 2007,2007-10-19 00:00:00+00:00,InformationSystems,United_States,35.0,16.0,0.457,2007,0.0,Standard Peer-Reviewed
+FOGA2015,FOGA 2015,2015-01-17 00:00:00+00:00,ArtificialIntelligence,England,26.0,16.0,0.615,2015,0.0,Standard Peer-Reviewed
+FOGA2017,FOGA 2017,2017-01-12 00:00:00+00:00,ArtificialIntelligence,Denmark,23.0,13.0,0.565,2017,0.0,Standard Peer-Reviewed
+FSE2007,FSE 2007,2007-09-03 00:00:00+00:00,SoftwareEngineering,Croatia,251.0,42.0,0.17,2007,0.0,Standard Peer-Reviewed
+FSE2013,FSE 2013,2013-08-18 00:00:00+00:00,SoftwareEngineering,Republics_of_Russia,251.0,51.0,0.2,2013,0.0,Standard Peer-Reviewed
+KR2008,KR 2008,2008-09-16 00:00:00+00:00,ArtificialIntelligence,Australia,251.0,69.0,0.275,2008,0.0,Standard Peer-Reviewed
+SP2006,S&P 2006,2006-05-21 00:00:00+00:00,SecurityAndPrivacy,United_States,251.0,32.0,0.127,2006,0.0,Standard Peer-Reviewed
+UBICOMP2009,UBICOMP 2009,2009-09-30 00:00:00+00:00,SecurityAndPrivacy,United_States,251.0,31.0,0.12,2009,0.0,Standard Peer-Reviewed
+FSE2011,FSE 2011,2011-09-05 00:00:00+00:00,SoftwareEngineering,Hungary,203.0,34.0,0.168,2011,0.0,Standard Peer-Reviewed
+OOPSLA2016,OOPSLA 2016,2016-10-30 00:00:00+00:00,SoftwareEngineering,Netherlands,203.0,52.0,0.256,2016,0.0,Standard Peer-Reviewed
+FSE2016,FSE 2016,2016-11-13 00:00:00+00:00,SoftwareEngineering,United_States,1149.0,201.0,0.17,2016,2.0,Elite / Highly Selective
+FSE2017,FSE 2017,2017-09-04 00:00:00+00:00,SoftwareEngineering,Germany,295.0,72.0,0.244,2017,0.0,Standard Peer-Reviewed
+NDSS2014,NDSS 2014,2014-02-23 00:00:00+00:00,SecurityAndPrivacy,United_States,295.0,55.0,0.186,2014,0.0,Standard Peer-Reviewed
+HPCA2002,HPCA 2002,2002-02-02 00:00:00+00:00,ComputerSystemsOrganization,United_States,130.0,26.0,0.2,2002,0.0,Standard Peer-Reviewed
+PLDI1999,PLDI 1999,1999-05-01 00:00:00+00:00,SoftwareEngineering,United_States,130.0,26.0,0.2,1999,0.0,Standard Peer-Reviewed
+SPAA2007,SPAA 2007,2007-06-09 00:00:00+00:00,TheoryOfComputations,United_States,130.0,37.0,0.28,2007,0.0,Standard Peer-Reviewed
+SPAA2013,SPAA 2013,2013-07-23 00:00:00+00:00,TheoryOfComputations,Canada,130.0,31.0,0.24,2013,0.0,Standard Peer-Reviewed
+USENIX2002,USENIX 2002,2002-08-05 00:00:00+00:00,SoftwareEngineering,United_States,130.0,22.0,0.169,2002,0.0,Standard Peer-Reviewed
+VR2004,IEEE VR 2004,2004-03-27 00:00:00+00:00,HumanCenteredComputing,United_States,130.0,26.0,0.2,2004,0.0,Standard Peer-Reviewed
+VR2007,IEEE VR 2007,2007-03-10 00:00:00+00:00,HumanCenteredComputing,United_States,130.0,26.0,0.2,2007,0.0,Standard Peer-Reviewed
+HPCA2009,HPCA 2009,2009-02-14 00:00:00+00:00,ComputerSystemsOrganization,United_States,184.0,35.0,0.19,2009,0.0,Standard Peer-Reviewed
+ISCA2003,ISCA 2003,2003-06-09 00:00:00+00:00,ComputerSystemsOrganization,United_States,184.0,36.0,0.196,2003,0.0,Standard Peer-Reviewed
+PLDI2008,PLDI 2008,2008-06-07 00:00:00+00:00,SoftwareEngineering,United_States,184.0,34.0,0.185,2008,0.0,Standard Peer-Reviewed
+USENIX2004,USENIX 2004,2004-08-09 00:00:00+00:00,SoftwareEngineering,United_States,184.0,22.0,0.12,2004,0.0,Standard Peer-Reviewed
+HPCA2014,HPCA 2014,2014-02-15 00:00:00+00:00,ComputerSystemsOrganization,United_States,215.0,55.0,0.256,2014,0.0,Standard Peer-Reviewed
+ISWC2006,ISWC 2006,2006-11-05 00:00:00+00:00,WorldWideWeb,United_States,215.0,52.0,0.242,2006,0.0,Standard Peer-Reviewed
+OSDI2012,OSDI 2012,2012-10-08 00:00:00+00:00,SoftwareEngineering,United_States,215.0,25.0,0.116,2012,0.0,Standard Peer-Reviewed
+ICCV1988,ICCV 1988,1988-12-05 00:00:00+00:00,ArtificialIntelligence,United_States,306.0,89.0,0.291,1988,0.0,Standard Peer-Reviewed
+SP2011,S&P 2011,2011-05-22 00:00:00+00:00,SecurityAndPrivacy,United_States,306.0,34.0,0.111,2011,0.0,Standard Peer-Reviewed
+ICCV1990,ICCV 1990,1990-12-04 00:00:00+00:00,ArtificialIntelligence,Japan,420.0,102.0,0.243,1990,2.0,Elite / Highly Selective
+ICCV1993,ICCV 1993,1993-05-11 00:00:00+00:00,ArtificialIntelligence,Germany,380.0,101.0,0.266,1993,0.0,Standard Peer-Reviewed
+ICSE2010,ICSE 2010,2010-05-02 00:00:00+00:00,SoftwareEngineering,South_Africa,380.0,52.0,0.137,2010,0.0,Standard Peer-Reviewed
+ICCV2001,ICCV 2001,2001-07-07 00:00:00+00:00,ArtificialIntelligence,Canada,596.0,205.0,0.344,2001,2.0,Elite / Highly Selective
+ICCV2003,ICCV 2003,2003-10-14 00:00:00+00:00,ArtificialIntelligence,France,966.0,199.0,0.206,2003,2.0,Elite / Highly Selective
+TheWeb2017,TheWeb 2017,2017-04-03 00:00:00+00:00,WorldWideWeb,Australia,966.0,164.0,0.17,2017,2.0,Elite / Highly Selective
+ICCV2005,ICCV 2005,2005-10-17 00:00:00+00:00,ArtificialIntelligence,China,1230.0,244.0,0.198,2005,1.0,High-Acceptance / Mega-Venue
+ICCV2007,ICCV 2007,2007-10-14 00:00:00+00:00,ArtificialIntelligence,Brazil,1190.0,281.0,0.236,2007,2.0,Elite / Highly Selective
+ICCV2009,ICCV 2009,2009-09-27 00:00:00+00:00,ArtificialIntelligence,Japan,1327.0,308.0,0.232,2009,1.0,High-Acceptance / Mega-Venue
+ICCV2011,ICCV 2011,2011-11-06 00:00:00+00:00,ArtificialIntelligence,Spain,1433.0,339.0,0.237,2011,1.0,High-Acceptance / Mega-Venue
+ICCV2013,ICCV 2013,2013-12-01 00:00:00+00:00,ArtificialIntelligence,Australia,1629.0,454.0,0.279,2013,1.0,High-Acceptance / Mega-Venue
+ICCV2015,ICCV 2015,2015-12-07 00:00:00+00:00,ArtificialIntelligence,Chile,1698.0,525.0,0.309,2015,1.0,High-Acceptance / Mega-Venue
+ICCV2017,ICCV 2017,2017-10-22 00:00:00+00:00,ArtificialIntelligence,Italy,2143.0,621.0,0.29,2017,1.0,High-Acceptance / Mega-Venue
+ICDE1993,ICDE,1993-02-19 00:00:00+00:00,SoftwareEngineering,Austria,286.0,72.0,0.252,1993,0.0,Standard Peer-Reviewed
+ICDE1995,ICDE,1995-03-06 00:00:00+00:00,SoftwareEngineering,Taiwan,233.0,56.0,0.24,1995,0.0,Standard Peer-Reviewed
+ICWS2005,ICWS 2005,2005-07-11 00:00:00+00:00,WorldWideWeb,United_States,233.0,44.0,0.189,2005,0.0,Standard Peer-Reviewed
+MOBICOM2007,MOBICOM 2007,2007-09-09 00:00:00+00:00,HumanCenteredComputing,United_States,233.0,26.0,0.111,2007,0.0,Standard Peer-Reviewed
+MOBICOM2010,MOBICOM 2010,2010-09-20 00:00:00+00:00,HumanCenteredComputing,United_States,233.0,33.0,0.142,2010,0.0,Standard Peer-Reviewed
+PERCOM2005,PERCOM 2005,2005-03-08 00:00:00+00:00,ComputerSystemsOrganization,United_States,233.0,38.0,0.163,2005,0.0,Standard Peer-Reviewed
+UAI2013,UAI 2013,2013-07-12 00:00:00+00:00,ArtificialIntelligence,United_States,233.0,73.0,0.313,2013,0.0,Standard Peer-Reviewed
+ICDE2003,ICDE,2003-03-05 00:00:00+00:00,SoftwareEngineering,India,378.0,51.0,0.135,2003,0.0,Standard Peer-Reviewed
+ICDE2004,ICDE,2004-03-30 00:00:00+00:00,SoftwareEngineering,United_States,441.0,63.0,0.143,2004,2.0,Elite / Highly Selective
+ICSE2011,ICSE 2011,2011-05-21 00:00:00+00:00,SoftwareEngineering,United_States,441.0,62.0,0.141,2011,2.0,Elite / Highly Selective
+ICDE2005,ICDE,2005-04-05 00:00:00+00:00,SoftwareEngineering,Japan,521.0,67.0,0.129,2005,2.0,Elite / Highly Selective
+PKDD2008,ECML PKDD 2008,2008-09-15 00:00:00+00:00,InformationSystems,Belgium,521.0,100.0,0.192,2008,2.0,Elite / Highly Selective
+ICDE2006,ICDE,2006-04-03 00:00:00+00:00,SoftwareEngineering,United_States,460.0,89.0,0.193,2006,2.0,Elite / Highly Selective
+PKDD2016,ECML PKDD 2016,2016-09-19 00:00:00+00:00,InformationSystems,Italy,460.0,139.0,0.302,2016,2.0,Elite / Highly Selective
+ICDE2007,ICDE,2007-04-16 00:00:00+00:00,SoftwareEngineering,Turkey,659.0,122.0,0.185,2007,2.0,Elite / Highly Selective
+VLDB2012,VLDB 2012,2012-08-27 00:00:00+00:00,InformationSystems,Turkey,659.0,134.0,0.203,2012,2.0,Elite / Highly Selective
+ICDE2008,ICDE,2008-04-07 00:00:00+00:00,SoftwareEngineering,Mexico,617.0,75.0,0.122,2008,2.0,Elite / Highly Selective
+ICDE2009,ICDE,2009-03-29 00:00:00+00:00,SoftwareEngineering,China,665.0,148.0,0.223,2009,2.0,Elite / Highly Selective
+ICDE2011,ICDE,2011-04-11 00:00:00+00:00,SoftwareEngineering,Germany,584.0,129.0,0.221,2011,2.0,Elite / Highly Selective
+ICDE2013,ICDE,2013-04-08 00:00:00+00:00,SoftwareEngineering,Australia,532.0,130.0,0.244,2013,2.0,Elite / Highly Selective
+ICDE2015,ICDE,2015-04-13 00:00:00+00:00,SoftwareEngineering,South_Korea,541.0,147.0,0.272,2015,2.0,Elite / Highly Selective
+ICDE2016,ICDE,2016-05-16 00:00:00+00:00,SoftwareEngineering,Finland,529.0,134.0,0.253,2016,2.0,Elite / Highly Selective
+ICDE2017,ICDE,2017-04-19 00:00:00+00:00,SoftwareEngineering,United_States,525.0,113.0,0.215,2017,2.0,Elite / Highly Selective
+SIGMOD2017,SIGMOD 2017,2017-05-14 00:00:00+00:00,InformationSystems,United_States,525.0,105.0,0.2,2017,2.0,Elite / Highly Selective
+ICFP1997,ICFP 1997,1997-06-09 00:00:00+00:00,SoftwareEngineering,Netherlands,78.0,25.0,0.32,1997,0.0,Standard Peer-Reviewed
+InfoVis2002,Infovis 2002,2002-10-27 00:00:00+00:00,HumanCenteredComputing,United_States,78.0,23.0,0.3,2002,0.0,Standard Peer-Reviewed
+ICFP1998,ICFP 1998,1998-09-26 00:00:00+00:00,SoftwareEngineering,United_States,77.0,30.0,0.39,1998,0.0,Standard Peer-Reviewed
+SBAC-PAD2016,SBAC-PAD 2016,2016-10-26 00:00:00+00:00,ComputerSystemsOrganization,United_States,77.0,27.0,0.35,2016,0.0,Standard Peer-Reviewed
+ICFP2001,ICFP 2001,2001-09-03 00:00:00+00:00,SoftwareEngineering,Italy,66.0,23.0,0.35,2001,0.0,Standard Peer-Reviewed
+NDSS2001,NDSS 2001,2001-02-08 00:00:00+00:00,SecurityAndPrivacy,United_States,66.0,16.0,0.242,2001,0.0,Standard Peer-Reviewed
+ICFP2003,ICFP 2003,2003-08-25 00:00:00+00:00,SoftwareEngineering,Sweden,95.0,24.0,0.25,2003,0.0,Standard Peer-Reviewed
+ISWC2002,ISWC 2002,2002-06-09 00:00:00+00:00,WorldWideWeb,Italy,95.0,27.0,0.284,2002,0.0,Standard Peer-Reviewed
+JCDL2013,,2013-07-22 00:00:00+00:00,,,95.0,28.0,0.29,2013,0.0,Standard Peer-Reviewed
+SP2002,S&P 2002,2002-05-12 00:00:00+00:00,SecurityAndPrivacy,United_States,95.0,21.0,0.221,2002,0.0,Standard Peer-Reviewed
+STOC1974,STOC 1974,1974-04-30 00:00:00+00:00,TheoryOfComputations,United_States,95.0,35.0,0.368,1974,0.0,Standard Peer-Reviewed
+VR2012,IEEE VR 2012,2012-03-04 00:00:00+00:00,HumanCenteredComputing,United_States,95.0,15.0,0.158,2012,0.0,Standard Peer-Reviewed
+ICFP2016,ICFP 2016,2016-09-18 00:00:00+00:00,SoftwareEngineering,Japan,118.0,37.0,0.314,2016,0.0,Standard Peer-Reviewed
+PODC2001,PODC 2001,2001-08-26 00:00:00+00:00,SoftwareEngineering,United_States,118.0,39.0,0.331,2001,0.0,Standard Peer-Reviewed
+SIGGRAPH1984,SIGGRAPH 1984,1984-07-23 00:00:00+00:00,HumanCenteredComputing,United_States,118.0,41.0,0.35,1984,0.0,Standard Peer-Reviewed
+PODS1997,PODS 1997,1997-05-12 00:00:00+00:00,InformationSystems,United_States,118.0,23.0,0.195,1997,0.0,Standard Peer-Reviewed
+ICONIP2003,ICONIP 2003,2003-06-26 00:00:00+00:00,ArtificialIntelligence,Turkey,346.0,138.0,0.399,2003,0.0,Standard Peer-Reviewed
+ICONIP2004,ICONIP 2004,2004-11-22 00:00:00+00:00,ArtificialIntelligence,India,470.0,210.0,0.447,2004,2.0,Elite / Highly Selective
+ICONIP2010,ICONIP 2010,2010-11-22 00:00:00+00:00,ArtificialIntelligence,Australia,470.0,146.0,0.311,2010,2.0,Elite / Highly Selective
+ICONIP2006,ICONIP 2006,2006-10-03 00:00:00+00:00,ArtificialIntelligence,China,1175.0,386.0,0.33,2006,2.0,Elite / Highly Selective
+ICONIP2014,ICONIP 2014,2014-11-03 00:00:00+00:00,ArtificialIntelligence,Malaysia,375.0,231.0,0.616,2014,0.0,Standard Peer-Reviewed
+ICONIP2015,ICONIP 2015,2015-11-09 00:00:00+00:00,ArtificialIntelligence,Turkey,375.0,231.0,0.616,2015,0.0,Standard Peer-Reviewed
+SIGMOD2011,SIGMOD 2011,2011-06-12 00:00:00+00:00,InformationSystems,Greece,375.0,87.0,0.232,2011,0.0,Standard Peer-Reviewed
+ICONIP2017,ICONIP 2017,2017-10-14 00:00:00+00:00,ArtificialIntelligence,China,856.0,563.0,0.658,2017,2.0,Elite / Highly Selective
+ICSC2012,ICSC 2012,2012-09-19 00:00:00+00:00,WorldWideWeb,Italy,906.0,298.0,0.329,2012,2.0,Elite / Highly Selective
+ICSC2017,ICSC 2017,2017-01-30 00:00:00+00:00,WorldWideWeb,United_States,129.0,26.0,0.201,2017,0.0,Standard Peer-Reviewed
+PODC2011,PODC 2011,2011-06-06 00:00:00+00:00,SoftwareEngineering,United_States,129.0,34.0,0.264,2011,0.0,Standard Peer-Reviewed
+RecSys2010,RecSys 2010,2010-09-26 00:00:00+00:00,InformationSystems,Spain,129.0,25.0,0.194,2010,0.0,Standard Peer-Reviewed
+UIST2002,UIST 2002,2002-11-27 00:00:00+00:00,ArtificialIntelligence,France,129.0,24.0,0.186,2002,0.0,Standard Peer-Reviewed
+UIST2007,UIST 2007,2007-10-07 00:00:00+00:00,ArtificialIntelligence,United_States,129.0,24.0,0.186,2007,0.0,Standard Peer-Reviewed
+ICSC2018,ICSC 2018,2018-01-31 00:00:00+00:00,WorldWideWeb,United_States,502.0,105.0,0.21,2018,2.0,Elite / Highly Selective
+ICSE1997,ICSE 1997,1997-05-17 00:00:00+00:00,SoftwareEngineering,United_States,219.0,50.0,0.228,1997,0.0,Standard Peer-Reviewed
+SIGIR2002,SIGIR 2002,2002-08-11 00:00:00+00:00,InformationSystems,Finland,219.0,44.0,0.2,2002,0.0,Standard Peer-Reviewed
+ICSE1998,ICSE 1998,1998-04-19 00:00:00+00:00,SoftwareEngineering,Japan,209.0,41.0,0.196,1998,0.0,Standard Peer-Reviewed
+POPL2011,POPL 2011,2011-01-26 00:00:00+00:00,SoftwareEngineering,United_States,209.0,49.0,0.23,2011,0.0,Standard Peer-Reviewed
+ICSE1999,ICSE 1999,1999-05-16 00:00:00+00:00,SoftwareEngineering,United_States,269.0,50.0,0.186,1999,0.0,Standard Peer-Reviewed
+ICWS2008,ICWS 2008,2008-09-12 00:00:00+00:00,WorldWideWeb,China,269.0,43.0,0.16,2008,0.0,Standard Peer-Reviewed
+PKDD2004,ECML PKDD 2004,2004-09-20 00:00:00+00:00,InformationSystems,Italy,269.0,39.0,0.145,2004,0.0,Standard Peer-Reviewed
+ICSE2001,ICSE 2001,2001-05-12 00:00:00+00:00,SoftwareEngineering,Canada,368.0,47.0,0.128,2001,0.0,Standard Peer-Reviewed
+SIGIR2005,SIGIR 2005,2005-08-15 00:00:00+00:00,InformationSystems,Brazil,368.0,71.0,0.19,2005,0.0,Standard Peer-Reviewed
+WSDM2016,WSDM 2016,2016-02-22 00:00:00+00:00,WorldWideWeb,United_States,368.0,67.0,0.18,2016,0.0,Standard Peer-Reviewed
+ICSE2002,ICSE 2002,2002-05-19 00:00:00+00:00,SoftwareEngineering,United_States,303.0,48.0,0.158,2002,0.0,Standard Peer-Reviewed
+PLDI2015,PLDI 2015,2015-06-13 00:00:00+00:00,SoftwareEngineering,United_States,303.0,58.0,0.191,2015,0.0,Standard Peer-Reviewed
+SIGGRAPH1998,SIGGRAPH 1998,1998-07-19 00:00:00+00:00,HumanCenteredComputing,United_States,303.0,45.0,0.15,1998,0.0,Standard Peer-Reviewed
+STOC2012,STOC 2012,2012-05-19 00:00:00+00:00,TheoryOfComputations,United_States,303.0,89.0,0.294,2012,0.0,Standard Peer-Reviewed
+ICSE2003,ICSE 2003,2003-05-03 00:00:00+00:00,SoftwareEngineering,United_States,324.0,42.0,0.13,2003,0.0,Standard Peer-Reviewed
+UIST2017,UIST 2017,2017-10-22 00:00:00+00:00,ArtificialIntelligence,Canada,324.0,73.0,0.225,2017,0.0,Standard Peer-Reviewed
+ICSE2004,ICSE 2004,2004-05-23 00:00:00+00:00,SoftwareEngineering,England,436.0,58.0,0.133,2004,2.0,Elite / Highly Selective
+ICSE2005,ICSE 2005,2005-05-15 00:00:00+00:00,SoftwareEngineering,United_States,313.0,44.0,0.141,2005,0.0,Standard Peer-Reviewed
+ICSE2006,ICSE 2006,2006-05-20 00:00:00+00:00,SoftwareEngineering,China,395.0,36.0,0.091,2006,2.0,Elite / Highly Selective
+ICSE2007,ICSE 2007,2007-05-19 00:00:00+00:00,SoftwareEngineering,United_States,334.0,49.0,0.147,2007,0.0,Standard Peer-Reviewed
+ICSE2008,ICSE 2008,2008-05-10 00:00:00+00:00,SoftwareEngineering,Germany,371.0,56.0,0.151,2008,0.0,Standard Peer-Reviewed
+ICSE2009,ICSE 2009,2009-05-16 00:00:00+00:00,SoftwareEngineering,Canada,405.0,50.0,0.123,2009,2.0,Elite / Highly Selective
+ICSE2012,ICSE 2012,2012-06-02 00:00:00+00:00,SoftwareEngineering,Switzerland,408.0,87.0,0.213,2012,2.0,Elite / Highly Selective
+ICSE2013,ICSE 2013,2013-05-18 00:00:00+00:00,SoftwareEngineering,United_States,461.0,85.0,0.184,2013,2.0,Elite / Highly Selective
+SIGGRAPH2005,SIGGRAPH 2005,2005-07-31 00:00:00+00:00,HumanCenteredComputing,United_States,461.0,98.0,0.21,2005,2.0,Elite / Highly Selective
+SIGMOD2018,SIGMOD 2018,2018-06-10 00:00:00+00:00,InformationSystems,United_States,461.0,90.0,0.195,2018,2.0,Elite / Highly Selective
+ICSE2014,ICSE 2014,2014-05-31 00:00:00+00:00,SoftwareEngineering,India,496.0,99.0,0.2,2014,2.0,Elite / Highly Selective
+ICSE2015,ICSE 2015,2015-05-16 00:00:00+00:00,SoftwareEngineering,Italy,452.0,84.0,0.186,2015,2.0,Elite / Highly Selective
+ICSE2017,ICSE 2017,2017-05-20 00:00:00+00:00,SoftwareEngineering,Argentina,415.0,68.0,0.164,2017,2.0,Elite / Highly Selective
+SIGMOD2015,SIGMOD 2015,2015-05-31 00:00:00+00:00,InformationSystems,Australia,415.0,106.0,0.255,2015,2.0,Elite / Highly Selective
+ICWS2004,ICWS 2004,2004-06-06 00:00:00+00:00,WorldWideWeb,United_States,230.0,66.0,0.287,2004,0.0,Standard Peer-Reviewed
+PLDI2017,PLDI 2017,2017-06-18 00:00:00+00:00,SoftwareEngineering,Spain,230.0,47.0,0.204,2017,0.0,Standard Peer-Reviewed
+STOC2001,STOC 2001,2001-06-06 00:00:00+00:00,TheoryOfComputations,Greece,230.0,83.0,0.361,2001,0.0,Standard Peer-Reviewed
+UBICOMP2005,UBICOMP 2005,2005-09-11 00:00:00+00:00,SecurityAndPrivacy,Japan,230.0,22.0,0.09,2005,0.0,Standard Peer-Reviewed
+ICWS2007,ICWS 2007,2007-07-09 00:00:00+00:00,WorldWideWeb,United_States,267.0,48.0,0.18,2007,0.0,Standard Peer-Reviewed
+OSDI2016,OSDI 2016,2016-10-02 00:00:00+00:00,SoftwareEngineering,United_States,267.0,47.0,0.176,2016,0.0,Standard Peer-Reviewed
+PLDI2013,PLDI 2013,2013-06-16 00:00:00+00:00,SoftwareEngineering,United_States,267.0,46.0,0.172,2013,0.0,Standard Peer-Reviewed
+SIGIR2004,SIGIR 2004,2004-07-25 00:00:00+00:00,InformationSystems,England,267.0,58.0,0.22,2004,0.0,Standard Peer-Reviewed
+ICWS2009,ICWS 2009,2009-07-06 00:00:00+00:00,WorldWideWeb,United_States,404.0,63.0,0.156,2009,2.0,Elite / Highly Selective
+ICWS2017,ICWS 2017,2017-06-25 00:00:00+00:00,WorldWideWeb,United_States,630.0,126.0,0.2,2017,2.0,Elite / Highly Selective
+IJCAI1995,IJCAI 1995,1995-08-20 00:00:00+00:00,ArtificialIntelligence,Canada,1112.0,249.0,0.224,1995,2.0,Elite / Highly Selective
+IJCAI1997,IJCAI 1997,1997-08-23 00:00:00+00:00,ArtificialIntelligence,Japan,882.0,216.0,0.245,1997,2.0,Elite / Highly Selective
+IJCAI1999,IJCAI 1999,1999-07-31 00:00:00+00:00,ArtificialIntelligence,Sweden,750.0,194.0,0.259,1999,2.0,Elite / Highly Selective
+IJCAI2001,IJCAI 2001,2001-08-04 00:00:00+00:00,ArtificialIntelligence,United_States,796.0,197.0,0.247,2001,2.0,Elite / Highly Selective
+IJCAI2003,IJCAI 2003,2003-08-09 00:00:00+00:00,ArtificialIntelligence,Mexico,913.0,189.0,0.207,2003,2.0,Elite / Highly Selective
+IJCAI2005,IJCAI 2005,2005-07-30 00:00:00+00:00,ArtificialIntelligence,England,1329.0,240.0,0.181,2005,1.0,High-Acceptance / Mega-Venue
+IJCAI2007,IJCAI 2007,2007-01-06 00:00:00+00:00,ArtificialIntelligence,India,1365.0,470.0,0.344,2007,1.0,High-Acceptance / Mega-Venue
+IJCAI2009,IJCAI 2009,2009-07-11 00:00:00+00:00,ArtificialIntelligence,United_States,1291.0,331.0,0.256,2009,1.0,High-Acceptance / Mega-Venue
+IJCAI2011,IJCAI 2011,2011-07-16 00:00:00+00:00,ArtificialIntelligence,Spain,1325.0,400.0,0.302,2011,1.0,High-Acceptance / Mega-Venue
+IJCAI2013,IJCAI 2013,2013-08-03 00:00:00+00:00,ArtificialIntelligence,China,1473.0,413.0,0.28,2013,1.0,High-Acceptance / Mega-Venue
+IJCAI2015,IJCAI 2015,2015-07-25 00:00:00+00:00,ArtificialIntelligence,Argentina,1996.0,572.0,0.287,2015,1.0,High-Acceptance / Mega-Venue
+IJCAI2016,IJCAI 2016,2016-07-09 00:00:00+00:00,ArtificialIntelligence,United_States,2294.0,551.0,0.24,2016,1.0,High-Acceptance / Mega-Venue
+IJCAI2017,IJCAI 2017,2017-08-19 00:00:00+00:00,ArtificialIntelligence,Australia,2540.0,661.0,0.26,2017,1.0,High-Acceptance / Mega-Venue
+IJCAR2004,IJCAR 2004,2004-07-04 00:00:00+00:00,TheoryOfComputations,Ireland,86.0,32.0,0.372,2004,0.0,Standard Peer-Reviewed
+ISSAC2002,ISSAC 2002,2002-07-07 00:00:00+00:00,TheoryOfComputations,France,86.0,35.0,0.407,2002,0.0,Standard Peer-Reviewed
+VR1996,VRAIS 1996,1996-03-30 00:00:00+00:00,HumanCenteredComputing,United_States,86.0,30.0,0.349,1996,0.0,Standard Peer-Reviewed
+IJCAR2006,IJCAR 2006,2006-08-16 00:00:00+00:00,TheoryOfComputations,United_States,151.0,49.0,0.325,2006,0.0,Standard Peer-Reviewed
+InfoVis2013,Infovis 2013,2013-10-13 00:00:00+00:00,HumanCenteredComputing,United_States,151.0,38.0,0.25,2013,0.0,Standard Peer-Reviewed
+POPL2000,POPL 2000,2000-01-19 00:00:00+00:00,SoftwareEngineering,United_States,151.0,30.0,0.2,2000,0.0,Standard Peer-Reviewed
+WSDM2008,WSDM 2008,2008-02-11 00:00:00+00:00,WorldWideWeb,United_States,151.0,24.0,0.15,2008,0.0,Standard Peer-Reviewed
+ISCA1999,ISCA 1999,1999-05-02 00:00:00+00:00,ComputerSystemsOrganization,United_States,135.0,26.0,0.193,1999,0.0,Standard Peer-Reviewed
+InfoVis2010,Infovis 2010,2010-10-24 00:00:00+00:00,HumanCenteredComputing,United_States,135.0,35.0,0.26,2010,0.0,Standard Peer-Reviewed
+PLDI2005,PLDI 2005,2005-06-12 00:00:00+00:00,SoftwareEngineering,United_States,135.0,28.0,0.207,2005,0.0,Standard Peer-Reviewed
+POPL1978,POPL 1978,1978-01-23 00:00:00+00:00,SoftwareEngineering,United_States,135.0,27.0,0.2,1978,0.0,Standard Peer-Reviewed
+SIGIR1999,SIGIR 1999,1999-08-15 00:00:00+00:00,InformationSystems,United_States,135.0,33.0,0.24,1999,0.0,Standard Peer-Reviewed
+VR2016,IEEE VR 2016,2016-03-19 00:00:00+00:00,HumanCenteredComputing,United_States,135.0,28.0,0.207,2016,0.0,Standard Peer-Reviewed
+ISCA2011,ISCA 2011,2011-06-04 00:00:00+00:00,ComputerSystemsOrganization,United_States,208.0,40.0,0.192,2011,0.0,Standard Peer-Reviewed
+PERCOM2007,PERCOM 2007,2007-03-19 00:00:00+00:00,ComputerSystemsOrganization,United_States,208.0,20.0,0.096,2007,0.0,Standard Peer-Reviewed
+SIGMOD1995,SIGMOD 1995,1995-05-22 00:00:00+00:00,InformationSystems,United_States,208.0,36.0,0.173,1995,0.0,Standard Peer-Reviewed
+ISCA2015,ISCA 2015,2015-06-13 00:00:00+00:00,ComputerSystemsOrganization,United_States,305.0,58.0,0.19,2015,0.0,Standard Peer-Reviewed
+ISCA2017,ISCA 2017,2017-06-24 00:00:00+00:00,ComputerSystemsOrganization,Canada,322.0,54.0,0.168,2017,0.0,Standard Peer-Reviewed
+ISMAR2006,ISMAR 2006,2006-10-22 00:00:00+00:00,HumanCenteredComputing,United_States,105.0,30.0,0.286,2006,0.0,Standard Peer-Reviewed
+ISMAR2012,ISMAR 2012,2012-11-05 00:00:00+00:00,HumanCenteredComputing,United_States,105.0,28.0,0.267,2012,0.0,Standard Peer-Reviewed
+PLDI1995,PLDI 1995,1995-06-18 00:00:00+00:00,SoftwareEngineering,United_States,105.0,28.0,0.267,1995,0.0,Standard Peer-Reviewed
+POPL1977,POPL 1977,1977-01-17 00:00:00+00:00,SoftwareEngineering,United_States,105.0,25.0,0.24,1977,0.0,Standard Peer-Reviewed
+ISSAC2003,ISSAC 2003,2003-08-03 00:00:00+00:00,TheoryOfComputations,United_States,68.0,36.0,0.529,2003,0.0,Standard Peer-Reviewed
+ISSAC2006,ISSAC 2006,2006-07-09 00:00:00+00:00,TheoryOfComputations,Italy,97.0,48.0,0.495,2006,0.0,Standard Peer-Reviewed
+PODS2009,PODS 2009,2009-06-29 00:00:00+00:00,InformationSystems,United_States,97.0,26.0,0.268,2009,0.0,Standard Peer-Reviewed
+SPAA1997,SPAA 1997,1997-06-23 00:00:00+00:00,TheoryOfComputations,United_States,97.0,32.0,0.33,1997,0.0,Standard Peer-Reviewed
+VR2006,IEEE VR 2006,2006-03-25 00:00:00+00:00,HumanCenteredComputing,United_States,97.0,28.0,0.289,2006,0.0,Standard Peer-Reviewed
+VR2013,IEEE VR 2013,2013-03-16 00:00:00+00:00,HumanCenteredComputing,United_States,97.0,21.0,0.216,2013,0.0,Standard Peer-Reviewed
+PODS2013,PODS 2013,2013-06-22 00:00:00+00:00,InformationSystems,United_States,97.0,24.0,0.247,2013,0.0,Standard Peer-Reviewed
+ISWC2004,ISWC 2004,2004-11-07 00:00:00+00:00,WorldWideWeb,Japan,205.0,48.0,0.234,2004,0.0,Standard Peer-Reviewed
+POPL2012,POPL 2012,2012-01-22 00:00:00+00:00,SoftwareEngineering,United_States,205.0,44.0,0.21,2012,0.0,Standard Peer-Reviewed
+SIGMOD1999,SIGMOD 1999,1999-06-01 00:00:00+00:00,InformationSystems,United_States,205.0,42.0,0.205,1999,0.0,Standard Peer-Reviewed
+ISWC2007,ISWC 2007,2007-11-11 00:00:00+00:00,WorldWideWeb,Korea,257.0,50.0,0.195,2007,0.0,Standard Peer-Reviewed
+SIGGRAPH1995,SIGGRAPH 1995,1995-08-06 00:00:00+00:00,HumanCenteredComputing,United_States,257.0,56.0,0.22,1995,0.0,Standard Peer-Reviewed
+ISWC2008,ISWC 2008,2008-10-26 00:00:00+00:00,WorldWideWeb,Germany,261.0,43.0,0.165,2008,0.0,Standard Peer-Reviewed
+ISWC2017,ISWC 2017,2017-10-21 00:00:00+00:00,WorldWideWeb,Austria,326.0,67.0,0.206,2017,0.0,Standard Peer-Reviewed
+InfoVis1995,InfoVis 1995,1995-10-30 00:00:00+00:00,HumanCenteredComputing,United_States,37.0,18.0,0.49,1995,0.0,Standard Peer-Reviewed
+InfoVis1996,InfoVis 1996,1996-10-28 00:00:00+00:00,HumanCenteredComputing,United_States,34.0,19.0,0.56,1996,0.0,Standard Peer-Reviewed
+SP1982,S&P 1982,1982-04-26 00:00:00+00:00,SecurityAndPrivacy,United_States,34.0,19.0,0.559,1982,0.0,Standard Peer-Reviewed
+SP1983,S&P 1983,1983-04-25 00:00:00+00:00,SecurityAndPrivacy,United_States,34.0,23.0,0.676,1983,0.0,Standard Peer-Reviewed
+InfoVis1997,InfoVis 1997,1997-10-18 00:00:00+00:00,HumanCenteredComputing,United_States,27.0,16.0,0.59,1997,0.0,Standard Peer-Reviewed
+InfoVis2001,Infovis 2001,2001-10-22 00:00:00+00:00,HumanCenteredComputing,United_States,63.0,22.0,0.35,2001,0.0,Standard Peer-Reviewed
+SP1985,S&P 1985,1985-04-22 00:00:00+00:00,SecurityAndPrivacy,United_States,63.0,25.0,0.397,1985,0.0,Standard Peer-Reviewed
+JCDL2011,,2011-06-13 00:00:00+00:00,,,243.0,57.0,0.23,2011,0.0,Standard Peer-Reviewed
+UAI1992,UAI 1992,1992-07-17 00:00:00+00:00,ArtificialIntelligence,Canada,243.0,76.0,0.313,1992,0.0,Standard Peer-Reviewed
+UAI1992,UAI 1992,1992-07-17 00:00:00+00:00,ArtificialIntelligence,United_States,243.0,76.0,0.313,1992,0.0,Standard Peer-Reviewed
+UAI1992,UAI 1992,2009-07-18 00:00:00+00:00,ArtificialIntelligence,Canada,243.0,76.0,0.313,2009,0.0,Standard Peer-Reviewed
+UAI1992,UAI 1992,2009-07-18 00:00:00+00:00,ArtificialIntelligence,United_States,243.0,76.0,0.313,2009,0.0,Standard Peer-Reviewed
+UAI1992,UAI 2009,1992-07-17 00:00:00+00:00,ArtificialIntelligence,Canada,243.0,76.0,0.313,1992,0.0,Standard Peer-Reviewed
+UAI1992,UAI 2009,1992-07-17 00:00:00+00:00,ArtificialIntelligence,United_States,243.0,76.0,0.313,1992,0.0,Standard Peer-Reviewed
+UAI1992,UAI 2009,2009-07-18 00:00:00+00:00,ArtificialIntelligence,Canada,243.0,76.0,0.313,2009,0.0,Standard Peer-Reviewed
+UAI1992,UAI 2009,2009-07-18 00:00:00+00:00,ArtificialIntelligence,United_States,243.0,76.0,0.313,2009,0.0,Standard Peer-Reviewed
+UAI2005,UAI 2005,2005-07-26 00:00:00+00:00,ArtificialIntelligence,Scotland,243.0,86.0,0.354,2005,0.0,Standard Peer-Reviewed
+UAI2009,UAI 2009,2009-07-18 00:00:00+00:00,ArtificialIntelligence,Canada,243.0,76.0,0.313,2009,0.0,Standard Peer-Reviewed
+JCDL2016,,2016-06-19 00:00:00+00:00,,,52.0,15.0,0.29,2016,0.0,Standard Peer-Reviewed
+KR2012,KR 2012,2012-06-10 00:00:00+00:00,ArtificialIntelligence,Italy,202.0,53.0,0.262,2012,0.0,Standard Peer-Reviewed
+SIGMOD1997,SIGMOD 1997,1997-05-13 00:00:00+00:00,InformationSystems,United_States,202.0,42.0,0.208,1997,0.0,Standard Peer-Reviewed
+UBICOMP2010,UBICOMP 2010,2010-09-26 00:00:00+00:00,SecurityAndPrivacy,Denmark,202.0,39.0,0.19,2010,0.0,Standard Peer-Reviewed
+MOBICOM2000,MOBICOM 2000,2000-08-06 00:00:00+00:00,HumanCenteredComputing,United_States,226.0,28.0,0.123,2000,0.0,Standard Peer-Reviewed
+MOBICOM2016,MOBICOM 2016,2016-10-03 00:00:00+00:00,HumanCenteredComputing,United_States,226.0,31.0,0.137,2016,0.0,Standard Peer-Reviewed
+PODC2003,PODC 2003,2003-07-13 00:00:00+00:00,SoftwareEngineering,United_States,226.0,51.0,0.226,2003,0.0,Standard Peer-Reviewed
+UBICOMP2008,UBICOMP 2008,2008-09-21 00:00:00+00:00,SecurityAndPrivacy,South_Korea,226.0,42.0,0.19,2008,0.0,Standard Peer-Reviewed
+MOBICOM2002,MOBICOM 2002,2002-09-23 00:00:00+00:00,HumanCenteredComputing,United_States,364.0,26.0,0.096,2002,0.0,Standard Peer-Reviewed
+PKDD2017,ECML PKDD 2017,2017-09-18 00:00:00+00:00,InformationSystems,Republic_of_Macedonia,364.0,104.0,0.135,2017,0.0,Standard Peer-Reviewed
+MOBICOM2006,MOBICOM 2006,2006-09-24 00:00:00+00:00,HumanCenteredComputing,United_States,298.0,35.0,0.117,2006,0.0,Standard Peer-Reviewed
+MOBICOM2011,MOBICOM 2011,2011-09-19 00:00:00+00:00,HumanCenteredComputing,United_States,214.0,29.0,0.136,2011,0.0,Standard Peer-Reviewed
+STOC1990,STOC 1990,1990-05-13 00:00:00+00:00,TheoryOfComputations,United_States,214.0,59.0,0.276,1990,0.0,Standard Peer-Reviewed
+MOBICOM2017,MOBICOM 2017,2017-10-16 00:00:00+00:00,HumanCenteredComputing,United_States,186.0,35.0,0.188,2017,0.0,Standard Peer-Reviewed
+OOPSLA2014,OOPSLA 2014,2014-10-20 00:00:00+00:00,SoftwareEngineering,United_States,186.0,52.0,0.28,2014,0.0,Standard Peer-Reviewed
+SP2004,S&P 2004,2004-05-09 00:00:00+00:00,SecurityAndPrivacy,United_States,186.0,19.0,0.102,2004,0.0,Standard Peer-Reviewed
+MOBICOM2018,MOBICOM 2018,2018-10-29 00:00:00+00:00,HumanCenteredComputing,India,16.0,10.0,0.625,2018,0.0,Standard Peer-Reviewed
+NDSS1998,NDSS 1998,1998-02-05 00:00:00+00:00,SecurityAndPrivacy,United_States,45.0,15.0,0.333,1998,0.0,Standard Peer-Reviewed
+SPAA2000,SPAA 2000,2000-07-09 00:00:00+00:00,TheoryOfComputations,United_States,45.0,24.0,0.53,2000,0.0,Standard Peer-Reviewed
+NDSS2000,NDSS 2000,2000-02-03 00:00:00+00:00,SecurityAndPrivacy,United_States,51.0,15.0,0.294,2000,0.0,Standard Peer-Reviewed
+NDSS2003,NDSS 2003,2003-02-06 00:00:00+00:00,SecurityAndPrivacy,United_States,82.0,17.0,0.207,2003,0.0,Standard Peer-Reviewed
+NDSS2012,NDSS 2012,2012-02-05 00:00:00+00:00,SecurityAndPrivacy,United_States,258.0,46.0,0.178,2012,0.0,Standard Peer-Reviewed
+NDSS2016,NDSS 2016,2016-02-21 00:00:00+00:00,SecurityAndPrivacy,United_States,389.0,60.0,0.154,2016,0.0,Standard Peer-Reviewed
+UBICOMP2016,UBICOMP 2016,2016-09-12 00:00:00+00:00,SecurityAndPrivacy,Germany,389.0,101.0,0.26,2016,0.0,Standard Peer-Reviewed
+NDSS2017,NDSS 2017,2017-02-26 00:00:00+00:00,SecurityAndPrivacy,United_States,423.0,68.0,0.161,2017,2.0,Elite / Highly Selective
+NIPS2001,NIPS 2001,2001-12-03 00:00:00+00:00,ArtificialIntelligence,Canada,650.0,196.0,0.302,2001,2.0,Elite / Highly Selective
+NIPS2002,NIPS 2002,2002-12-09 00:00:00+00:00,ArtificialIntelligence,Canada,710.0,221.0,0.311,2002,2.0,Elite / Highly Selective
+VLDB2015,VLDB 2015,2015-08-31 00:00:00+00:00,InformationSystems,United_States,710.0,151.0,0.213,2015,2.0,Elite / Highly Selective
+NIPS2003,NIPS 2003,2003-12-08 00:00:00+00:00,ArtificialIntelligence,Canada,717.0,198.0,0.276,2003,2.0,Elite / Highly Selective
+NIPS2005,NIPS 2005,2005-12-05 00:00:00+00:00,ArtificialIntelligence,Canada,822.0,207.0,0.252,2005,2.0,Elite / Highly Selective
+NIPS2006,NIPS 2006,2006-12-04 00:00:00+00:00,ArtificialIntelligence,Canada,833.0,204.0,0.245,2006,2.0,Elite / Highly Selective
+NIPS2008,NIPS 2008,2008-12-08 00:00:00+00:00,ArtificialIntelligence,Canada,1022.0,250.0,0.245,2008,2.0,Elite / Highly Selective
+NIPS2009,NIPS 2009,2009-12-07 00:00:00+00:00,ArtificialIntelligence,Canada,1105.0,263.0,0.238,2009,2.0,Elite / Highly Selective
+NIPS2010,NIPS 2010,2010-12-06 00:00:00+00:00,ArtificialIntelligence,Canada,1219.0,293.0,0.24,2010,2.0,Elite / Highly Selective
+NIPS2011,NIPS 2011,2011-12-12 00:00:00+00:00,ArtificialIntelligence,Spain,1400.0,305.0,0.218,2011,1.0,High-Acceptance / Mega-Venue
+NIPS2012,NIPS 2012,2012-12-03 00:00:00+00:00,ArtificialIntelligence,United_States,1467.0,370.0,0.252,2012,1.0,High-Acceptance / Mega-Venue
+NIPS2013,NIPS 2013,2013-12-05 00:00:00+00:00,ArtificialIntelligence,United_States,1420.0,360.0,0.254,2013,1.0,High-Acceptance / Mega-Venue
+NIPS2014,NIPS 2014,2014-12-08 00:00:00+00:00,ArtificialIntelligence,Canada,1678.0,414.0,0.247,2014,1.0,High-Acceptance / Mega-Venue
+NIPS2015,NIPS 2015,2015-12-07 00:00:00+00:00,ArtificialIntelligence,Canada,1838.0,403.0,0.219,2015,1.0,High-Acceptance / Mega-Venue
+NIPS2016,NIPS 2016,2016-12-05 00:00:00+00:00,ArtificialIntelligence,Spain,2406.0,568.0,0.236,2016,1.0,High-Acceptance / Mega-Venue
+NIPS2017,NIPS 2017,2017-12-04 00:00:00+00:00,ArtificialIntelligence,United_States,3240.0,679.0,0.21,2017,1.0,High-Acceptance / Mega-Venue
+OOPSLA2000,OOPSLA 2000,2000-10-15 00:00:00+00:00,SoftwareEngineering,United_States,142.0,26.0,0.183,2000,0.0,Standard Peer-Reviewed
+PODC2012,PODC 2012,2012-07-16 00:00:00+00:00,SoftwareEngineering,Portugal,142.0,61.0,0.43,2012,0.0,Standard Peer-Reviewed
+OOPSLA2006,OOPSLA 2006,2006-10-22 00:00:00+00:00,SoftwareEngineering,United_States,157.0,26.0,0.166,2006,0.0,Standard Peer-Reviewed
+PODS2005,PODS 2005,2005-06-13 00:00:00+00:00,InformationSystems,United_States,157.0,32.0,0.204,2005,0.0,Standard Peer-Reviewed
+OOPSLA2009,OOPSLA 2009,2009-10-25 00:00:00+00:00,SoftwareEngineering,United_States,144.0,25.0,0.174,2009,0.0,Standard Peer-Reviewed
+PLDI2001,PLDI 2001,2001-06-20 00:00:00+00:00,SoftwareEngineering,United_States,144.0,30.0,0.208,2001,0.0,Standard Peer-Reviewed
+UBICOMP2004,UBICOMP 2004,2004-09-07 00:00:00+00:00,SecurityAndPrivacy,England,144.0,26.0,0.18,2004,0.0,Standard Peer-Reviewed
+OOPSLA2013,OOPSLA 2013,2013-10-26 00:00:00+00:00,SoftwareEngineering,United_States,189.0,50.0,0.265,2013,0.0,Standard Peer-Reviewed
+TheWeb1995,TheWeb1995,1995-12-11 00:00:00+00:00,WorldWideWeb,Germany,189.0,59.0,0.31,1995,0.0,Standard Peer-Reviewed
+TheWeb1995,TheWeb1995,1995-12-11 00:00:00+00:00,WorldWideWeb,United_States,189.0,59.0,0.31,1995,0.0,Standard Peer-Reviewed
+OSDI2000,OSDI 2000,2000-10-23 00:00:00+00:00,SoftwareEngineering,United_States,111.0,24.0,0.216,2000,0.0,Standard Peer-Reviewed
+STOC1979,STOC 1979,1979-04-30 00:00:00+00:00,TheoryOfComputations,United_States,111.0,37.0,0.333,1979,0.0,Standard Peer-Reviewed
+VR2005,IEEE VR 2005,2005-03-12 00:00:00+00:00,HumanCenteredComputing,Germany,111.0,29.0,0.261,2005,0.0,Standard Peer-Reviewed
+PERCOM2011,PERCOM 2011,2011-03-21 00:00:00+00:00,ComputerSystemsOrganization,United_States,154.0,27.0,0.175,2011,0.0,Standard Peer-Reviewed
+PODC2017,PODC 2017,2017-07-25 00:00:00+00:00,SoftwareEngineering,United_States,154.0,38.0,0.247,2017,0.0,Standard Peer-Reviewed
+PKDD1999,PKDD 1999,1999-09-15 00:00:00+00:00,InformationSystems,Czech_Republic,106.0,82.0,0.774,1999,0.0,Standard Peer-Reviewed
+SPAA1996,SPAA 1996,1996-06-24 00:00:00+00:00,TheoryOfComputations,Italy,106.0,39.0,0.37,1996,0.0,Standard Peer-Reviewed
+SPAA2003,SPAA 2003,2003-06-07 00:00:00+00:00,TheoryOfComputations,United_States,106.0,38.0,0.36,2003,0.0,Standard Peer-Reviewed
+VR2002,IEEE VR 2002,2002-03-24 00:00:00+00:00,HumanCenteredComputing,United_States,106.0,29.0,0.274,2002,0.0,Standard Peer-Reviewed
+PKDD2003,ECML PKDD 2003,2003-09-22 00:00:00+00:00,InformationSystems,Croatia,332.0,40.0,0.12,2003,0.0,Standard Peer-Reviewed
+PKDD2006,ECML PKDD 2006,2006-09-18 00:00:00+00:00,InformationSystems,Germany,564.0,87.0,0.154,2006,2.0,Elite / Highly Selective
+PKDD2007,ECML PKDD 2007,2007-09-17 00:00:00+00:00,InformationSystems,Poland,592.0,82.0,0.139,2007,2.0,Elite / Highly Selective
+PKDD2009,ECML PKDD 2009,2009-09-07 00:00:00+00:00,InformationSystems,Slovenia,422.0,106.0,0.251,2009,2.0,Elite / Highly Selective
+SP2015,S&P 2015,2015-05-17 00:00:00+00:00,SecurityAndPrivacy,United_States,422.0,57.0,0.135,2015,2.0,Elite / Highly Selective
+STOC2017,STOC 2017,2017-06-19 00:00:00+00:00,TheoryOfComputations,Canada,422.0,103.0,0.244,2017,2.0,Elite / Highly Selective
+PKDD2010,ECML PKDD 2010,2010-09-20 00:00:00+00:00,InformationSystems,Spain,658.0,124.0,0.188,2010,2.0,Elite / Highly Selective
+TheWeb2011,TheWeb 2011,2011-03-28 00:00:00+00:00,WorldWideWeb,India,658.0,81.0,0.12,2011,2.0,Elite / Highly Selective
+PKDD2015,ECML PKDD 2015,2015-09-07 00:00:00+00:00,InformationSystems,Portugal,565.0,131.0,0.232,2015,2.0,Elite / Highly Selective
+PLDI2012,PLDI 2012,2012-06-11 00:00:00+00:00,SoftwareEngineering,China,255.0,48.0,0.188,2012,0.0,Standard Peer-Reviewed
+POPL1988,POPL 1988,1988-01-10 00:00:00+00:00,SoftwareEngineering,United_States,177.0,28.0,0.16,1988,0.0,Standard Peer-Reviewed
+UIST2006,UIST 2006,2006-10-15 00:00:00+00:00,ArtificialIntelligence,Switzerland,177.0,40.0,0.226,2006,0.0,Standard Peer-Reviewed
+POPL2013,POPL 2013,2013-01-23 00:00:00+00:00,SoftwareEngineering,Italy,238.0,43.0,0.18,2013,0.0,Standard Peer-Reviewed
+WSDM2015,WSDM 2015,2015-01-31 00:00:00+00:00,WorldWideWeb,China,238.0,39.0,0.16,2015,0.0,Standard Peer-Reviewed
+SIGGRAPH1997,SIGGRAPH 1997,1997-08-03 00:00:00+00:00,HumanCenteredComputing,United_States,265.0,48.0,0.18,1997,0.0,Standard Peer-Reviewed
+SIGGRAPH2002,SIGGRAPH 2002,2002-07-23 00:00:00+00:00,HumanCenteredComputing,United_States,358.0,67.0,0.19,2002,0.0,Standard Peer-Reviewed
+SIGGRAPH2003,SIGGRAPH 2003,2003-07-27 00:00:00+00:00,HumanCenteredComputing,United_States,424.0,81.0,0.19,2003,2.0,Elite / Highly Selective
+SIGGRAPH2004,SIGGRAPH 2004,2004-08-08 00:00:00+00:00,HumanCenteredComputing,United_States,478.0,83.0,0.17,2004,2.0,Elite / Highly Selective
+VLDB2010,VLDB 2010,2010-09-13 00:00:00+00:00,InformationSystems,Singapore,478.0,84.0,0.176,2010,2.0,Elite / Highly Selective
+SIGGRAPH2006,SIGGRAPH 2006,2006-07-30 00:00:00+00:00,HumanCenteredComputing,United_States,474.0,86.0,0.18,2006,2.0,Elite / Highly Selective
+SIGGRAPH2007,SIGGRAPH 2007,2007-08-05 00:00:00+00:00,HumanCenteredComputing,United_States,455.0,108.0,0.24,2007,2.0,Elite / Highly Selective
+SIGGRAPH2008,SIGGRAPH 2008,2008-08-11 00:00:00+00:00,HumanCenteredComputing,United_States,518.0,90.0,0.17,2008,2.0,Elite / Highly Selective
+SIGGRAPH2009,SIGGRAPH 2009,2009-08-03 00:00:00+00:00,HumanCenteredComputing,United_States,439.0,78.0,0.18,2009,2.0,Elite / Highly Selective
+SIGGRAPH2017,SIGGRAPH 2017,2017-07-30 00:00:00+00:00,HumanCenteredComputing,United_States,439.0,127.0,0.29,2017,2.0,Elite / Highly Selective
+SIGGRAPH2011,SIGGRAPH 2011,2011-08-07 00:00:00+00:00,HumanCenteredComputing,Canada,432.0,82.0,0.19,2011,2.0,Elite / Highly Selective
+SIGGRAPH2012,SIGGRAPH 2012,2012-08-05 00:00:00+00:00,HumanCenteredComputing,United_States,449.0,94.0,0.21,2012,2.0,Elite / Highly Selective
+SIGGRAPH2013,SIGGRAPH 2013,2013-07-21 00:00:00+00:00,HumanCenteredComputing,United_States,480.0,115.0,0.24,2013,2.0,Elite / Highly Selective
+SIGMOD2007,SIGMOD 2007,2007-06-11 00:00:00+00:00,InformationSystems,China,480.0,70.0,0.146,2007,2.0,Elite / Highly Selective
+SIGGRAPH2014,SIGGRAPH 2014,2014-08-10 00:00:00+00:00,HumanCenteredComputing,Canada,505.0,127.0,0.25,2014,2.0,Elite / Highly Selective
+WSDM2017,WSDM 2017,2017-02-06 00:00:00+00:00,WorldWideWeb,England,505.0,80.0,0.15,2017,2.0,Elite / Highly Selective
+SIGGRAPH2015,SIGGRAPH 2015,2015-08-09 00:00:00+00:00,HumanCenteredComputing,United_States,462.0,118.0,0.26,2015,2.0,Elite / Highly Selective
+SIGGRAPH2016,SIGGRAPH 2016,2016-07-24 00:00:00+00:00,HumanCenteredComputing,United_States,467.0,119.0,0.26,2016,2.0,Elite / Highly Selective
+SIGIR2006,SIGIR 2006,2006-08-06 00:00:00+00:00,InformationSystems,United_States,399.0,74.0,0.185,2006,2.0,Elite / Highly Selective
+SIGIR2008,SIGIR 2008,2008-07-20 00:00:00+00:00,InformationSystems,Singapore,399.0,85.0,0.17,2008,2.0,Elite / Highly Selective
+SIGIR2007,SIGIR 2007,2007-07-23 00:00:00+00:00,InformationSystems,Netherlands,490.0,84.0,0.175,2007,2.0,Elite / Highly Selective
+SIGIR2009,SIGIR 2009,2009-07-19 00:00:00+00:00,InformationSystems,United_States,494.0,78.0,0.158,2009,2.0,Elite / Highly Selective
+SIGIR2010,SIGIR 2010,2010-07-19 00:00:00+00:00,InformationSystems,Switzerland,520.0,87.0,0.167,2010,2.0,Elite / Highly Selective
+SIGIR2011,SIGIR 2011,2011-07-24 00:00:00+00:00,InformationSystems,China,543.0,240.0,0.44,2011,2.0,Elite / Highly Selective
+SIGIR2012,SIGIR 2012,2012-08-12 00:00:00+00:00,InformationSystems,United_States,483.0,98.0,0.2,2012,2.0,Elite / Highly Selective
+SIGIR2013,SIGIR 2013,2013-07-28 00:00:00+00:00,InformationSystems,Ireland,366.0,73.0,0.2,2013,0.0,Standard Peer-Reviewed
+SIGIR2014,SIGIR 2014,2014-07-06 00:00:00+00:00,InformationSystems,Australia,387.0,82.0,0.21,2014,0.0,Standard Peer-Reviewed
+WSDM2013,WSDM 2013,2013-02-04 00:00:00+00:00,WorldWideWeb,Italy,387.0,73.0,0.18,2013,0.0,Standard Peer-Reviewed
+SIGIR2016,SIGIR 2016,2016-07-17 00:00:00+00:00,InformationSystems,Italy,341.0,62.0,0.18,2016,0.0,Standard Peer-Reviewed
+SIGIR2017,SIGIR 2017,2017-08-07 00:00:00+00:00,InformationSystems,Japan,362.0,78.0,0.22,2017,0.0,Standard Peer-Reviewed
+WSDM2012,WSDM 2012,2012-02-08 00:00:00+00:00,WorldWideWeb,United_States,362.0,75.0,0.2,2012,0.0,Standard Peer-Reviewed
+SIGIR2018,SIGIR 2018,2018-07-08 00:00:00+00:00,InformationSystems,United_States,409.0,86.0,0.21,2018,2.0,Elite / Highly Selective
+SIGMOD1998,SIGMOD 1998,1998-06-02 00:00:00+00:00,InformationSystems,United_States,246.0,42.0,0.171,1998,0.0,Standard Peer-Reviewed
+SP2007,S&P 2007,2007-05-20 00:00:00+00:00,SecurityAndPrivacy,United_States,246.0,29.0,0.118,2007,0.0,Standard Peer-Reviewed
+SIGMOD2003,SIGMOD 2003,2003-06-09 00:00:00+00:00,InformationSystems,United_States,342.0,53.0,0.155,2003,0.0,Standard Peer-Reviewed
+SIGMOD2006,SIGMOD 2006,2006-06-26 00:00:00+00:00,InformationSystems,United_States,446.0,58.0,0.13,2006,2.0,Elite / Highly Selective
+SIGMOD2008,SIGMOD 2008,2008-06-09 00:00:00+00:00,InformationSystems,Canada,435.0,78.0,0.179,2008,2.0,Elite / Highly Selective
+SIGMOD2009,SIGMOD 2009,2009-06-29 00:00:00+00:00,InformationSystems,United_States,430.0,118.0,0.274,2009,2.0,Elite / Highly Selective
+SIGMOD2010,SIGMOD 2010,2010-06-06 00:00:00+00:00,InformationSystems,United_States,384.0,80.0,0.208,2010,0.0,Standard Peer-Reviewed
+UIST2016,UIST 2016,2016-10-16 00:00:00+00:00,ArtificialIntelligence,Japan,384.0,79.0,0.206,2016,0.0,Standard Peer-Reviewed
+SIGMOD2014,SIGMOD 2014,2014-06-22 00:00:00+00:00,InformationSystems,United_States,421.0,107.0,0.254,2014,2.0,Elite / Highly Selective
+SIGMOD2016,SIGMOD 2016,2016-06-26 00:00:00+00:00,InformationSystems,United_States,722.0,137.0,0.19,2016,2.0,Elite / Highly Selective
+SP1996,S&P 1996,1996-05-06 00:00:00+00:00,SecurityAndPrivacy,United_States,67.0,20.0,0.299,1996,0.0,Standard Peer-Reviewed
+USENIX1999,USENIX 1999,1999-08-23 00:00:00+00:00,SoftwareEngineering,United_States,67.0,18.0,0.269,1999,0.0,Standard Peer-Reviewed
+PODS2014,PODS 2014,2014-06-22 00:00:00+00:00,InformationSystems,United_States,67.0,22.0,0.328,2014,0.0,Standard Peer-Reviewed
+SP2005,S&P 2005,2005-05-08 00:00:00+00:00,SecurityAndPrivacy,United_States,192.0,17.0,0.089,2005,0.0,Standard Peer-Reviewed
+STOC1988,STOC 1988,1988-05-02 00:00:00+00:00,TheoryOfComputations,United_States,192.0,53.0,0.276,1988,0.0,Standard Peer-Reviewed
+UAI2002,UAI 2002,2002-08-01 00:00:00+00:00,ArtificialIntelligence,Canada,192.0,66.0,0.344,2002,0.0,Standard Peer-Reviewed
+SP2010,S&P 2010,2010-05-16 00:00:00+00:00,SecurityAndPrivacy,United_States,237.0,20.0,0.084,2010,0.0,Standard Peer-Reviewed
+SP2013,S&P 2013,2013-05-19 00:00:00+00:00,SecurityAndPrivacy,United_States,315.0,38.0,0.121,2013,0.0,Standard Peer-Reviewed
+SP2016,S&P 2016,2016-05-22 00:00:00+00:00,SecurityAndPrivacy,United_States,398.0,55.0,0.138,2016,2.0,Elite / Highly Selective
+SP2017,S&P 2017,2017-05-22 00:00:00+00:00,SecurityAndPrivacy,United_States,463.0,60.0,0.13,2017,2.0,Elite / Highly Selective
+STOC1971,STOC 1971,1971-05-03 00:00:00+00:00,TheoryOfComputations,United_States,50.0,23.0,0.46,1971,0.0,Standard Peer-Reviewed
+STOC2000,STOC 2000,2000-05-21 00:00:00+00:00,TheoryOfComputations,United_States,182.0,85.0,0.467,2000,0.0,Standard Peer-Reviewed
+STOC2004,STOC 2004,2004-06-13 00:00:00+00:00,TheoryOfComputations,United_States,271.0,71.0,0.262,2004,0.0,Standard Peer-Reviewed
+STOC2009,STOC 2009,2009-05-31 00:00:00+00:00,TheoryOfComputations,United_States,329.0,77.0,0.234,2009,0.0,Standard Peer-Reviewed
+STOC2013,STOC 2013,2013-06-01 00:00:00+00:00,TheoryOfComputations,United_States,360.0,100.0,0.278,2013,0.0,Standard Peer-Reviewed
+STOC2015,STOC 2015,2015-06-14 00:00:00+00:00,TheoryOfComputations,United_States,347.0,93.0,0.268,2015,0.0,Standard Peer-Reviewed
+TheWeb2001,TheWeb 2001,2001-05-01 00:00:00+00:00,WorldWideWeb,China,391.0,78.0,0.2,2001,0.0,Standard Peer-Reviewed
+TheWeb2002,TheWeb 2002,2002-05-07 00:00:00+00:00,WorldWideWeb,United_States,454.0,72.0,0.16,2002,2.0,Elite / Highly Selective
+UBICOMP2014,UBICOMP 2014,2014-09-13 00:00:00+00:00,SecurityAndPrivacy,United_States,454.0,71.0,0.16,2014,2.0,Elite / Highly Selective
+TheWeb2003,TheWeb 2003,2003-05-20 00:00:00+00:00,WorldWideWeb,Hungary,602.0,77.0,0.13,2003,2.0,Elite / Highly Selective
+TheWeb2004,TheWeb 2004,2004-05-17 00:00:00+00:00,WorldWideWeb,United_States,506.0,74.0,0.15,2004,2.0,Elite / Highly Selective
+TheWeb2006,TheWeb 2006,2006-05-23 00:00:00+00:00,WorldWideWeb,England,667.0,75.0,0.11,2006,2.0,Elite / Highly Selective
+TheWeb2007,TheWeb 2007,2007-05-08 00:00:00+00:00,WorldWideWeb,Canada,753.0,111.0,0.15,2007,2.0,Elite / Highly Selective
+TheWeb2008,TheWeb 2008,2008-04-21 00:00:00+00:00,WorldWideWeb,China,880.0,103.0,0.12,2008,2.0,Elite / Highly Selective
+TheWeb2009,TheWeb 2009,2009-04-20 00:00:00+00:00,WorldWideWeb,Spain,823.0,198.0,0.24,2009,2.0,Elite / Highly Selective
+TheWeb2010,TheWeb 2010,2010-04-26 00:00:00+00:00,WorldWideWeb,United_States,754.0,105.0,0.14,2010,2.0,Elite / Highly Selective
+TheWeb2012,TheWeb 2012,2012-04-16 00:00:00+00:00,WorldWideWeb,France,885.0,108.0,0.12,2012,2.0,Elite / Highly Selective
+TheWeb2014,TheWeb 2014,2014-04-07 00:00:00+00:00,WorldWideWeb,Korea,645.0,84.0,0.13,2014,2.0,Elite / Highly Selective
+TheWeb2015,TheWeb 2015,2015-05-18 00:00:00+00:00,WorldWideWeb,Italy,929.0,131.0,0.14,2015,2.0,Elite / Highly Selective
+TheWeb2016,TheWeb 2016,2016-04-11 00:00:00+00:00,WorldWideWeb,Canada,727.0,115.0,0.16,2016,2.0,Elite / Highly Selective
+UAI2003,UAI 2003,2003-08-07 00:00:00+00:00,ArtificialIntelligence,Mexico,229.0,77.0,0.336,2003,0.0,Standard Peer-Reviewed
+UAI2016,,2016-06-25 00:00:00+00:00,ArtificialIntelligence,United_States,275.0,99.0,0.309,2016,0.0,Standard Peer-Reviewed
+UBICOMP2012,UBICOMP 2012,2012-09-05 00:00:00+00:00,SecurityAndPrivacy,United_States,301.0,58.0,0.19,2012,0.0,Standard Peer-Reviewed
+UBICOMP2013,UBICOMP 2013,2013-09-08 00:00:00+00:00,SecurityAndPrivacy,Switzerland,394.0,92.0,0.23,2013,2.0,Elite / Highly Selective
+UBICOMP2015,UBICOMP 2015,2015-09-07 00:00:00+00:00,SecurityAndPrivacy,Japan,394.0,101.0,0.256,2015,2.0,Elite / Highly Selective
+UIST2015,UIST 2015,2015-11-08 00:00:00+00:00,ArtificialIntelligence,United_States,297.0,70.0,0.236,2015,0.0,Standard Peer-Reviewed
+VLDB1995,VLDB 1995,1995-09-11 00:00:00+00:00,InformationSystems,Switzerland,297.0,52.0,0.175,1995,0.0,Standard Peer-Reviewed
+USENIX2013,USENIX 2013,2013-08-14 00:00:00+00:00,SoftwareEngineering,United_States,277.0,44.0,0.159,2013,0.0,Standard Peer-Reviewed
+USENIX2014,USENIX 2014,2014-08-20 00:00:00+00:00,SoftwareEngineering,United_States,350.0,67.0,0.191,2014,0.0,Standard Peer-Reviewed
+USENIX2017,USENIX 2017,2017-08-16 00:00:00+00:00,SoftwareEngineering,United_States,572.0,85.0,0.149,2017,2.0,Elite / Highly Selective
+VLDB1993,VLDB 1993,1993-08-24 00:00:00+00:00,InformationSystems,Ireland,311.0,54.0,0.174,1993,0.0,Standard Peer-Reviewed
+VLDB1996,VLDB 1996,1996-09-03 00:00:00+00:00,InformationSystems,India,340.0,48.0,0.141,1996,0.0,Standard Peer-Reviewed
+VLDB2001,VLDB 2001,2001-09-11 00:00:00+00:00,InformationSystems,Italy,339.0,59.0,0.174,2001,0.0,Standard Peer-Reviewed
+VLDB2003,VLDB 2003,2003-09-09 00:00:00+00:00,InformationSystems,Germany,457.0,84.0,0.184,2003,2.0,Elite / Highly Selective
+VLDB2004,VLDB 2004,2004-08-31 00:00:00+00:00,InformationSystems,Canada,504.0,98.0,0.194,2004,2.0,Elite / Highly Selective
+VLDB2005,VLDB 2005,2005-08-30 00:00:00+00:00,InformationSystems,Norway,517.0,85.0,0.164,2005,2.0,Elite / Highly Selective
+VLDB2007,VLDB 2007,2007-09-23 00:00:00+00:00,InformationSystems,Austria,538.0,91.0,0.169,2007,2.0,Elite / Highly Selective
+VLDB2008,VLDB 2008,2008-08-24 00:00:00+00:00,InformationSystems,New_Zealand,567.0,95.0,0.168,2008,2.0,Elite / Highly Selective
+VLDB2009,VLDB 2009,2009-08-24 00:00:00+00:00,InformationSystems,France,562.0,97.0,0.173,2009,2.0,Elite / Highly Selective
+VLDB2011,VLDB 2011,2011-08-29 00:00:00+00:00,InformationSystems,United_States,553.0,100.0,0.181,2011,2.0,Elite / Highly Selective
+VLDB2013,VLDB 2013,2013-08-26 00:00:00+00:00,InformationSystems,Italy,559.0,127.0,0.227,2013,2.0,Elite / Highly Selective
+VLDB2017,VLDB 2017,2017-08-28 00:00:00+00:00,InformationSystems,Germany,559.0,104.0,0.186,2017,2.0,Elite / Highly Selective
+VLDB2014,VLDB 2014,2014-09-01 00:00:00+00:00,InformationSystems,China,1305.0,261.0,0.2,2014,1.0,High-Acceptance / Mega-Venue
+VLDB2016,VLDB 2016,2016-09-05 00:00:00+00:00,InformationSystems,India,527.0,187.0,0.355,2016,2.0,Elite / Highly Selective
+WSDM2014,WSDM 2014,2014-02-24 00:00:00+00:00,WorldWideWeb,United_States,355.0,64.0,0.18,2014,0.0,Standard Peer-Reviewed
