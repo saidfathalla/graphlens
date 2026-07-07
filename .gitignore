@@ -9,6 +9,7 @@ venv/
 
 # OS metadata
 .DS_Store
+*.lock.processed
 
 # Ignore all programmatic pipeline outputs
 env/
