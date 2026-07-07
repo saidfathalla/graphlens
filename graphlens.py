@@ -54,7 +54,7 @@ class GraphLensScientometricPipeline:
             
         print("[*] Parsing dates and cleaning semantic URIs into structural features...")
         
-        # Robustly extract 4-digit years from the temporal string literals using Regex
+        # Extract 4-digit years from the temporal string literals using Regex
         if 'date' in df.columns:
             df['year'] = df['date'].apply(
                 lambda x: int(re.search(r'\d{4}', str(x)).group()) 
@@ -267,7 +267,6 @@ class GraphLensScientometricPipeline:
         graph = rdflib.Graph()
         detected_format = None
 
-        # Scenario 1: Processing Remote URL Endpoint Parameter
         if rdf_url:
             print(f"[*] Connecting to live semantic data channel: {rdf_url}")
             try:
@@ -277,10 +276,8 @@ class GraphLensScientometricPipeline:
                     return
                 response.raise_for_status()
                 
-                # Attempt automatic format layout resolution from URL layout patterns
                 detected_format = guess_format(rdf_url)
                 if not detected_format:
-                    # Fallback to inspecting Content-Type header properties
                     content_type = response.headers.get('Content-Type', '').lower()
                     if 'turtle' in content_type or 'ttl' in content_type: detected_format = 'turtle'
                     elif 'rdf+xml' in content_type or 'xml' in content_type: detected_format = 'xml'
@@ -301,7 +298,6 @@ class GraphLensScientometricPipeline:
                 print(f"\n[!] Ingestion Failure: Unable to securely connect to remote service channel.\n    Network Details: {network_err}")
                 return
 
-        # Scenario 2: Processing Local File Parameter
         elif rdf_file:
             print(f"[*] Loading local semantic data asset: {rdf_file}")
             if not os.path.exists(rdf_file):
@@ -325,7 +321,12 @@ class GraphLensScientometricPipeline:
         print(f"[+] Triplestore parsed successfully into memory using layout parsing mode: '{detected_format}'. Size: {len(graph)} triples.")
         print("[*] Compiling schema extraction query parsing operations...")
         
-        query_job = graph.query(query_str)
+        try:
+            query_job = graph.query(query_str)
+        except Exception as query_error:
+            print(f"\n[!] Fatal SPARQL Syntax Error: The external query file could not be compiled.\n    Details: {query_error}")
+            return
+
         columns = [str(var) for var in query_job.vars]
         
         rows = []
@@ -334,7 +335,7 @@ class GraphLensScientometricPipeline:
             
         raw_df = pd.DataFrame(rows, columns=columns)
         if raw_df.empty:
-            print("[!] Fatal Error: Extraction query generated an empty dataframe context.")
+            print("[!] Fatal Error: Extraction query generated an empty dataframe context. Verify your query's URI namespaces.")
             return
 
         print(f"[+] Raw payload captured successfully: {len(raw_df)} metadata rows loaded.")
@@ -344,40 +345,34 @@ class GraphLensScientometricPipeline:
         analyzed_df, yearly_df, metadata = self.execute_advanced_analytics(processed_df)
         self.generate_publication_plots(analyzed_df, yearly_df, metadata)
         
-        # Save structural dataset artifact 
         csv_path = os.path.join(self.output_dir, "processed_scientometric_matrix.csv")
         analyzed_df.to_csv(csv_path, index=False)
         print(f"\n[+++] Success! All 7 visual assets and structural tables saved to: '{self.output_dir}/'\n")
 
 if __name__ == "__main__":
-    BROAD_SCIENTOMETRIC_QUERY = """
-    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-    PREFIX co: <https://w3id.org/scholarlydata/ontology/conference-ontology.owl#>
-    PREFIX seo: <https://w3id.org/seo#>
-    
-    SELECT ?event ?acronym ?date ?field ?country ?submitted ?accepted ?acceptanceRate
-    WHERE {
-        ?event seo:submittedPapers ?submitted .
-        OPTIONAL { ?event seo:acceptedPapers ?accepted . }
-        OPTIONAL { ?event co:acronym ?acronym . }
-        OPTIONAL { ?event co:startDate ?date . }
-        OPTIONAL { ?event seo:field ?field . }
-        OPTIONAL { ?event seo:heldInCountry ?country . }
-        OPTIONAL { ?event seo:acceptanceRate ?acceptanceRate . }
-    }
-    """
-    
-    # Compile the command-line CLI option infrastructure
     parser = argparse.ArgumentParser(description="GraphLens: Automated Semantic Graph Scientometric Pipeline")
+    
+    # Query configuration file input parameter
+    parser.add_argument("-q", "--query", required=True, help="Path to external SPARQL query file containing prefix definitions (.rq, .sparql)")
+    
+    # Input data channels
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("-u", "--url", help="Remote url target channel pointing to an RDF graph serialization (.ttl, .rdf, .jsonld)")
     group.add_argument("-f", "--file", help="Local storage file path pointing directly to an RDF serialization data asset")
     
     args = parser.parse_args()
     
+    # Read query file context safely
+    if not os.path.exists(args.query):
+        print(f"[!] Fatal Configuration Error: The specified query file '{args.query}' was not found.")
+        exit(1)
+        
+    with open(args.query, "r", encoding="utf-8") as f:
+        loaded_sparql_query = f.read()
+    
     pipeline = GraphLensScientometricPipeline()
     pipeline.execute_pipeline(
-        query_str=BROAD_SCIENTOMETRIC_QUERY, 
+        query_str=loaded_sparql_query, 
         rdf_url=args.url, 
         rdf_file=args.file
     )

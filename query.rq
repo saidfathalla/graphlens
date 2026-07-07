@@ -1,0 +1,14 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX co: <https://w3id.org/scholarlydata/ontology/conference-ontology.owl#>
+PREFIX seo: <https://w3id.org/seo#>
+
+SELECT ?event ?acronym ?date ?field ?country ?submitted ?accepted ?acceptanceRate
+WHERE {
+    ?event seo:submittedPapers ?submitted .
+    OPTIONAL { ?event seo:acceptedPapers ?accepted . }
+    OPTIONAL { ?event co:acronym ?acronym . }
+    OPTIONAL { ?event co:startDate ?date . }
+    OPTIONAL { ?event seo:field ?field . }
+    OPTIONAL { ?event seo:heldInCountry ?country . }
+    OPTIONAL { ?event seo:acceptanceRate ?acceptanceRate . }
+}
