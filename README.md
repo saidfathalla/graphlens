@@ -45,7 +45,7 @@ GraphLens is designed as an automated, single-command command-line tool.
 - TO **read from a URL**:
 
 ```bash
-python graphlens2.py   --query eventkg_query.rq   --profile profile.yaml   --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+python graphlens.py   --query eventkg_query.rq   --profile profile.yaml   --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
 
 
 ```
