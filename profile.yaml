@@ -1,0 +1,23 @@
+# profile.yaml
+domain_namespace: "http://w3id.org/EVENTSKG-Dataset/ekg#"
+target_class: "https://w3id.org/scholarlydata/ontology/conference-ontology/Conference"
+
+attributes:
+  independent_metrics:
+    - identifier: "x1"
+      predicate: "https://w3id.org/seo#totalSubmissions"
+      datatype: "xsd:integer"
+    - identifier: "x2"
+      predicate: "https://w3id.org/seo#acceptedPapers"
+      datatype: "xsd:integer"
+  
+  derived_ratios:
+    - identifier: "y"
+      predicate: "https://w3id.org/seo#acceptanceRate"
+      dependency_formula: "x2 / x1"
+      
+  nominal_categories:
+    - identifier: "c1"
+      predicate: "https://w3id.org/seo#field"
+    - identifier: "c2"
+      predicate: "https://w3id.org/seo#heldInCountry"

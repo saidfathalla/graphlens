@@ -1,0 +1,1037 @@
+date,x1,x2,y,c1,c2,acronym,event,year,cluster_label,agnostic_profile
+1986-08-11 00:00:00+00:00,817.0,187.0,0.229,ArtificialIntelligence,United_States,AAAI1986,AAAI1986,1986,1.0,High Selectivity Target Band
+1987-07-13 00:00:00+00:00,715.0,149.0,0.208,ArtificialIntelligence,United_States,AAAI1987,AAAI19877,1987,1.0,High Selectivity Target Band
+1988-08-21 00:00:00+00:00,850.0,148.0,0.174,ArtificialIntelligence,United_States,AAAI1988,AAAI1988,1988,1.0,High Selectivity Target Band
+1990-07-29 00:00:00+00:00,892.0,161.0,0.18,ArtificialIntelligence,United_States,AAAI1990,AAAI1990,1990,1.0,High Selectivity Target Band
+1991-07-14 00:00:00+00:00,603.0,142.0,0.235,ArtificialIntelligence,United_States,AAAI1991,AAAI1991,1991,1.0,High Selectivity Target Band
+1992-07-12 00:00:00+00:00,636.0,133.0,0.209,ArtificialIntelligence,United_States,AAAI1992,AAAI1992,1992,1.0,High Selectivity Target Band
+1993-07-11 00:00:00+00:00,524.0,126.0,0.24,ArtificialIntelligence,United_States,AAAI1993,AAAI1993,1993,1.0,High Selectivity Target Band
+1994-07-31 00:00:00+00:00,780.0,222.0,0.285,ArtificialIntelligence,United_States,AAAI1994,AAAI1994,1994,1.0,High Selectivity Target Band
+1996-08-04 00:00:00+00:00,643.0,197.0,0.306,ArtificialIntelligence,United_States,AAAI1996,AAAI1996,1996,1.0,High Selectivity Target Band
+1997-07-27 00:00:00+00:00,323.0,117.0,0.362,ArtificialIntelligence,United_States,AAAI1997,AAAI1997,1997,0.0,Standard Distribution Band
+1998-07-26 00:00:00+00:00,475.0,144.0,0.303,ArtificialIntelligence,United_States,AAAI1998,AAAI1998,1998,1.0,High Selectivity Target Band
+1999-07-18 00:00:00+00:00,400.0,109.0,0.273,ArtificialIntelligence,United_States,AAAI1999,AAAI1999,1999,0.0,Standard Distribution Band
+2000-07-30 00:00:00+00:00,431.0,143.0,0.332,ArtificialIntelligence,United_States,AAAI2000,AAAI2000,2000,1.0,High Selectivity Target Band
+2002-07-28 00:00:00+00:00,469.0,121.0,0.258,ArtificialIntelligence,Canada,AAAI2002,AAAI2002,2002,1.0,High Selectivity Target Band
+2004-07-25 00:00:00+00:00,453.0,121.0,0.267,ArtificialIntelligence,United_States,AAAI2004,AAAI2004,2004,1.0,High Selectivity Target Band
+2005-07-09 00:00:00+00:00,803.0,229.0,0.285,ArtificialIntelligence,United_States,AAAI2005,AAAI2005,2005,1.0,High Selectivity Target Band
+2006-07-16 00:00:00+00:00,774.0,236.0,0.305,ArtificialIntelligence,United_States,AAAI2006,AAAI2006,2006,1.0,High Selectivity Target Band
+2007-07-22 00:00:00+00:00,921.0,253.0,0.275,ArtificialIntelligence,Canada,AAAI2007,AAAI2007,2007,1.0,High Selectivity Target Band
+2008-07-13 00:00:00+00:00,937.0,227.0,0.242,ArtificialIntelligence,United_States,AAAI2008,AAAI2008,2008,1.0,High Selectivity Target Band
+2010-07-11 00:00:00+00:00,982.0,264.0,0.269,ArtificialIntelligence,United_States,AAAI2010,AAAI2010,2010,1.0,High Selectivity Target Band
+2011-08-07 00:00:00+00:00,975.0,242.0,0.248,ArtificialIntelligence,United_States,AAAI2011,AAAI2011,2011,1.0,High Selectivity Target Band
+2012-07-22 00:00:00+00:00,1129.0,294.0,0.26,ArtificialIntelligence,Canada,AAAI2012,AAAI2012,2012,1.0,High Selectivity Target Band
+2013-07-14 00:00:00+00:00,827.0,203.0,0.245,ArtificialIntelligence,United_States,AAAI2013,AAAI2013,2013,1.0,High Selectivity Target Band
+2014-07-27 00:00:00+00:00,1406.0,398.0,0.283,ArtificialIntelligence,Canada,AAAI2014,AAAI2014,2014,2.0,High Density Acceptance Band
+2015-01-25 00:00:00+00:00,1991.0,531.0,0.267,ArtificialIntelligence,United_States,AAAI2015,AAAI2015,2015,2.0,High Density Acceptance Band
+2016-02-12 00:00:00+00:00,2132.0,549.0,0.258,ArtificialIntelligence,United_States,AAAI2016,AAAI2016,2016,2.0,High Density Acceptance Band
+2017-02-04 00:00:00+00:00,2590.0,638.0,0.246,ArtificialIntelligence,United_States,AAAI2017,AAAI2017,2017,2.0,High Density Acceptance Band
+2002-07-15 00:00:00+00:00,530.0,142.0,0.268,ArtificialIntelligence,Italy,AAMAS 2002,AAMAS2002,2002,1.0,High Selectivity Target Band
+2003-07-14 00:00:00+00:00,466.0,115.0,0.247,ArtificialIntelligence,Australia,,AAMAS2003,2003,1.0,High Selectivity Target Band
+2004-07-19 00:00:00+00:00,577.0,142.0,0.246,ArtificialIntelligence,United_States,AAMAS 2004,AAMAS2004,2004,1.0,High Selectivity Target Band
+2005-07-25 00:00:00+00:00,530.0,130.0,0.245,ArtificialIntelligence,Netherlands,AAMAS 2005,AAMAS2005,2005,1.0,High Selectivity Target Band
+2006-05-08 00:00:00+00:00,550.0,127.0,0.231,ArtificialIntelligence,Japan,AAMAS 2006,AAMAS2006,2006,1.0,High Selectivity Target Band
+2007-05-14 00:00:00+00:00,531.0,121.0,0.228,ArtificialIntelligence,United_States,AAMAS 2007,AAMAS2007,2007,1.0,High Selectivity Target Band
+2008-05-12 00:00:00+00:00,721.0,141.0,0.196,ArtificialIntelligence,Portugal,AAMAS 2008,AAMAS2008,2008,1.0,High Selectivity Target Band
+2009-05-10 00:00:00+00:00,651.0,132.0,0.203,ArtificialIntelligence,Hungary,AAMAS 2009,AAMAS2009,2009,1.0,High Selectivity Target Band
+2010-05-10 00:00:00+00:00,685.0,163.0,0.238,ArtificialIntelligence,Canada,AAMAS 2010,AAMAS2010,2010,1.0,High Selectivity Target Band
+2011-05-02 00:00:00+00:00,575.0,126.0,0.219,ArtificialIntelligence,Taiwan,AAMAS 2011,AAMAS2011,2011,1.0,High Selectivity Target Band
+2012-06-04 00:00:00+00:00,671.0,137.0,0.204,ArtificialIntelligence,Spain,AAMAS 2012,AAMAS2012,2012,1.0,High Selectivity Target Band
+2013-05-06 00:00:00+00:00,599.0,140.0,0.23,ArtificialIntelligence,United_States,AAMAS 2013,AAMAS2013,2013,1.0,High Selectivity Target Band
+2014-05-05 00:00:00+00:00,670.0,180.0,0.12,ArtificialIntelligence,Turkey,AAMAS 2014,AAMAS2014,2014,1.0,High Selectivity Target Band
+2015-05-04 00:00:00+00:00,709.0,86.0,0.27,ArtificialIntelligence,Turkey,AAMAS 2015,AAMAS2015,2015,1.0,High Selectivity Target Band
+2016-05-09 00:00:00+00:00,550.0,151.0,0.253,ArtificialIntelligence,Singapore,AAMAS 2016,AAMAS2016,2016,1.0,High Selectivity Target Band
+2017-05-08 00:00:00+00:00,595.0,155.0,0.26,ArtificialIntelligence,Brazil,AAMAS 2017,AAMAS2017,2017,1.0,High Selectivity Target Band
+2018-07-10 00:00:00+00:00,597.0,151.0,0.25,ArtificialIntelligence,Sweden,AAMAS 2018,AAMAS2018,2018,1.0,High Selectivity Target Band
+1995-12-05 00:00:00+00:00,56.0,,,ArtificialIntelligence,Singapore,ACCV2018,ACCV1995,1995,,General Ingested Cluster
+1998-01-08 00:00:00+00:00,300.0,58.0,0.193,ArtificialIntelligence,China,ACCV1998,ACCV1998,1998,0.0,Standard Distribution Band
+2007-11-18 00:00:00+00:00,551.0,179.0,0.325,ArtificialIntelligence,Japan,ACCV2007,ACCV2007,2007,1.0,High Selectivity Target Band
+2009-09-23 00:00:00+00:00,670.0,166.0,0.248,ArtificialIntelligence,China,ACCV2009,ACCV2009,2009,1.0,High Selectivity Target Band
+2010-11-12 00:00:00+00:00,739.0,206.0,0.279,ArtificialIntelligence,New_Zealand,ACCV2010,ACCV2010,2010,1.0,High Selectivity Target Band
+2012-11-05 00:00:00+00:00,869.0,226.0,0.26,ArtificialIntelligence,Korea,ACCV2012,ACCV2012,2012,1.0,High Selectivity Target Band
+2014-11-01 00:00:00+00:00,814.0,227.0,0.279,ArtificialIntelligence,Singapore,ACCV2014,ACCV2014,2014,1.0,High Selectivity Target Band
+2016-11-20 00:00:00+00:00,479.0,143.0,0.3,ArtificialIntelligence,Taiwan,ACCV2016,ACCV2016,2016,1.0,High Selectivity Target Band
+2000-12-11 00:00:00+00:00,100.0,42.0,0.42,SecurityAndPrivacy,United_States,ACSAC 2000,ACSAC2000,2000,0.0,Standard Distribution Band
+2001-12-11 00:00:00+00:00,119.0,38.0,0.319,SecurityAndPrivacy,United_States,ACSAC 2001,ACSAC2001,2001,0.0,Standard Distribution Band
+2002-12-09 00:00:00+00:00,102.0,33.0,0.324,SecurityAndPrivacy,United_States,ACSAC 2002,ACSAC2002,2002,0.0,Standard Distribution Band
+2003-12-08 00:00:00+00:00,119.0,36.0,0.303,SecurityAndPrivacy,United_States,ACSAC 2003,ACSAC2003,2003,0.0,Standard Distribution Band
+2004-12-06 00:00:00+00:00,134.0,35.0,0.261,SecurityAndPrivacy,United_States,ACSAC 2004,ACSAC2004,2004,0.0,Standard Distribution Band
+2005-12-05 00:00:00+00:00,197.0,45.0,0.228,SecurityAndPrivacy,United_States,ACSAC 2005,ACSAC2005,2005,0.0,Standard Distribution Band
+2006-12-11 00:00:00+00:00,134.0,40.0,0.299,SecurityAndPrivacy,United_States,ACSAC 2006,ACSAC2006,2006,0.0,Standard Distribution Band
+2007-12-10 00:00:00+00:00,191.0,42.0,0.22,SecurityAndPrivacy,United_States,ACSAC 2007,ACSAC2007,2007,0.0,Standard Distribution Band
+2008-12-08 00:00:00+00:00,173.0,42.0,0.243,SecurityAndPrivacy,United_States,ACSAC 2026,ACSAC2008,2008,0.0,Standard Distribution Band
+2009-12-07 00:00:00+00:00,224.0,44.0,0.196,SecurityAndPrivacy,United_States,ACSAC 2009,ACSAC2009,2009,0.0,Standard Distribution Band
+2010-12-06 00:00:00+00:00,227.0,39.0,0.172,SecurityAndPrivacy,United_States,ACSAC 2010,ACSAC2010,2010,0.0,Standard Distribution Band
+2011-12-05 00:00:00+00:00,195.0,39.0,0.2,SecurityAndPrivacy,United_States,ACSAC 2011,ACSAC2011,2011,0.0,Standard Distribution Band
+2012-12-03 00:00:00+00:00,231.0,44.0,0.19,SecurityAndPrivacy,United_States,ACSAC 2012,ACSAC2012,2012,0.0,Standard Distribution Band
+2013-12-09 00:00:00+00:00,171.0,34.0,0.199,SecurityAndPrivacy,United_States,ACSAC 2013,ACSAC2013,2013,0.0,Standard Distribution Band
+2014-12-08 00:00:00+00:00,236.0,47.0,0.199,SecurityAndPrivacy,United_States,ACSAC 2014,ACSAC2014,2014,0.0,Standard Distribution Band
+2015-12-07 00:00:00+00:00,193.0,47.0,0.244,SecurityAndPrivacy,United_States,ACSAC 2015,ACSAC2015,2015,0.0,Standard Distribution Band
+2016-12-05 00:00:00+00:00,210.0,48.0,0.229,SecurityAndPrivacy,United_States,ACSAC 2016,ACSAC2016,2016,0.0,Standard Distribution Band
+2017-12-04 00:00:00+00:00,244.0,48.0,0.197,SecurityAndPrivacy,United_States,ACSAC 2017,ACSAC2017,2017,0.0,Standard Distribution Band
+2005-01-06 00:00:00+00:00,150.0,51.0,0.34,ArtificialIntelligence,Barbados,AISTATS 2005,AISTATS2005,2005,0.0,Standard Distribution Band
+2007-03-21 00:00:00+00:00,150.0,85.0,0.567,ArtificialIntelligence,United_States,AISTATS 2007,AISTATS2007,2007,0.0,Standard Distribution Band
+2009-04-17 00:00:00+00:00,210.0,74.0,0.352,ArtificialIntelligence,United_States,AISTATS 2009,AISTATS2009,2009,0.0,Standard Distribution Band
+2010-05-13 00:00:00+00:00,308.0,125.0,0.406,ArtificialIntelligence,Italy,AISTATS 2010,AISTATS2010,2010,0.0,Standard Distribution Band
+2011-04-11 00:00:00+00:00,272.0,77.0,0.283,ArtificialIntelligence,United_States,AISTATS 2011,AISTATS2011,2011,0.0,Standard Distribution Band
+2012-04-21 00:00:00+00:00,400.0,134.0,0.335,ArtificialIntelligence,Kingdom_of_the_Canary_Islands,AISTATS 2012,AISTATS2012,2012,0.0,Standard Distribution Band
+2013-04-29 00:00:00+00:00,211.0,71.0,0.337,ArtificialIntelligence,United_States,AISTATS 2013,AISTATS2013,2013,0.0,Standard Distribution Band
+2014-04-22 00:00:00+00:00,335.0,120.0,0.358,ArtificialIntelligence,Iceland,AISTATS 2014,AISTATS2014,2014,0.0,Standard Distribution Band
+2015-05-09 00:00:00+00:00,442.0,127.0,0.287,ArtificialIntelligence,United_States,AISTATS 2015,AISTATS2015,2015,1.0,High Selectivity Target Band
+2016-05-09 00:00:00+00:00,537.0,165.0,0.307,ArtificialIntelligence,Spain,AISTATS 2016,AISTATS2016,2016,1.0,High Selectivity Target Band
+2017-04-20 00:00:00+00:00,526.0,167.0,0.317,ArtificialIntelligence,United_States,AISTATS 2017,AISTATS2017,2017,1.0,High Selectivity Target Band
+1997-11-01 00:00:00+00:00,108.0,32.0,0.3,SoftwareEngineering,United_States,ASE 1997,ASE1997,1997,0.0,Standard Distribution Band
+1998-10-13 00:00:00+00:00,150.0,24.0,0.16,SoftwareEngineering,United_States,ASE 1998,ASE1998,1998,0.0,Standard Distribution Band
+1999-10-12 00:00:00+00:00,123.0,25.0,0.2,SoftwareEngineering,United_States,ASE 1999,ASE1999,1999,0.0,Standard Distribution Band
+2000-09-11 00:00:00+00:00,100.0,23.0,0.23,SoftwareEngineering,United_States,ASE 2000,ASE2000,2000,0.0,Standard Distribution Band
+2001-11-26 00:00:00+00:00,164.0,32.0,0.2,SoftwareEngineering,United_States,ASE 2001,ASE2001,2001,0.0,Standard Distribution Band
+2002-09-23 00:00:00+00:00,94.0,19.0,0.2,SoftwareEngineering,England,ASE 2002,ASE2002,2002,0.0,Standard Distribution Band
+2003-10-06 00:00:00+00:00,170.0,22.0,0.13,SoftwareEngineering,Canada,ASE 2003,ASE2003,2003,0.0,Standard Distribution Band
+2004-09-20 00:00:00+00:00,183.0,25.0,0.14,SoftwareEngineering,Austria,ASE 2004,ASE2004,2004,0.0,Standard Distribution Band
+2005-11-07 00:00:00+00:00,291.0,28.0,0.096,SoftwareEngineering,United_States,ASE 2005,ASE2005,2005,0.0,Standard Distribution Band
+2006-09-18 00:00:00+00:00,121.0,22.0,0.18,SoftwareEngineering,Japan,ASE 2006,ASE2006,2006,0.0,Standard Distribution Band
+2007-11-05 00:00:00+00:00,312.0,37.0,0.12,SoftwareEngineering,United_States,ASE 2007,ASE2007,2007,0.0,Standard Distribution Band
+2008-09-15 00:00:00+00:00,280.0,34.0,0.12,SoftwareEngineering,United_States,ASE 2008,ASE2008,2008,0.0,Standard Distribution Band
+2009-11-16 00:00:00+00:00,222.0,38.0,0.17,SoftwareEngineering,New_Zealand,ASE 2009,ASE2009,2009,0.0,Standard Distribution Band
+2010-09-20 00:00:00+00:00,190.0,33.0,0.174,SoftwareEngineering,Belgium,ASE 2010,ASE2010,2010,0.0,Standard Distribution Band
+2011-11-06 00:00:00+00:00,252.0,37.0,0.15,SoftwareEngineering,United_States,ASE 2011,ASE2011,2011,0.0,Standard Distribution Band
+2012-09-03 00:00:00+00:00,138.0,47.0,0.341,SoftwareEngineering,Germany,ASE 2012,ASE2012,2012,0.0,Standard Distribution Band
+2013-11-11 00:00:00+00:00,254.0,43.0,0.169,SoftwareEngineering,United_States,ASE 2013,ASE2013,2013,0.0,Standard Distribution Band
+2014-09-15 00:00:00+00:00,337.0,82.0,0.24,SoftwareEngineering,Sweden,ASE 2014,ASE2014,2014,0.0,Standard Distribution Band
+2015-11-09 00:00:00+00:00,289.0,60.0,0.14,SoftwareEngineering,United_States,ASE 2015,ASE2015,2015,0.0,Standard Distribution Band
+2016-09-03 00:00:00+00:00,333.0,53.0,0.159,SoftwareEngineering,Singapore,ASE 2016,ASE2016,2016,0.0,Standard Distribution Band
+2017-10-30 00:00:00+00:00,388.0,65.0,0.168,SoftwareEngineering,United_States,ASE 2017,ASE2017,2017,0.0,Standard Distribution Band
+1987-10-05 00:00:00+00:00,65.0,22.0,0.338,SoftwareEngineering,United_States,ASPLOS 1987,ASPLOS1987,1987,0.0,Standard Distribution Band
+1989-04-03 00:00:00+00:00,114.0,27.0,0.237,SoftwareEngineering,United_States,ASPLOS 1989,ASPLOS1989,1989,0.0,Standard Distribution Band
+1990-04-08 00:00:00+00:00,92.0,28.0,0.304,SoftwareEngineering,United_States,ASPLOS 1991,ASPLOS1991,1990,0.0,Standard Distribution Band
+1992-10-12 00:00:00+00:00,150.0,24.0,0.16,SoftwareEngineering,United_States,ASPLOS 1992,ASPLOS1992,1992,0.0,Standard Distribution Band
+1994-10-04 00:00:00+00:00,146.0,29.0,0.199,SoftwareEngineering,United_States,ASPLOS 1994,ASPLOS1994,1994,0.0,Standard Distribution Band
+1996-10-01 00:00:00+00:00,109.0,25.0,0.229,SoftwareEngineering,United_States,ASPLOS 1996,ASPLOS1996,1996,0.0,Standard Distribution Band
+1998-10-03 00:00:00+00:00,123.0,28.0,0.228,SoftwareEngineering,United_States,ASPLOS 1998,ASPLOS1998,1998,0.0,Standard Distribution Band
+2000-11-12 00:00:00+00:00,114.0,24.0,0.211,SoftwareEngineering,United_States,ASPLOS 2000,ASPLOS2000,2000,0.0,Standard Distribution Band
+2002-10-05 00:00:00+00:00,175.0,24.0,0.137,SoftwareEngineering,United_States,ASPLOS 2002,ASPLOS2002,2002,0.0,Standard Distribution Band
+2004-10-07 00:00:00+00:00,169.0,24.0,0.142,SoftwareEngineering,United_States,ASPLOS 2004,ASPLOS2004,2004,0.0,Standard Distribution Band
+2006-10-21 00:00:00+00:00,158.0,38.0,0.241,SoftwareEngineering,United_States,ASPLOS 2006,ASPLOS2006,2006,0.0,Standard Distribution Band
+2008-03-01 00:00:00+00:00,127.0,31.0,0.244,SoftwareEngineering,United_States,ASPLOS 2008,ASPLOS2008,2008,0.0,Standard Distribution Band
+2009-03-07 00:00:00+00:00,113.0,29.0,0.257,SoftwareEngineering,United_States,ASPLOS 2009,ASPLOS2009,2009,0.0,Standard Distribution Band
+2010-03-13 00:00:00+00:00,181.0,32.0,0.177,SoftwareEngineering,United_States,ASPLOS 2010,ASPLOS2010,2010,0.0,Standard Distribution Band
+2011-03-05 00:00:00+00:00,152.0,32.0,0.211,SoftwareEngineering,United_States,ASPLOS 2011,ASPLOS2011,2011,0.0,Standard Distribution Band
+2012-03-03 00:00:00+00:00,172.0,37.0,0.215,SoftwareEngineering,England,ASPLOS 2012,ASPLOS2012,2012,0.0,Standard Distribution Band
+2013-03-16 00:00:00+00:00,193.0,44.0,0.228,SoftwareEngineering,United_States,ASPLOS 2013,ASPLOS2013,2013,0.0,Standard Distribution Band
+2014-03-01 00:00:00+00:00,217.0,49.0,0.226,SoftwareEngineering,United_States,ASPLOS 2014,ASPLOS2014,2014,0.0,Standard Distribution Band
+2015-03-14 00:00:00+00:00,287.0,48.0,0.167,SoftwareEngineering,Turkey,ASPLOS 2015,ASPLOS2015,2015,0.0,Standard Distribution Band
+2016-04-02 00:00:00+00:00,232.0,53.0,0.228,SoftwareEngineering,United_States,ASPLOS 2016,ASPLOS2016,2016,0.0,Standard Distribution Band
+2017-04-08 00:00:00+00:00,320.0,53.0,0.166,SoftwareEngineering,China,ASPLOS 2017,ASPLOS2017,2017,0.0,Standard Distribution Band
+2005-06-11 00:00:00+00:00,79.0,30.0,0.38,TheoryOfComputations,United_States,CCC 2005,CCC2005,2005,0.0,Standard Distribution Band
+2006-07-16 00:00:00+00:00,87.0,28.0,0.323,TheoryOfComputations,Czech_Republic,CCC 2006,CCC2006,2006,0.0,Standard Distribution Band
+2007-06-13 00:00:00+00:00,90.0,30.0,0.333,TheoryOfComputations,United_States,CCC 2007,CCC2007,2007,0.0,Standard Distribution Band
+2008-06-23 00:00:00+00:00,87.0,32.0,0.368,TheoryOfComputations,United_States,CCC 2008,CCC2008,2008,0.0,Standard Distribution Band
+2009-07-15 00:00:00+00:00,113.0,37.0,0.327,TheoryOfComputations,France,CCC 2009,CCC2009,2009,0.0,Standard Distribution Band
+2010-06-09 00:00:00+00:00,76.0,25.0,0.329,TheoryOfComputations,Canada,CCC 2010,CCC2010,2010,0.0,Standard Distribution Band
+2011-06-08 00:00:00+00:00,83.0,30.0,0.361,TheoryOfComputations,United_States,CCC 2011,CCC2011,2011,0.0,Standard Distribution Band
+2012-06-26 00:00:00+00:00,119.0,34.0,0.286,TheoryOfComputations,Portugal,CCC 2012,CCC2012,2012,0.0,Standard Distribution Band
+2013-06-05 00:00:00+00:00,90.0,29.0,0.322,TheoryOfComputations,United_States,CCC 2013,CCC2013,2013,0.0,Standard Distribution Band
+2014-06-11 00:00:00+00:00,94.0,29.0,0.309,TheoryOfComputations,Canada,CCC 2014,CCC2014,2014,0.0,Standard Distribution Band
+2015-06-17 00:00:00+00:00,110.0,30.0,0.273,TheoryOfComputations,United_States,CCC 2015,CCC2015,2015,0.0,Standard Distribution Band
+2016-05-29 00:00:00+00:00,91.0,34.0,0.374,TheoryOfComputations,Japan,CCC 2016,CCC2016,2016,0.0,Standard Distribution Band
+2017-07-06 00:00:00+00:00,98.0,33.0,0.337,TheoryOfComputations,Latvia,CCC 2017,CCC2017,2017,0.0,Standard Distribution Band
+1993-11-03 00:00:00+00:00,60.0,27.0,0.45,SecurityAndPrivacy,United_States,CCS 1993,CCS1993,1993,0.0,Standard Distribution Band
+1994-11-02 00:00:00+00:00,70.0,31.0,0.443,SecurityAndPrivacy,United_States,CCS 1994,CCS1994,1994,0.0,Standard Distribution Band
+1995-11-07 00:00:00+00:00,65.0,38.0,0.585,SecurityAndPrivacy,United_States,CCS 1995,CCS1995,1995,0.0,Standard Distribution Band
+1996-03-14 00:00:00+00:00,59.0,19.0,0.322,SecurityAndPrivacy,India,CCS 1996,CCS1996,1996,0.0,Standard Distribution Band
+1997-04-01 00:00:00+00:00,64.0,17.0,0.266,SecurityAndPrivacy,Switzerland,CCS 1997,CCS1997,1997,0.0,Standard Distribution Band
+1998-11-02 00:00:00+00:00,85.0,17.0,0.2,SecurityAndPrivacy,United_States,CCS 1998,CCS1998,1998,0.0,Standard Distribution Band
+1999-11-01 00:00:00+00:00,83.0,16.0,0.193,SecurityAndPrivacy,Singapore,CCS 1999,CCS1999,1999,0.0,Standard Distribution Band
+2000-11-01 00:00:00+00:00,132.0,28.0,0.212,SecurityAndPrivacy,Greece,CCS 2000,CCS2000,2000,0.0,Standard Distribution Band
+2001-11-05 00:00:00+00:00,153.0,27.0,0.176,SecurityAndPrivacy,United_States,CCS 2001,CCS2001,2001,0.0,Standard Distribution Band
+2002-11-18 00:00:00+00:00,153.0,27.0,0.176,SecurityAndPrivacy,United_States,CCS 2002,CCS2002,2002,0.0,Standard Distribution Band
+2003-10-27 00:00:00+00:00,253.0,35.0,0.138,SecurityAndPrivacy,United_States,CCS 2003,CCS2003,2003,0.0,Standard Distribution Band
+2004-10-25 00:00:00+00:00,224.0,35.0,0.156,SecurityAndPrivacy,United_States,CCS 2004,CCS2004,2004,0.0,Standard Distribution Band
+2005-11-07 00:00:00+00:00,250.0,38.0,0.152,SecurityAndPrivacy,United_States,CCS 2005,CCS2005,2005,0.0,Standard Distribution Band
+2006-10-30 00:00:00+00:00,256.0,38.0,0.148,SecurityAndPrivacy,United_States,CCS 2006,CCS2006,2006,0.0,Standard Distribution Band
+2007-10-29 00:00:00+00:00,302.0,55.0,0.182,SecurityAndPrivacy,United_States,CCS 2007,CCS2007,2007,0.0,Standard Distribution Band
+2008-10-27 00:00:00+00:00,274.0,51.0,0.186,SecurityAndPrivacy,United_States,CCS 2008,CCS2008,2008,0.0,Standard Distribution Band
+2009-11-09 00:00:00+00:00,317.0,58.0,0.183,SecurityAndPrivacy,United_States,CCS 2009,CCS2009,2009,0.0,Standard Distribution Band
+2010-10-04 00:00:00+00:00,325.0,55.0,0.169,SecurityAndPrivacy,United_States,CCS 2010,CCS2010,2010,0.0,Standard Distribution Band
+2011-10-17 00:00:00+00:00,429.0,60.0,0.14,SecurityAndPrivacy,United_States,CCS 2011,CCS2011,2011,1.0,High Selectivity Target Band
+2012-10-16 00:00:00+00:00,426.0,81.0,0.19,SecurityAndPrivacy,United_States,CCS 2012,CCS2012,2012,1.0,High Selectivity Target Band
+2013-11-04 00:00:00+00:00,530.0,105.0,0.198,SecurityAndPrivacy,Germany,CCS 2013,CCS2013,2013,1.0,High Selectivity Target Band
+2014-11-03 00:00:00+00:00,585.0,114.0,0.195,SecurityAndPrivacy,United_States,CCS 2014,CCS2014,2014,1.0,High Selectivity Target Band
+2015-10-12 00:00:00+00:00,660.0,128.0,0.194,SecurityAndPrivacy,United_States,CCS 2015,CCS2015,2015,1.0,High Selectivity Target Band
+2016-10-24 00:00:00+00:00,831.0,137.0,0.165,SecurityAndPrivacy,Austria,CCS 2016,CCS2016,2016,1.0,High Selectivity Target Band
+2017-10-30 00:00:00+00:00,836.0,151.0,0.181,SecurityAndPrivacy,United_States,CCS 2017,CCS2017,2017,1.0,High Selectivity Target Band
+1982-05-15 00:00:00+00:00,165.0,75.0,0.45,HumanCenteredComputing,United_States,CHI 1982,CHI1982,1982,0.0,Standard Distribution Band
+1983-12-12 00:00:00+00:00,176.0,59.0,0.335,HumanCenteredComputing,United_States,CHI 1983,CHI1984,1983,0.0,Standard Distribution Band
+1985-04-14 00:00:00+00:00,170.0,35.0,0.205,HumanCenteredComputing,United_States,CHI 1985,CHI1985,1985,0.0,Standard Distribution Band
+1986-04-13 00:00:00+00:00,122.0,47.0,0.385,HumanCenteredComputing,United_States,CHI 1986,CHI1986,1986,0.0,Standard Distribution Band
+1987-04-05 00:00:00+00:00,166.0,46.0,0.277,HumanCenteredComputing,Canada,CHI 1987,CHI1987,1987,0.0,Standard Distribution Band
+1988-06-15 00:00:00+00:00,187.0,39.0,0.208,HumanCenteredComputing,United_States,CHI,CHI1988,1988,0.0,Standard Distribution Band
+1989-04-30 00:00:00+00:00,199.0,54.0,0.271,HumanCenteredComputing,United_States,CHI 1989,CHI1989,1989,0.0,Standard Distribution Band
+1990-04-01 00:00:00+00:00,260.0,47.0,0.18,HumanCenteredComputing,United_States,CHI 1990,CHI1990,1990,0.0,Standard Distribution Band
+1991-04-28 00:00:00+00:00,240.0,56.0,0.233,HumanCenteredComputing,Mexico,CHI 1991,CHI1991,1991,0.0,Standard Distribution Band
+1992-05-03 00:00:00+00:00,216.0,67.0,0.31,HumanCenteredComputing,United_States,CHI 1992,CHI1992,1992,0.0,Standard Distribution Band
+1993-04-24 00:00:00+00:00,330.0,62.0,0.187,HumanCenteredComputing,Netherlands,CHI 1993,CHI1993,1993,0.0,Standard Distribution Band
+1994-04-24 00:00:00+00:00,263.0,70.0,0.266,HumanCenteredComputing,United_States,CHI 1994,CHI1994,1994,0.0,Standard Distribution Band
+1995-05-07 00:00:00+00:00,228.0,66.0,0.289,HumanCenteredComputing,United_States,CHI 1995,CHI1995,1995,0.0,Standard Distribution Band
+1996-04-13 00:00:00+00:00,256.0,55.0,0.214,HumanCenteredComputing,Canada,CHI 1996,CHI1996,1996,0.0,Standard Distribution Band
+1997-03-22 00:00:00+00:00,234.0,55.0,0.235,HumanCenteredComputing,Kingdom_of_Georgia,CHI 1997,CHI1997,1997,0.0,Standard Distribution Band
+1998-04-18 00:00:00+00:00,351.0,81.0,0.23,HumanCenteredComputing,United_States,CHI 1998,CHI1998,1998,0.0,Standard Distribution Band
+1999-05-15 00:00:00+00:00,312.0,78.0,0.25,HumanCenteredComputing,United_States,CHI 1999,CHI1999,1999,0.0,Standard Distribution Band
+2000-04-01 00:00:00+00:00,336.0,72.0,0.211,HumanCenteredComputing,Netherlands,CHI 2000,CHI2000,2000,0.0,Standard Distribution Band
+2001-03-31 00:00:00+00:00,352.0,69.0,0.196,HumanCenteredComputing,United_States,CHI 2001,CHI2001,2001,0.0,Standard Distribution Band
+2002-04-20 00:00:00+00:00,414.0,61.0,0.147,HumanCenteredComputing,United_States,CHI 2002,CHI2002,2002,1.0,High Selectivity Target Band
+2003-04-05 00:00:00+00:00,468.0,75.0,0.16,HumanCenteredComputing,United_States,CHI 2003,CHI2003,2003,1.0,High Selectivity Target Band
+2004-04-24 00:00:00+00:00,578.0,93.0,0.16,HumanCenteredComputing,Austria,CHI 2004,CHI2004,2004,1.0,High Selectivity Target Band
+2005-04-02 00:00:00+00:00,372.0,93.0,0.25,HumanCenteredComputing,United_States,CHI 2005,CHI2005,2005,0.0,Standard Distribution Band
+2006-04-24 00:00:00+00:00,626.0,151.0,0.241,HumanCenteredComputing,Canada,CHI 2006,CHI2006,2006,1.0,High Selectivity Target Band
+2007-04-28 00:00:00+00:00,840.0,182.0,0.216,HumanCenteredComputing,United_States,CHI 2007,CHI2007,2007,1.0,High Selectivity Target Band
+2008-04-05 00:00:00+00:00,714.0,157.0,0.219,HumanCenteredComputing,Italy,CHI 2008,CHI2008,2008,1.0,High Selectivity Target Band
+2009-04-04 00:00:00+00:00,1130.0,277.0,0.245,HumanCenteredComputing,United_States,CHI 2009,CHI2009,2009,1.0,High Selectivity Target Band
+2010-04-10 00:00:00+00:00,1346.0,302.0,0.224,HumanCenteredComputing,United_States,CHI 2010,CHI2010,2010,2.0,High Density Acceptance Band
+2011-05-07 00:00:00+00:00,1532.0,410.0,0.267,HumanCenteredComputing,Canada,CHI 2011,CHI2011,2011,2.0,High Density Acceptance Band
+2012-05-05 00:00:00+00:00,1577.0,370.0,0.234,HumanCenteredComputing,United_States,CHI 2012,CHI2012,2012,2.0,High Density Acceptance Band
+2013-04-27 00:00:00+00:00,1963.0,392.0,0.199,HumanCenteredComputing,France,CHI 2013,CHI2013,2013,2.0,High Density Acceptance Band
+2014-04-26 00:00:00+00:00,2043.0,465.0,0.227,HumanCenteredComputing,Canada,CHI 2014,CHI2014,2014,2.0,High Density Acceptance Band
+2015-04-18 00:00:00+00:00,2120.0,486.0,0.229,HumanCenteredComputing,Korea,CHI 2015,CHI2015,2015,2.0,High Density Acceptance Band
+2016-05-07 00:00:00+00:00,2435.0,565.0,0.232,HumanCenteredComputing,United_States,CHI 2016,CHI2016,2016,2.0,High Density Acceptance Band
+2017-05-06 00:00:00+00:00,2400.0,600.0,0.25,HumanCenteredComputing,United_States,CHI 2017,CHI2017,2017,2.0,High Density Acceptance Band
+1997-07-06 00:00:00+00:00,71.0,35.0,0.493,TheoryOfComputations,United_States,COLT 1997,COLT1997,1997,0.0,Standard Distribution Band
+1999-07-07 00:00:00+00:00,71.0,35.0,0.493,TheoryOfComputations,United_States,COLT 1999,COLT1999,1999,0.0,Standard Distribution Band
+2000-06-28 00:00:00+00:00,172.0,62.0,0.36,TheoryOfComputations,United_States,COLT 2000,COLT2000,2000,0.0,Standard Distribution Band
+2002-07-08 00:00:00+00:00,55.0,26.0,0.473,TheoryOfComputations,Australia,COLT 2002,COLT2002,2002,0.0,Standard Distribution Band
+2003-08-24 00:00:00+00:00,92.0,49.0,0.533,TheoryOfComputations,United_States,COLT 2003,COLT2003,2003,0.0,Standard Distribution Band
+2004-07-01 00:00:00+00:00,107.0,44.0,0.411,TheoryOfComputations,Canada,COLT 2004,COLT2004,2004,0.0,Standard Distribution Band
+2005-06-27 00:00:00+00:00,120.0,45.0,0.375,TheoryOfComputations,Italy,COLT 2005,COLT2005,2005,0.0,Standard Distribution Band
+2006-06-22 00:00:00+00:00,102.0,43.0,0.422,TheoryOfComputations,Frame_of_Government_of_Pennsylvania,COLT 2006,COLT2006,2006,0.0,Standard Distribution Band
+2007-06-13 00:00:00+00:00,92.0,41.0,0.446,TheoryOfComputations,United_States,COLT 2007,COLT2007,2007,0.0,Standard Distribution Band
+2008-07-09 00:00:00+00:00,126.0,44.0,0.349,TheoryOfComputations,Finland,COLT 2008,COLT2008,2008,0.0,Standard Distribution Band
+2010-06-27 00:00:00+00:00,133.0,40.0,0.301,TheoryOfComputations,Israel,COLT 2010,COLT2010,2010,0.0,Standard Distribution Band
+2012-06-25 00:00:00+00:00,139.0,41.0,0.295,TheoryOfComputations,Scotland,COLT 2012,COLT2012,2012,0.0,Standard Distribution Band
+2013-06-12 00:00:00+00:00,98.0,47.0,0.48,TheoryOfComputations,United_States,COLT 2013,COLT2013,2013,0.0,Standard Distribution Band
+2014-06-13 00:00:00+00:00,140.0,52.0,0.371,TheoryOfComputations,Spain,COLT 2014,COLT2014,2014,0.0,Standard Distribution Band
+2015-06-03 00:00:00+00:00,176.0,62.0,0.352,TheoryOfComputations,France,COLT 2015,COLT2015,2015,0.0,Standard Distribution Band
+2016-07-23 00:00:00+00:00,199.0,63.0,0.317,TheoryOfComputations,United_States,COLT 2016,COLT2016,2016,0.0,Standard Distribution Band
+2017-07-07 00:00:00+00:00,128.0,28.0,0.219,TheoryOfComputations,Netherlands,COLT 2017,COLT2017,2017,0.0,Standard Distribution Band
+1986-12-03 00:00:00+00:00,80.0,30.0,0.38,ComputerSystemsOrganization,United_States,CSCW 1986,CSCW1986,1986,0.0,Standard Distribution Band
+1994-10-22 00:00:00+00:00,200.0,42.0,0.21,ComputerSystemsOrganization,United_States,CSCW 1994,CSCW1994,1994,0.0,Standard Distribution Band
+1998-11-14 00:00:00+00:00,220.0,41.0,0.19,ComputerSystemsOrganization,United_States,CSCW 1998,CSCW1998,1998,0.0,Standard Distribution Band
+2000-12-02 00:00:00+00:00,199.0,36.0,0.18,ComputerSystemsOrganization,United_States,CSCW 2000,CSCW2000,2000,0.0,Standard Distribution Band
+2002-11-16 00:00:00+00:00,193.0,39.0,0.2,ComputerSystemsOrganization,United_States,CSCW 2002,CSCW2002,2002,0.0,Standard Distribution Band
+2004-11-06 00:00:00+00:00,176.0,53.0,0.3,ComputerSystemsOrganization,United_States,CSCW 2004,CSCW2004,2004,0.0,Standard Distribution Band
+2006-11-04 00:00:00+00:00,304.0,62.0,0.2,ComputerSystemsOrganization,Canada,CSCW 2006,CSCW2006,2006,0.0,Standard Distribution Band
+2007-11-04 00:00:00+00:00,132.0,38.0,0.288,ComputerSystemsOrganization,United_States,CSCW 2007,CSCW2007,2007,0.0,Standard Distribution Band
+2008-11-08 00:00:00+00:00,370.0,86.0,0.232,ComputerSystemsOrganization,United_States,CSCW 2008,CSCW2008,2008,0.0,Standard Distribution Band
+2009-04-22 00:00:00+00:00,110.0,35.0,0.318,ComputerSystemsOrganization,United_States,CSCW 2009,CSCW2009,2009,0.0,Standard Distribution Band
+2010-02-06 00:00:00+00:00,288.0,58.0,0.2,ComputerSystemsOrganization,United_States,CSCW 2010,CSCW2010,2010,0.0,Standard Distribution Band
+2011-03-19 00:00:00+00:00,264.0,58.0,0.22,ComputerSystemsOrganization,China,CSCW 2011,CSCW2011,2011,0.0,Standard Distribution Band
+2012-02-11 00:00:00+00:00,290.0,127.0,0.438,ComputerSystemsOrganization,United_States,CSCW 2012,CSCW2012,2012,0.0,Standard Distribution Band
+2013-02-23 00:00:00+00:00,390.0,139.0,0.356,ComputerSystemsOrganization,United_States,CSCW 2013,CSCW2013,2013,0.0,Standard Distribution Band
+2014-02-15 00:00:00+00:00,497.0,134.0,0.27,ComputerSystemsOrganization,United_States,CSCW 2014,CSCW2014,2014,1.0,High Selectivity Target Band
+2015-03-14 00:00:00+00:00,575.0,161.0,0.28,ComputerSystemsOrganization,Canada,,CSCW2015,2015,1.0,High Selectivity Target Band
+2016-02-27 00:00:00+00:00,571.0,142.0,0.249,ComputerSystemsOrganization,United_States,CSCW 2016,CSCW2016,2016,1.0,High Selectivity Target Band
+2017-02-25 00:00:00+00:00,530.0,183.0,0.345,ComputerSystemsOrganization,United_States,CSCW 2017,CSCW2017,2017,1.0,High Selectivity Target Band
+2009-04-22 00:00:00+00:00,110.0,35.0,0.318,ComputerSystemsOrganization,United_States,CSCW 2009,CSCW2018,2009,0.0,Standard Distribution Band
+1988-06-05 00:00:00+00:00,300.0,140.0,0.467,ArtificialIntelligence,United_States,CVPR 1988,CVPR1988,1988,0.0,Standard Distribution Band
+1989-06-04 00:00:00+00:00,327.0,95.0,0.291,ArtificialIntelligence,United_States,CVPR 1989,CVPR1989,1989,0.0,Standard Distribution Band
+1991-06-03 00:00:00+00:00,491.0,143.0,0.291,ArtificialIntelligence,United_States,CVPR 1991,CVPR1991,1991,1.0,High Selectivity Target Band
+1992-06-15 00:00:00+00:00,357.0,159.0,0.445,ArtificialIntelligence,United_States,CVPR 1992,CVPR1992,1992,0.0,Standard Distribution Band
+1993-06-15 00:00:00+00:00,431.0,186.0,0.432,ArtificialIntelligence,United_States,CVPR 1993,CVPR1993,1993,1.0,High Selectivity Target Band
+1994-06-21 00:00:00+00:00,472.0,164.0,0.347,ArtificialIntelligence,United_States,CVPR 1994,CVPR1994,1994,1.0,High Selectivity Target Band
+1996-06-18 00:00:00+00:00,551.0,137.0,0.249,ArtificialIntelligence,United_States,CVPR 1996,CVPR1996,1996,1.0,High Selectivity Target Band
+1997-06-17 00:00:00+00:00,544.0,173.0,0.318,ArtificialIntelligence,Puerto_Rico,CVPR 1997,CVPR1997,1997,1.0,High Selectivity Target Band
+1998-06-23 00:00:00+00:00,453.0,139.0,0.307,ArtificialIntelligence,United_States,CVPR 1998,CVPR1998,1998,1.0,High Selectivity Target Band
+1999-06-23 00:00:00+00:00,503.0,192.0,0.382,ArtificialIntelligence,United_States,CVPR 1999,CVPR1999,1999,1.0,High Selectivity Target Band
+2000-06-13 00:00:00+00:00,466.0,220.0,0.472,ArtificialIntelligence,United_States,CVPR 2000,CVPR2000,2000,1.0,High Selectivity Target Band
+2001-12-08 00:00:00+00:00,920.0,273.0,0.297,ArtificialIntelligence,United_States,CVPR 2001,CVPR2001,2001,1.0,High Selectivity Target Band
+2003-06-16 00:00:00+00:00,905.0,209.0,0.231,ArtificialIntelligence,United_States,CVPR 2003,CVPR2003,2003,1.0,High Selectivity Target Band
+2004-06-27 00:00:00+00:00,873.0,260.0,0.298,ArtificialIntelligence,United_States,CVPR 2004,CVPR2004,2004,1.0,High Selectivity Target Band
+2005-06-20 00:00:00+00:00,1160.0,324.0,0.279,ArtificialIntelligence,United_States,CVPR 2005,CVPR2005,2005,1.0,High Selectivity Target Band
+2006-06-17 00:00:00+00:00,1131.0,318.0,0.281,ArtificialIntelligence,United_States,CVPR 2006,CVPR2006,2006,1.0,High Selectivity Target Band
+2007-06-18 00:00:00+00:00,1250.0,353.0,0.282,ArtificialIntelligence,United_States,CVPR 2007,CVPR2007,2007,2.0,High Density Acceptance Band
+2008-06-24 00:00:00+00:00,1593.0,508.0,0.319,ArtificialIntelligence,United_States,CVPR 2008,CVPR2008,2008,2.0,High Density Acceptance Band
+2009-06-20 00:00:00+00:00,1464.0,383.0,0.262,ArtificialIntelligence,United_States,CVPR 2009,CVPR2009,2009,2.0,High Density Acceptance Band
+2010-06-13 00:00:00+00:00,1724.0,461.0,0.267,ArtificialIntelligence,United_States,CVPR 2010,CVPR2010,2010,2.0,High Density Acceptance Band
+2011-06-20 00:00:00+00:00,1677.0,438.0,0.261,ArtificialIntelligence,United_States,CVPR 2011,CVPR2011,2011,2.0,High Density Acceptance Band
+2012-06-16 00:00:00+00:00,1933.0,466.0,0.241,ArtificialIntelligence,United_States,CVPR 2012,CVPR2012,2012,2.0,High Density Acceptance Band
+2013-06-23 00:00:00+00:00,1798.0,472.0,0.263,ArtificialIntelligence,United_States,CVPR 2013,CVPR2013,2013,2.0,High Density Acceptance Band
+2014-06-23 00:00:00+00:00,1807.0,540.0,0.299,ArtificialIntelligence,United_States,CVPR 2014,CVPR2014,2014,2.0,High Density Acceptance Band
+2015-06-07 00:00:00+00:00,2123.0,602.0,0.284,ArtificialIntelligence,United_States,CVPR 2015,CVPR2015,2015,2.0,High Density Acceptance Band
+2016-06-27 00:00:00+00:00,2145.0,643.0,0.3,ArtificialIntelligence,United_States,CVPR 2016,CVPR2016,2016,2.0,High Density Acceptance Band
+2017-07-21 00:00:00+00:00,2620.0,783.0,0.299,ArtificialIntelligence,United_States,CVPR 2017,CVPR2017,2017,2.0,High Density Acceptance Band
+2002-06-23 00:00:00+00:00,213.0,91.0,0.427,ComputerSystemsOrganization,United_States,DSN 2002,DSN2002,2002,0.0,Standard Distribution Band
+2003-06-22 00:00:00+00:00,225.0,80.0,0.356,ComputerSystemsOrganization,United_States,DSN 2003,DSN2003,2003,0.0,Standard Distribution Band
+2004-06-28 00:00:00+00:00,377.0,83.0,0.22,ComputerSystemsOrganization,Italy,DSN 2004,DSN2004,2004,0.0,Standard Distribution Band
+2005-06-28 00:00:00+00:00,319.0,78.0,0.245,ComputerSystemsOrganization,Japan,DSN 2005,DSN2005,2005,0.0,Standard Distribution Band
+2006-06-25 00:00:00+00:00,187.0,34.0,0.182,ComputerSystemsOrganization,United_States,DSN 2006,DSN2006,2006,0.0,Standard Distribution Band
+2007-06-25 00:00:00+00:00,212.0,48.0,0.226,ComputerSystemsOrganization,England,DSN 2007,DSN2007,2007,0.0,Standard Distribution Band
+2008-06-24 00:00:00+00:00,174.0,40.0,0.23,ComputerSystemsOrganization,United_States,DSN 2008,DSN2008,2008,0.0,Standard Distribution Band
+2009-06-29 00:00:00+00:00,260.0,63.0,0.242,ComputerSystemsOrganization,Portugal,DSN 2009,DSN2009,2009,0.0,Standard Distribution Band
+2010-06-28 00:00:00+00:00,174.0,40.0,0.23,ComputerSystemsOrganization,United_States,DSN 2010,DSN2010,2010,0.0,Standard Distribution Band
+2011-06-27 00:00:00+00:00,148.0,26.0,0.176,ComputerSystemsOrganization,China,DSN 2011,DSN2011,2011,0.0,Standard Distribution Band
+2012-06-25 00:00:00+00:00,236.0,51.0,0.216,ComputerSystemsOrganization,United_States,DSN 2012,DSN2012,2012,0.0,Standard Distribution Band
+2013-06-24 00:00:00+00:00,107.0,21.0,0.196,ComputerSystemsOrganization,Hungary,DSN 2013,DSN2013,2013,0.0,Standard Distribution Band
+2014-06-23 00:00:00+00:00,185.0,56.0,0.303,ComputerSystemsOrganization,United_States,DSN 2014,DSN2014,2014,0.0,Standard Distribution Band
+2015-06-22 00:00:00+00:00,227.0,50.0,0.22,ComputerSystemsOrganization,Brazil,DSN 2015,DSN2015,2015,0.0,Standard Distribution Band
+2016-06-28 00:00:00+00:00,259.0,58.0,0.224,ComputerSystemsOrganization,France,DSN 2016,DSN2016,2016,0.0,Standard Distribution Band
+2017-06-26 00:00:00+00:00,220.0,54.0,0.245,ComputerSystemsOrganization,United_States,DSN 2017,DSN2017,2017,0.0,Standard Distribution Band
+1994-08-08 00:00:00+00:00,450.0,150.0,0.333,ArtificialIntelligence,Netherlands,ECAI 1994,ECAI1994,1994,1.0,High Selectivity Target Band
+1996-08-11 00:00:00+00:00,450.0,133.0,0.3,ArtificialIntelligence,Hungary,ECAI 1996,ECAI1996,1996,1.0,High Selectivity Target Band
+1998-08-23 00:00:00+00:00,456.0,158.0,0.347,ArtificialIntelligence,England,ECAI 1998,ECAI1998,1998,1.0,High Selectivity Target Band
+2000-08-20 00:00:00+00:00,443.0,140.0,0.316,ArtificialIntelligence,Germany,ECAI 2000,ECAI2000,2000,1.0,High Selectivity Target Band
+2002-07-21 00:00:00+00:00,500.0,180.0,0.274,ArtificialIntelligence,France,ECAI 2002,ECAI2002,2002,1.0,High Selectivity Target Band
+2004-08-22 00:00:00+00:00,787.0,180.0,0.229,ArtificialIntelligence,Spain,ECAI 2004,ECAI2004,2004,1.0,High Selectivity Target Band
+2006-08-28 00:00:00+00:00,500.0,130.0,0.26,ArtificialIntelligence,Italy,ECAI2006,ECAI2006,2006,1.0,High Selectivity Target Band
+2008-07-21 00:00:00+00:00,680.0,121.0,0.23,ArtificialIntelligence,Greece,ECAI 2008,ECAI2008,2008,1.0,High Selectivity Target Band
+2010-08-16 00:00:00+00:00,607.0,135.0,0.22,ArtificialIntelligence,Portugal,ECAI 2010,ECAI2010,2010,1.0,High Selectivity Target Band
+2012-08-27 00:00:00+00:00,563.0,163.0,0.29,ArtificialIntelligence,France,ECAI 2012,ECAI2012,2012,1.0,High Selectivity Target Band
+2014-08-18 00:00:00+00:00,611.0,178.0,0.29,ArtificialIntelligence,Czech_Republic,ECAI 2014,ECAI2014,2014,1.0,High Selectivity Target Band
+2016-08-29 00:00:00+00:00,656.0,177.0,0.27,ArtificialIntelligence,Netherlands,ECAI 2016,ECAI2016,2016,1.0,High Selectivity Target Band
+2018-07-13 00:00:00+00:00,3470.0,710.0,0.2,ArtificialIntelligence,Sweden,ECAI 2018,ECAI2018,2018,2.0,High Density Acceptance Band
+1992-05-19 00:00:00+00:00,308.0,105.0,0.28,ArtificialIntelligence,Italy,ECCV 1992,ECCV1992,1992,0.0,Standard Distribution Band
+1994-05-02 00:00:00+00:00,300.0,115.0,0.383,ArtificialIntelligence,Sweden,ECCV 1994,ECCV1994,1994,0.0,Standard Distribution Band
+1996-04-14 00:00:00+00:00,328.0,123.0,0.375,ArtificialIntelligence,England,ECCV 1996,ECCV1996,1996,0.0,Standard Distribution Band
+1998-06-02 00:00:00+00:00,223.0,42.0,0.188,ArtificialIntelligence,Germany,ECCV 1998,ECCV1998,1998,0.0,Standard Distribution Band
+2000-06-26 00:00:00+00:00,266.0,116.0,0.436,ArtificialIntelligence,Ireland,ECCV 2000,ECCV2000,2000,0.0,Standard Distribution Band
+2002-05-28 00:00:00+00:00,600.0,226.0,0.377,ArtificialIntelligence,Denmark,ECCV 2002,ECCV2002,2002,1.0,High Selectivity Target Band
+2004-05-11 00:00:00+00:00,555.0,190.0,0.342,ArtificialIntelligence,Czech_Republic,ECCV 2004,ECCV2004,2004,1.0,High Selectivity Target Band
+2006-05-07 00:00:00+00:00,900.0,192.0,0.213,ArtificialIntelligence,Austria,ECCV 2006,ECCV2006,2006,1.0,High Selectivity Target Band
+2008-10-12 00:00:00+00:00,871.0,243.0,0.279,ArtificialIntelligence,France,ECCV 2008,ECCV2008,2008,1.0,High Selectivity Target Band
+2010-09-05 00:00:00+00:00,1174.0,328.0,0.28,ArtificialIntelligence,Greece,ECCV 2010,ECCV2010,2010,1.0,High Selectivity Target Band
+2012-10-07 00:00:00+00:00,1437.0,408.0,0.28,ArtificialIntelligence,Italy,ECCV 2012,ECCV2012,2012,2.0,High Density Acceptance Band
+2014-09-06 00:00:00+00:00,1444.0,363.0,0.251,ArtificialIntelligence,Germany,ECCV 2014,ECCV2014,2014,2.0,High Density Acceptance Band
+2016-10-08 00:00:00+00:00,1480.0,415.0,0.28,ArtificialIntelligence,Netherlands,ECCV 2016,ECCV2016,2016,2.0,High Density Acceptance Band
+2000-06-26 00:00:00+00:00,2439.0,776.0,0.318,ArtificialIntelligence,Germany,ECCV 2018,ECCV2018,2000,2.0,High Density Acceptance Band
+1995-08-07 00:00:00+00:00,90.0,18.0,0.2,SoftwareEngineering,Denmark,ECOOP 1995,ECOOP1995,1995,0.0,Standard Distribution Band
+1996-07-08 00:00:00+00:00,173.0,21.0,0.121,SoftwareEngineering,Austria,ECOOP 1996,ECOOP1996,1996,0.0,Standard Distribution Band
+1997-06-09 00:00:00+00:00,103.0,20.0,0.194,SoftwareEngineering,Finland,ECOOP 1997,ECOOP1997,1997,0.0,Standard Distribution Band
+1998-07-20 00:00:00+00:00,124.0,24.0,0.194,SoftwareEngineering,Belgium,ECOOP 1998,ECOOP1998,1998,0.0,Standard Distribution Band
+1999-06-14 00:00:00+00:00,183.0,20.0,0.109,SoftwareEngineering,Portugal,ECOOP 1999,ECOOP1999,1999,0.0,Standard Distribution Band
+2000-06-12 00:00:00+00:00,109.0,20.0,0.183,SoftwareEngineering,France,ECOOP 2000,ECOOP2000,2000,0.0,Standard Distribution Band
+2001-06-18 00:00:00+00:00,108.0,18.0,0.167,SoftwareEngineering,Hungary,ECOOP 2001,ECOOP2001,2001,0.0,Standard Distribution Band
+2002-06-10 00:00:00+00:00,96.0,24.0,0.25,SoftwareEngineering,Spain,ECOOP 2002,ECOOP2002,2002,0.0,Standard Distribution Band
+2003-07-21 00:00:00+00:00,88.0,18.0,0.205,SoftwareEngineering,Germany,ECOOP 2003,ECOOP2003,2003,0.0,Standard Distribution Band
+2004-06-14 00:00:00+00:00,132.0,25.0,0.189,SoftwareEngineering,Norway,ECOOP 2004,ECOOP2004,2004,0.0,Standard Distribution Band
+2005-07-25 00:00:00+00:00,172.0,24.0,0.14,SoftwareEngineering,England,ECOOP 2005,ECOOP2005,2005,0.0,Standard Distribution Band
+2006-07-03 00:00:00+00:00,160.0,21.0,0.131,SoftwareEngineering,France,ECOOP 2006,ECOOP2006,2006,0.0,Standard Distribution Band
+2007-07-30 00:00:00+00:00,160.0,25.0,0.156,SoftwareEngineering,Germany,ECOOP 2007,ECOOP2007,2007,0.0,Standard Distribution Band
+2008-07-07 00:00:00+00:00,138.0,27.0,0.196,SoftwareEngineering,Cyprus,ECOOP 2008,ECOOP2008,2008,0.0,Standard Distribution Band
+2009-07-06 00:00:00+00:00,117.0,25.0,0.214,SoftwareEngineering,Italy,ECOOP 2009,ECOOP2009,2009,0.0,Standard Distribution Band
+2010-06-21 00:00:00+00:00,108.0,25.0,0.231,SoftwareEngineering,Slovenia,ECOOP 2010,ECOOP2010,2010,0.0,Standard Distribution Band
+2011-07-25 00:00:00+00:00,100.0,26.0,0.26,SoftwareEngineering,England,ECOOP 2011,ECOOP2011,2011,0.0,Standard Distribution Band
+2012-06-11 00:00:00+00:00,140.0,30.0,0.214,SoftwareEngineering,China,ECOOP 2012,ECOOP2012,2012,0.0,Standard Distribution Band
+2013-07-01 00:00:00+00:00,116.0,29.0,0.25,SoftwareEngineering,France,ECOOP 2013,ECOOP2013,2013,0.0,Standard Distribution Band
+2014-07-28 00:00:00+00:00,101.0,27.0,0.267,SoftwareEngineering,Sweden,ECOOP 2014,ECOOP2014,2014,0.0,Standard Distribution Band
+2015-07-05 00:00:00+00:00,136.0,31.0,0.228,SoftwareEngineering,Czech_Republic,ECOOP 2015,ECOOP2015,2015,0.0,Standard Distribution Band
+2016-07-18 00:00:00+00:00,79.0,25.0,0.316,SoftwareEngineering,Italy,ECOOP 2016,ECOOP2016,2016,0.0,Standard Distribution Band
+2017-06-18 00:00:00+00:00,81.0,27.0,0.333,SoftwareEngineering,Spain,ECOOP 2017,ECOOP2017,2017,0.0,Standard Distribution Band
+1990-03-26 00:00:00+00:00,178.0,27.0,0.152,InformationSystems,Italy,EDBT 1990,EDBT1990,1990,0.0,Standard Distribution Band
+1992-03-23 00:00:00+00:00,220.0,33.0,0.15,InformationSystems,Austria,EDBT 1992,EDBT1992,1992,0.0,Standard Distribution Band
+1994-03-28 00:00:00+00:00,180.0,31.0,0.172,InformationSystems,England,EDBT 1994,EDBT1994,1994,0.0,Standard Distribution Band
+1996-03-25 00:00:00+00:00,178.0,31.0,0.174,InformationSystems,France,EDBT 1996,EDBT1996,1996,0.0,Standard Distribution Band
+1998-03-23 00:00:00+00:00,191.0,32.0,0.168,InformationSystems,Spain,EDBT 1998,EDBT1998,1998,0.0,Standard Distribution Band
+2000-03-27 00:00:00+00:00,187.0,30.0,0.16,InformationSystems,Germany,EDBT 2000,EDBT2000,2000,0.0,Standard Distribution Band
+2002-03-25 00:00:00+00:00,207.0,36.0,0.174,InformationSystems,Czech_Republic,EDBT 2002,EDBT2002,2002,0.0,Standard Distribution Band
+2004-03-14 00:00:00+00:00,294.0,42.0,0.143,InformationSystems,Greece,EDBT 2004,EDBT2004,2004,0.0,Standard Distribution Band
+2006-03-26 00:00:00+00:00,352.0,60.0,0.17,InformationSystems,Germany,EDBT 2006,EDBT2006,2006,0.0,Standard Distribution Band
+2008-03-25 00:00:00+00:00,327.0,59.0,0.18,InformationSystems,France,EDBT 2008,EDBT2008,2008,0.0,Standard Distribution Band
+2009-03-24 00:00:00+00:00,447.0,110.0,0.246,InformationSystems,Republics_of_Russia,EDBT 2009,EDBT2009,2009,1.0,High Selectivity Target Band
+2010-03-22 00:00:00+00:00,307.0,54.0,0.176,InformationSystems,Switzerland,EDBT 2010,EDBT2010,2010,0.0,Standard Distribution Band
+2011-03-21 00:00:00+00:00,148.0,41.0,0.277,InformationSystems,Sweden,EDBT 2011,EDBT2011,2011,0.0,Standard Distribution Band
+2012-03-27 00:00:00+00:00,193.0,43.0,0.223,InformationSystems,Germany,EDBT 2012,EDBT2012,2012,0.0,Standard Distribution Band
+2013-03-18 00:00:00+00:00,235.0,48.0,0.204,InformationSystems,Italy,EDBT 2013,EDBT2013,2013,0.0,Standard Distribution Band
+2014-03-24 00:00:00+00:00,266.0,52.0,0.195,InformationSystems,Greece,EDBT 2014,EDBT2014,2014,0.0,Standard Distribution Band
+2015-03-23 00:00:00+00:00,228.0,74.0,0.325,InformationSystems,Belgium,EDBT 2015,EDBT2015,2015,0.0,Standard Distribution Band
+2016-03-15 00:00:00+00:00,282.0,102.0,0.362,InformationSystems,France,EDBT 2016,EDBT2016,2016,0.0,Standard Distribution Band
+2017-03-21 00:00:00+00:00,168.0,37.0,0.22,InformationSystems,Italy,EDBT 2017,EDBT2017,2017,0.0,Standard Distribution Band
+2005-05-29 00:00:00+00:00,148.0,48.0,0.342,WorldWideWeb,Greece,ESWC 2005,ESWC2005,2005,0.0,Standard Distribution Band
+2006-06-11 00:00:00+00:00,181.0,48.0,0.324,WorldWideWeb,Greece,ESWC 2006,ESWC2006,2006,0.0,Standard Distribution Band
+2008-06-01 00:00:00+00:00,270.0,51.0,0.189,WorldWideWeb,Spain,ESWC 2008,ESWC2008,2008,0.0,Standard Distribution Band
+2009-05-31 00:00:00+00:00,250.0,45.0,0.18,WorldWideWeb,Greece,ESWC 2009,ESWC2009,2009,0.0,Standard Distribution Band
+2010-05-30 00:00:00+00:00,245.0,52.0,0.212,WorldWideWeb,Greece,ESWC 2010,ESWC2010,2010,0.0,Standard Distribution Band
+2011-05-29 00:00:00+00:00,247.0,57.0,0.231,WorldWideWeb,Greece,ESWC 2011,ESWC2011,2011,0.0,Standard Distribution Band
+2012-05-27 00:00:00+00:00,212.0,53.0,0.25,WorldWideWeb,Greece,ESWC 2012,ESWC2012,2012,0.0,Standard Distribution Band
+2013-05-26 00:00:00+00:00,162.0,37.0,0.228,WorldWideWeb,France,ESWC 2013,ESWC2013,2013,0.0,Standard Distribution Band
+2014-05-25 00:00:00+00:00,178.0,41.0,0.23,WorldWideWeb,Greece,ESWC 2014,ESWC2014,2014,0.0,Standard Distribution Band
+2015-05-31 00:00:00+00:00,145.0,33.0,0.228,WorldWideWeb,Greece,ESWC 2015,ESWC2015,2015,0.0,Standard Distribution Band
+2016-05-29 00:00:00+00:00,204.0,47.0,0.21,WorldWideWeb,Greece,ESWC 2016,ESWC2016,2016,0.0,Standard Distribution Band
+2017-05-28 00:00:00+00:00,197.0,61.0,0.31,WorldWideWeb,Greece,ESWC 2017,ESWC2017,2017,0.0,Standard Distribution Band
+2001-04-18 00:00:00+00:00,42.0,17.0,0.405,ArtificialIntelligence,Italy,EuroGP 2001,EUROGP2001,2001,0.0,Standard Distribution Band
+2010-04-07 00:00:00+00:00,48.0,21.0,0.438,ArtificialIntelligence,Turkey,EuroGp 2010,EUROGP2010,2010,0.0,Standard Distribution Band
+2011-04-27 00:00:00+00:00,59.0,20.0,0.339,ArtificialIntelligence,Italy,EuroGP 2011,EUROGP2011,2011,0.0,Standard Distribution Band
+2012-04-11 00:00:00+00:00,46.0,18.0,0.391,ArtificialIntelligence,Spain,EuroGP 2012,EUROGP2012,2012,0.0,Standard Distribution Band
+2013-04-03 00:00:00+00:00,47.0,18.0,0.383,ArtificialIntelligence,Austria,EuroGP 2013,EUROGP2013,2013,0.0,Standard Distribution Band
+1990-05-21 00:00:00+00:00,85.0,42.0,0.494,SecurityAndPrivacy,Denmark,EuroCrypt 1990,EuroCrypt1990,1990,0.0,Standard Distribution Band
+1993-05-23 00:00:00+00:00,117.0,27.0,0.231,SecurityAndPrivacy,Norway,EuroCrypt 1993,EuroCrypt1993,1993,0.0,Standard Distribution Band
+1994-05-09 00:00:00+00:00,137.0,36.0,0.263,SecurityAndPrivacy,Italy,EuroCrypt 1994,EuroCrypt1994,1994,0.0,Standard Distribution Band
+1995-05-21 00:00:00+00:00,113.0,33.0,0.292,SecurityAndPrivacy,France,EuroCrypt 1995,EuroCrypt1995,1995,0.0,Standard Distribution Band
+1996-05-12 00:00:00+00:00,126.0,34.0,0.27,SecurityAndPrivacy,Spain,EuroCrypt 1996,EuroCrypt1996,1996,0.0,Standard Distribution Band
+1997-05-11 00:00:00+00:00,104.0,34.0,0.327,SecurityAndPrivacy,Germany,EuroCrypt 1997,EuroCrypt1997,1997,0.0,Standard Distribution Band
+1998-05-31 00:00:00+00:00,161.0,44.0,0.273,SecurityAndPrivacy,Finland,EuroCrypt 1998,EuroCrypt1998,1998,0.0,Standard Distribution Band
+1999-05-02 00:00:00+00:00,122.0,32.0,0.262,SecurityAndPrivacy,Czech_Republic,EuroCrypt 1999,EuroCrypt1999,1999,0.0,Standard Distribution Band
+2000-05-14 00:00:00+00:00,150.0,39.0,0.26,SecurityAndPrivacy,Belgium,EuroCrypt 2000,EuroCrypt2000,2000,0.0,Standard Distribution Band
+2001-05-06 00:00:00+00:00,155.0,32.0,0.206,SecurityAndPrivacy,Austria,EuroCrypt 2001,EuroCrypt2001,2001,0.0,Standard Distribution Band
+2002-04-28 00:00:00+00:00,122.0,33.0,0.27,SecurityAndPrivacy,Netherlands,EuroCrypt 2002,EuroCrypt2002,2002,0.0,Standard Distribution Band
+2003-05-04 00:00:00+00:00,156.0,37.0,0.237,SecurityAndPrivacy,Poland,EuroCrypt 2003,EuroCrypt2003,2003,0.0,Standard Distribution Band
+2004-05-02 00:00:00+00:00,206.0,36.0,0.175,SecurityAndPrivacy,Switzerland,EuroCrypt 2004,EuroCrypt2004,2004,0.0,Standard Distribution Band
+2005-05-22 00:00:00+00:00,190.0,33.0,0.174,SecurityAndPrivacy,Denmark,EuroCrypt 2005,EuroCrypt2005,2005,0.0,Standard Distribution Band
+2006-05-28 00:00:00+00:00,198.0,33.0,0.167,SecurityAndPrivacy,Republics_of_Russia,EuroCrypt 2006,EuroCrypt2006,2006,0.0,Standard Distribution Band
+2007-05-20 00:00:00+00:00,173.0,33.0,0.191,SecurityAndPrivacy,Spain,EuroCrypt 2007,EuroCrypt2007,2007,0.0,Standard Distribution Band
+2008-04-13 00:00:00+00:00,163.0,31.0,0.19,SecurityAndPrivacy,Turkey,EuroCrypt 2008,EuroCrypt2008,2008,0.0,Standard Distribution Band
+2009-04-26 00:00:00+00:00,148.0,33.0,0.223,SecurityAndPrivacy,Germany,EuroCrypt 2009,EuroCrypt2009,2009,0.0,Standard Distribution Band
+2010-05-30 00:00:00+00:00,188.0,35.0,0.186,SecurityAndPrivacy,France,EuroCrypt 2010,EuroCrypt2010,2010,0.0,Standard Distribution Band
+2011-05-15 00:00:00+00:00,167.0,31.0,0.186,SecurityAndPrivacy,Estonia,EuroCrypt 2011,EuroCrypt2011,2011,0.0,Standard Distribution Band
+2012-04-15 00:00:00+00:00,195.0,41.0,0.21,SecurityAndPrivacy,England,EuroCrypt 2012,EuroCrypt2012,2012,0.0,Standard Distribution Band
+2013-05-26 00:00:00+00:00,201.0,41.0,0.204,SecurityAndPrivacy,Greece,EuroCrypt 2013,EuroCrypt2013,2013,0.0,Standard Distribution Band
+2014-05-11 00:00:00+00:00,197.0,38.0,0.193,SecurityAndPrivacy,Denmark,EuroCrypt 2014,EuroCrypt2014,2014,0.0,Standard Distribution Band
+2015-04-26 00:00:00+00:00,194.0,57.0,0.294,SecurityAndPrivacy,Bulgaria,EuroCrypt 2015,EuroCrypt2015,2015,0.0,Standard Distribution Band
+2016-05-08 00:00:00+00:00,274.0,62.0,0.226,SecurityAndPrivacy,Austria,EuroCrypt 2016,EuroCrypt2016,2016,0.0,Standard Distribution Band
+2017-04-30 00:00:00+00:00,264.0,67.0,0.254,SecurityAndPrivacy,France,EuroCrypt 2017,EuroCrypt2017,2017,0.0,Standard Distribution Band
+2000-04-15 00:00:00+00:00,39.0,14.0,0.359,ArtificialIntelligence,England,EuroGP 2000,EuroGP2000,2000,0.0,Standard Distribution Band
+2002-04-03 00:00:00+00:00,42.0,18.0,0.429,ArtificialIntelligence,Ireland,EuroGP 2002,EuroGP2002,2002,0.0,Standard Distribution Band
+2003-04-14 00:00:00+00:00,61.0,24.0,0.393,ArtificialIntelligence,England,EuroGP 2003,EuroGP2003,2003,0.0,Standard Distribution Band
+2004-04-05 00:00:00+00:00,61.0,19.0,0.311,ArtificialIntelligence,Portugal,EuroGP 2004,EuroGP2004,2004,0.0,Standard Distribution Band
+2005-03-30 00:00:00+00:00,64.0,20.0,0.312,ArtificialIntelligence,Switzerland,EuroGP 2005,EuroGP2005,2005,0.0,Standard Distribution Band
+2006-04-10 00:00:00+00:00,59.0,21.0,0.356,ArtificialIntelligence,Hungary,EuroGP,EuroGP2006,2006,0.0,Standard Distribution Band
+2006-04-10 00:00:00+00:00,59.0,21.0,0.356,ArtificialIntelligence,Hungary,EuroGP 2006,EuroGP2006,2006,0.0,Standard Distribution Band
+2007-04-11 00:00:00+00:00,71.0,21.0,0.296,ArtificialIntelligence,Spain,EuroGP 2007,EuroGP2007,2007,0.0,Standard Distribution Band
+2008-03-26 00:00:00+00:00,61.0,21.0,0.34,ArtificialIntelligence,Italy,EuroGP 2008,EuroGP2008,2008,0.0,Standard Distribution Band
+2009-04-15 00:00:00+00:00,57.0,21.0,0.368,ArtificialIntelligence,Germany,EuroGP 2009,EuroGP2009,2009,0.0,Standard Distribution Band
+2014-04-23 00:00:00+00:00,40.0,15.0,0.375,ArtificialIntelligence,Spain,EuroGP 2014,EuroGP2014,2014,0.0,Standard Distribution Band
+2015-04-08 00:00:00+00:00,36.0,12.0,0.333,ArtificialIntelligence,Denmark,EuroGP 2015,EuroGP2015,2015,0.0,Standard Distribution Band
+2016-03-30 00:00:00+00:00,36.0,11.0,0.306,ArtificialIntelligence,Portugal,EuroGP 2016,EuroGP2016,2016,0.0,Standard Distribution Band
+2017-04-19 00:00:00+00:00,32.0,14.0,0.438,ArtificialIntelligence,Netherlands,EuroGP 2017,EuroGP2017,2017,0.0,Standard Distribution Band
+2018-04-04 00:00:00+00:00,36.0,11.0,0.306,ArtificialIntelligence,Italy,EuroGP 2018,EuroGP2018,2018,0.0,Standard Distribution Band
+2006-04-18 00:00:00+00:00,174.0,29.0,0.16,ComputerSystemsOrganization,Belgium,EuroSys 2006,Eurosys2006,2006,0.0,Standard Distribution Band
+2007-03-21 00:00:00+00:00,174.0,65.0,0.37,ComputerSystemsOrganization,Portugal,EuroSys 2007,Eurosys2007,2007,0.0,Standard Distribution Band
+2008-03-31 00:00:00+00:00,131.0,24.0,0.18,ComputerSystemsOrganization,Scotland,EuroSys 2008,Eurosys2008,2008,0.0,Standard Distribution Band
+2009-03-31 00:00:00+00:00,149.0,64.0,0.42,ComputerSystemsOrganization,Germany,EuroSys 2009,Eurosys2009,2009,0.0,Standard Distribution Band
+2010-04-13 00:00:00+00:00,140.0,27.0,0.19,ComputerSystemsOrganization,France,EuroSys 2010,Eurosys2010,2010,0.0,Standard Distribution Band
+2011-04-10 00:00:00+00:00,161.0,24.0,0.15,ComputerSystemsOrganization,Austria,EuroSys 2011,Eurosys2011,2011,0.0,Standard Distribution Band
+2012-04-10 00:00:00+00:00,179.0,27.0,0.15,ComputerSystemsOrganization,Switzerland,EuroSys 2012,Eurosys2012,2012,0.0,Standard Distribution Band
+2013-04-14 00:00:00+00:00,143.0,28.0,0.19,ComputerSystemsOrganization,Czech_Republic,EuroSys 2013,Eurosys2013,2013,0.0,Standard Distribution Band
+2014-04-13 00:00:00+00:00,147.0,27.0,0.18,ComputerSystemsOrganization,Netherlands,EuroSys 2014,Eurosys2014,2014,0.0,Standard Distribution Band
+2015-04-21 00:00:00+00:00,150.0,32.0,0.21,ComputerSystemsOrganization,France,EuroSys 2015,Eurosys2015,2015,0.0,Standard Distribution Band
+2016-04-18 00:00:00+00:00,180.0,38.0,0.21,ComputerSystemsOrganization,England,EuroSys 2016,Eurosys2016,2016,0.0,Standard Distribution Band
+2017-04-23 00:00:00+00:00,200.0,41.0,0.2,ComputerSystemsOrganization,Serbia,EuroSys 2017,Eurosys2017,2017,0.0,Standard Distribution Band
+2018-04-23 00:00:00+00:00,262.0,43.0,0.164,ComputerSystemsOrganization,Portugal,EuroSys 2018,Eurosys2018,2018,0.0,Standard Distribution Band
+1998-03-28 00:00:00+00:00,59.0,18.0,0.305,SoftwareEngineering,Portugal,FASE 1998,FASE1998,1998,0.0,Standard Distribution Band
+2000-03-25 00:00:00+00:00,60.0,21.0,0.35,SoftwareEngineering,Germany,FASE 2000,FASE2000,2000,0.0,Standard Distribution Band
+2001-04-02 00:00:00+00:00,74.0,22.0,0.297,SoftwareEngineering,Italy,FASE 2001,FASE2001,2001,0.0,Standard Distribution Band
+2002-04-08 00:00:00+00:00,60.0,21.0,0.35,SoftwareEngineering,France,FASE 2002,FASE2002,2002,0.0,Standard Distribution Band
+2003-04-07 00:00:00+00:00,89.0,20.0,0.225,SoftwareEngineering,Poland,FASE 2003,FASE2003,2003,0.0,Standard Distribution Band
+2004-03-29 00:00:00+00:00,91.0,22.0,0.242,SoftwareEngineering,Spain,FASE 2004,FASE2004,2004,0.0,Standard Distribution Band
+2005-04-04 00:00:00+00:00,99.0,22.0,0.222,SoftwareEngineering,England,FASE 2005,FASE2005,2005,0.0,Standard Distribution Band
+2006-03-26 00:00:00+00:00,166.0,27.0,0.163,SoftwareEngineering,Austria,FASE 2006,FASE2006,2006,0.0,Standard Distribution Band
+2007-04-22 00:00:00+00:00,141.0,30.0,0.213,SoftwareEngineering,Portugal,FASE 2007,FASE2007,2007,0.0,Standard Distribution Band
+2009-03-22 00:00:00+00:00,124.0,30.0,0.242,SoftwareEngineering,England,FASE 2009,FASE2009,2009,0.0,Standard Distribution Band
+2010-03-20 00:00:00+00:00,96.0,24.0,0.25,SoftwareEngineering,Cyprus,FASE 2010,FASE2010,2010,0.0,Standard Distribution Band
+2011-03-26 00:00:00+00:00,99.0,29.0,0.293,SoftwareEngineering,Germany,FASE 2011,FASE2011,2011,0.0,Standard Distribution Band
+2012-03-24 00:00:00+00:00,134.0,33.0,0.246,SoftwareEngineering,Estonia,FASE 2012,FASE2012,2012,0.0,Standard Distribution Band
+2013-03-16 00:00:00+00:00,112.0,26.0,0.232,SoftwareEngineering,Italy,FASE 2013,FASE2013,2013,0.0,Standard Distribution Band
+2014-04-05 00:00:00+00:00,125.0,28.0,0.224,SoftwareEngineering,France,FASE 2014,FASE2014,2014,0.0,Standard Distribution Band
+2015-04-11 00:00:00+00:00,80.0,23.0,0.288,SoftwareEngineering,England,FASE 2015,FASE2015,2015,0.0,Standard Distribution Band
+2016-04-02 00:00:00+00:00,90.0,24.0,0.267,SoftwareEngineering,Netherlands,FASE 2016,FASE2016,2016,0.0,Standard Distribution Band
+2017-04-22 00:00:00+00:00,91.0,23.0,0.253,SoftwareEngineering,Sweden,FASE 2017,FASE2017,2017,0.0,Standard Distribution Band
+2015-01-17 00:00:00+00:00,26.0,16.0,0.615,ArtificialIntelligence,England,FOGA 2015,FOGA2015,2015,0.0,Standard Distribution Band
+2017-01-12 00:00:00+00:00,23.0,13.0,0.565,ArtificialIntelligence,Denmark,FOGA 2017,FOGA2017,2017,0.0,Standard Distribution Band
+1995-01-22 00:00:00+00:00,190.0,36.0,0.189,ComputerSystemsOrganization,United_States,HPCA 1995,HPCA1995,1995,0.0,Standard Distribution Band
+1996-02-03 00:00:00+00:00,131.0,29.0,0.221,ComputerSystemsOrganization,United_States,HPCA 1996,HPCA1996,1996,0.0,Standard Distribution Band
+1997-02-01 00:00:00+00:00,152.0,30.0,0.197,ComputerSystemsOrganization,United_States,HPCA 1997,HPCA1997,1997,0.0,Standard Distribution Band
+1998-01-31 00:00:00+00:00,141.0,26.0,0.184,ComputerSystemsOrganization,United_States,HPCA 1998,HPCA1998,1998,0.0,Standard Distribution Band
+1999-01-09 00:00:00+00:00,117.0,37.0,0.316,ComputerSystemsOrganization,United_States,HPCA 1999,HPCA1999,1999,0.0,Standard Distribution Band
+2000-01-08 00:00:00+00:00,163.0,35.0,0.215,ComputerSystemsOrganization,France,HPCA 2000,HPCA2000,2000,0.0,Standard Distribution Band
+2001-01-20 00:00:00+00:00,110.0,26.0,0.236,ComputerSystemsOrganization,Mexico,HPCA 2001,HPCA2001,2001,0.0,Standard Distribution Band
+2002-02-02 00:00:00+00:00,130.0,26.0,0.2,ComputerSystemsOrganization,United_States,HPCA 2002,HPCA2002,2002,0.0,Standard Distribution Band
+2003-02-08 00:00:00+00:00,141.0,31.0,0.22,ComputerSystemsOrganization,United_States,HPCA 2003,HPCA2003,2003,0.0,Standard Distribution Band
+2004-02-14 00:00:00+00:00,153.0,27.0,0.176,ComputerSystemsOrganization,Spain,HPCA 2004,HPCA2004,2004,0.0,Standard Distribution Band
+2005-02-12 00:00:00+00:00,181.0,28.0,0.155,ComputerSystemsOrganization,United_States,HPCA 2005,HPCA2005,2005,0.0,Standard Distribution Band
+2006-02-11 00:00:00+00:00,172.0,22.0,0.128,ComputerSystemsOrganization,United_States,HPCA 2006,HPCA2006,2006,0.0,Standard Distribution Band
+2007-02-10 00:00:00+00:00,174.0,28.0,0.161,ComputerSystemsOrganization,United_States,HPCA 2007,HPCA2007,2007,0.0,Standard Distribution Band
+2008-02-16 00:00:00+00:00,161.0,31.0,0.193,ComputerSystemsOrganization,United_States,HPCA 2008,HPCA2008,2008,0.0,Standard Distribution Band
+2009-02-14 00:00:00+00:00,184.0,35.0,0.19,ComputerSystemsOrganization,United_States,HPCA 2009,HPCA2009,2009,0.0,Standard Distribution Band
+2010-01-09 00:00:00+00:00,175.0,32.0,0.183,ComputerSystemsOrganization,India,HPCA 2010,HPCA2010,2010,0.0,Standard Distribution Band
+2011-02-12 00:00:00+00:00,227.0,42.0,0.185,ComputerSystemsOrganization,United_States,HPCA 2011,HPCA2011,2011,0.0,Standard Distribution Band
+2012-02-25 00:00:00+00:00,213.0,36.0,0.169,ComputerSystemsOrganization,United_States,HPCA 2012,HPCA2012,2012,0.0,Standard Distribution Band
+2013-02-23 00:00:00+00:00,249.0,51.0,0.205,ComputerSystemsOrganization,China,HPCA 2013,HPCA2013,2013,0.0,Standard Distribution Band
+2014-02-15 00:00:00+00:00,215.0,55.0,0.256,ComputerSystemsOrganization,United_States,HPCA 2014,HPCA2014,2014,0.0,Standard Distribution Band
+2015-02-07 00:00:00+00:00,231.0,51.0,0.221,ComputerSystemsOrganization,United_States,HPCA 2015,HPCA2015,2015,0.0,Standard Distribution Band
+2016-03-12 00:00:00+00:00,240.0,53.0,0.221,ComputerSystemsOrganization,Spain,HPCA 2016,HPCA2016,2016,0.0,Standard Distribution Band
+2017-02-04 00:00:00+00:00,224.0,50.0,0.223,ComputerSystemsOrganization,United_States,HPCA 2017,HPCA2017,2017,0.0,Standard Distribution Band
+1987-07-08 00:00:00+00:00,300.0,60.0,0.2,ArtificialIntelligence,England,ICCV 1987,ICCV1987,1987,0.0,Standard Distribution Band
+1988-12-05 00:00:00+00:00,306.0,89.0,0.291,ArtificialIntelligence,United_States,ICCV 1988,ICCV1988,1988,0.0,Standard Distribution Band
+1990-12-04 00:00:00+00:00,420.0,102.0,0.243,ArtificialIntelligence,Japan,ICCV 1990,ICCV1990,1990,1.0,High Selectivity Target Band
+1993-05-11 00:00:00+00:00,380.0,101.0,0.266,ArtificialIntelligence,Germany,ICCV 1993,ICCV1993,1993,0.0,Standard Distribution Band
+1995-06-20 00:00:00+00:00,600.0,150.0,0.25,ArtificialIntelligence,United_States,ICCV 1995,ICCV1995,1995,1.0,High Selectivity Target Band
+1998-01-04 00:00:00+00:00,550.0,167.0,0.304,ArtificialIntelligence,India,ICCV 1998,ICCV1998,1998,1.0,High Selectivity Target Band
+1999-09-20 00:00:00+00:00,575.0,178.0,0.31,ArtificialIntelligence,Greece,ICCV 1999,ICCV1999,1999,1.0,High Selectivity Target Band
+2001-07-07 00:00:00+00:00,596.0,205.0,0.344,ArtificialIntelligence,Canada,ICCV 2001,ICCV2001,2001,1.0,High Selectivity Target Band
+2003-10-14 00:00:00+00:00,966.0,199.0,0.206,ArtificialIntelligence,France,ICCV 2003,ICCV2003,2003,1.0,High Selectivity Target Band
+2005-10-17 00:00:00+00:00,1230.0,244.0,0.198,ArtificialIntelligence,China,ICCV 2005,ICCV2005,2005,1.0,High Selectivity Target Band
+2007-10-14 00:00:00+00:00,1190.0,281.0,0.236,ArtificialIntelligence,Brazil,ICCV 2007,ICCV2007,2007,1.0,High Selectivity Target Band
+2009-09-27 00:00:00+00:00,1327.0,308.0,0.232,ArtificialIntelligence,Japan,ICCV 2009,ICCV2009,2009,2.0,High Density Acceptance Band
+2011-11-06 00:00:00+00:00,1433.0,339.0,0.237,ArtificialIntelligence,Spain,ICCV 2011,ICCV2011,2011,2.0,High Density Acceptance Band
+2013-12-01 00:00:00+00:00,1629.0,454.0,0.279,ArtificialIntelligence,Australia,ICCV 2013,ICCV2013,2013,2.0,High Density Acceptance Band
+2015-12-07 00:00:00+00:00,1698.0,525.0,0.309,ArtificialIntelligence,Chile,ICCV 2015,ICCV2015,2015,2.0,High Density Acceptance Band
+2017-10-22 00:00:00+00:00,2143.0,621.0,0.29,ArtificialIntelligence,Italy,ICCV 2017,ICCV2017,2017,2.0,High Density Acceptance Band
+1993-02-19 00:00:00+00:00,286.0,72.0,0.252,SoftwareEngineering,Austria,ICDE,ICDE1993,1993,0.0,Standard Distribution Band
+1994-02-14 00:00:00+00:00,270.0,50.0,0.185,SoftwareEngineering,Taiwan,ICDE,ICDE1994,1994,0.0,Standard Distribution Band
+1995-03-06 00:00:00+00:00,233.0,56.0,0.24,SoftwareEngineering,Taiwan,ICDE,ICDE1995,1995,0.0,Standard Distribution Band
+1996-02-26 00:00:00+00:00,264.0,60.0,0.227,SoftwareEngineering,United_States,ICDE,ICDE1996,1996,0.0,Standard Distribution Band
+1997-04-07 00:00:00+00:00,240.0,45.0,0.188,SoftwareEngineering,England,ICDE,ICDE1997,1997,0.0,Standard Distribution Band
+1998-02-23 00:00:00+00:00,252.0,56.0,0.222,SoftwareEngineering,United_States,ICDE,ICDE1998,1998,0.0,Standard Distribution Band
+1999-03-23 00:00:00+00:00,272.0,42.0,0.154,SoftwareEngineering,Australia,ICDE,ICDE1999,1999,0.0,Standard Distribution Band
+2000-02-28 00:00:00+00:00,287.0,41.0,0.143,SoftwareEngineering,United_States,ICDE,ICDE2000,2000,0.0,Standard Distribution Band
+2001-04-02 00:00:00+00:00,300.0,50.0,0.167,SoftwareEngineering,Germany,ICDE,ICDE2001,2001,0.0,Standard Distribution Band
+2002-02-26 00:00:00+00:00,287.0,54.0,0.188,SoftwareEngineering,United_States,ICDE,ICDE2002,2002,0.0,Standard Distribution Band
+2003-03-05 00:00:00+00:00,378.0,51.0,0.135,SoftwareEngineering,India,ICDE,ICDE2003,2003,0.0,Standard Distribution Band
+2004-03-30 00:00:00+00:00,441.0,63.0,0.143,SoftwareEngineering,United_States,ICDE,ICDE2004,2004,1.0,High Selectivity Target Band
+2005-04-05 00:00:00+00:00,521.0,67.0,0.129,SoftwareEngineering,Japan,ICDE,ICDE2005,2005,1.0,High Selectivity Target Band
+2006-04-03 00:00:00+00:00,460.0,89.0,0.193,SoftwareEngineering,United_States,ICDE,ICDE2006,2006,1.0,High Selectivity Target Band
+2007-04-16 00:00:00+00:00,659.0,122.0,0.185,SoftwareEngineering,Turkey,ICDE,ICDE2007,2007,1.0,High Selectivity Target Band
+2008-04-07 00:00:00+00:00,617.0,75.0,0.122,SoftwareEngineering,Mexico,ICDE,ICDE2008,2008,1.0,High Selectivity Target Band
+2009-03-29 00:00:00+00:00,665.0,148.0,0.223,SoftwareEngineering,China,ICDE,ICDE2009,2009,1.0,High Selectivity Target Band
+2010-03-01 00:00:00+00:00,600.0,110.0,0.183,SoftwareEngineering,United_States,ICDE,ICDE2010,2010,1.0,High Selectivity Target Band
+2011-04-11 00:00:00+00:00,584.0,129.0,0.221,SoftwareEngineering,Germany,ICDE,ICDE2011,2011,1.0,High Selectivity Target Band
+2012-04-01 00:00:00+00:00,503.0,137.0,0.272,SoftwareEngineering,United_States,ICDE,ICDE2012,2012,1.0,High Selectivity Target Band
+2013-04-08 00:00:00+00:00,532.0,130.0,0.244,SoftwareEngineering,Australia,ICDE,ICDE2013,2013,1.0,High Selectivity Target Band
+2014-03-31 00:00:00+00:00,544.0,127.0,0.233,SoftwareEngineering,United_States,ICDE,ICDE2014,2014,1.0,High Selectivity Target Band
+2015-04-13 00:00:00+00:00,541.0,147.0,0.272,SoftwareEngineering,South_Korea,ICDE,ICDE2015,2015,1.0,High Selectivity Target Band
+2016-05-16 00:00:00+00:00,529.0,134.0,0.253,SoftwareEngineering,Finland,ICDE,ICDE2016,2016,1.0,High Selectivity Target Band
+2017-04-19 00:00:00+00:00,525.0,113.0,0.215,SoftwareEngineering,United_States,ICDE,ICDE2017,2017,1.0,High Selectivity Target Band
+1996-05-24 00:00:00+00:00,83.0,25.0,0.3,SoftwareEngineering,United_States,ICFP 1996,ICFP1996,1996,0.0,Standard Distribution Band
+1997-06-09 00:00:00+00:00,78.0,25.0,0.32,SoftwareEngineering,Netherlands,ICFP 1997,ICFP1997,1997,0.0,Standard Distribution Band
+1998-09-26 00:00:00+00:00,77.0,30.0,0.39,SoftwareEngineering,United_States,ICFP 1998,ICFP1998,1998,0.0,Standard Distribution Band
+1999-09-27 00:00:00+00:00,81.0,25.0,0.31,SoftwareEngineering,France,ICFP 1999,ICFP1999,1999,0.0,Standard Distribution Band
+2000-09-18 00:00:00+00:00,110.0,24.0,0.22,SoftwareEngineering,Canada,ICFP 2000,ICFP2000,2000,0.0,Standard Distribution Band
+2001-09-03 00:00:00+00:00,66.0,23.0,0.35,SoftwareEngineering,Italy,ICFP 2001,ICFP2001,2001,0.0,Standard Distribution Band
+2002-10-04 00:00:00+00:00,76.0,24.0,0.32,SoftwareEngineering,United_States,ICFP 2002,ICFP2002,2002,0.0,Standard Distribution Band
+2003-08-25 00:00:00+00:00,95.0,24.0,0.25,SoftwareEngineering,Sweden,ICFP 2003,ICFP2003,2003,0.0,Standard Distribution Band
+2004-09-19 00:00:00+00:00,80.0,21.0,0.26,SoftwareEngineering,United_States,ICFP 2004,ICFP2004,2004,0.0,Standard Distribution Band
+2005-09-26 00:00:00+00:00,87.0,26.0,0.3,SoftwareEngineering,Estonia,ICFP 2005,ICFP2005,2005,0.0,Standard Distribution Band
+2006-09-18 00:00:00+00:00,74.0,24.0,0.32,SoftwareEngineering,United_States,ICFP 2006,ICFP2006,2006,0.0,Standard Distribution Band
+2007-10-01 00:00:00+00:00,103.0,26.0,0.25,SoftwareEngineering,Germany,ICFP 2007,ICFP2007,2007,0.0,Standard Distribution Band
+2008-09-22 00:00:00+00:00,99.0,35.0,0.35,SoftwareEngineering,Canada,ICFP 2008,ICFP2008,2008,0.0,Standard Distribution Band
+2009-08-31 00:00:00+00:00,85.0,26.0,0.31,SoftwareEngineering,Scotland,ICFP 2009,ICFP2009,2009,0.0,Standard Distribution Band
+2010-09-27 00:00:00+00:00,99.0,33.0,0.33,SoftwareEngineering,United_States,ICFP 2010,ICFP2010,2010,0.0,Standard Distribution Band
+2011-09-19 00:00:00+00:00,92.0,33.0,0.36,SoftwareEngineering,Japan,ICFP 2011,ICFP2011,2011,0.0,Standard Distribution Band
+2012-09-10 00:00:00+00:00,88.0,32.0,0.36,SoftwareEngineering,Denmark,ICFP 2012,ICFP2012,2012,0.0,Standard Distribution Band
+2013-09-25 00:00:00+00:00,133.0,40.0,0.3,SoftwareEngineering,United_States,ICFP 2013,ICFP2013,2013,0.0,Standard Distribution Band
+2014-09-01 00:00:00+00:00,85.0,28.0,0.33,SoftwareEngineering,Sweden,ICFP 2014,ICFP2014,2014,0.0,Standard Distribution Band
+2015-08-31 00:00:00+00:00,119.0,35.0,0.294,SoftwareEngineering,Canada,ICFP 2015,ICFP2015,2015,0.0,Standard Distribution Band
+2016-09-18 00:00:00+00:00,118.0,37.0,0.314,SoftwareEngineering,Japan,ICFP 2016,ICFP2016,2016,0.0,Standard Distribution Band
+2017-09-03 00:00:00+00:00,127.0,44.0,0.347,SoftwareEngineering,England,ICFP 2017,ICFP2017,2017,0.0,Standard Distribution Band
+2003-06-26 00:00:00+00:00,346.0,138.0,0.399,ArtificialIntelligence,Turkey,ICONIP 2003,ICONIP2003,2003,0.0,Standard Distribution Band
+2004-11-22 00:00:00+00:00,470.0,210.0,0.447,ArtificialIntelligence,India,ICONIP 2004,ICONIP2004,2004,1.0,High Selectivity Target Band
+2006-10-03 00:00:00+00:00,1175.0,386.0,0.33,ArtificialIntelligence,China,ICONIP 2006,ICONIP2006,2006,1.0,High Selectivity Target Band
+2007-11-13 00:00:00+00:00,288.0,228.0,0.792,ArtificialIntelligence,Japan,ICONIP 2007,ICONIP2007,2007,0.0,Standard Distribution Band
+2008-11-25 00:00:00+00:00,400.0,260.0,0.65,ArtificialIntelligence,New_Zealand,ICONIP 2008,ICONIP2008,2008,0.0,Standard Distribution Band
+2009-12-01 00:00:00+00:00,466.0,145.0,0.311,ArtificialIntelligence,Thailand,ICONIP 2009,ICONIP2009,2009,1.0,High Selectivity Target Band
+2010-11-22 00:00:00+00:00,470.0,146.0,0.311,ArtificialIntelligence,Australia,ICONIP 2010,ICONIP2010,2010,1.0,High Selectivity Target Band
+2014-11-03 00:00:00+00:00,375.0,231.0,0.616,ArtificialIntelligence,Malaysia,ICONIP 2014,ICONIP2014,2014,0.0,Standard Distribution Band
+2015-11-09 00:00:00+00:00,375.0,231.0,0.616,ArtificialIntelligence,Turkey,ICONIP 2015,ICONIP2015,2015,0.0,Standard Distribution Band
+2016-10-16 00:00:00+00:00,431.0,296.0,0.687,ArtificialIntelligence,Japan,ICONIP 2016,ICONIP2016,2016,1.0,High Selectivity Target Band
+2017-10-14 00:00:00+00:00,856.0,563.0,0.658,ArtificialIntelligence,China,ICONIP 2017,ICONIP2017,2017,1.0,High Selectivity Target Band
+2009-09-14 00:00:00+00:00,113.0,34.0,0.3,WorldWideWeb,United_States,ICSC 2009,ICSC2009,2009,0.0,Standard Distribution Band
+2010-09-22 00:00:00+00:00,100.0,35.0,0.32,WorldWideWeb,United_States,ICSC 2010,ICSC2010,2010,0.0,Standard Distribution Band
+2011-09-18 00:00:00+00:00,100.0,20.0,0.21,WorldWideWeb,United_States,ICSC 2011,ICSC2011,2011,0.0,Standard Distribution Band
+2012-09-19 00:00:00+00:00,906.0,298.0,0.329,WorldWideWeb,Italy,ICSC 2012,ICSC2012,2012,1.0,High Selectivity Target Band
+2013-09-16 00:00:00+00:00,122.0,36.0,0.3,WorldWideWeb,United_States,ICSC 2013,ICSC2013,2013,0.0,Standard Distribution Band
+2017-01-30 00:00:00+00:00,129.0,26.0,0.201,WorldWideWeb,United_States,ICSC 2017,ICSC2017,2017,0.0,Standard Distribution Band
+2018-01-31 00:00:00+00:00,502.0,105.0,0.21,WorldWideWeb,United_States,ICSC 2018,ICSC2018,2018,1.0,High Selectivity Target Band
+1995-04-23 00:00:00+00:00,155.0,28.0,0.181,SoftwareEngineering,United_States,ICSE 1995,ICSE1995,1995,0.0,Standard Distribution Band
+1996-03-25 00:00:00+00:00,213.0,52.0,0.244,SoftwareEngineering,Germany,ICSE 1996,ICSE1996,1996,0.0,Standard Distribution Band
+1997-05-17 00:00:00+00:00,219.0,50.0,0.228,SoftwareEngineering,United_States,ICSE 1997,ICSE1997,1997,0.0,Standard Distribution Band
+1998-04-19 00:00:00+00:00,209.0,41.0,0.196,SoftwareEngineering,Japan,ICSE 1998,ICSE1998,1998,0.0,Standard Distribution Band
+1999-05-16 00:00:00+00:00,269.0,50.0,0.186,SoftwareEngineering,United_States,ICSE 1999,ICSE1999,1999,0.0,Standard Distribution Band
+2000-06-04 00:00:00+00:00,335.0,49.0,0.146,SoftwareEngineering,Ireland,ICSE 2000,ICSE2000,2000,0.0,Standard Distribution Band
+2001-05-12 00:00:00+00:00,368.0,47.0,0.128,SoftwareEngineering,Canada,ICSE 2001,ICSE2001,2001,0.0,Standard Distribution Band
+2002-05-19 00:00:00+00:00,303.0,48.0,0.158,SoftwareEngineering,United_States,ICSE 2002,ICSE2002,2002,0.0,Standard Distribution Band
+2003-05-03 00:00:00+00:00,324.0,42.0,0.13,SoftwareEngineering,United_States,ICSE 2003,ICSE2003,2003,0.0,Standard Distribution Band
+2004-05-23 00:00:00+00:00,436.0,58.0,0.133,SoftwareEngineering,England,ICSE 2004,ICSE2004,2004,1.0,High Selectivity Target Band
+2005-05-15 00:00:00+00:00,313.0,44.0,0.141,SoftwareEngineering,United_States,ICSE 2005,ICSE2005,2005,0.0,Standard Distribution Band
+2006-05-20 00:00:00+00:00,395.0,36.0,0.091,SoftwareEngineering,China,ICSE 2006,ICSE2006,2006,0.0,Standard Distribution Band
+2007-05-19 00:00:00+00:00,334.0,49.0,0.147,SoftwareEngineering,United_States,ICSE 2007,ICSE2007,2007,0.0,Standard Distribution Band
+2008-05-10 00:00:00+00:00,371.0,56.0,0.151,SoftwareEngineering,Germany,ICSE 2008,ICSE2008,2008,0.0,Standard Distribution Band
+2009-05-16 00:00:00+00:00,405.0,50.0,0.123,SoftwareEngineering,Canada,ICSE 2009,ICSE2009,2009,1.0,High Selectivity Target Band
+2010-05-02 00:00:00+00:00,380.0,52.0,0.137,SoftwareEngineering,South_Africa,ICSE 2010,ICSE2010,2010,0.0,Standard Distribution Band
+2011-05-21 00:00:00+00:00,441.0,62.0,0.141,SoftwareEngineering,United_States,ICSE 2011,ICSE2011,2011,1.0,High Selectivity Target Band
+2012-06-02 00:00:00+00:00,408.0,87.0,0.213,SoftwareEngineering,Switzerland,ICSE 2012,ICSE2012,2012,1.0,High Selectivity Target Band
+2013-05-18 00:00:00+00:00,461.0,85.0,0.184,SoftwareEngineering,United_States,ICSE 2013,ICSE2013,2013,1.0,High Selectivity Target Band
+2014-05-31 00:00:00+00:00,496.0,99.0,0.2,SoftwareEngineering,India,ICSE 2014,ICSE2014,2014,1.0,High Selectivity Target Band
+2015-05-16 00:00:00+00:00,452.0,84.0,0.186,SoftwareEngineering,Italy,ICSE 2015,ICSE2015,2015,1.0,High Selectivity Target Band
+2016-05-14 00:00:00+00:00,530.0,101.0,0.191,SoftwareEngineering,United_States,ICSE 2016,ICSE2016,2016,1.0,High Selectivity Target Band
+2017-05-20 00:00:00+00:00,415.0,68.0,0.164,SoftwareEngineering,Argentina,ICSE 2017,ICSE2017,2017,1.0,High Selectivity Target Band
+2003-07-14 00:00:00+00:00,190.0,25.0,0.13,WorldWideWeb,Spain,ICWE 2003,ICWE2003,2003,0.0,Standard Distribution Band
+2004-07-26 00:00:00+00:00,204.0,25.0,0.12,WorldWideWeb,Germany,ICWE 2004,ICWE2004,2004,0.0,Standard Distribution Band
+2006-07-11 00:00:00+00:00,103.0,44.0,0.43,WorldWideWeb,United_States,ICWE 2006,ICWE2006,2006,0.0,Standard Distribution Band
+2007-07-16 00:00:00+00:00,172.0,39.0,0.227,WorldWideWeb,Italy,ICWE 2007,ICWE2007,2007,0.0,Standard Distribution Band
+2008-07-14 00:00:00+00:00,57.0,20.0,0.34,WorldWideWeb,United_States,ICWE 2008,ICWE2008,2008,0.0,Standard Distribution Band
+2009-06-24 00:00:00+00:00,90.0,22.0,0.351,WorldWideWeb,Spain,ICWE 2009,ICWE2009,2009,0.0,Standard Distribution Band
+2010-07-05 00:00:00+00:00,120.0,26.0,0.217,WorldWideWeb,Austria,ICWE 2010,ICWE2010,2010,0.0,Standard Distribution Band
+2011-06-20 00:00:00+00:00,90.0,22.0,0.244,WorldWideWeb,Cyprus,ICWE 2011,ICWE2011,2011,0.0,Standard Distribution Band
+2012-07-23 00:00:00+00:00,98.0,20.0,0.204,WorldWideWeb,Germany,ICWE 2012,ICWE2012,2012,0.0,Standard Distribution Band
+2013-07-08 00:00:00+00:00,92.0,21.0,0.228,WorldWideWeb,Denmark,ICWE 2013,ICWE2013,2013,0.0,Standard Distribution Band
+2014-07-01 00:00:00+00:00,100.0,20.0,0.2,WorldWideWeb,France,ICWE 2014,ICWE2014,2014,0.0,Standard Distribution Band
+2015-06-23 00:00:00+00:00,110.0,26.0,0.24,WorldWideWeb,Netherlands,ICWE 2015,ICWE2015,2015,0.0,Standard Distribution Band
+2016-06-06 00:00:00+00:00,125.0,19.0,0.21,WorldWideWeb,Switzerland,ICWE 2016,ICWE2016,2016,0.0,Standard Distribution Band
+2017-06-05 00:00:00+00:00,139.0,20.0,0.144,WorldWideWeb,Italy,ICWE 2017,ICWE2017,2017,0.0,Standard Distribution Band
+2018-06-05 00:00:00+00:00,57.0,18.0,0.31,WorldWideWeb,Spain,ICWE 2018,ICWE2018,2018,0.0,Standard Distribution Band
+2003-06-23 00:00:00+00:00,57.0,17.0,0.298,WorldWideWeb,United_States,ICWS 2003,ICWS2003,2003,0.0,Standard Distribution Band
+2004-06-06 00:00:00+00:00,230.0,66.0,0.287,WorldWideWeb,United_States,ICWS 2004,ICWS2004,2004,0.0,Standard Distribution Band
+2005-07-11 00:00:00+00:00,233.0,44.0,0.189,WorldWideWeb,United_States,ICWS 2005,ICWS2005,2005,0.0,Standard Distribution Band
+2006-09-18 00:00:00+00:00,300.0,48.0,0.16,WorldWideWeb,United_States,ICWS 2006,ICWS2006,2006,0.0,Standard Distribution Band
+2007-07-09 00:00:00+00:00,267.0,48.0,0.18,WorldWideWeb,United_States,ICWS 2007,ICWS2007,2007,0.0,Standard Distribution Band
+2008-09-12 00:00:00+00:00,269.0,43.0,0.16,WorldWideWeb,China,ICWS 2008,ICWS2008,2008,0.0,Standard Distribution Band
+2009-07-06 00:00:00+00:00,404.0,63.0,0.156,WorldWideWeb,United_States,ICWS 2009,ICWS2009,2009,1.0,High Selectivity Target Band
+2010-07-05 00:00:00+00:00,222.0,39.0,0.176,WorldWideWeb,United_States,ICWS 2010,ICWS2010,2010,0.0,Standard Distribution Band
+2011-07-04 00:00:00+00:00,264.0,37.0,0.14,WorldWideWeb,United_States,ICWS 2011,ICWS2011,2011,0.0,Standard Distribution Band
+2012-06-24 00:00:00+00:00,176.0,30.0,0.17,WorldWideWeb,United_States,ICWS 2012,ICWS2012,2012,0.0,Standard Distribution Band
+2013-06-27 00:00:00+00:00,447.0,85.0,0.19,WorldWideWeb,United_States,ICWS 2013,ICWS2013,2013,1.0,High Selectivity Target Band
+2014-06-27 00:00:00+00:00,133.0,24.0,0.18,WorldWideWeb,United_States,ICWS 2014,ICWS2014,2014,0.0,Standard Distribution Band
+2015-06-27 00:00:00+00:00,270.0,47.0,0.174,WorldWideWeb,United_States,ICWS 2015,ICWS2015,2015,0.0,Standard Distribution Band
+2016-06-27 00:00:00+00:00,250.0,30.0,0.14,WorldWideWeb,United_States,ICWS 2016,ICWS2016,2016,0.0,Standard Distribution Band
+2017-06-25 00:00:00+00:00,630.0,126.0,0.2,WorldWideWeb,United_States,ICWS 2017,ICWS2017,2017,1.0,High Selectivity Target Band
+1995-08-20 00:00:00+00:00,1112.0,249.0,0.224,ArtificialIntelligence,Canada,IJCAI 1995,IJCAI1995,1995,1.0,High Selectivity Target Band
+1997-08-23 00:00:00+00:00,882.0,216.0,0.245,ArtificialIntelligence,Japan,IJCAI 1997,IJCAI1997,1997,1.0,High Selectivity Target Band
+1999-07-31 00:00:00+00:00,750.0,194.0,0.259,ArtificialIntelligence,Sweden,IJCAI 1999,IJCAI1999,1999,1.0,High Selectivity Target Band
+2001-08-04 00:00:00+00:00,796.0,197.0,0.247,ArtificialIntelligence,United_States,IJCAI 2001,IJCAI2001,2001,1.0,High Selectivity Target Band
+2003-08-09 00:00:00+00:00,913.0,189.0,0.207,ArtificialIntelligence,Mexico,IJCAI 2003,IJCAI2003,2003,1.0,High Selectivity Target Band
+2005-07-30 00:00:00+00:00,1329.0,240.0,0.181,ArtificialIntelligence,England,IJCAI 2005,IJCAI2005,2005,2.0,High Density Acceptance Band
+2007-01-06 00:00:00+00:00,1365.0,470.0,0.344,ArtificialIntelligence,India,IJCAI 2007,IJCAI2007,2007,2.0,High Density Acceptance Band
+2009-07-11 00:00:00+00:00,1291.0,331.0,0.256,ArtificialIntelligence,United_States,IJCAI 2009,IJCAI2009,2009,2.0,High Density Acceptance Band
+2011-07-16 00:00:00+00:00,1325.0,400.0,0.302,ArtificialIntelligence,Spain,IJCAI 2011,IJCAI2011,2011,2.0,High Density Acceptance Band
+2013-08-03 00:00:00+00:00,1473.0,413.0,0.28,ArtificialIntelligence,China,IJCAI 2013,IJCAI2013,2013,2.0,High Density Acceptance Band
+2015-07-25 00:00:00+00:00,1996.0,572.0,0.287,ArtificialIntelligence,Argentina,IJCAI 2015,IJCAI2015,2015,2.0,High Density Acceptance Band
+2016-07-09 00:00:00+00:00,2294.0,551.0,0.24,ArtificialIntelligence,United_States,IJCAI 2016,IJCAI2016,2016,2.0,High Density Acceptance Band
+2017-08-19 00:00:00+00:00,2540.0,661.0,0.26,ArtificialIntelligence,Australia,IJCAI 2017,IJCAI2017,2017,2.0,High Density Acceptance Band
+2001-06-18 00:00:00+00:00,112.0,56.0,0.5,TheoryOfComputations,Italy,IJCAR 2001,IJCAR2001,2001,0.0,Standard Distribution Band
+2004-07-04 00:00:00+00:00,86.0,32.0,0.372,TheoryOfComputations,Ireland,IJCAR 2004,IJCAR2004,2004,0.0,Standard Distribution Band
+2006-08-16 00:00:00+00:00,151.0,49.0,0.325,TheoryOfComputations,United_States,IJCAR 2006,IJCAR2006,2006,0.0,Standard Distribution Band
+2008-08-10 00:00:00+00:00,98.0,39.0,0.398,TheoryOfComputations,Austria,IJCAR 2008,IJCAR2008,2008,0.0,Standard Distribution Band
+2010-07-16 00:00:00+00:00,89.0,40.0,0.449,TheoryOfComputations,England,IJCAR 2010,IJCAR2010,2010,0.0,Standard Distribution Band
+2012-06-25 00:00:00+00:00,115.0,42.0,0.365,TheoryOfComputations,England,IJCAR 2012,IJCAR2012,2012,0.0,Standard Distribution Band
+2014-07-19 00:00:00+00:00,83.0,37.0,0.446,TheoryOfComputations,Austria,IJCAR 2014,IJCAR2014,2014,0.0,Standard Distribution Band
+2016-06-27 00:00:00+00:00,79.0,35.0,0.443,TheoryOfComputations,Portugal,IJCAR 2016,IJCAR2016,2016,0.0,Standard Distribution Band
+1996-07-04 00:00:00+00:00,121.0,41.0,0.34,TheoryOfComputations,Switzerland,ISSAC 1996,ISSAC1996,1996,0.0,Standard Distribution Band
+2000-08-06 00:00:00+00:00,98.0,40.0,0.408,TheoryOfComputations,Scotland,ISSAC 2000,ISSAC2000,2000,0.0,Standard Distribution Band
+2002-07-07 00:00:00+00:00,86.0,35.0,0.407,TheoryOfComputations,France,ISSAC 2002,ISSAC2002,2002,0.0,Standard Distribution Band
+2003-08-03 00:00:00+00:00,68.0,36.0,0.529,TheoryOfComputations,United_States,ISSAC 2003,ISSAC2003,2003,0.0,Standard Distribution Band
+2004-07-04 00:00:00+00:00,131.0,48.0,0.366,TheoryOfComputations,Spain,ISSAC 2004,ISSAC2004,2004,0.0,Standard Distribution Band
+2006-07-09 00:00:00+00:00,97.0,48.0,0.495,TheoryOfComputations,Italy,ISSAC 2006,ISSAC2006,2006,0.0,Standard Distribution Band
+2007-07-29 00:00:00+00:00,98.0,50.0,0.51,TheoryOfComputations,Canada,ISSAC 2007,ISSAC2007,2007,0.0,Standard Distribution Band
+2008-07-20 00:00:00+00:00,99.0,40.0,0.404,TheoryOfComputations,Austria,ISSAC 2008,ISSAC2008,2008,0.0,Standard Distribution Band
+2009-07-28 00:00:00+00:00,73.0,47.0,0.644,TheoryOfComputations,Korea,ISSAC 2009,ISSAC2009,2009,0.0,Standard Distribution Band
+2010-07-25 00:00:00+00:00,110.0,45.0,0.409,TheoryOfComputations,Germany,ISSAC 2010,ISSAC2010,2010,0.0,Standard Distribution Band
+2011-06-08 00:00:00+00:00,83.0,44.0,0.53,TheoryOfComputations,United_States,ISSAC 2011,ISSAC2011,2011,0.0,Standard Distribution Band
+2012-07-22 00:00:00+00:00,96.0,51.0,0.531,TheoryOfComputations,France,ISSAC 2012,ISSAC2012,2012,0.0,Standard Distribution Band
+2014-07-23 00:00:00+00:00,96.0,51.0,0.531,TheoryOfComputations,Japan,ISSAC 2014,ISSAC2014,2014,0.0,Standard Distribution Band
+2015-07-06 00:00:00+00:00,71.0,43.0,0.606,TheoryOfComputations,England,ISSAC 2015,ISSAC2015,2015,0.0,Standard Distribution Band
+2002-06-09 00:00:00+00:00,95.0,27.0,0.284,WorldWideWeb,Italy,ISWC 2002,ISWC2002,2002,0.0,Standard Distribution Band
+2003-10-20 00:00:00+00:00,262.0,49.0,0.187,WorldWideWeb,United_States,ISWC 2003,ISWC2003,2003,0.0,Standard Distribution Band
+2004-11-07 00:00:00+00:00,205.0,48.0,0.234,WorldWideWeb,Japan,ISWC 2004,ISWC2004,2004,0.0,Standard Distribution Band
+2005-11-06 00:00:00+00:00,217.0,54.0,0.249,WorldWideWeb,Ireland,ISWC 2005,ISWC2005,2005,0.0,Standard Distribution Band
+2006-11-05 00:00:00+00:00,215.0,52.0,0.242,WorldWideWeb,United_States,ISWC 2006,ISWC2006,2006,0.0,Standard Distribution Band
+2007-11-11 00:00:00+00:00,257.0,50.0,0.195,WorldWideWeb,Korea,ISWC 2007,ISWC2007,2007,0.0,Standard Distribution Band
+2008-10-26 00:00:00+00:00,261.0,43.0,0.165,WorldWideWeb,Germany,ISWC 2008,ISWC2008,2008,0.0,Standard Distribution Band
+2009-10-25 00:00:00+00:00,250.0,43.0,0.172,WorldWideWeb,United_States,ISWC 2009,ISWC2009,2009,0.0,Standard Distribution Band
+2010-11-07 00:00:00+00:00,228.0,51.0,0.224,WorldWideWeb,China,ISWC 2010,ISWC2010,2010,0.0,Standard Distribution Band
+2011-10-23 00:00:00+00:00,264.0,50.0,0.189,WorldWideWeb,Germany,ISWC 2011,ISWC2011,2011,0.0,Standard Distribution Band
+2012-11-11 00:00:00+00:00,183.0,41.0,0.224,WorldWideWeb,United_States,ISWC 2012,ISWC2012,2012,0.0,Standard Distribution Band
+2013-10-21 00:00:00+00:00,210.0,45.0,0.214,WorldWideWeb,Australia,ISWC 2013,ISWC2013,2013,0.0,Standard Distribution Band
+2014-10-19 00:00:00+00:00,180.0,38.0,0.211,WorldWideWeb,Italy,ISWC 2014,ISWC2014,2014,0.0,Standard Distribution Band
+2015-10-11 00:00:00+00:00,172.0,38.0,0.221,WorldWideWeb,United_States,ISWC 2015,ISWC2015,2015,0.0,Standard Distribution Band
+2016-10-17 00:00:00+00:00,212.0,39.0,0.184,WorldWideWeb,Japan,ISWC 2016,ISWC2016,2016,0.0,Standard Distribution Band
+2017-10-21 00:00:00+00:00,326.0,67.0,0.206,WorldWideWeb,Austria,ISWC 2017,ISWC2017,2017,0.0,Standard Distribution Band
+2001-06-24 00:00:00+00:00,250.0,76.0,0.3,,,,JCDL2001,2001,0.0,Standard Distribution Band
+2002-06-14 00:00:00+00:00,240.0,69.0,0.29,,,,JCDL2002,2002,0.0,Standard Distribution Band
+2003-05-27 00:00:00+00:00,216.0,54.0,0.25,,,,JCDL2003,2003,0.0,Standard Distribution Band
+2004-06-07 00:00:00+00:00,249.0,61.0,0.24,,,,JCDL2004,2004,0.0,Standard Distribution Band
+2005-06-07 00:00:00+00:00,270.0,59.0,0.22,,,,JCDL2005,2005,0.0,Standard Distribution Band
+2006-06-11 00:00:00+00:00,248.0,57.0,0.23,,,,JCDL2006,2006,0.0,Standard Distribution Band
+2007-06-18 00:00:00+00:00,119.0,43.0,0.36,,,,JCDL2007,2007,0.0,Standard Distribution Band
+2008-06-16 00:00:00+00:00,117.0,33.0,0.28,,,,JCDL2008,2008,0.0,Standard Distribution Band
+2009-06-15 00:00:00+00:00,102.0,29.0,0.28,,,,JCDL2009,2009,0.0,Standard Distribution Band
+2010-06-21 00:00:00+00:00,110.0,32.0,0.29,,,,JCDL2010,2010,0.0,Standard Distribution Band
+2011-06-13 00:00:00+00:00,243.0,57.0,0.23,,,,JCDL2011,2011,0.0,Standard Distribution Band
+2012-06-10 00:00:00+00:00,91.0,25.0,0.27,,,,JCDL2012,2012,0.0,Standard Distribution Band
+2013-07-22 00:00:00+00:00,95.0,28.0,0.29,,,,JCDL2013,2013,0.0,Standard Distribution Band
+2015-06-21 00:00:00+00:00,60.0,18.0,0.3,,,,JCDL2015,2015,0.0,Standard Distribution Band
+2016-06-19 00:00:00+00:00,52.0,15.0,0.29,,,,JCDL2016,2016,0.0,Standard Distribution Band
+2000-04-11 00:00:00+00:00,172.0,62.0,0.36,ArtificialIntelligence,United_States,KR 2000,KR2000,2000,0.0,Standard Distribution Band
+2004-06-02 00:00:00+00:00,197.0,67.0,0.34,ArtificialIntelligence,Canada,KR 2004,KR2004,2004,0.0,Standard Distribution Band
+2006-06-02 00:00:00+00:00,210.0,50.0,0.238,ArtificialIntelligence,England,KR 2006,KR2006,2006,0.0,Standard Distribution Band
+2008-09-16 00:00:00+00:00,251.0,69.0,0.275,ArtificialIntelligence,Australia,KR 2008,KR2008,2008,0.0,Standard Distribution Band
+2010-05-09 00:00:00+00:00,211.0,53.0,0.251,ArtificialIntelligence,Canada,KR 2010,KR2010,2010,0.0,Standard Distribution Band
+2012-06-10 00:00:00+00:00,202.0,53.0,0.262,ArtificialIntelligence,Italy,KR 2012,KR2012,2012,0.0,Standard Distribution Band
+2014-07-20 00:00:00+00:00,220.0,58.0,0.264,ArtificialIntelligence,Austria,KR 2014,KR2014,2014,0.0,Standard Distribution Band
+1995-11-13 00:00:00+00:00,79.0,20.0,0.253,HumanCenteredComputing,United_States,MOBICOM 1995,MOBICOM1995,1995,0.0,Standard Distribution Band
+1996-11-11 00:00:00+00:00,90.0,18.0,0.2,HumanCenteredComputing,,MOBICOM 1996,MOBICOM1996,1996,0.0,Standard Distribution Band
+1997-09-26 00:00:00+00:00,101.0,26.0,0.257,HumanCenteredComputing,Hungary,MOBICOM 1997,MOBICOM1997,1997,0.0,Standard Distribution Band
+1998-10-25 00:00:00+00:00,147.0,27.0,0.184,HumanCenteredComputing,United_States,MOBICOM 1998,MOBICOM1998,1998,0.0,Standard Distribution Band
+1999-08-15 00:00:00+00:00,170.0,23.0,0.135,HumanCenteredComputing,United_States,MOBICOM 1999,MOBICOM1999,1999,0.0,Standard Distribution Band
+2000-08-06 00:00:00+00:00,226.0,28.0,0.123,HumanCenteredComputing,United_States,MOBICOM 2000,MOBICOM2000,2000,0.0,Standard Distribution Band
+2001-07-16 00:00:00+00:00,281.0,30.0,0.107,HumanCenteredComputing,Italy,MOBICOM 2001,MOBICOM2001,2001,0.0,Standard Distribution Band
+2002-09-23 00:00:00+00:00,364.0,26.0,0.096,HumanCenteredComputing,United_States,MOBICOM 2002,MOBICOM2002,2002,0.0,Standard Distribution Band
+2003-09-14 00:00:00+00:00,281.0,27.0,0.096,HumanCenteredComputing,United_States,MOBICOM 2003,MOBICOM2003,2003,0.0,Standard Distribution Band
+2004-09-26 00:00:00+00:00,327.0,26.0,0.08,HumanCenteredComputing,United_States,MOBICOM 2004,MOBICOM2004,2004,0.0,Standard Distribution Band
+2005-08-28 00:00:00+00:00,224.0,23.0,0.103,HumanCenteredComputing,Germany,MOBICOM 2005,MOBICOM2005,2005,0.0,Standard Distribution Band
+2006-09-24 00:00:00+00:00,298.0,35.0,0.117,HumanCenteredComputing,United_States,MOBICOM 2006,MOBICOM2006,2006,0.0,Standard Distribution Band
+2007-09-09 00:00:00+00:00,233.0,26.0,0.111,HumanCenteredComputing,United_States,MOBICOM 2007,MOBICOM2007,2007,0.0,Standard Distribution Band
+2008-09-14 00:00:00+00:00,264.0,31.0,0.117,HumanCenteredComputing,United_States,MOBICOM 2008,MOBICOM2008,2008,0.0,Standard Distribution Band
+2009-09-20 00:00:00+00:00,282.0,30.0,0.106,HumanCenteredComputing,China,MOBICOM 2009,MOBICOM2009,2009,0.0,Standard Distribution Band
+2010-09-20 00:00:00+00:00,233.0,33.0,0.142,HumanCenteredComputing,United_States,MOBICOM 2010,MOBICOM2010,2010,0.0,Standard Distribution Band
+2011-09-19 00:00:00+00:00,214.0,29.0,0.136,HumanCenteredComputing,United_States,MOBICOM 2011,MOBICOM2011,2011,0.0,Standard Distribution Band
+2012-08-22 00:00:00+00:00,212.0,32.0,0.151,HumanCenteredComputing,Turkey,MOBICOM 2012,MOBICOM2012,2012,0.0,Standard Distribution Band
+2013-09-30 00:00:00+00:00,207.0,28.0,0.135,HumanCenteredComputing,United_States,MOBICOM 2013,MOBICOM2013,2013,0.0,Standard Distribution Band
+2014-09-07 00:00:00+00:00,220.0,36.0,0.164,HumanCenteredComputing,United_States,MOBICOM 2014,MOBICOM2014,2014,0.0,Standard Distribution Band
+2015-09-07 00:00:00+00:00,207.0,38.0,0.184,HumanCenteredComputing,France,MOBICOM 2015,MOBICOM2015,2015,0.0,Standard Distribution Band
+2016-10-03 00:00:00+00:00,226.0,31.0,0.137,HumanCenteredComputing,United_States,MOBICOM 2016,MOBICOM2016,2016,0.0,Standard Distribution Band
+2017-10-16 00:00:00+00:00,186.0,35.0,0.188,HumanCenteredComputing,United_States,MOBICOM 2017,MOBICOM2017,2017,0.0,Standard Distribution Band
+2018-10-29 00:00:00+00:00,16.0,10.0,0.625,HumanCenteredComputing,India,MOBICOM 2018,MOBICOM2018,2018,0.0,Standard Distribution Band
+2001-12-03 00:00:00+00:00,650.0,196.0,0.302,ArtificialIntelligence,Canada,NIPS 2001,NIPS2001,2001,1.0,High Selectivity Target Band
+2002-12-09 00:00:00+00:00,710.0,221.0,0.311,ArtificialIntelligence,Canada,NIPS 2002,NIPS2002,2002,1.0,High Selectivity Target Band
+2003-12-08 00:00:00+00:00,717.0,198.0,0.276,ArtificialIntelligence,Canada,NIPS 2003,NIPS2003,2003,1.0,High Selectivity Target Band
+2005-12-05 00:00:00+00:00,822.0,207.0,0.252,ArtificialIntelligence,Canada,NIPS 2005,NIPS2005,2005,1.0,High Selectivity Target Band
+2006-12-04 00:00:00+00:00,833.0,204.0,0.245,ArtificialIntelligence,Canada,NIPS 2006,NIPS2006,2006,1.0,High Selectivity Target Band
+2008-12-08 00:00:00+00:00,1022.0,250.0,0.245,ArtificialIntelligence,Canada,NIPS 2008,NIPS2008,2008,1.0,High Selectivity Target Band
+2009-12-07 00:00:00+00:00,1105.0,263.0,0.238,ArtificialIntelligence,Canada,NIPS 2009,NIPS2009,2009,1.0,High Selectivity Target Band
+2010-12-06 00:00:00+00:00,1219.0,293.0,0.24,ArtificialIntelligence,Canada,NIPS 2010,NIPS2010,2010,1.0,High Selectivity Target Band
+2011-12-12 00:00:00+00:00,1400.0,305.0,0.218,ArtificialIntelligence,Spain,NIPS 2011,NIPS2011,2011,2.0,High Density Acceptance Band
+2012-12-03 00:00:00+00:00,1467.0,370.0,0.252,ArtificialIntelligence,United_States,NIPS 2012,NIPS2012,2012,2.0,High Density Acceptance Band
+2013-12-05 00:00:00+00:00,1420.0,360.0,0.254,ArtificialIntelligence,United_States,NIPS 2013,NIPS2013,2013,2.0,High Density Acceptance Band
+2014-12-08 00:00:00+00:00,1678.0,414.0,0.247,ArtificialIntelligence,Canada,NIPS 2014,NIPS2014,2014,2.0,High Density Acceptance Band
+2015-12-07 00:00:00+00:00,1838.0,403.0,0.219,ArtificialIntelligence,Canada,NIPS 2015,NIPS2015,2015,2.0,High Density Acceptance Band
+2016-12-05 00:00:00+00:00,2406.0,568.0,0.236,ArtificialIntelligence,Spain,NIPS 2016,NIPS2016,2016,2.0,High Density Acceptance Band
+2017-12-04 00:00:00+00:00,3240.0,679.0,0.21,ArtificialIntelligence,United_States,NIPS 2017,NIPS2017,2017,2.0,High Density Acceptance Band
+1999-11-01 00:00:00+00:00,152.0,30.0,0.197,SoftwareEngineering,United_States,OOPSLA 1999,OOPSLA1999,1999,0.0,Standard Distribution Band
+2000-10-15 00:00:00+00:00,142.0,26.0,0.183,SoftwareEngineering,United_States,OOPSLA 2000,OOPSLA2000,2000,0.0,Standard Distribution Band
+2001-10-14 00:00:00+00:00,145.0,27.0,0.186,SoftwareEngineering,United_States,OOPSLA 2001,OOPSLA2001,2001,0.0,Standard Distribution Band
+2002-11-04 00:00:00+00:00,125.0,25.0,0.2,SoftwareEngineering,United_States,OOPSLA 2002,OOPSLA2002,2002,0.0,Standard Distribution Band
+2003-10-26 00:00:00+00:00,147.0,26.0,0.177,SoftwareEngineering,United_States,OOPSLA 2003,OOPSLA2003,2003,0.0,Standard Distribution Band
+2004-10-24 00:00:00+00:00,173.0,27.0,0.156,SoftwareEngineering,Canada,OOPSLA 2004,OOPSLA2004,2004,0.0,Standard Distribution Band
+2005-10-16 00:00:00+00:00,174.0,32.0,0.184,SoftwareEngineering,United_States,OOPSLA 2005,OOPSLA2005,2005,0.0,Standard Distribution Band
+2006-10-22 00:00:00+00:00,157.0,26.0,0.166,SoftwareEngineering,United_States,OOPSLA 2006,OOPSLA2006,2006,0.0,Standard Distribution Band
+2007-10-21 00:00:00+00:00,156.0,33.0,0.212,SoftwareEngineering,Canada,OOPSLA 2007,OOPSLA2007,2007,0.0,Standard Distribution Band
+2008-10-19 00:00:00+00:00,117.0,33.0,0.282,SoftwareEngineering,United_States,OOPSLA 2008,OOPSLA2008,2008,0.0,Standard Distribution Band
+2009-10-25 00:00:00+00:00,144.0,25.0,0.174,SoftwareEngineering,United_States,OOPSLA 2009,OOPSLA2009,2009,0.0,Standard Distribution Band
+2010-10-17 00:00:00+00:00,164.0,45.0,0.274,SoftwareEngineering,United_States,OOPSLA 2010,OOPSLA2010,2010,0.0,Standard Distribution Band
+2011-10-22 00:00:00+00:00,166.0,61.0,0.367,SoftwareEngineering,United_States,OOPSLA 2011,OOPSLA2011,2011,0.0,Standard Distribution Band
+2012-10-21 00:00:00+00:00,228.0,59.0,0.259,SoftwareEngineering,United_States,OOPSLA 2012,OOPSLA2012,2012,0.0,Standard Distribution Band
+2013-10-26 00:00:00+00:00,189.0,50.0,0.265,SoftwareEngineering,United_States,OOPSLA 2013,OOPSLA2013,2013,0.0,Standard Distribution Band
+2014-10-20 00:00:00+00:00,186.0,52.0,0.28,SoftwareEngineering,United_States,OOPSLA 2014,OOPSLA2014,2014,0.0,Standard Distribution Band
+2016-10-30 00:00:00+00:00,203.0,52.0,0.256,SoftwareEngineering,Netherlands,OOPSLA 2016,OOPSLA2016,2016,0.0,Standard Distribution Band
+2003-03-23 00:00:00+00:00,170.0,53.0,0.312,ComputerSystemsOrganization,United_States,PERCOM 2003,PERCOM2003,2003,0.0,Standard Distribution Band
+2004-03-14 00:00:00+00:00,193.0,31.0,0.161,ComputerSystemsOrganization,United_States,PERCOM 2004,PERCOM2004,2004,0.0,Standard Distribution Band
+2005-03-08 00:00:00+00:00,233.0,38.0,0.163,ComputerSystemsOrganization,United_States,PERCOM 2005,PERCOM2005,2005,0.0,Standard Distribution Band
+2006-03-13 00:00:00+00:00,280.0,23.0,0.082,ComputerSystemsOrganization,Italy,PERCOM 2006,PERCOM2006,2006,0.0,Standard Distribution Band
+2007-03-19 00:00:00+00:00,208.0,20.0,0.096,ComputerSystemsOrganization,United_States,PERCOM 2007,PERCOM2007,2007,0.0,Standard Distribution Band
+2008-03-17 00:00:00+00:00,160.0,19.0,0.119,ComputerSystemsOrganization,Hong_Kong,PERCOM 2008,PERCOM2008,2008,0.0,Standard Distribution Band
+2009-03-09 00:00:00+00:00,199.0,26.0,0.131,ComputerSystemsOrganization,United_States,PERCOM 2009,PERCOM2009,2009,0.0,Standard Distribution Band
+2010-03-29 00:00:00+00:00,227.0,28.0,0.123,ComputerSystemsOrganization,Germany,PERCOM 2010,PERCOM2010,2010,0.0,Standard Distribution Band
+2011-03-21 00:00:00+00:00,154.0,27.0,0.175,ComputerSystemsOrganization,United_States,PERCOM 2011,PERCOM2011,2011,0.0,Standard Distribution Band
+2012-03-19 00:00:00+00:00,150.0,28.0,0.187,ComputerSystemsOrganization,Switzerland,PERCOM 2012,PERCOM2012,2012,0.0,Standard Distribution Band
+2013-03-18 00:00:00+00:00,174.0,27.0,0.155,ComputerSystemsOrganization,United_States,PERCOM 2013,PERCOM2013,2013,0.0,Standard Distribution Band
+2014-03-24 00:00:00+00:00,175.0,25.0,0.143,ComputerSystemsOrganization,Hungary,PERCOM 2014,PERCOM2014,2014,0.0,Standard Distribution Band
+2015-03-23 00:00:00+00:00,196.0,29.0,0.148,ComputerSystemsOrganization,United_States,PERCOM 2015,PERCOM2015,2015,0.0,Standard Distribution Band
+2016-03-14 00:00:00+00:00,168.0,25.0,0.149,ComputerSystemsOrganization,Australia,PERCOM 2016,PERCOM2016,2016,0.0,Standard Distribution Band
+2017-03-13 00:00:00+00:00,194.0,32.0,0.165,ComputerSystemsOrganization,United_States,PERCOM 2017,PERCOM2017,2017,0.0,Standard Distribution Band
+1997-06-24 00:00:00+00:00,73.0,26.0,0.356,InformationSystems,Norway,PKDD 1997,PKDD1997,1997,0.0,Standard Distribution Band
+1998-09-23 00:00:00+00:00,100.0,46.0,0.46,InformationSystems,France,PKDD 1998,PKDD1998,1998,0.0,Standard Distribution Band
+1999-09-15 00:00:00+00:00,106.0,82.0,0.774,InformationSystems,Czech_Republic,PKDD 1999,PKDD1999,1999,0.0,Standard Distribution Band
+2000-09-13 00:00:00+00:00,100.0,43.0,0.43,InformationSystems,France,PKDD 2000,PKDD2000,2000,0.0,Standard Distribution Band
+2001-09-03 00:00:00+00:00,140.0,50.0,0.357,InformationSystems,Germany,ECML PKDD 2001,PKDD2001,2001,0.0,Standard Distribution Band
+2002-08-19 00:00:00+00:00,70.0,39.0,0.557,InformationSystems,Finland,ECML PKDD 2002,PKDD2002,2002,0.0,Standard Distribution Band
+2003-09-22 00:00:00+00:00,332.0,40.0,0.12,InformationSystems,Croatia,ECML PKDD 2003,PKDD2003,2003,0.0,Standard Distribution Band
+2004-09-20 00:00:00+00:00,269.0,39.0,0.145,InformationSystems,Italy,ECML PKDD 2004,PKDD2004,2004,0.0,Standard Distribution Band
+2005-10-03 00:00:00+00:00,220.0,35.0,0.159,InformationSystems,Portugal,ECML PKDD 2005,PKDD2005,2005,0.0,Standard Distribution Band
+2006-09-18 00:00:00+00:00,564.0,87.0,0.154,InformationSystems,Germany,ECML PKDD 2006,PKDD2006,2006,1.0,High Selectivity Target Band
+2007-09-17 00:00:00+00:00,592.0,82.0,0.139,InformationSystems,Poland,ECML PKDD 2007,PKDD2007,2007,1.0,High Selectivity Target Band
+2008-09-15 00:00:00+00:00,521.0,100.0,0.192,InformationSystems,Belgium,ECML PKDD 2008,PKDD2008,2008,1.0,High Selectivity Target Band
+2009-09-07 00:00:00+00:00,422.0,106.0,0.251,InformationSystems,Slovenia,ECML PKDD 2009,PKDD2009,2009,1.0,High Selectivity Target Band
+2010-09-20 00:00:00+00:00,658.0,124.0,0.188,InformationSystems,Spain,ECML PKDD 2010,PKDD2010,2010,1.0,High Selectivity Target Band
+2011-09-05 00:00:00+00:00,600.0,142.0,0.237,InformationSystems,Greece,ECML PKDD 2011,PKDD2011,2011,1.0,High Selectivity Target Band
+2012-09-24 00:00:00+00:00,443.0,124.0,0.28,InformationSystems,England,ECML PKDD 2012,PKDD2012,2012,1.0,High Selectivity Target Band
+2013-09-23 00:00:00+00:00,447.0,111.0,0.248,InformationSystems,Czech_Republic,ECML PKDD 2013,PKDD2013,2013,1.0,High Selectivity Target Band
+2014-09-15 00:00:00+00:00,550.0,146.0,0.265,InformationSystems,France,ECML PKDD 2014,PKDD2014,2014,1.0,High Selectivity Target Band
+2015-09-07 00:00:00+00:00,565.0,131.0,0.232,InformationSystems,Portugal,ECML PKDD 2015,PKDD2015,2015,1.0,High Selectivity Target Band
+2016-09-19 00:00:00+00:00,460.0,139.0,0.302,InformationSystems,Italy,ECML PKDD 2016,PKDD2016,2016,1.0,High Selectivity Target Band
+2017-09-18 00:00:00+00:00,364.0,104.0,0.135,InformationSystems,Republic_of_Macedonia,ECML PKDD 2017,PKDD2017,2017,0.0,Standard Distribution Band
+1995-06-18 00:00:00+00:00,105.0,28.0,0.267,SoftwareEngineering,United_States,PLDI 1995,PLDI1995,1995,0.0,Standard Distribution Band
+1996-05-21 00:00:00+00:00,112.0,28.0,0.25,SoftwareEngineering,United_States,PLDI 1996,PLDI1996,1996,0.0,Standard Distribution Band
+1997-06-15 00:00:00+00:00,158.0,31.0,0.196,SoftwareEngineering,United_States,PLDI 1997,PLDI1997,1997,0.0,Standard Distribution Band
+1998-06-17 00:00:00+00:00,136.0,31.0,0.228,SoftwareEngineering,Canada,PLDI 1998,PLDI1998,1998,0.0,Standard Distribution Band
+1999-05-01 00:00:00+00:00,130.0,26.0,0.2,SoftwareEngineering,United_States,PLDI 1999,PLDI1999,1999,0.0,Standard Distribution Band
+2000-06-18 00:00:00+00:00,173.0,30.0,0.173,SoftwareEngineering,Canada,PLDI 2000,PLDI2000,2000,0.0,Standard Distribution Band
+2001-06-20 00:00:00+00:00,144.0,30.0,0.208,SoftwareEngineering,United_States,PLDI 2001,PLDI2001,2001,0.0,Standard Distribution Band
+2002-06-17 00:00:00+00:00,169.0,28.0,0.166,SoftwareEngineering,Germany,PLDI 2002,PLDI2002,2002,0.0,Standard Distribution Band
+2003-06-09 00:00:00+00:00,131.0,28.0,0.214,SoftwareEngineering,United_States,PLDI 2003,PLDI2003,2003,0.0,Standard Distribution Band
+2004-06-09 00:00:00+00:00,127.0,25.0,0.197,SoftwareEngineering,United_States,PLDI 2004,PLDI2004,2004,0.0,Standard Distribution Band
+2005-06-12 00:00:00+00:00,135.0,28.0,0.207,SoftwareEngineering,United_States,PLDI 2005,PLDI2005,2005,0.0,Standard Distribution Band
+2006-06-11 00:00:00+00:00,174.0,36.0,0.207,SoftwareEngineering,Canada,PLDI 2006,PLDI2006,2006,0.0,Standard Distribution Band
+2007-06-10 00:00:00+00:00,178.0,45.0,0.253,SoftwareEngineering,United_States,PLDI 2007,PLDI2007,2007,0.0,Standard Distribution Band
+2008-06-07 00:00:00+00:00,184.0,34.0,0.185,SoftwareEngineering,United_States,PLDI 2008,PLDI2008,2008,0.0,Standard Distribution Band
+2009-06-15 00:00:00+00:00,194.0,41.0,0.211,SoftwareEngineering,Ireland,PLDI 2009,PLDI2009,2009,0.0,Standard Distribution Band
+2010-06-05 00:00:00+00:00,206.0,41.0,0.199,SoftwareEngineering,Canada,PLDI 2010,PLDI2010,2010,0.0,Standard Distribution Band
+2011-06-04 00:00:00+00:00,236.0,55.0,0.233,SoftwareEngineering,United_States,PLDI 2011,PLDI2011,2011,0.0,Standard Distribution Band
+2012-06-11 00:00:00+00:00,255.0,48.0,0.188,SoftwareEngineering,China,PLDI 2012,PLDI2012,2012,0.0,Standard Distribution Band
+2013-06-16 00:00:00+00:00,267.0,46.0,0.172,SoftwareEngineering,United_States,PLDI 2013,PLDI2013,2013,0.0,Standard Distribution Band
+2014-06-09 00:00:00+00:00,287.0,52.0,0.181,SoftwareEngineering,England,PLDI 2014,PLDI2014,2014,0.0,Standard Distribution Band
+2015-06-13 00:00:00+00:00,303.0,58.0,0.191,SoftwareEngineering,United_States,PLDI 2015,PLDI2015,2015,0.0,Standard Distribution Band
+2016-06-13 00:00:00+00:00,245.0,49.0,0.2,SoftwareEngineering,United_States,PLDI 2016,PLDI2016,2016,0.0,Standard Distribution Band
+2017-06-18 00:00:00+00:00,230.0,47.0,0.204,SoftwareEngineering,Spain,PLDI 2017,PLDI2017,2017,0.0,Standard Distribution Band
+2000-05-15 00:00:00+00:00,119.0,26.0,0.218,InformationSystems,United_States,PODS 2000,PODS2000,2000,0.0,Standard Distribution Band
+2001-05-21 00:00:00+00:00,99.0,26.0,0.263,InformationSystems,United_States,PODS 2001,PODS2001,2001,0.0,Standard Distribution Band
+2002-06-03 00:00:00+00:00,109.0,24.0,0.22,InformationSystems,United_States,PODS 2002,PODS2002,2002,0.0,Standard Distribution Band
+2003-06-09 00:00:00+00:00,136.0,27.0,0.199,InformationSystems,United_States,PODS 2003,PODS2003,2003,0.0,Standard Distribution Band
+2004-06-14 00:00:00+00:00,183.0,30.0,0.164,InformationSystems,France,PODS 2004,PODS2004,2004,0.0,Standard Distribution Band
+2005-06-13 00:00:00+00:00,157.0,32.0,0.204,InformationSystems,United_States,PODS 2005,PODS2005,2005,0.0,Standard Distribution Band
+2006-06-26 00:00:00+00:00,185.0,35.0,0.189,InformationSystems,United_States,PODS 2006,PODS2006,2006,0.0,Standard Distribution Band
+2007-06-11 00:00:00+00:00,187.0,28.0,0.15,InformationSystems,China,PODS 2007,PODS2007,2007,0.0,Standard Distribution Band
+2008-06-09 00:00:00+00:00,159.0,28.0,0.176,InformationSystems,Canada,PODS 2008,PODS2008,2008,0.0,Standard Distribution Band
+2009-06-29 00:00:00+00:00,97.0,26.0,0.268,InformationSystems,United_States,PODS 2009,PODS2009,2009,0.0,Standard Distribution Band
+2007-10-19 00:00:00+00:00,35.0,16.0,0.457,InformationSystems,United_States,RecSys 2007,RecSys2007,2007,0.0,Standard Distribution Band
+2008-10-23 00:00:00+00:00,121.0,38.0,0.314,InformationSystems,Switzerland,RecSys 2008,RecSys2008,2008,0.0,Standard Distribution Band
+2009-10-23 00:00:00+00:00,187.0,80.0,0.428,InformationSystems,United_States,RecSys 2009,RecSys2009,2009,0.0,Standard Distribution Band
+2010-09-26 00:00:00+00:00,129.0,25.0,0.194,InformationSystems,Spain,RecSys 2010,RecSys2010,2010,0.0,Standard Distribution Band
+2011-10-23 00:00:00+00:00,110.0,22.0,0.2,InformationSystems,United_States,RecSys 2011,RecSys2011,2011,0.0,Standard Distribution Band
+2012-09-09 00:00:00+00:00,119.0,24.0,0.202,InformationSystems,Ireland,RecSys 2012,RecSys2012,2012,0.0,Standard Distribution Band
+2013-10-12 00:00:00+00:00,136.0,32.0,0.235,InformationSystems,China,RecSys 2013,RecSys2013,2013,0.0,Standard Distribution Band
+2014-10-06 00:00:00+00:00,152.0,35.0,0.23,InformationSystems,United_States,RecSys 2014,RecSys2014,2014,0.0,Standard Distribution Band
+2015-09-16 00:00:00+00:00,131.0,28.0,0.214,InformationSystems,Austria,RecSys 2015,RecSys2015,2015,0.0,Standard Distribution Band
+2016-09-15 00:00:00+00:00,159.0,29.0,0.182,InformationSystems,United_States,RecSys 2016,RecSys2016,2016,0.0,Standard Distribution Band
+2017-08-27 00:00:00+00:00,125.0,26.0,0.208,InformationSystems,Italy,RecSys 2017,RecSys2017,2017,0.0,Standard Distribution Band
+2001-09-10 00:00:00+00:00,84.0,32.0,0.381,ComputerSystemsOrganization,Brazil,SBAC-PAD 2001,SBAC-PAD2001,2001,0.0,Standard Distribution Band
+2002-10-28 00:00:00+00:00,74.0,25.0,0.337,ComputerSystemsOrganization,Brazil,SBAC-PAD 2002,SBAC-PAD2002,2002,0.0,Standard Distribution Band
+2003-11-10 00:00:00+00:00,103.0,31.0,0.3,ComputerSystemsOrganization,Brazil,SBAC-PAD 2003,SBAC-PAD2003,2003,0.0,Standard Distribution Band
+2004-10-27 00:00:00+00:00,93.0,32.0,0.344,ComputerSystemsOrganization,Brazil,SBAC-PAD 2004,SBAC-PAD2004,2004,0.0,Standard Distribution Band
+2005-10-24 00:00:00+00:00,83.0,29.0,0.349,ComputerSystemsOrganization,Brazil,SBAC-PAD 2005,SBAC-PAD2005,2005,0.0,Standard Distribution Band
+2006-10-17 00:00:00+00:00,71.0,23.0,0.324,ComputerSystemsOrganization,Brazil,SBAC-PAD 2006,SBAC-PAD2006,2006,0.0,Standard Distribution Band
+2007-10-24 00:00:00+00:00,107.0,32.0,0.299,ComputerSystemsOrganization,Brazil,SBAC-PAD 2007,SBAC-PAD2007,2007,0.0,Standard Distribution Band
+2008-11-29 00:00:00+00:00,57.0,22.0,0.385,ComputerSystemsOrganization,Brazil,SBAC-PAD 2008,SBAC-PAD2008,2008,0.0,Standard Distribution Band
+2009-10-28 00:00:00+00:00,60.0,21.0,0.35,ComputerSystemsOrganization,Brazil,SBAC-PAD 2009,SBAC-PAD2009,2009,0.0,Standard Distribution Band
+2011-10-26 00:00:00+00:00,76.0,26.0,0.342,ComputerSystemsOrganization,Brazil,SBAC-PAD 2011,SBAC-PAD2011,2011,0.0,Standard Distribution Band
+2012-10-24 00:00:00+00:00,128.0,36.0,0.28,ComputerSystemsOrganization,United_States,SBAC-PAD 2012,SBAC-PAD2012,2012,0.0,Standard Distribution Band
+2013-10-23 00:00:00+00:00,108.0,28.0,0.26,ComputerSystemsOrganization,Brazil,SBAC-PAD 2013,SBAC-PAD2013,2013,0.0,Standard Distribution Band
+2014-10-22 00:00:00+00:00,132.0,43.0,0.326,ComputerSystemsOrganization,France,SBAC-PAD 2014,SBAC-PAD2014,2014,0.0,Standard Distribution Band
+2015-10-18 00:00:00+00:00,102.0,27.0,0.255,ComputerSystemsOrganization,Brazil,SBAC-PAD 2015,SBAC-PAD2015,2015,0.0,Standard Distribution Band
+2016-10-26 00:00:00+00:00,77.0,27.0,0.35,ComputerSystemsOrganization,United_States,SBAC-PAD 2016,SBAC-PAD2016,2016,0.0,Standard Distribution Band
+2017-10-17 00:00:00+00:00,73.0,23.0,0.32,ComputerSystemsOrganization,Brazil,SBAC-PAD 2017,SBAC-PAD2017,2017,0.0,Standard Distribution Band
+2018-09-24 00:00:00+00:00,73.0,23.0,0.32,ComputerSystemsOrganization,France,SBAC-PAD 2018,SBAC-PAD2018,2018,0.0,Standard Distribution Band
+1978-08-23 00:00:00+00:00,120.0,64.0,0.53,HumanCenteredComputing,United_States,SIGGRAPH 1978,SIGGRAPH1978,1978,0.0,Standard Distribution Band
+1979-08-08 00:00:00+00:00,110.0,43.0,0.39,HumanCenteredComputing,United_States,SIGGRAPH 1979,SIGGRAPH1979,1979,0.0,Standard Distribution Band
+1980-07-14 00:00:00+00:00,140.0,52.0,0.37,HumanCenteredComputing,United_States,SIGGRAPH 1980,SIGGRAPH1980,1980,0.0,Standard Distribution Band
+1981-08-03 00:00:00+00:00,132.0,38.0,0.29,HumanCenteredComputing,United_States,SIGGRAPH 1981,SIGGRAPH1981,1981,0.0,Standard Distribution Band
+1984-07-23 00:00:00+00:00,118.0,41.0,0.35,HumanCenteredComputing,United_States,SIGGRAPH 1984,SIGGRAPH1984,1984,0.0,Standard Distribution Band
+1985-07-22 00:00:00+00:00,175.0,35.0,0.2,HumanCenteredComputing,United_States,SIGGRAPH 1985,SIGGRAPH1985,1985,0.0,Standard Distribution Band
+1987-07-27 00:00:00+00:00,140.0,33.0,0.24,HumanCenteredComputing,United_States,SIGGRAPH 1987,SIGGRAPH1987,1987,0.0,Standard Distribution Band
+1988-08-01 00:00:00+00:00,161.0,34.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 1988,SIGGRAPH1988,1988,0.0,Standard Distribution Band
+1989-07-31 00:00:00+00:00,190.0,38.0,0.2,HumanCenteredComputing,United_States,SIGGRAPH 1989,SIGGRAPH1989,1989,0.0,Standard Distribution Band
+1990-08-06 00:00:00+00:00,210.0,43.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 1990,SIGGRAPH1990,1990,0.0,Standard Distribution Band
+1992-07-27 00:00:00+00:00,213.0,45.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 1992,SIGGRAPH1992,1992,0.0,Standard Distribution Band
+1993-08-02 00:00:00+00:00,225.0,46.0,0.2,HumanCenteredComputing,United_States,SIGGRAPH 1993,SIGGRAPH1993,1993,0.0,Standard Distribution Band
+1994-07-24 00:00:00+00:00,242.0,57.0,0.24,HumanCenteredComputing,United_States,SIGGRAPH 1994,SIGGRAPH1994,1994,0.0,Standard Distribution Band
+1995-08-06 00:00:00+00:00,257.0,56.0,0.22,HumanCenteredComputing,United_States,SIGGRAPH 1995,SIGGRAPH1995,1995,0.0,Standard Distribution Band
+1996-08-04 00:00:00+00:00,247.0,52.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 1996,SIGGRAPH1996,1996,0.0,Standard Distribution Band
+1997-08-03 00:00:00+00:00,265.0,48.0,0.18,HumanCenteredComputing,United_States,SIGGRAPH 1997,SIGGRAPH1997,1997,0.0,Standard Distribution Band
+1998-07-19 00:00:00+00:00,303.0,45.0,0.15,HumanCenteredComputing,United_States,SIGGRAPH 1998,SIGGRAPH1998,1998,0.0,Standard Distribution Band
+1999-08-08 00:00:00+00:00,320.0,52.0,0.16,HumanCenteredComputing,United_States,SIGGRAPH 1999,SIGGRAPH1999,1999,0.0,Standard Distribution Band
+2000-07-23 00:00:00+00:00,304.0,59.0,0.19,HumanCenteredComputing,United_States,SIGGRAPH 2000,SIGGRAPH2000,2000,0.0,Standard Distribution Band
+2001-08-12 00:00:00+00:00,300.0,65.0,0.22,HumanCenteredComputing,United_States,SIGGRAPH 2001,SIGGRAPH2001,2001,0.0,Standard Distribution Band
+2002-07-23 00:00:00+00:00,358.0,67.0,0.19,HumanCenteredComputing,United_States,SIGGRAPH 2002,SIGGRAPH2002,2002,0.0,Standard Distribution Band
+2003-07-27 00:00:00+00:00,424.0,81.0,0.19,HumanCenteredComputing,United_States,SIGGRAPH 2003,SIGGRAPH2003,2003,1.0,High Selectivity Target Band
+2004-08-08 00:00:00+00:00,478.0,83.0,0.17,HumanCenteredComputing,United_States,SIGGRAPH 2004,SIGGRAPH2004,2004,1.0,High Selectivity Target Band
+2005-07-31 00:00:00+00:00,461.0,98.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 2005,SIGGRAPH2005,2005,1.0,High Selectivity Target Band
+2006-07-30 00:00:00+00:00,474.0,86.0,0.18,HumanCenteredComputing,United_States,SIGGRAPH 2006,SIGGRAPH2006,2006,1.0,High Selectivity Target Band
+2007-08-05 00:00:00+00:00,455.0,108.0,0.24,HumanCenteredComputing,United_States,SIGGRAPH 2007,SIGGRAPH2007,2007,1.0,High Selectivity Target Band
+2008-08-11 00:00:00+00:00,518.0,90.0,0.17,HumanCenteredComputing,United_States,SIGGRAPH 2008,SIGGRAPH2008,2008,1.0,High Selectivity Target Band
+2009-08-03 00:00:00+00:00,439.0,78.0,0.18,HumanCenteredComputing,United_States,SIGGRAPH 2009,SIGGRAPH2009,2009,1.0,High Selectivity Target Band
+2010-07-26 00:00:00+00:00,390.0,103.0,0.26,HumanCenteredComputing,United_States,SIGGRAPH 2010,SIGGRAPH2010,2010,0.0,Standard Distribution Band
+2011-08-07 00:00:00+00:00,432.0,82.0,0.19,HumanCenteredComputing,Canada,SIGGRAPH 2011,SIGGRAPH2011,2011,1.0,High Selectivity Target Band
+2012-08-05 00:00:00+00:00,449.0,94.0,0.21,HumanCenteredComputing,United_States,SIGGRAPH 2012,SIGGRAPH2012,2012,1.0,High Selectivity Target Band
+2013-07-21 00:00:00+00:00,480.0,115.0,0.24,HumanCenteredComputing,United_States,SIGGRAPH 2013,SIGGRAPH2013,2013,1.0,High Selectivity Target Band
+2014-08-10 00:00:00+00:00,505.0,127.0,0.25,HumanCenteredComputing,Canada,SIGGRAPH 2014,SIGGRAPH2014,2014,1.0,High Selectivity Target Band
+2015-08-09 00:00:00+00:00,462.0,118.0,0.26,HumanCenteredComputing,United_States,SIGGRAPH 2015,SIGGRAPH2015,2015,1.0,High Selectivity Target Band
+2016-07-24 00:00:00+00:00,467.0,119.0,0.26,HumanCenteredComputing,United_States,SIGGRAPH 2016,SIGGRAPH2016,2016,1.0,High Selectivity Target Band
+2017-07-30 00:00:00+00:00,439.0,127.0,0.29,HumanCenteredComputing,United_States,SIGGRAPH 2017,SIGGRAPH2017,2017,1.0,High Selectivity Target Band
+1999-08-15 00:00:00+00:00,135.0,33.0,0.24,InformationSystems,United_States,SIGIR 1999,SIGIR1999,1999,0.0,Standard Distribution Band
+2001-09-09 00:00:00+00:00,201.0,47.0,0.23,InformationSystems,United_States,SIGIR 2001,SIGIR2001,2001,0.0,Standard Distribution Band
+2002-08-11 00:00:00+00:00,219.0,44.0,0.2,InformationSystems,Finland,SIGIR 2002,SIGIR2002,2002,0.0,Standard Distribution Band
+2003-08-28 00:00:00+00:00,266.0,46.0,0.17,InformationSystems,Canada,SIGIR 2003,SIGIR2003,2003,0.0,Standard Distribution Band
+2004-07-25 00:00:00+00:00,267.0,58.0,0.22,InformationSystems,England,SIGIR 2004,SIGIR2004,2004,0.0,Standard Distribution Band
+2005-08-15 00:00:00+00:00,368.0,71.0,0.19,InformationSystems,Brazil,SIGIR 2005,SIGIR2005,2005,0.0,Standard Distribution Band
+2006-08-06 00:00:00+00:00,399.0,74.0,0.185,InformationSystems,United_States,SIGIR 2006,SIGIR2006,2006,0.0,Standard Distribution Band
+2007-07-23 00:00:00+00:00,490.0,84.0,0.175,InformationSystems,Netherlands,SIGIR 2007,SIGIR2007,2007,1.0,High Selectivity Target Band
+2008-07-20 00:00:00+00:00,399.0,85.0,0.17,InformationSystems,Singapore,SIGIR 2008,SIGIR2008,2008,0.0,Standard Distribution Band
+2009-07-19 00:00:00+00:00,494.0,78.0,0.158,InformationSystems,United_States,SIGIR 2009,SIGIR2009,2009,1.0,High Selectivity Target Band
+2010-07-19 00:00:00+00:00,520.0,87.0,0.167,InformationSystems,Switzerland,SIGIR 2010,SIGIR2010,2010,1.0,High Selectivity Target Band
+2011-07-24 00:00:00+00:00,543.0,240.0,0.44,InformationSystems,China,SIGIR 2011,SIGIR2011,2011,1.0,High Selectivity Target Band
+2012-08-12 00:00:00+00:00,483.0,98.0,0.2,InformationSystems,United_States,SIGIR 2012,SIGIR2012,2012,1.0,High Selectivity Target Band
+2013-07-28 00:00:00+00:00,366.0,73.0,0.2,InformationSystems,Ireland,SIGIR 2013,SIGIR2013,2013,0.0,Standard Distribution Band
+2014-07-06 00:00:00+00:00,387.0,82.0,0.21,InformationSystems,Australia,SIGIR 2014,SIGIR2014,2014,0.0,Standard Distribution Band
+2015-08-09 00:00:00+00:00,351.0,70.0,0.199,InformationSystems,United_States,SIGIR 2015,SIGIR2015,2015,0.0,Standard Distribution Band
+2016-07-17 00:00:00+00:00,341.0,62.0,0.18,InformationSystems,Italy,SIGIR 2016,SIGIR2016,2016,0.0,Standard Distribution Band
+2017-08-07 00:00:00+00:00,362.0,78.0,0.22,InformationSystems,Japan,SIGIR 2017,SIGIR2017,2017,0.0,Standard Distribution Band
+2018-07-08 00:00:00+00:00,409.0,86.0,0.21,InformationSystems,United_States,SIGIR 2018,SIGIR2018,2018,1.0,High Selectivity Target Band
+1993-05-26 00:00:00+00:00,235.0,39.0,0.166,InformationSystems,United_States,SIGMOD 1993,SIGMOD1993,1993,0.0,Standard Distribution Band
+1994-05-24 00:00:00+00:00,279.0,40.0,0.143,InformationSystems,United_States,SIGMOD 1994,SIGMOD1994,1994,0.0,Standard Distribution Band
+1995-05-22 00:00:00+00:00,208.0,36.0,0.173,InformationSystems,United_States,SIGMOD 1995,SIGMOD1995,1995,0.0,Standard Distribution Band
+1996-06-04 00:00:00+00:00,290.0,47.0,0.162,InformationSystems,Canada,SIGMOD 1996,SIGMOD1996,1996,0.0,Standard Distribution Band
+1997-05-13 00:00:00+00:00,202.0,42.0,0.208,InformationSystems,United_States,SIGMOD 1997,SIGMOD1997,1997,0.0,Standard Distribution Band
+1998-06-02 00:00:00+00:00,246.0,42.0,0.171,InformationSystems,United_States,SIGMOD 1998,SIGMOD1998,1998,0.0,Standard Distribution Band
+1999-06-01 00:00:00+00:00,205.0,42.0,0.205,InformationSystems,United_States,SIGMOD 1999,SIGMOD1999,1999,0.0,Standard Distribution Band
+2000-05-16 00:00:00+00:00,248.0,42.0,0.169,InformationSystems,United_States,SIGMOD 2000,SIGMOD2000,2000,0.0,Standard Distribution Band
+2001-05-21 00:00:00+00:00,293.0,44.0,0.15,InformationSystems,United_States,SIGMOD 2001,SIGMOD2001,2001,0.0,Standard Distribution Band
+2002-06-03 00:00:00+00:00,240.0,42.0,0.175,InformationSystems,United_States,SIGMOD 2002,SIGMOD2002,2002,0.0,Standard Distribution Band
+2003-06-09 00:00:00+00:00,342.0,53.0,0.155,InformationSystems,United_States,SIGMOD 2003,SIGMOD2003,2003,0.0,Standard Distribution Band
+2004-06-13 00:00:00+00:00,431.0,69.0,0.16,InformationSystems,France,SIGMOD 2004,SIGMOD2004,2004,1.0,High Selectivity Target Band
+2005-06-13 00:00:00+00:00,431.0,65.0,0.151,InformationSystems,United_States,SIGMOD 2005,SIGMOD2005,2005,1.0,High Selectivity Target Band
+2006-06-26 00:00:00+00:00,446.0,58.0,0.13,InformationSystems,United_States,SIGMOD 2006,SIGMOD2006,2006,1.0,High Selectivity Target Band
+2007-06-11 00:00:00+00:00,480.0,70.0,0.146,InformationSystems,China,SIGMOD 2007,SIGMOD2007,2007,1.0,High Selectivity Target Band
+2008-06-09 00:00:00+00:00,435.0,78.0,0.179,InformationSystems,Canada,SIGMOD 2008,SIGMOD2008,2008,1.0,High Selectivity Target Band
+2009-06-29 00:00:00+00:00,430.0,118.0,0.274,InformationSystems,United_States,SIGMOD 2009,SIGMOD2009,2009,1.0,High Selectivity Target Band
+2010-06-06 00:00:00+00:00,384.0,80.0,0.208,InformationSystems,United_States,SIGMOD 2010,SIGMOD2010,2010,0.0,Standard Distribution Band
+2011-06-12 00:00:00+00:00,375.0,87.0,0.232,InformationSystems,Greece,SIGMOD 2011,SIGMOD2011,2011,0.0,Standard Distribution Band
+2012-05-20 00:00:00+00:00,289.0,48.0,0.166,InformationSystems,United_States,SIGMOD 2012,SIGMOD2012,2012,0.0,Standard Distribution Band
+2013-06-22 00:00:00+00:00,372.0,76.0,0.204,InformationSystems,United_States,SIGMOD 2013,SIGMOD2013,2013,0.0,Standard Distribution Band
+2014-06-22 00:00:00+00:00,421.0,107.0,0.254,InformationSystems,United_States,SIGMOD 2014,SIGMOD2014,2014,1.0,High Selectivity Target Band
+2015-05-31 00:00:00+00:00,415.0,106.0,0.255,InformationSystems,Australia,SIGMOD 2015,SIGMOD2015,2015,1.0,High Selectivity Target Band
+2016-06-26 00:00:00+00:00,722.0,137.0,0.19,InformationSystems,United_States,SIGMOD 2016,SIGMOD2016,2016,1.0,High Selectivity Target Band
+2017-05-14 00:00:00+00:00,525.0,105.0,0.2,InformationSystems,United_States,SIGMOD 2017,SIGMOD2017,2017,1.0,High Selectivity Target Band
+2018-06-10 00:00:00+00:00,461.0,90.0,0.195,InformationSystems,United_States,SIGMOD 2018,SIGMOD2018,2018,1.0,High Selectivity Target Band
+1995-12-11 00:00:00+00:00,189.0,59.0,0.31,WorldWideWeb,Germany,TheWeb1995,TheWeb1995,1995,0.0,Standard Distribution Band
+1995-12-11 00:00:00+00:00,189.0,59.0,0.31,WorldWideWeb,United_States,TheWeb1995,TheWeb1995,1995,0.0,Standard Distribution Band
+1996-05-06 00:00:00+00:00,210.0,58.0,0.28,WorldWideWeb,France,TheWeb 1996,TheWeb1996,1996,0.0,Standard Distribution Band
+1997-04-07 00:00:00+00:00,276.0,62.0,0.22,WorldWideWeb,United_States,TheWeb 1997,TheWeb1997,1997,0.0,Standard Distribution Band
+1998-04-14 00:00:00+00:00,250.0,54.0,0.22,WorldWideWeb,Australia,TheWeb 1998,TheWeb1998,1998,0.0,Standard Distribution Band
+1999-05-11 00:00:00+00:00,304.0,48.0,0.16,WorldWideWeb,Canada,TheWeb 1999,TheWeb1999,1999,0.0,Standard Distribution Band
+2000-05-15 00:00:00+00:00,280.0,57.0,0.2,WorldWideWeb,Netherlands,TheWeb 2000,TheWeb2000,2000,0.0,Standard Distribution Band
+2001-05-01 00:00:00+00:00,391.0,78.0,0.2,WorldWideWeb,China,TheWeb 2001,TheWeb2001,2001,0.0,Standard Distribution Band
+2002-05-07 00:00:00+00:00,454.0,72.0,0.16,WorldWideWeb,United_States,TheWeb 2002,TheWeb2002,2002,1.0,High Selectivity Target Band
+2003-05-20 00:00:00+00:00,602.0,77.0,0.13,WorldWideWeb,Hungary,TheWeb 2003,TheWeb2003,2003,1.0,High Selectivity Target Band
+2004-05-17 00:00:00+00:00,506.0,74.0,0.15,WorldWideWeb,United_States,TheWeb 2004,TheWeb2004,2004,1.0,High Selectivity Target Band
+2005-05-10 00:00:00+00:00,550.0,77.0,0.14,WorldWideWeb,Japan,TheWeb 2005,TheWeb2005,2005,1.0,High Selectivity Target Band
+2006-05-23 00:00:00+00:00,667.0,75.0,0.11,WorldWideWeb,England,TheWeb 2006,TheWeb2006,2006,1.0,High Selectivity Target Band
+2007-05-08 00:00:00+00:00,753.0,111.0,0.15,WorldWideWeb,Canada,TheWeb 2007,TheWeb2007,2007,1.0,High Selectivity Target Band
+2008-04-21 00:00:00+00:00,880.0,103.0,0.12,WorldWideWeb,China,TheWeb 2008,TheWeb2008,2008,1.0,High Selectivity Target Band
+2009-04-20 00:00:00+00:00,823.0,198.0,0.24,WorldWideWeb,Spain,TheWeb 2009,TheWeb2009,2009,1.0,High Selectivity Target Band
+2010-04-26 00:00:00+00:00,754.0,105.0,0.14,WorldWideWeb,United_States,TheWeb 2010,TheWeb2010,2010,1.0,High Selectivity Target Band
+2011-03-28 00:00:00+00:00,658.0,81.0,0.12,WorldWideWeb,India,TheWeb 2011,TheWeb2011,2011,1.0,High Selectivity Target Band
+2012-04-16 00:00:00+00:00,885.0,108.0,0.12,WorldWideWeb,France,TheWeb 2012,TheWeb2012,2012,1.0,High Selectivity Target Band
+2013-05-13 00:00:00+00:00,831.0,125.0,0.15,WorldWideWeb,Brazil,TheWeb 2013,TheWeb2013,2013,1.0,High Selectivity Target Band
+2014-04-07 00:00:00+00:00,645.0,84.0,0.13,WorldWideWeb,Korea,TheWeb 2014,TheWeb2014,2014,1.0,High Selectivity Target Band
+2015-05-18 00:00:00+00:00,929.0,131.0,0.14,WorldWideWeb,Italy,TheWeb 2015,TheWeb2015,2015,1.0,High Selectivity Target Band
+2016-04-11 00:00:00+00:00,727.0,115.0,0.16,WorldWideWeb,Canada,TheWeb 2016,TheWeb2016,2016,1.0,High Selectivity Target Band
+2017-04-03 00:00:00+00:00,966.0,164.0,0.17,WorldWideWeb,Australia,TheWeb 2017,TheWeb2017,2017,1.0,High Selectivity Target Band
+1992-07-17 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,Canada,UAI 1992,UAI1992,1992,0.0,Standard Distribution Band
+1992-07-17 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,Canada,UAI 2009,UAI1992,1992,0.0,Standard Distribution Band
+1992-07-17 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,United_States,UAI 1992,UAI1992,1992,0.0,Standard Distribution Band
+1992-07-17 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,United_States,UAI 2009,UAI1992,1992,0.0,Standard Distribution Band
+2009-07-18 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,Canada,UAI 1992,UAI1992,2009,0.0,Standard Distribution Band
+2009-07-18 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,Canada,UAI 2009,UAI1992,2009,0.0,Standard Distribution Band
+2009-07-18 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,United_States,UAI 1992,UAI1992,2009,0.0,Standard Distribution Band
+2009-07-18 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,United_States,UAI 2009,UAI1992,2009,0.0,Standard Distribution Band
+1999-07-30 00:00:00+00:00,150.0,77.0,0.513,ArtificialIntelligence,Sweden,UAI 1999,UAI1999,1999,0.0,Standard Distribution Band
+2000-06-30 00:00:00+00:00,84.0,30.0,0.357,ArtificialIntelligence,United_States,UAI 2000,UAI2000,2000,0.0,Standard Distribution Band
+2002-08-01 00:00:00+00:00,192.0,66.0,0.344,ArtificialIntelligence,Canada,UAI 2002,UAI2002,2002,0.0,Standard Distribution Band
+2003-08-07 00:00:00+00:00,229.0,77.0,0.336,ArtificialIntelligence,Mexico,UAI 2003,UAI2003,2003,0.0,Standard Distribution Band
+2004-07-07 00:00:00+00:00,253.0,76.0,0.3,ArtificialIntelligence,Canada,UAI 2004,UAI2004,2004,0.0,Standard Distribution Band
+2005-07-26 00:00:00+00:00,243.0,86.0,0.354,ArtificialIntelligence,Scotland,UAI 2005,UAI2005,2005,0.0,Standard Distribution Band
+2006-07-13 00:00:00+00:00,213.0,58.0,0.319,ArtificialIntelligence,United_States,UAI 2006,UAI2006,2006,0.0,Standard Distribution Band
+2006-07-13 00:00:00+00:00,213.0,68.0,0.319,ArtificialIntelligence,United_States,UAI 2006,UAI2006,2006,0.0,Standard Distribution Band
+2007-07-17 00:00:00+00:00,194.0,58.0,0.299,ArtificialIntelligence,Canada,UAI 2007,UAI2007,2007,0.0,Standard Distribution Band
+2008-07-09 00:00:00+00:00,256.0,72.0,0.281,ArtificialIntelligence,Finland,UAI 2008,UAI2008,2008,0.0,Standard Distribution Band
+2009-07-18 00:00:00+00:00,243.0,76.0,0.313,ArtificialIntelligence,Canada,UAI 2009,UAI2009,2009,0.0,Standard Distribution Band
+2010-07-08 00:00:00+00:00,260.0,88.0,0.338,ArtificialIntelligence,United_States,UAI 2010,UAI2010,2010,0.0,Standard Distribution Band
+2011-07-14 00:00:00+00:00,285.0,96.0,0.337,ArtificialIntelligence,Spain,UAI 2011,UAI2011,2011,0.0,Standard Distribution Band
+2012-08-15 00:00:00+00:00,304.0,94.0,0.309,ArtificialIntelligence,United_States,UAI 2012,UAI2012,2012,0.0,Standard Distribution Band
+2013-07-12 00:00:00+00:00,233.0,73.0,0.313,ArtificialIntelligence,United_States,UAI 2013,UAI2013,2013,0.0,Standard Distribution Band
+2014-07-23 00:00:00+00:00,292.0,94.0,0.322,ArtificialIntelligence,Canada,UAI 2014,UAI2014,2014,0.0,Standard Distribution Band
+2015-07-12 00:00:00+00:00,291.0,99.0,0.34,ArtificialIntelligence,Netherlands,UAI 2015,UAI2015,2015,0.0,Standard Distribution Band
+2016-06-25 00:00:00+00:00,275.0,99.0,0.309,ArtificialIntelligence,United_States,,UAI2016,2016,0.0,Standard Distribution Band
+2017-08-11 00:00:00+00:00,282.0,87.0,0.309,ArtificialIntelligence,Australia,UAI 2017,UAI2017,2017,0.0,Standard Distribution Band
+2001-09-30 00:00:00+00:00,90.0,14.0,0.15,SecurityAndPrivacy,United_States,UBICOMP 2001,UBICOMP2001,2001,0.0,Standard Distribution Band
+2002-09-29 00:00:00+00:00,136.0,15.0,0.11,SecurityAndPrivacy,Sweden,UBICOMP 2002,UBICOMP2002,2002,0.0,Standard Distribution Band
+2003-10-12 00:00:00+00:00,117.0,16.0,0.14,SecurityAndPrivacy,United_States,UBICOMP 2003,UBICOMP2003,2003,0.0,Standard Distribution Band
+2004-09-07 00:00:00+00:00,144.0,26.0,0.18,SecurityAndPrivacy,England,UBICOMP 2004,UBICOMP2004,2004,0.0,Standard Distribution Band
+2005-09-11 00:00:00+00:00,230.0,22.0,0.09,SecurityAndPrivacy,Japan,UBICOMP 2005,UBICOMP2005,2005,0.0,Standard Distribution Band
+2006-09-17 00:00:00+00:00,204.0,30.0,0.15,SecurityAndPrivacy,United_States,UBICOMP 2006,UBICOMP2006,2006,0.0,Standard Distribution Band
+2007-09-16 00:00:00+00:00,152.0,29.0,0.19,SecurityAndPrivacy,Austria,UBICOMP 2007,UBICOMP2007,2007,0.0,Standard Distribution Band
+2008-09-21 00:00:00+00:00,226.0,42.0,0.19,SecurityAndPrivacy,South_Korea,UBICOMP 2008,UBICOMP2008,2008,0.0,Standard Distribution Band
+2009-09-30 00:00:00+00:00,251.0,31.0,0.12,SecurityAndPrivacy,United_States,UBICOMP 2009,UBICOMP2009,2009,0.0,Standard Distribution Band
+2010-09-26 00:00:00+00:00,202.0,39.0,0.19,SecurityAndPrivacy,Denmark,UBICOMP 2010,UBICOMP2010,2010,0.0,Standard Distribution Band
+2011-09-17 00:00:00+00:00,302.0,50.0,0.17,SecurityAndPrivacy,China,UBICOMP 2011,UBICOMP2011,2011,0.0,Standard Distribution Band
+2012-09-05 00:00:00+00:00,301.0,58.0,0.19,SecurityAndPrivacy,United_States,UBICOMP 2012,UBICOMP2012,2012,0.0,Standard Distribution Band
+2013-09-08 00:00:00+00:00,394.0,92.0,0.23,SecurityAndPrivacy,Switzerland,UBICOMP 2013,UBICOMP2013,2013,0.0,Standard Distribution Band
+2014-09-13 00:00:00+00:00,454.0,71.0,0.16,SecurityAndPrivacy,United_States,UBICOMP 2014,UBICOMP2014,2014,1.0,High Selectivity Target Band
+2015-09-07 00:00:00+00:00,394.0,101.0,0.256,SecurityAndPrivacy,Japan,UBICOMP 2015,UBICOMP2015,2015,0.0,Standard Distribution Band
+2016-09-12 00:00:00+00:00,389.0,101.0,0.26,SecurityAndPrivacy,Germany,UBICOMP 2016,UBICOMP2016,2016,0.0,Standard Distribution Band
+2017-09-11 00:00:00+00:00,196.0,38.0,0.194,SecurityAndPrivacy,United_States,UBICOMP 2017,UBICOMP2017,2017,0.0,Standard Distribution Band
+1993-08-24 00:00:00+00:00,311.0,54.0,0.174,InformationSystems,Ireland,VLDB 1993,VLDB1993,1993,0.0,Standard Distribution Band
+1994-09-12 00:00:00+00:00,293.0,54.0,0.184,InformationSystems,Chile,VLDB 1994,VLDB1994,1994,0.0,Standard Distribution Band
+1995-09-11 00:00:00+00:00,297.0,52.0,0.175,InformationSystems,Switzerland,VLDB 1995,VLDB1995,1995,0.0,Standard Distribution Band
+1996-09-03 00:00:00+00:00,340.0,48.0,0.141,InformationSystems,India,VLDB 1996,VLDB1996,1996,0.0,Standard Distribution Band
+1997-08-25 00:00:00+00:00,335.0,51.0,0.152,InformationSystems,Greece,VLDB 1997,VLDB1997,1997,0.0,Standard Distribution Band
+1998-08-24 00:00:00+00:00,327.0,52.0,0.159,InformationSystems,United_States,VLDB 1998,VLDB1998,1998,0.0,Standard Distribution Band
+1999-09-07 00:00:00+00:00,390.0,57.0,0.146,InformationSystems,Scotland,VLDB 1999,VLDB1999,1999,0.0,Standard Distribution Band
+2000-09-10 00:00:00+00:00,351.0,53.0,0.151,InformationSystems,Egypt,VLDB 2000,VLDB2000,2000,0.0,Standard Distribution Band
+2001-09-11 00:00:00+00:00,339.0,59.0,0.174,InformationSystems,Italy,VLDB 2001,VLDB2001,2001,0.0,Standard Distribution Band
+2002-08-20 00:00:00+00:00,468.0,84.0,0.179,InformationSystems,China,VLDB 2002,VLDB2002,2002,1.0,High Selectivity Target Band
+2003-09-09 00:00:00+00:00,457.0,84.0,0.184,InformationSystems,Germany,VLDB 2003,VLDB2003,2003,1.0,High Selectivity Target Band
+2004-08-31 00:00:00+00:00,504.0,98.0,0.194,InformationSystems,Canada,VLDB 2004,VLDB2004,2004,1.0,High Selectivity Target Band
+2005-08-30 00:00:00+00:00,517.0,85.0,0.164,InformationSystems,Norway,VLDB 2005,VLDB2005,2005,1.0,High Selectivity Target Band
+2006-09-12 00:00:00+00:00,626.0,83.0,0.133,InformationSystems,Korea,VLDB 2006,VLDB2006,2006,1.0,High Selectivity Target Band
+2007-09-23 00:00:00+00:00,538.0,91.0,0.169,InformationSystems,Austria,VLDB 2007,VLDB2007,2007,1.0,High Selectivity Target Band
+2008-08-24 00:00:00+00:00,567.0,95.0,0.168,InformationSystems,New_Zealand,VLDB 2008,VLDB2008,2008,1.0,High Selectivity Target Band
+2009-08-24 00:00:00+00:00,562.0,97.0,0.173,InformationSystems,France,VLDB 2009,VLDB2009,2009,1.0,High Selectivity Target Band
+2010-09-13 00:00:00+00:00,478.0,84.0,0.176,InformationSystems,Singapore,VLDB 2010,VLDB2010,2010,1.0,High Selectivity Target Band
+2011-08-29 00:00:00+00:00,553.0,100.0,0.181,InformationSystems,United_States,VLDB 2011,VLDB2011,2011,1.0,High Selectivity Target Band
+2012-08-27 00:00:00+00:00,659.0,134.0,0.203,InformationSystems,Turkey,VLDB 2012,VLDB2012,2012,1.0,High Selectivity Target Band
+2013-08-26 00:00:00+00:00,559.0,127.0,0.227,InformationSystems,Italy,VLDB 2013,VLDB2013,2013,1.0,High Selectivity Target Band
+2014-09-01 00:00:00+00:00,1305.0,261.0,0.2,InformationSystems,China,VLDB 2014,VLDB2014,2014,2.0,High Density Acceptance Band
+2015-08-31 00:00:00+00:00,710.0,151.0,0.213,InformationSystems,United_States,VLDB 2015,VLDB2015,2015,1.0,High Selectivity Target Band
+2016-09-05 00:00:00+00:00,527.0,187.0,0.355,InformationSystems,India,VLDB 2016,VLDB2016,2016,1.0,High Selectivity Target Band
+2017-08-28 00:00:00+00:00,559.0,104.0,0.186,InformationSystems,Germany,VLDB 2017,VLDB2017,2017,1.0,High Selectivity Target Band
+1996-03-30 00:00:00+00:00,86.0,30.0,0.349,HumanCenteredComputing,United_States,VRAIS 1996,VR1996,1996,0.0,Standard Distribution Band
+1999-03-13 00:00:00+00:00,100.0,33.0,0.33,HumanCenteredComputing,United_States,IEEE VR 1999,VR1999,1999,0.0,Standard Distribution Band
+2000-03-18 00:00:00+00:00,93.0,31.0,0.333,HumanCenteredComputing,United_States,IEEE VR 2000,VR2000,2000,0.0,Standard Distribution Band
+2001-03-13 00:00:00+00:00,110.0,33.0,0.3,HumanCenteredComputing,Japan,IEEE VR 2001,VR2001,2001,0.0,Standard Distribution Band
+2002-03-24 00:00:00+00:00,106.0,29.0,0.274,HumanCenteredComputing,United_States,IEEE VR 2002,VR2002,2002,0.0,Standard Distribution Band
+2003-03-22 00:00:00+00:00,104.0,29.0,0.279,HumanCenteredComputing,United_States,IEEE VR 2003,VR2003,2003,0.0,Standard Distribution Band
+2004-03-27 00:00:00+00:00,130.0,26.0,0.2,HumanCenteredComputing,United_States,IEEE VR 2004,VR2004,2004,0.0,Standard Distribution Band
+2005-03-12 00:00:00+00:00,111.0,29.0,0.261,HumanCenteredComputing,Germany,IEEE VR 2005,VR2005,2005,0.0,Standard Distribution Band
+2006-03-25 00:00:00+00:00,97.0,28.0,0.289,HumanCenteredComputing,United_States,IEEE VR 2006,VR2006,2006,0.0,Standard Distribution Band
+2007-03-10 00:00:00+00:00,130.0,26.0,0.2,HumanCenteredComputing,United_States,IEEE VR 2007,VR2007,2007,0.0,Standard Distribution Band
+2008-03-08 00:00:00+00:00,120.0,37.0,0.308,HumanCenteredComputing,United_States,IEEE VR 2008,VR2008,2008,0.0,Standard Distribution Band
+2009-03-14 00:00:00+00:00,103.0,35.0,0.34,HumanCenteredComputing,United_States,IEEE VR 2009,VR2009,2009,0.0,Standard Distribution Band
+2010-03-20 00:00:00+00:00,161.0,41.0,0.255,HumanCenteredComputing,United_States,IEEE VR 2010,VR2010,2010,0.0,Standard Distribution Band
+2011-03-19 00:00:00+00:00,134.0,33.0,0.246,HumanCenteredComputing,Singapore,IEEE VR 2011,VR2011,2011,0.0,Standard Distribution Band
+2012-03-04 00:00:00+00:00,95.0,15.0,0.158,HumanCenteredComputing,United_States,IEEE VR 2012,VR2012,2012,0.0,Standard Distribution Band
+2013-03-16 00:00:00+00:00,97.0,21.0,0.216,HumanCenteredComputing,United_States,IEEE VR 2013,VR2013,2013,0.0,Standard Distribution Band
+2014-03-29 00:00:00+00:00,116.0,28.0,0.241,HumanCenteredComputing,United_States,IEEE VR 2014,VR2014,2014,0.0,Standard Distribution Band
+2015-03-23 00:00:00+00:00,147.0,32.0,0.218,HumanCenteredComputing,France,IEEE VR 2015,VR2015,2015,0.0,Standard Distribution Band
+2016-03-19 00:00:00+00:00,135.0,28.0,0.207,HumanCenteredComputing,United_States,IEEE VR 2016,VR2016,2016,0.0,Standard Distribution Band
+2017-03-18 00:00:00+00:00,174.0,39.0,0.224,HumanCenteredComputing,United_States,IEEE VR 2017,VR2017,2017,0.0,Standard Distribution Band
+2008-02-11 00:00:00+00:00,151.0,24.0,0.15,WorldWideWeb,United_States,WSDM 2008,WSDM2008,2008,0.0,Standard Distribution Band
+2009-02-09 00:00:00+00:00,170.0,29.0,0.17,WorldWideWeb,Spain,WSDM 2009,WSDM2009,2009,0.0,Standard Distribution Band
+2010-02-03 00:00:00+00:00,290.0,45.0,0.15,WorldWideWeb,United_States,WSDM 2010,WSDM2010,2010,0.0,Standard Distribution Band
+2011-02-09 00:00:00+00:00,372.0,83.0,0.22,WorldWideWeb,China,WSDM 2011,WSDM2011,2011,0.0,Standard Distribution Band
+2012-02-08 00:00:00+00:00,362.0,75.0,0.2,WorldWideWeb,United_States,WSDM 2012,WSDM2012,2012,0.0,Standard Distribution Band
+2013-02-04 00:00:00+00:00,387.0,73.0,0.18,WorldWideWeb,Italy,WSDM 2013,WSDM2013,2013,0.0,Standard Distribution Band
+2014-02-24 00:00:00+00:00,355.0,64.0,0.18,WorldWideWeb,United_States,WSDM 2014,WSDM2014,2014,0.0,Standard Distribution Band
+2015-01-31 00:00:00+00:00,238.0,39.0,0.16,WorldWideWeb,China,WSDM 2015,WSDM2015,2015,0.0,Standard Distribution Band
+2016-02-22 00:00:00+00:00,368.0,67.0,0.18,WorldWideWeb,United_States,WSDM 2016,WSDM2016,2016,0.0,Standard Distribution Band
+2017-02-06 00:00:00+00:00,505.0,80.0,0.15,WorldWideWeb,England,WSDM 2017,WSDM2017,2017,1.0,High Selectivity Target Band
+1993-05-25 00:00:00+00:00,115.0,26.0,0.226,InformationSystems,United_States,PODS 1993,PODS1993,1993,0.0,Standard Distribution Band
+1994-05-24 00:00:00+00:00,117.0,28.0,0.239,InformationSystems,United_States,PODS 1994,PODS1994,1994,0.0,Standard Distribution Band
+1995-05-22 00:00:00+00:00,94.0,25.0,0.266,InformationSystems,United_States,PODS 1995,PODS1995,1995,0.0,Standard Distribution Band
+1996-06-03 00:00:00+00:00,84.0,22.0,0.262,InformationSystems,Canada,PODS 1996,PODS1996,1996,0.0,Standard Distribution Band
+1997-05-12 00:00:00+00:00,118.0,23.0,0.195,InformationSystems,United_States,PODS 1997,PODS1997,1997,0.0,Standard Distribution Band
+1998-06-01 00:00:00+00:00,119.0,28.0,0.235,InformationSystems,United_States,PODS 1998,PODS1998,1998,0.0,Standard Distribution Band
+1999-05-31 00:00:00+00:00,116.0,32.0,0.276,InformationSystems,United_States,PODS 1999,PODS1999,1999,0.0,Standard Distribution Band
+2010-06-06 00:00:00+00:00,113.0,27.0,0.239,InformationSystems,United_States,PODS 2010,PODS2010,2010,0.0,Standard Distribution Band
+2011-06-12 00:00:00+00:00,113.0,25.0,0.221,InformationSystems,Greece,PODS 2011,PODS2011,2011,0.0,Standard Distribution Band
+2012-05-20 00:00:00+00:00,101.0,26.0,0.257,InformationSystems,United_States,PODS 2012,PODS2012,2012,0.0,Standard Distribution Band
+2013-06-22 00:00:00+00:00,97.0,24.0,0.247,InformationSystems,United_States,PODS 2013,PODS2013,2013,0.0,Standard Distribution Band
+2014-06-22 00:00:00+00:00,67.0,22.0,0.328,InformationSystems,United_States,PODS 2014,PODS2014,2014,0.0,Standard Distribution Band
+2015-05-31 00:00:00+00:00,80.0,25.0,0.313,InformationSystems,Australia,PODS 2015,PODS2015,2015,0.0,Standard Distribution Band
+2016-06-26 00:00:00+00:00,94.0,31.0,0.33,InformationSystems,United_States,PODS 2016,PODS2016,2016,0.0,Standard Distribution Band

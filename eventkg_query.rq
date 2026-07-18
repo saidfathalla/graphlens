@@ -1,0 +1,24 @@
+PREFIX seo: <https://w3id.org/seo#>
+PREFIX conference-ontology: <https://w3id.org/scholarlydata/ontology/conference-ontology.owl#>
+PREFIX ekg: <http://w3id.org/EVENTSKG-Dataset/ekg#>
+
+# Ensure ?event is selected in your SPARQL query
+SELECT ?date ?x1 ?x2 ?y ?c1 ?c2 ?acronym ?event
+WHERE {
+  { ?event a conference-ontology:Conference . }
+  UNION
+  { ?event a ekg:Conference . }
+
+  # Timeline extraction
+  ?event conference-ontology:startDate ?date .
+
+  # Metrics alignment (matching profile.yaml)
+  ?event seo:submittedPapers ?x1 .
+  ?event seo:acceptedPapers ?x2 .
+  OPTIONAL { ?event seo:acceptanceRate ?y . }
+
+  # Categorical mapping
+  OPTIONAL { ?event seo:field ?c1 . }
+  OPTIONAL { ?event seo:heldInCountry ?c2 . }
+  OPTIONAL { ?event conference-ontology:acronym ?acronym . }
+}

@@ -37,7 +37,7 @@ The pipeline engine automatically manages or builds upon the following foundatio
 We recommend using a virtual environment.
 
 ```bash
-pip install requests numpy pandas matplotlib seaborn rdflib scikit-learn
+pip install -r requirements.txt --upgrade
 ```
 
 ## Usage
@@ -45,13 +45,15 @@ GraphLens is designed as an automated, single-command command-line tool.
 - TO **read from a URL**:
 
 ```bash
-python3 graphlens.py  --query query.rq --url https:somedomain.com/RDFdataset.ttl
+python graphlens2.py   --query eventkg_query.rq   --profile profile.yaml   --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+
+
 ```
 
 - TO **read from a local TTL file**:
 
 ```bash
-python3 graphlens.py  --query query.rq --file local-file-path.ttl 
+python3 graphlens.py  --query query.rq --profile profile.yaml --file local-file-path.ttl 
 ```
 
 
