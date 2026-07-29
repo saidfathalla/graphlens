@@ -1,0 +1,53 @@
+# profile.yaml
+namespaces:
+  eventskg: "http://w3id.org/EVENTSKG-Dataset/ekg#"
+  seo: "https://w3id.org/seo#"
+  conf: "https://w3id.org/scholarlydata/ontology/conference-ontology/"
+  xsd: "http://www.w3.org/2001/XMLSchema#"
+
+domain_namespace: "http://w3id.org/EVENTSKG-Dataset/ekg#"
+target_class: "https://w3id.org/seo#Symposium"
+
+attributes:
+  independent_metrics:
+    - identifier: "submitted_papers"
+      predicate: "https://w3id.org/seo#submittedpaper"
+      datatype: "http://www.w3.org/2001/XMLSchema#integer"
+    - identifier: "accepted_papers"
+      predicate: "https://w3id.org/seo#acceptedpaper"
+      datatype: "http://www.w3.org/2001/XMLSchema#integer"
+
+  derived_ratios:
+    - identifier: "acceptance_rate"
+      predicate: "https://w3id.org/seo#acceptanceRate"
+      dependency_formula: "accepted_papers / submitted_papers if submitted_papers > 0 else 0"
+
+  temporal_attributes:
+    - identifier: "start_date"
+      predicate: "https://w3id.org/scholarlydata/ontology/conference-ontology/startDate"
+      datatype: "http://www.w3.org/2001/XMLSchema#dateTime"
+    - identifier: "end_date"
+      predicate: "https://w3id.org/scholarlydata/ontology/conference-ontology/endDate"
+      datatype: "http://www.w3.org/2001/XMLSchema#dateTime"
+
+  descriptive_metadata:
+    - identifier: "event_title"
+      predicate: "https://w3id.org/scholarlydata/ontology/conference-ontology/title"
+    - identifier: "event_acronym"
+      predicate: "https://w3id.org/scholarlydata/ontology/conference-ontology/acronym"
+    - identifier: "event_website"
+      predicate: "https://w3id.org/seo#eventWebsite"
+    - identifier: "publisher"
+      predicate: "https://w3id.org/seo#hasPublisher"
+    - identifier: "sponsor"
+      predicate: "https://w3id.org/seo#hasSponsor"
+
+  nominal_categories:
+    - identifier: "research_field"
+      predicate: "https://w3id.org/seo#field"
+    - identifier: "country"
+      predicate: "https://w3id.org/seo#heldInCountry"
+    - identifier: "city"
+      predicate: "https://w3id.org/seo#city"
+    - identifier: "event_series"
+      predicate: "https://w3id.org/seo#belongsToSeries"

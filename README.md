@@ -3,21 +3,23 @@
 [![FAIR Principles](https://img.shields.io/badge/FAIR-Supported-brightgreen.svg)](https://www.go-fair.org/fair-principles/)
 [![RDF/Semantic Web](https://img.shields.io/badge/Semantic-RDF-orange.svg)](https://www.w3.org/RDF/)
 
-# GraphLens: Automated Semantic Graph Scientometric Pipeline
+# GraphLens: Schema-agnostic, configurable semantic engine for knowledge graph analytics and visualization.
 
-GraphLens is an automated, single-command command-line framework engineered to bridge the operational gap between structured semantic web repositories (RDF/Scholarly Knowledge Graphs) and advanced statistical scientometric analysis. 
+**GraphLens** is a profile-driven semantic engine designed to extract, analyze, and visualize knowledge graph data without relying on hardcoded domain schemas. By mapping dynamic RDF predicates through YAML profiles, GraphLens automatically generates and executes SPARQL queries, performs statistical clustering, and generates publication-quality figures directly from local RDF files or remote endpoints.
 
 Rather than requiring researchers to manually construct, debug, and optimize complex, resource-intensive federated SPARQL queries, GraphLens wraps the entire data engineering, feature vectorization, unsupervised machine learning, and visualization lifecycle within a headless execution loop.
 
 ## Features
 
 * **Autonomous Layout Heuristics Engine**: Utilizes an integrated text-based machine learning pipeline (`CountVectorizer` + `DecisionTreeClassifier`) to bootstrap layout heuristics and classify column structures.
-* **Multi-Dimensional Graph Ingestion**: Streams remote or local open-world triplestores natively via `rdflib`, executing graph-flattening query configurations to bypass nested property paths.
 * **Mathematical Imputation & Cross-Derivation**: Automatically resolves missing open-world metadata literals by cross-calculating dependent peer-review statistics (e.g., mathematically inferring missing `accepted`, `submitted`, or `acceptanceRate` data points) to maximize observation sample sizes.
 * **Unsupervised Taxonomic Profiling**: Applies $K$-means clustering ($K=3$) over continuous selectivity boundaries to automatically segment venues into standardized behavioral tiers (*Elite / Highly Selective*, *Standard Peer-Reviewed*, and *High-Acceptance / Mega-Venue*).
 * **Longitudinal Growth Trajectory Regression**: Embeds parallel Ordinary Least Squares (OLS) linear regression configurations to compute annual growth velocities and trend fit coefficients ($R^2$) across multi-decade timeline horizons.
 * **Automated Production Asset Materialization**: Systematically exports an entire suite of 7 high-density, journal-ready visualization plots (300 DPI, serif-typed) and a unified data matrix without manual plotting configurations.
-* **Query-agnostic**: Decouple the query structure and namespace definitions from the core Python execution logic by offloading the SPARQL query to an external file (e.g., a .rq or .sparql file). Standard SPARQL syntax natively handles its own prefix declarations at the top of the file, allowing you to change targets or schemas instantly without touching a single line of Python code.
+* **Schema-Agnostic:** Decouples query structure and namespace declarations into external SPARQL files (`.rq` / `.sparql`), allowing you to adapt to new target schemas without modifying any Python code.
+* **Configurable Profiles:** Binds extracted SPARQL fields to analytical dimensions via lightweight YAML profile configurations.
+* **Flexible Data Input:** Executes queries against remote SPARQL endpoints or parses local RDF serialized files (`.ttl`, `.rdf`, `.nt`).
+* **Automated Output:** Generates normalized feature matrices (`.csv`) and a complete suite of publication-ready figures (`.png`).
 
 ## Installation
 
@@ -42,22 +44,24 @@ pip install -r requirements.txt --upgrade
 
 ## Usage
 GraphLens is designed as an automated, single-command command-line tool. 
-- TO **read from a URL**:
+
 
 ```bash
-python graphlens.py   --query eventkg_query.rq   --profile profile.yaml   --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+usage: graphlens.py [-h] [-v] -p PROFILE (-u URL | -f FILE)
 
+GraphLens: Schema-agnostic, configurable semantic engine for knowledge graph analytics and visualization.
+
+options:
+  -h, --help            show this help message and exit
+  -v, --version         show program's version number and exit
+  -p PROFILE, --profile PROFILE
+                        Path or HTTP URL to profile layout configuration YAML asset
+  -u URL, --url URL     Remote SPARQL endpoint URL or raw RDF web link
+  -f FILE, --file FILE  Local storage file path data source track (.ttl, .rdf, .nt)
 
 ```
 
-- TO **read from a local TTL file**:
-
-```bash
-python3 graphlens.py  --query query.rq --profile profile.yaml --file local-file-path.ttl 
-```
-
-
-By default, the pipeline automatically connects to the live open-science E[VENTSKG-Dataset](https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl) turtle data channel, 
+By default, the pipeline automatically connects to the live open-science [EVENTSKG-Dataset](https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl) turtle data channel, 
 compiles the semantic schemas, runs the advanced analytics core, and routes all outputs directly to `output/`.
 
 
