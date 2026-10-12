@@ -1,0 +1,62 @@
+target_class: "https://w3id.org/seo#AcademicEvent"
+
+labels:
+  volume: "Submitted Papers"
+  success: "Accepted Papers"
+  rate: "Acceptance Rate"
+  category: "Academic Field"
+  location: "Host Country"
+  entity_identifier: "Event Acronym"
+  entity_group: "Conference Series"
+
+attributes:
+  independent_metrics:
+    - identifier: "submitted"
+      sparql_var: "submitted"
+    - identifier: "accepted"
+      sparql_var: "accepted"
+
+  derived_ratios:
+    - identifier: "acceptanceRate"
+      sparql_var: "acceptanceRate"
+
+  nominal_categories:
+    - identifier: "field"
+      sparql_var: "field"
+    - identifier: "country"
+      sparql_var: "country"
+      semantic_type: "geo"
+
+  temporal_indicators:
+    - identifier: "date"
+      sparql_var: ["date", "year"]
+
+  entity_identifiers:
+    - identifier: "acronym"
+      sparql_var: "acronym"
+    - identifier: "event_uri"
+      sparql_var: "event"
+
+cluster_bands:
+  - "Highly Competitive Band"
+  - "Moderate Acceptance Band"
+  - "Accessible Band"
+
+clustering:
+  log_volume: true
+  k_min: 2
+  k_max: 6
+  stability_runs: 10
+
+filters:
+  year_min: 2000
+  year_max: 2026
+
+analysis:
+  corr_method: "spearman"
+
+value_aliases:
+  country:
+    UK: "United Kingdom"
+    USA: "United States"
+    US: "United States"
