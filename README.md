@@ -53,7 +53,6 @@ python graphlens.py   --query eventkg_query.rq   --profile profile.yaml   --url 
 OR
 
 python3 graphlens.py   --query query.rq   -f EVENTKG.ttl -p profile.yaml 
-
 ```
 
 - TO **read from a local TTL file**:

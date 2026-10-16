@@ -1,20 +1,21 @@
 EVENTSKG:
 ---------
-python3 graphlens.py   --query queries/eventskg-query.rq   -f data/eventskg.ttl -p profiles/eventskg-profile.yaml -o outputs/eventskg-outputs
-
+	python3 graphlens.py   --query queries/eventskg-query.rq   -f data/eventskg.ttl -p profiles/eventskg-profile.yaml
 
 DBpedia:
 --------
-python3 graphlens.py   --query queries/dbpedia-query.rq   -f dbpedia-films.ttl -p profiles/dbpedia-profile.yaml -o outputs/dbpedia-outputs
+	python3 graphlens.py   --query queries/dbpedia-query.rq   -f data/dbpedia_films.ttl -p profiles/dbpedia-profile.yaml -o output/dbpedia-output
 
 
 correctness test:
+-----------------
 
- python3 graphlens.py   -f correctness-experiment/analytical_correctness.ttl   -q correctness-experiment/analytical_correctness.rq   -p correctness-experiment/profile.yaml   -o output2   --log-level INFO
+	python3 graphlens.py   -f correctness-experiment/analytical_correctness.ttl   -q correctness-experiment/analytical_correctness.rq   -p correctness-experiment/profile.yaml   -o output2   --log-level INFO
 
+	python3 validate_results.py
 
-python3 validate_results.py
 
 scalability:
-python3 graphlens.py   --query eventskg-query.rq   -f EVENTSKG_100k.ttl -p eventskg-profile.yaml -o scalability-experiment/results_100k_output
+------------
+	python3 graphlens.py   --query eventskg-query.rq   -f EVENTSKG_100k.ttl -p eventskg-profile.yaml -o scalability-experiment/results_100k_output
 

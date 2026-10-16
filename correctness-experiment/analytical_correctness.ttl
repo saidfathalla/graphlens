@@ -1,0 +1,15 @@
+@prefix ac: <https://example.org/analytical-correctness/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ac:P01 a ac:TrainingProgram ; ac:programCode "P01" ; ac:enrolledLearners 100 ; ac:completedLearners 80 ; ac:completionRate 0.8 ; ac:academicYear 2021 ; ac:discipline "Computing" ; ac:region "North" .
+ac:P02 a ac:TrainingProgram ; ac:programCode "P02" ; ac:enrolledLearners 200 ; ac:completedLearners 150 ; ac:completionRate 75 ; ac:academicYear 2021 ; ac:discipline "Computing" ; ac:region "South" .
+ac:P03 a ac:TrainingProgram ; ac:programCode "P03" ; ac:enrolledLearners 110 ; ac:completedLearners 99 ; ac:academicYear 2021 ; ac:discipline "Health" ; ac:region "North" .
+ac:P04 a ac:TrainingProgram ; ac:programCode "P04" ; ac:enrolledLearners 80 ; ac:completionRate 0.625 ; ac:academicYear 2022 ; ac:discipline "Health" ; ac:region "South" .
+ac:P05 a ac:TrainingProgram ; ac:programCode "P05" ; ac:enrolledLearners 100 ; ac:completedLearners 120 ; ac:completionRate 0.8 ; ac:academicYear 2022 ; ac:discipline "Business" ; ac:region "North" .
+ac:P06 a ac:TrainingProgram ; ac:programCode "P06" ; ac:enrolledLearners 90 ; ac:completionRate 150 ; ac:academicYear 2022 ; ac:discipline "Business" ; ac:region "South" .
+ac:P07 a ac:TrainingProgram ; ac:programCode "P07" ; ac:enrolledLearners 100 ; ac:completedLearners 50 ; ac:completionRate -0.2 ; ac:academicYear 2022 ; ac:discipline "Computing" ; ac:region "East" .
+ac:P08 a ac:TrainingProgram ; ac:programCode "P08" ; ac:enrolledLearners 0 ; ac:completedLearners 0 ; ac:academicYear 2023 ; ac:discipline "Health" ; ac:region "East" .
+ac:P09 a ac:TrainingProgram ; ac:programCode "P09" ; ac:enrolledLearners 300 ; ac:completedLearners 210 ; ac:completionRate 0.7 ; ac:academicYear 2023 ; ac:discipline "Business" ; ac:region "North" .
+ac:P10 a ac:TrainingProgram ; ac:programCode "P10" ; ac:enrolledLearners 50 ; ac:completedLearners 20 ; ac:completionRate 0.4 ; ac:academicYear 2023 ; ac:discipline "Computing" ; ac:region "South" .
+ac:P11 a ac:TrainingProgram ; ac:programCode "P11" ; ac:enrolledLearners 600 ; ac:completedLearners 300 ; ac:completionRate 50 ; ac:academicYear 2024 ; ac:discipline "Health" ; ac:region "North" .
+ac:P12 a ac:TrainingProgram ; ac:programCode "P12" ; ac:enrolledLearners 160 ; ac:completedLearners 80 ; ac:completionRate 0.5 ; ac:academicYear 2024 ; ac:discipline "Business" ; ac:region "East" .
