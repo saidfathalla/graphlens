@@ -6,7 +6,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-2818-5890"
 title: "GraphLens: Automated Semantic Graph Scientometric Pipeline"
 version: "1.0.0"
-date-released: 2026-07-06
+date-released: 2026-10-15
 url: "https://github.com/saidfathalla/GraphLens"
 repository-code: "https://github.com/saidfathalla/GraphLens"
 keywords:

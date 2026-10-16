@@ -1,11 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
-[![FAIR Principles](https://img.shields.io/badge/FAIR-Supported-brightgreen.svg)](https://www.go-fair.org/fair-principles/)
-[![RDF/Semantic Web](https://img.shields.io/badge/Semantic-RDF-orange.svg)](https://www.w3.org/RDF/)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)![FAIR Principles](https://img.shields.io/badge/FAIR-Supported-brightgreen.svg)![RDF/Semantic Web](https://img.shields.io/badge/Semantic-RDF-orange.svg)
 
 # GraphLens: Automated Semantic Graph Scientometric Pipeline
 
-GraphLens is an automated, single-command command-line framework engineered to bridge the operational gap between structured semantic web repositories (RDF/Scholarly Knowledge Graphs) and advanced statistical scientometric analysis. 
+GraphLens is an automated, single-command command-line framework engineered to bridge the operational gap between structured semantic web repositories (RDF/Scholarly Knowledge Graphs) and advanced statistical scientometric analysis.
 
 Rather than requiring researchers to manually construct, debug, and optimize complex, resource-intensive federated SPARQL queries, GraphLens wraps the entire data engineering, feature vectorization, unsupervised machine learning, and visualization lifecycle within a headless execution loop.
 
@@ -22,80 +19,95 @@ Rather than requiring researchers to manually construct, debug, and optimize com
 ## Installation
 
 ### Prerequisites
+
 * Python 3.8+
 * `pip` package manager
 * Virtual environment framework (`venv` or `conda`, recommended)
 
 ### Core Dependencies
+
 The pipeline engine automatically manages or builds upon the following foundational semantic and analytical runtimes:
-* **`rdflib`**: For core W3C RDF parsing, graph manipulation, and Turtle serialization.
-* **`pandas` & `numpy`**: For optimized structural array indexing, matrix cleaning, and data framing operations.
-* **`scikit-learn`**: For internal ML layout classification, $K$-means data clustering, and OLS regression modeling.
-* **`matplotlib` & `seaborn`**: For rendering high-impact, publication-ready statistical visualizations in headless environments.
+
+* `rdflib`: For core W3C RDF parsing, graph manipulation, and Turtle serialization.
+* `pandas` **&** `numpy`: For optimized structural array indexing, matrix cleaning, and data framing operations.
+* `scikit-learn`: For internal ML layout classification, $K$-means data clustering, and OLS regression modeling.
+* `matplotlib` **&** `seaborn`: For rendering high-impact, publication-ready statistical visualizations in headless environments.
 
 ### Install dependencies:
+
 We recommend using a virtual environment.
 
 ```bash
-pip install requests numpy pandas matplotlib seaborn rdflib scikit-learn
+pip install -r requirements.txt --upgrade
 ```
 
 ## Usage
-GraphLens is designed as an automated, single-command command-line tool. 
+
+GraphLens is designed as an automated, single-command command-line tool.
+
 - TO **read from a URL**:
 
 ```bash
-python3 graphlens.py  --query query.rq --url https:somedomain.com/RDFdataset.ttl
+python graphlens.py   --query eventkg_query.rq   --profile profile.yaml   --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+
+OR
+
+python3 graphlens.py   --query query.rq   -f EVENTKG.ttl -p profile.yaml 
 ```
 
 - TO **read from a local TTL file**:
 
 ```bash
-python3 graphlens.py  --query query.rq --file local-file-path.ttl 
+python3 graphlens.py  --query query.rq --profile profile.yaml --file local-file-path.ttl 
 ```
 
-
-By default, the pipeline automatically connects to the live open-science E[VENTSKG-Dataset](https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl) turtle data channel, 
+By default, the pipeline automatically connects to the live open-science E[VENTSKG-Dataset](https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/refs/heads/master/EVENTSKG.ttl) turtle data channel,
 compiles the semantic schemas, runs the advanced analytics core, and routes all outputs directly to `output/`.
-
 
 ## Outputs
 
-Upon execution, the GraphLens engine automatically writes the unified analytical matrix and 7 journal-optimized visual assets directly into the `output/` directory. 
+Upon execution, the GraphLens engine automatically writes the unified analytical matrix and 7 journal-optimized visual assets directly into the `output/` directory.
 
 ### Unified Data Artifact
-* 📊 **[processed_scientometric_matrix.csv](output/processed_scientometric_matrix.csv)**: The structural unified dataset matrix compiling cleaned features, mathematically imputed metrics, and nominal taxonomical cluster assignments.
+
+* 📊 [**processed_scientometric_matrix.csv**](output/processed_scientometric_matrix.csv): The structural unified dataset matrix compiling cleaned features, mathematically imputed metrics, and nominal taxonomical cluster assignments.
 
 ### Materialized Visual Assets
 
 #### 1. Venue Behavioral Taxonomy & OLS Trajectory
-Maps venue intake volumes against metric acceptance rates categorized via unsupervised $K$-Means clustering and overlaid with an Ordinary Least Squares (OLS) longitudinal trend curve.
+
+Maps venue intake volumes against metric acceptance rates categorized via unsupervised $K$-Means clustering and overlaid with an Ordinary Least Squares (OLS) longitudinal trend curve.  
 ![Behavior Taxonomy & OLS Fit](output/fig1_cluster_regression.png)
 
 #### 2. Longitudinal Field Growth Profile
-A stacked area matrix tracing the total macro-scale thematic distributions across research domains over multi-decade timelines.
+
+A stacked area matrix tracing the total macro-scale thematic distributions across research domains over multi-decade timelines.  
 ![Longitudinal Evolution Area Chart](output/fig2_field_temporal_growth.png)
 
 #### 3. Geographic Concentration Distribution
-A comparative profile illustrating the geographic host asymmetry and regional densities of international scientific tracking instances.
+
+A comparative profile illustrating the geographic host asymmetry and regional densities of international scientific tracking instances.  
 ![Geographic Concentration Profile](output/fig3_geographic_distribution.png)
 
 #### 4. Feature Dependency Matrix
-A correlation heatmap illustrating Pearson linear dependency indices between temporal progression, submission scales, and selectiveness constraints.
+
+A correlation heatmap illustrating Pearson linear dependency indices between temporal progression, submission scales, and selectiveness constraints.  
 ![Pearson Dependency Heatmap](output/fig4_correlation_matrix.png)
 
 #### 5. Cross-Domain Selectivity Variance
-Utilizes horizontal boxplots to map inner quartiles, median selectivity boundaries, and peer-review outlier thresholds across scientific fields.
+
+Utilizes horizontal boxplots to map inner quartiles, median selectivity boundaries, and peer-review outlier thresholds across scientific fields.  
 ![Selectivity Variance Boxplot](output/fig5_field_selectivity_boxplot.png)
 
 #### 6. Core Venue Benchmark Ranking
-An evaluation benchmark ranking the top ten most active publication series and venue tracks based on cumulative ingestion volume.
+
+An evaluation benchmark ranking the top ten most active publication series and venue tracks based on cumulative ingestion volume.  
 ![Volume Benchmarking Profile](output/fig6_top_venues_benchmark.png)
 
 #### 7. Cluster Submission Volume Densities
-Log-scaled kernel density violin profiles exposing the explicit submission volume thresholds and structural cutoffs separating the venue classes.
-![Taxonomical Volume Density](output/fig7_cluster_density_violin.png)
 
+Log-scaled kernel density violin profiles exposing the explicit submission volume thresholds and structural cutoffs separating the venue classes.  
+![Taxonomical Volume Density](output/fig7_cluster_density_violin.png)
 
 ## Testing & Quality Assurance
 
@@ -119,13 +131,11 @@ The validation framework runs automated isolation tests against the primary data
 * **Pipeline Integrity:** Uses a minimal, synthetic RDF graph payload to evaluate the end-to-end execution of the $K$-means partitioning engine and the Ordinary Least Squares (OLS) trend computation loop.
 
 ### Citation
+
 If you use TAGS in your research, please cite our paper:
 
 TBD.
 
 ### License
+
 Distributed under the MIT License. See the `LICENSE` file in the root directory for more information.
-
-
-
-

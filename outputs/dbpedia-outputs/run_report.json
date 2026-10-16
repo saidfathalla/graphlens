@@ -1,0 +1,150 @@
+{
+  "triples": 14036,
+  "normalization": {
+    "rows_raw": 655,
+    "missing_before": {
+      "budget": 0,
+      "recoupedBudget": 0,
+      "recoveryRate": 0
+    },
+    "y_out_of_range_set_missing": 0,
+    "x2_gt_x1_set_missing": 0,
+    "recovered": {
+      "y_rescaled": 0,
+      "y_recovered": 0,
+      "x2_recovered": 0,
+      "inconsistent": 0
+    },
+    "missing_after": {
+      "budget": 0,
+      "recoupedBudget": 0,
+      "recoveryRate": 0
+    },
+    "dropped_missing_year_or_volume": 0,
+    "dropped_outside_year_range": 0,
+    "rows_final": 655,
+    "year_range": [
+      1981,
+      2022
+    ]
+  },
+  "clustering": {
+    "k": 3,
+    "centroid_range_std_units": {
+      "budget": 2.842,
+      "recoveryRate": 2.316
+    },
+    "unclassified": 0
+  },
+  "trends": {
+    "global_total": {
+      "n_years": 15,
+      "slope": 64877849.17658785,
+      "intercept": -129258333552.43207,
+      "ci95": [
+        -148279610.2854165,
+        278035308.63859224
+      ],
+      "p_value": 0.5223049785673831,
+      "p_value_hac": 0.2863919368580865,
+      "r2": 0.03218808678198193,
+      "durbin_watson": 2.2267767530573597,
+      "resid_var": 1.552181922351854e+19
+    },
+    "global_per_event_mean": {
+      "n_years": 15,
+      "slope": 1106861.351120911,
+      "intercept": -2192166320.8285904,
+      "ci95": [
+        -1622006.6460936503,
+        3835729.3483354724
+      ],
+      "p_value": 0.3967859683866208,
+      "p_value_hac": 0.03190665360126531,
+      "r2": 0.055771324518533505,
+      "durbin_watson": 2.4606015549240734,
+      "resid_var": 2543938491746922.0
+    },
+    "global_n_events": {
+      "n_years": 15,
+      "slope": 2.7213998996488145,
+      "intercept": -5421.448611808083,
+      "ci95": [
+        -6.380684220636406,
+        11.823484019934034
+      ],
+      "p_value": 0.5295679511149741,
+      "p_value_hac": 0.2956649853179545,
+      "r2": 0.031095420274020902,
+      "durbin_watson": 2.215533104212105,
+      "resid_var": 28302.398397596684
+    },
+    "global_total_loglinear": {
+      "n_years": 15,
+      "slope": 0.0557521758457728,
+      "intercept": -94.89464902651582,
+      "ci95": [
+        -0.05753387028034672,
+        0.16903822197189233
+      ],
+      "p_value": 0.3070445598431282,
+      "p_value_hac": 0.04703750643768262,
+      "r2": 0.07999678473521343,
+      "durbin_watson": 2.9467172987953,
+      "resid_var": 4.384240697261815,
+      "annual_growth_pct": 5.733561795958253
+    },
+    "per_cluster": {
+      "Blockbuster / High-Budget Band": {
+        "total": {
+          "n_years": 15,
+          "slope": 54003313.52618752,
+          "intercept": -107590074977.34712,
+          "ci95": [
+            -122772799.78331101,
+            230779426.83568603
+          ],
+          "p_value": 0.5207946172612435,
+          "p_value_hac": 0.2845316663408336,
+          "r2": 0.032418548895653765,
+          "durbin_watson": 2.228606706465598,
+          "resid_var": 1.067551198205403e+19
+        },
+        "per_event_mean": {
+          "n_years": 15,
+          "slope": 1130737.0819570667,
+          "intercept": -2239740353.050178,
+          "ci95": [
+            -1592494.917118098,
+            3853969.0810322315
+          ],
+          "p_value": 0.3860161256626941,
+          "p_value_hac": 0.026831643008186534,
+          "r2": 0.058288672451644374,
+          "durbin_watson": 2.4844479594095263,
+          "resid_var": 2533441225709610.5
+        }
+      }
+    },
+    "mean_r2_per_cluster_total": 0.032418548895653765,
+    "note": "Clusters are defined on the same volume variable that is regressed; per-cluster slopes are descriptive."
+  },
+  "routing": {
+    "n_views": 8,
+    "agree_with_expert": 7,
+    "classifier_validation": {
+      "cv": "leave-one-domain-out",
+      "n": 566,
+      "domains": 6,
+      "accuracy": 0.9611307420494699,
+      "macro_f1": 0.9585084906213149
+    }
+  },
+  "timings_s": {
+    "module2_bootstrap": 0.032,
+    "module1_ingest_and_sparql": 1.087,
+    "module1_normalization": 0.012,
+    "module3_analytics": 0.317,
+    "module4_rendering": 1.873
+  }
+}

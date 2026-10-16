@@ -1,0 +1,9 @@
+view,columns,shape_tokens,predicted,confidence,rendered,status,expert_layout,agrees_with_expert
+cluster_scatter,enrolled completion clusterProfile,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Bar,0.25,Bar,predicted,Scatter,False
+trend_by_cluster,year clusterProfile enrolled,__lowcard __many_rows_per_key __numeric_1 __temporal,Bar,0.25,Bar,predicted,Line,False
+field_growth,year discipline enrolled,__lowcard __many_rows_per_key __numeric_1 __temporal,Bar,0.25,Bar,predicted,Line,False
+geo_distribution,region events,__geo __numeric_1 __one_row_per_key,Bar,0.25,Bar,predicted,Geomap,False
+correlation,year enrolled completed completion,__bounded __numeric_3plus __skewed __temporal,Bar,0.25,Line,fallback,Heatmap,False
+ratio_by_category,discipline completion,__bounded __lowcard __many_rows_per_key __numeric_1,Bar,0.25,Bar,predicted,Boxplot,False
+top_entities,series_acronym enrolled,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,0.25,Bar,predicted,Bar,True
+cluster_density,clusterProfile enrolled,__lowcard __many_rows_per_key __numeric_1 __skewed,Bar,0.25,Bar,predicted,Violin,False

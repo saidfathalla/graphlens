@@ -1,0 +1,4 @@
+agnostic_profile,n,volume_median,rate_mean,rate_median,rate_p25,rate_p75
+Blockbuster / High-Budget Band,444,11000000.0,0.9741935379913226,1.0,1.0,1.0
+Low-Budget Band,130,11000000.0,0.2377847830815177,0.222,0.045,0.40422708333333335
+Mid-Budget Band,81,30.0,0.9229416612518951,1.0,1.0,1.0

@@ -1,0 +1,1123 @@
+event_uri,acronym,date,field,country,submitted,accepted,acceptanceRate,year,series_acronym,edition_label,y_rescaled,y_recovered,x2_recovered,inconsistent,cluster_label,agnostic_profile
+FOCS2017,FOCS 2017,2017-10-15 00:00:00+00:00,Computer Systems Organization,United States,323.0,90.0,0.279,2017,FOCS,FOCS 2017,False,False,False,False,0,Highly Competitive Band
+AISTATS2012,AISTATS 2012,2012-04-21 00:00:00+00:00,Artificial Intelligence,Kingdom Of The Canary Islands,400.0,134.0,0.335,2012,AISTATS,AISTATS 2012,False,False,True,False,0,Highly Competitive Band
+ICONIP2008,ICONIP 2008,2008-11-25 00:00:00+00:00,Artificial Intelligence,New Zealand,400.0,260.0,0.65,2008,ICONIP,ICONIP 2008,False,False,True,False,1,Accessible Band
+AAAI2000,AAAI2000,2000-07-30 00:00:00+00:00,Artificial Intelligence,United States,431.0,143.0,0.332,2000,AAAI,AAAI 2000,False,False,False,False,0,Highly Competitive Band
+ICONIP2016,ICONIP 2016,2016-10-16 00:00:00+00:00,Artificial Intelligence,Japan,431.0,296.0,0.687,2016,ICONIP,ICONIP 2016,False,False,True,False,1,Accessible Band
+SIGMOD2004,SIGMOD 2004,2004-06-13 00:00:00+00:00,Information Systems,France,431.0,69.0,0.16,2004,SIGMOD,SIGMOD 2004,False,False,True,False,0,Highly Competitive Band
+SIGMOD2005,SIGMOD 2005,2005-06-13 00:00:00+00:00,Information Systems,United States,431.0,65.0,0.151,2005,SIGMOD,SIGMOD 2005,False,False,True,False,0,Highly Competitive Band
+AAAI2002,AAAI2002,2002-07-28 00:00:00+00:00,Artificial Intelligence,Canada,469.0,121.0,0.258,2002,AAAI,AAAI 2002,False,False,False,False,0,Highly Competitive Band
+AAAI2004,AAAI2004,2004-07-25 00:00:00+00:00,Artificial Intelligence,United States,453.0,121.0,0.267,2004,AAAI,AAAI 2004,False,False,False,False,0,Highly Competitive Band
+AAAI2005,AAAI2005,2005-07-09 00:00:00+00:00,Artificial Intelligence,United States,803.0,229.0,0.285,2005,AAAI,AAAI 2005,False,False,False,False,0,Highly Competitive Band
+AAAI2006,AAAI2006,2006-07-16 00:00:00+00:00,Artificial Intelligence,United States,774.0,236.0,0.305,2006,AAAI,AAAI 2006,False,False,False,False,0,Highly Competitive Band
+AAAI2007,AAAI2007,2007-07-22 00:00:00+00:00,Artificial Intelligence,Canada,921.0,253.0,0.275,2007,AAAI,AAAI 2007,False,False,False,False,0,Highly Competitive Band
+AAAI2008,AAAI2008,2008-07-13 00:00:00+00:00,Artificial Intelligence,United States,937.0,227.0,0.242,2008,AAAI,AAAI 2008,False,False,False,False,0,Highly Competitive Band
+AAAI2010,AAAI2010,2010-07-11 00:00:00+00:00,Artificial Intelligence,United States,982.0,264.0,0.269,2010,AAAI,AAAI 2010,False,False,False,False,0,Highly Competitive Band
+AAAI2011,AAAI2011,2011-08-07 00:00:00+00:00,Artificial Intelligence,United States,975.0,242.0,0.248,2011,AAAI,AAAI 2011,False,False,False,False,0,Highly Competitive Band
+AAAI2012,AAAI2012,2012-07-22 00:00:00+00:00,Artificial Intelligence,Canada,1129.0,294.0,0.26,2012,AAAI,AAAI 2012,False,False,False,False,0,Highly Competitive Band
+AAAI2013,AAAI2013,2013-07-14 00:00:00+00:00,Artificial Intelligence,United States,827.0,203.0,0.245,2013,AAAI,AAAI 2013,False,False,False,False,0,Highly Competitive Band
+AAAI2014,AAAI2014,2014-07-27 00:00:00+00:00,Artificial Intelligence,Canada,1406.0,398.0,0.283,2014,AAAI,AAAI 2014,False,False,False,False,0,Highly Competitive Band
+AAAI2015,AAAI2015,2015-01-25 00:00:00+00:00,Artificial Intelligence,United States,1991.0,531.0,0.267,2015,AAAI,AAAI 2015,False,False,False,False,0,Highly Competitive Band
+AAAI2016,AAAI2016,2016-02-12 00:00:00+00:00,Artificial Intelligence,United States,2132.0,549.0,0.258,2016,AAAI,AAAI 2016,False,False,False,False,0,Highly Competitive Band
+AAAI2017,AAAI2017,2017-02-04 00:00:00+00:00,Artificial Intelligence,United States,2590.0,638.0,0.246,2017,AAAI,AAAI 2017,False,False,False,False,0,Highly Competitive Band
+AAMAS2002,AAMAS 2002,2002-07-15 00:00:00+00:00,Artificial Intelligence,Italy,530.0,142.0,0.268,2002,AAMAS,AAMAS 2002,False,False,True,False,0,Highly Competitive Band
+AAMAS2005,AAMAS 2005,2005-07-25 00:00:00+00:00,Artificial Intelligence,Netherlands,530.0,130.0,0.245,2005,AAMAS,AAMAS 2005,False,False,True,False,0,Highly Competitive Band
+CCS2013,CCS 2013,2013-11-04 00:00:00+00:00,Security And Privacy,Germany,530.0,105.0,0.198,2013,CCS,CCS 2013,False,False,False,False,0,Highly Competitive Band
+CSCW2017,CSCW 2017,2017-02-25 00:00:00+00:00,Computer Systems Organization,United States,530.0,183.0,0.345,2017,CSCW,CSCW 2017,False,False,True,False,0,Highly Competitive Band
+ICSE2016,ICSE 2016,2016-05-14 00:00:00+00:00,Software Engineering,United States,530.0,101.0,0.191,2016,ICSE,ICSE 2016,False,False,False,False,0,Highly Competitive Band
+AAMAS2003,,2003-07-14 00:00:00+00:00,Artificial Intelligence,Australia,466.0,115.0,0.247,2003,,nan,False,False,True,False,0,Highly Competitive Band
+CVPR2000,CVPR 2000,2000-06-13 00:00:00+00:00,Artificial Intelligence,United States,466.0,220.0,0.472,2000,CVPR,CVPR 2000,False,False,False,False,1,Accessible Band
+ICONIP2009,ICONIP 2009,2009-12-01 00:00:00+00:00,Artificial Intelligence,Thailand,466.0,145.0,0.311,2009,ICONIP,ICONIP 2009,False,False,True,False,0,Highly Competitive Band
+AAMAS2004,AAMAS 2004,2004-07-19 00:00:00+00:00,Artificial Intelligence,United States,577.0,142.0,0.246,2004,AAMAS,AAMAS 2004,False,False,True,False,0,Highly Competitive Band
+AAMAS2006,AAMAS 2006,2006-05-08 00:00:00+00:00,Artificial Intelligence,Japan,550.0,127.0,0.231,2006,AAMAS,AAMAS 2006,False,False,True,False,0,Highly Competitive Band
+AAMAS2016,AAMAS 2016,2016-05-09 00:00:00+00:00,Artificial Intelligence,Singapore,550.0,139.0,0.253,2016,AAMAS,AAMAS 2016,False,False,True,False,0,Highly Competitive Band
+PKDD2014,ECML PKDD 2014,2014-09-15 00:00:00+00:00,Information Systems,France,550.0,146.0,0.265,2014,ECML PKDD,ECML PKDD 2014,False,False,False,False,0,Highly Competitive Band
+TheWeb2005,TheWeb 2005,2005-05-10 00:00:00+00:00,World Wide Web,Japan,550.0,77.0,0.14,2005,THEWEB,THEWEB 2005,False,False,False,False,0,Highly Competitive Band
+AAMAS2007,AAMAS 2007,2007-05-14 00:00:00+00:00,Artificial Intelligence,United States,531.0,121.0,0.228,2007,AAMAS,AAMAS 2007,False,False,True,False,0,Highly Competitive Band
+AAMAS2008,AAMAS 2008,2008-05-12 00:00:00+00:00,Artificial Intelligence,Portugal,721.0,141.0,0.196,2008,AAMAS,AAMAS 2008,False,False,True,False,0,Highly Competitive Band
+AAMAS2009,AAMAS 2009,2009-05-10 00:00:00+00:00,Artificial Intelligence,Hungary,651.0,132.0,0.203,2009,AAMAS,AAMAS 2009,False,False,True,False,0,Highly Competitive Band
+AAMAS2010,AAMAS 2010,2010-05-10 00:00:00+00:00,Artificial Intelligence,Canada,685.0,163.0,0.238,2010,AAMAS,AAMAS 2010,False,False,True,False,0,Highly Competitive Band
+AAMAS2011,AAMAS 2011,2011-05-02 00:00:00+00:00,Artificial Intelligence,Taiwan,575.0,126.0,0.219,2011,AAMAS,AAMAS 2011,False,False,True,False,0,Highly Competitive Band
+CSCW2015,,2015-03-14 00:00:00+00:00,Computer Systems Organization,Canada,575.0,161.0,0.28,2015,,nan,False,False,True,False,0,Highly Competitive Band
+AAMAS2012,AAMAS 2012,2012-06-04 00:00:00+00:00,Artificial Intelligence,Spain,671.0,137.0,0.204,2012,AAMAS,AAMAS 2012,False,False,True,False,0,Highly Competitive Band
+AAMAS2013,AAMAS 2013,2013-05-06 00:00:00+00:00,Artificial Intelligence,United States,599.0,138.0,0.23,2013,AAMAS,AAMAS 2013,False,False,True,False,0,Highly Competitive Band
+AAMAS2014,AAMAS 2014,2014-05-05 00:00:00+00:00,Artificial Intelligence,Turkey,670.0,80.0,0.12,2014,AAMAS,AAMAS 2014,False,False,True,False,0,Highly Competitive Band
+ACCV2009,ACCV2009,2009-09-23 00:00:00+00:00,Artificial Intelligence,China,670.0,166.0,0.248,2009,ACCV,ACCV 2009,False,False,True,False,0,Highly Competitive Band
+AAMAS2015,AAMAS 2015,2015-05-04 00:00:00+00:00,Artificial Intelligence,Turkey,709.0,191.0,0.27,2015,AAMAS,AAMAS 2015,False,False,True,False,0,Highly Competitive Band
+AAMAS2017,AAMAS 2017,2017-05-08 00:00:00+00:00,Artificial Intelligence,Brazil,595.0,155.0,0.26,2017,AAMAS,AAMAS 2017,False,False,True,False,0,Highly Competitive Band
+AAMAS2018,AAMAS 2018,2018-07-10 00:00:00+00:00,Artificial Intelligence,Sweden,597.0,149.0,0.25,2018,AAMAS,AAMAS 2018,False,False,True,False,0,Highly Competitive Band
+ICDE2001,ICDE,2001-04-02 00:00:00+00:00,Software Engineering,Germany,300.0,50.0,0.167,2001,ICDE,ICDE 2001,False,False,False,False,0,Highly Competitive Band
+ICWS2006,ICWS 2006,2006-09-18 00:00:00+00:00,World Wide Web,United States,300.0,48.0,0.16,2006,ICWS,ICWS 2006,False,False,False,False,0,Highly Competitive Band
+SIGGRAPH2001,SIGGRAPH 2001,2001-08-12 00:00:00+00:00,Human Centered Computing,United States,300.0,66.0,0.22,2001,SIGGRAPH,SIGGRAPH 2001,False,False,True,False,0,Highly Competitive Band
+ACCV2007,ACCV2007,2007-11-18 00:00:00+00:00,Artificial Intelligence,Japan,551.0,179.0,0.325,2007,ACCV,ACCV 2007,False,False,True,False,0,Highly Competitive Band
+ACCV2010,ACCV2010,2010-11-12 00:00:00+00:00,Artificial Intelligence,New Zealand,739.0,206.0,0.279,2010,ACCV,ACCV 2010,False,False,True,False,0,Highly Competitive Band
+ACCV2012,ACCV2012,2012-11-05 00:00:00+00:00,Artificial Intelligence,Korea,869.0,226.0,0.26,2012,ACCV,ACCV 2012,False,False,True,False,0,Highly Competitive Band
+ACCV2014,ACCV2014,2014-11-01 00:00:00+00:00,Artificial Intelligence,Singapore,814.0,227.0,0.279,2014,ACCV,ACCV 2014,False,False,True,False,0,Highly Competitive Band
+ACCV2016,ACCV2016,2016-11-20 00:00:00+00:00,Artificial Intelligence,Taiwan,479.0,144.0,0.3,2016,ACCV,ACCV 2016,False,False,True,False,0,Highly Competitive Band
+ACSAC2000,ACSAC 2000,2000-12-11 00:00:00+00:00,Security And Privacy,United States,100.0,42.0,0.42,2000,ACSAC,ACSAC 2000,False,False,True,False,1,Accessible Band
+ASE2000,ASE 2000,2000-09-11 00:00:00+00:00,Software Engineering,United States,100.0,23.0,0.23,2000,ASE,ASE 2000,False,False,True,False,1,Accessible Band
+ECOOP2011,ECOOP 2011,2011-07-25 00:00:00+00:00,Software Engineering,England,100.0,26.0,0.26,2011,ECOOP,ECOOP 2011,False,False,True,False,1,Accessible Band
+ICSC2010,ICSC 2010,2010-09-22 00:00:00+00:00,World Wide Web,United States,100.0,32.0,0.32,2010,ICSC,ICSC 2010,False,False,True,False,1,Accessible Band
+ICSC2011,ICSC 2011,2011-09-18 00:00:00+00:00,World Wide Web,United States,100.0,21.0,0.21,2011,ICSC,ICSC 2011,False,False,True,False,0,Highly Competitive Band
+ICWE2014,ICWE 2014,2014-07-01 00:00:00+00:00,World Wide Web,France,100.0,20.0,0.2,2014,ICWE,ICWE 2014,False,False,True,False,0,Highly Competitive Band
+PKDD2000,PKDD 2000,2000-09-13 00:00:00+00:00,Information Systems,France,100.0,43.0,0.43,2000,PKDD,PKDD 2000,False,False,False,False,1,Accessible Band
+SPAA2005,SPAA 2005,2005-07-18 00:00:00+00:00,Theory Of Computations,United States,100.0,36.0,0.36,2005,SPAA,SPAA 2005,False,False,True,False,1,Accessible Band
+ACSAC2001,ACSAC 2001,2001-12-11 00:00:00+00:00,Security And Privacy,United States,119.0,38.0,0.319,2001,ACSAC,ACSAC 2001,False,False,True,False,1,Accessible Band
+ACSAC2003,ACSAC 2003,2003-12-08 00:00:00+00:00,Security And Privacy,United States,119.0,36.0,0.303,2003,ACSAC,ACSAC 2003,False,False,True,False,1,Accessible Band
+CCC2012,CCC 2012,2012-06-26 00:00:00+00:00,Theory Of Computations,Portugal,119.0,34.0,0.286,2012,CCC,CCC 2012,False,False,True,False,1,Accessible Band
+ICFP2015,ICFP 2015,2015-08-31 00:00:00+00:00,Software Engineering,Canada,119.0,35.0,0.294,2015,ICFP,ICFP 2015,False,False,True,False,1,Accessible Band
+JCDL2007,,2007-06-18 00:00:00+00:00,,,119.0,43.0,0.36,2007,,nan,False,False,False,False,1,Accessible Band
+PODS2000,PODS 2000,2000-05-15 00:00:00+00:00,Information Systems,United States,119.0,26.0,0.218,2000,PODS,PODS 2000,False,False,False,False,0,Highly Competitive Band
+RecSys2012,RecSys 2012,2012-09-09 00:00:00+00:00,Information Systems,Ireland,119.0,24.0,0.202,2012,RECSYS,RECSYS 2012,False,False,False,False,0,Highly Competitive Band
+UIST2000,UIST 2000,2000-11-06 00:00:00+00:00,Artificial Intelligence,United States,119.0,26.0,0.218,2000,UIST,UIST 2000,False,False,False,False,0,Highly Competitive Band
+ACSAC2002,ACSAC 2002,2002-12-09 00:00:00+00:00,Security And Privacy,United States,102.0,33.0,0.324,2002,ACSAC,ACSAC 2002,False,False,True,False,1,Accessible Band
+COLT2006,COLT 2006,2006-06-22 00:00:00+00:00,Theory Of Computations,Frame Of Government Of Pennsylvania,102.0,43.0,0.422,2006,COLT,COLT 2006,False,False,False,False,1,Accessible Band
+CSF2006,CSFW 2006,2006-07-05 00:00:00+00:00,Security And Privacy,Italy,102.0,25.0,0.245,2006,CSFW,CSFW 2006,False,False,True,False,1,Accessible Band
+CSF2015,CSF 2015,2015-07-13 00:00:00+00:00,Security And Privacy,Italy,102.0,35.0,0.343,2015,CSF,CSF 2015,False,False,True,False,1,Accessible Band
+JCDL2009,,2009-06-15 00:00:00+00:00,,,102.0,29.0,0.28,2009,,nan,False,False,False,False,1,Accessible Band
+SBAC-PAD2015,SBAC-PAD 2015,2015-10-18 00:00:00+00:00,Computer Systems Organization,Brazil,102.0,26.0,0.255,2015,SBAC-PAD,SBAC-PAD 2015,False,False,True,False,1,Accessible Band
+SPAA2006,SPAA 2006,2006-07-30 00:00:00+00:00,Theory Of Computations,Canada,102.0,46.0,0.45,2006,SPAA,SPAA 2006,False,False,True,False,1,Accessible Band
+ACSAC2004,ACSAC 2004,2004-12-06 00:00:00+00:00,Security And Privacy,United States,134.0,35.0,0.261,2004,ACSAC,ACSAC 2004,False,False,True,False,1,Accessible Band
+ACSAC2006,ACSAC 2006,2006-12-11 00:00:00+00:00,Security And Privacy,United States,134.0,40.0,0.299,2006,ACSAC,ACSAC 2006,False,False,True,False,1,Accessible Band
+FASE2012,FASE 2012,2012-03-24 00:00:00+00:00,Software Engineering,Estonia,134.0,33.0,0.246,2012,FASE,FASE 2012,False,False,True,False,1,Accessible Band
+VR2011,IEEE VR 2011,2011-03-19 00:00:00+00:00,Human Centered Computing,Singapore,134.0,33.0,0.246,2011,IEEE VR,IEEE VR 2011,False,False,False,False,1,Accessible Band
+ACSAC2005,ACSAC 2005,2005-12-05 00:00:00+00:00,Security And Privacy,United States,197.0,45.0,0.228,2005,ACSAC,ACSAC 2005,False,False,True,False,0,Highly Competitive Band
+ESWC2017,ESWC 2017,2017-05-28 00:00:00+00:00,World Wide Web,Greece,197.0,61.0,0.31,2017,ESWC,ESWC 2017,False,False,False,False,1,Accessible Band
+EuroCrypt2014,EuroCrypt 2014,2014-05-11 00:00:00+00:00,Security And Privacy,Denmark,197.0,38.0,0.193,2014,EUROCRYPT,EUROCRYPT 2014,False,False,False,False,0,Highly Competitive Band
+KR2004,KR 2004,2004-06-02 00:00:00+00:00,Artificial Intelligence,Canada,197.0,67.0,0.34,2004,KR,KR 2004,False,False,False,False,1,Accessible Band
+ACSAC2007,ACSAC 2007,2007-12-10 00:00:00+00:00,Security And Privacy,United States,191.0,42.0,0.22,2007,ACSAC,ACSAC 2007,False,False,True,False,0,Highly Competitive Band
+PODC2015,PODC 2015,2015-07-21 00:00:00+00:00,Software Engineering,Spain,191.0,45.0,0.236,2015,PODC,PODC 2015,False,False,False,False,0,Highly Competitive Band
+ACSAC2008,ACSAC 2026,2008-12-08 00:00:00+00:00,Security And Privacy,United States,173.0,42.0,0.243,2008,ACSAC,ACSAC 2008,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2007,EuroCrypt 2007,2007-05-20 00:00:00+00:00,Security And Privacy,Spain,173.0,33.0,0.191,2007,EUROCRYPT,EUROCRYPT 2007,False,False,False,False,0,Highly Competitive Band
+OOPSLA2004,OOPSLA 2004,2004-10-24 00:00:00+00:00,Software Engineering,Canada,173.0,27.0,0.156,2004,OOPSLA,OOPSLA 2004,False,False,False,False,0,Highly Competitive Band
+PLDI2000,PLDI 2000,2000-06-18 00:00:00+00:00,Software Engineering,Canada,173.0,30.0,0.173,2000,PLDI,PLDI 2000,False,False,False,False,0,Highly Competitive Band
+ACSAC2009,ACSAC 2009,2009-12-07 00:00:00+00:00,Security And Privacy,United States,224.0,44.0,0.196,2009,ACSAC,ACSAC 2009,False,False,True,False,0,Highly Competitive Band
+CCS2004,CCS 2004,2004-10-25 00:00:00+00:00,Security And Privacy,United States,224.0,35.0,0.156,2004,CCS,CCS 2004,False,False,False,False,0,Highly Competitive Band
+HPCA2017,HPCA 2017,2017-02-04 00:00:00+00:00,Computer Systems Organization,United States,224.0,50.0,0.223,2017,HPCA,HPCA 2017,False,False,False,False,0,Highly Competitive Band
+MOBICOM2005,MOBICOM 2005,2005-08-28 00:00:00+00:00,Human Centered Computing,Germany,224.0,23.0,0.103,2005,MOBICOM,MOBICOM 2005,False,False,True,False,0,Highly Competitive Band
+ACSAC2010,ACSAC 2010,2010-12-06 00:00:00+00:00,Security And Privacy,United States,227.0,39.0,0.172,2010,ACSAC,ACSAC 2010,False,False,True,False,0,Highly Competitive Band
+DSN2015,DSN 2015,2015-06-22 00:00:00+00:00,Computer Systems Organization,Brazil,227.0,50.0,0.22,2015,DSN,DSN 2015,False,False,False,False,0,Highly Competitive Band
+HPCA2011,HPCA 2011,2011-02-12 00:00:00+00:00,Computer Systems Organization,United States,227.0,42.0,0.185,2011,HPCA,HPCA 2011,False,False,False,False,0,Highly Competitive Band
+PERCOM2010,PERCOM 2010,2010-03-29 00:00:00+00:00,Computer Systems Organization,Germany,227.0,28.0,0.123,2010,PERCOM,PERCOM 2010,False,False,False,False,0,Highly Competitive Band
+POPL2015,POPL 2015,2015-01-12 00:00:00+00:00,Software Engineering,India,227.0,52.0,0.23,2015,POPL,POPL 2015,False,False,False,False,0,Highly Competitive Band
+ACSAC2011,ACSAC 2011,2011-12-05 00:00:00+00:00,Security And Privacy,United States,195.0,39.0,0.2,2011,ACSAC,ACSAC 2011,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2012,EuroCrypt 2012,2012-04-15 00:00:00+00:00,Security And Privacy,England,195.0,41.0,0.21,2012,EUROCRYPT,EUROCRYPT 2012,False,False,False,False,0,Highly Competitive Band
+ACSAC2012,ACSAC 2012,2012-12-03 00:00:00+00:00,Security And Privacy,United States,231.0,44.0,0.19,2012,ACSAC,ACSAC 2012,False,False,True,False,0,Highly Competitive Band
+HPCA2015,HPCA 2015,2015-02-07 00:00:00+00:00,Computer Systems Organization,United States,231.0,51.0,0.221,2015,HPCA,HPCA 2015,False,False,False,False,0,Highly Competitive Band
+ACSAC2013,ACSAC 2013,2013-12-09 00:00:00+00:00,Security And Privacy,United States,171.0,34.0,0.199,2013,ACSAC,ACSAC 2013,False,False,True,False,0,Highly Competitive Band
+NDSS2009,NDSS 2009,2009-02-08 00:00:00+00:00,Security And Privacy,United States,171.0,20.0,0.117,2009,NDSS,NDSS 2009,False,False,False,False,0,Highly Competitive Band
+ACSAC2014,ACSAC 2014,2014-12-08 00:00:00+00:00,Security And Privacy,United States,236.0,47.0,0.199,2014,ACSAC,ACSAC 2014,False,False,True,False,0,Highly Competitive Band
+DSN2012,DSN 2012,2012-06-25 00:00:00+00:00,Computer Systems Organization,United States,236.0,51.0,0.216,2012,DSN,DSN 2012,False,False,False,False,0,Highly Competitive Band
+PLDI2011,PLDI 2011,2011-06-04 00:00:00+00:00,Software Engineering,United States,236.0,55.0,0.233,2011,PLDI,PLDI 2011,False,False,False,False,0,Highly Competitive Band
+ACSAC2015,ACSAC 2015,2015-12-07 00:00:00+00:00,Security And Privacy,United States,193.0,47.0,0.244,2015,ACSAC,ACSAC 2015,False,False,True,False,0,Highly Competitive Band
+ASPLOS2013,ASPLOS 2013,2013-03-16 00:00:00+00:00,Software Engineering,United States,193.0,44.0,0.228,2013,ASPLOS,ASPLOS 2013,False,False,False,False,0,Highly Competitive Band
+CSCW2002,CSCW 2002,2002-11-16 00:00:00+00:00,Computer Systems Organization,United States,193.0,39.0,0.2,2002,CSCW,CSCW 2002,False,False,True,False,0,Highly Competitive Band
+EDBT2012,EDBT 2012,2012-03-27 00:00:00+00:00,Information Systems,Germany,193.0,43.0,0.223,2012,EDBT,EDBT 2012,False,False,False,False,0,Highly Competitive Band
+OSDI2004,OSDI 2004,2004-12-06 00:00:00+00:00,Software Engineering,United States,193.0,27.0,0.14,2004,OSDI,OSDI 2004,False,False,False,False,0,Highly Competitive Band
+OSDI2008,OSDI 2008,2008-12-08 00:00:00+00:00,Software Engineering,United States,193.0,26.0,0.135,2008,OSDI,OSDI 2008,False,False,False,False,0,Highly Competitive Band
+PERCOM2004,PERCOM 2004,2004-03-14 00:00:00+00:00,Computer Systems Organization,United States,193.0,31.0,0.161,2004,PERCOM,PERCOM 2004,False,False,False,False,0,Highly Competitive Band
+ACSAC2016,ACSAC 2016,2016-12-05 00:00:00+00:00,Security And Privacy,United States,210.0,48.0,0.229,2016,ACSAC,ACSAC 2016,False,False,True,False,0,Highly Competitive Band
+AISTATS2009,AISTATS 2009,2009-04-17 00:00:00+00:00,Artificial Intelligence,United States,210.0,74.0,0.352,2009,AISTATS,AISTATS 2009,False,False,True,False,1,Accessible Band
+ISCA2009,ISCA 2009,2009-06-20 00:00:00+00:00,Computer Systems Organization,United States,210.0,43.0,0.205,2009,ISCA,ISCA 2009,False,False,False,False,0,Highly Competitive Band
+ISWC2013,ISWC 2013,2013-10-21 00:00:00+00:00,World Wide Web,Australia,210.0,45.0,0.214,2013,ISWC,ISWC 2013,False,False,False,False,0,Highly Competitive Band
+KR2006,KR 2006,2006-06-02 00:00:00+00:00,Artificial Intelligence,England,210.0,50.0,0.238,2006,KR,KR 2006,False,False,False,False,0,Highly Competitive Band
+ACSAC2017,ACSAC 2017,2017-12-04 00:00:00+00:00,Security And Privacy,United States,244.0,48.0,0.197,2017,ACSAC,ACSAC 2017,False,False,True,False,0,Highly Competitive Band
+AISTATS2005,AISTATS 2005,2005-01-06 00:00:00+00:00,Artificial Intelligence,Barbados,150.0,51.0,0.34,2005,AISTATS,AISTATS 2005,False,False,True,False,1,Accessible Band
+AISTATS2007,AISTATS 2007,2007-03-21 00:00:00+00:00,Artificial Intelligence,United States,150.0,85.0,0.567,2007,AISTATS,AISTATS 2007,False,False,True,False,1,Accessible Band
+EuroCrypt2000,EuroCrypt 2000,2000-05-14 00:00:00+00:00,Security And Privacy,Belgium,150.0,39.0,0.26,2000,EUROCRYPT,EUROCRYPT 2000,False,False,False,False,1,Accessible Band
+Eurosys2015,EuroSys 2015,2015-04-21 00:00:00+00:00,Computer Systems Organization,France,150.0,32.0,0.21,2015,EUROSYS,EUROSYS 2015,False,False,True,False,0,Highly Competitive Band
+OSDI2006,OSDI 2006,2006-11-06 00:00:00+00:00,Software Engineering,United States,150.0,27.0,0.18,2006,OSDI,OSDI 2006,False,False,False,False,0,Highly Competitive Band
+PERCOM2012,PERCOM 2012,2012-03-19 00:00:00+00:00,Computer Systems Organization,Switzerland,150.0,28.0,0.187,2012,PERCOM,PERCOM 2012,False,False,False,False,0,Highly Competitive Band
+AISTATS2010,AISTATS 2010,2010-05-13 00:00:00+00:00,Artificial Intelligence,Italy,308.0,125.0,0.406,2010,AISTATS,AISTATS 2010,False,False,True,False,1,Accessible Band
+AISTATS2011,AISTATS 2011,2011-04-11 00:00:00+00:00,Artificial Intelligence,United States,272.0,77.0,0.283,2011,AISTATS,AISTATS 2011,False,False,True,False,0,Highly Competitive Band
+FOCS2004,FOCS 2004,2004-10-17 00:00:00+00:00,Computer Systems Organization,Italy,272.0,64.0,0.235,2004,FOCS,FOCS 2004,False,False,False,False,0,Highly Competitive Band
+FOCS2005,FOCS 2005,2005-10-22 00:00:00+00:00,Computer Systems Organization,United States,272.0,62.0,0.228,2005,FOCS,FOCS 2005,False,False,False,False,0,Highly Competitive Band
+AISTATS2013,AISTATS 2013,2013-04-29 00:00:00+00:00,Artificial Intelligence,United States,211.0,71.0,0.337,2013,AISTATS,AISTATS 2013,False,False,True,False,1,Accessible Band
+KR2010,KR 2010,2010-05-09 00:00:00+00:00,Artificial Intelligence,Canada,211.0,53.0,0.251,2010,KR,KR 2010,False,False,False,False,0,Highly Competitive Band
+AISTATS2014,AISTATS 2014,2014-04-22 00:00:00+00:00,Artificial Intelligence,Iceland,335.0,120.0,0.358,2014,AISTATS,AISTATS 2014,False,False,True,False,1,Accessible Band
+ICSE2000,ICSE 2000,2000-06-04 00:00:00+00:00,Software Engineering,Ireland,335.0,49.0,0.146,2000,ICSE,ICSE 2000,False,False,False,False,0,Highly Competitive Band
+AISTATS2015,AISTATS 2015,2015-05-09 00:00:00+00:00,Artificial Intelligence,United States,442.0,127.0,0.287,2015,AISTATS,AISTATS 2015,False,False,True,False,0,Highly Competitive Band
+AISTATS2016,AISTATS 2016,2016-05-09 00:00:00+00:00,Artificial Intelligence,Spain,537.0,165.0,0.307,2016,AISTATS,AISTATS 2016,False,False,True,False,0,Highly Competitive Band
+AISTATS2017,AISTATS 2017,2017-04-20 00:00:00+00:00,Artificial Intelligence,United States,526.0,167.0,0.317,2017,AISTATS,AISTATS 2017,False,False,True,False,0,Highly Competitive Band
+ECOOP2001,ECOOP 2001,2001-06-18 00:00:00+00:00,Software Engineering,Hungary,108.0,18.0,0.167,2001,ECOOP,ECOOP 2001,False,False,True,False,0,Highly Competitive Band
+ECOOP2010,ECOOP 2010,2010-06-21 00:00:00+00:00,Software Engineering,Slovenia,108.0,25.0,0.231,2010,ECOOP,ECOOP 2010,False,False,True,False,1,Accessible Band
+ISMAR2005,ISMAR 2005,2005-10-22 00:00:00+00:00,Human Centered Computing,Austria,108.0,24.0,0.222,2005,ISMAR,ISMAR 2005,False,False,False,False,1,Accessible Band
+SBAC-PAD2013,SBAC-PAD 2013,2013-10-23 00:00:00+00:00,Computer Systems Organization,Brazil,108.0,28.0,0.26,2013,SBAC-PAD,SBAC-PAD 2013,False,False,True,False,1,Accessible Band
+ASE2001,ASE 2001,2001-11-26 00:00:00+00:00,Software Engineering,United States,164.0,33.0,0.2,2001,ASE,ASE 2001,False,False,True,False,0,Highly Competitive Band
+ESORICS2007,ESORICS 2007,2007-09-24 00:00:00+00:00,Security And Privacy,Germany,164.0,39.0,0.238,2007,ESORICS,ESORICS 2007,False,False,True,False,0,Highly Competitive Band
+OOPSLA2010,OOPSLA 2010,2010-10-17 00:00:00+00:00,Software Engineering,United States,164.0,45.0,0.274,2010,OOPSLA,OOPSLA 2010,False,False,False,False,1,Accessible Band
+ASE2002,ASE 2002,2002-09-23 00:00:00+00:00,Software Engineering,England,94.0,19.0,0.2,2002,ASE,ASE 2002,False,False,True,False,0,Highly Competitive Band
+CCC2014,CCC 2014,2014-06-11 00:00:00+00:00,Theory Of Computations,Canada,94.0,29.0,0.309,2014,CCC,CCC 2014,False,False,True,False,1,Accessible Band
+CSF2017,CSF  2017,2017-08-22 00:00:00+00:00,Security And Privacy,United States,94.0,32.0,0.34,2017,CSF,CSF 2017,False,False,True,False,1,Accessible Band
+PODS2016,PODS 2016,2016-06-26 00:00:00+00:00,Information Systems,United States,94.0,31.0,0.33,2016,PODS,PODS 2016,False,False,False,False,1,Accessible Band
+ASE2003,ASE 2003,2003-10-06 00:00:00+00:00,Software Engineering,Canada,170.0,22.0,0.13,2003,ASE,ASE 2003,False,False,True,False,0,Highly Competitive Band
+InfoVis2017,Infovis 2017,2017-10-01 00:00:00+00:00,Human Centered Computing,United States,170.0,39.0,0.229,2017,INFOVIS,INFOVIS 2017,False,False,True,False,0,Highly Competitive Band
+PERCOM2003,PERCOM 2003,2003-03-23 00:00:00+00:00,Computer Systems Organization,United States,170.0,53.0,0.312,2003,PERCOM,PERCOM 2003,False,False,False,False,1,Accessible Band
+UIST2004,UIST 2004,2004-10-24 00:00:00+00:00,Artificial Intelligence,United States,170.0,36.0,0.212,2004,UIST,UIST 2004,False,False,False,False,0,Highly Competitive Band
+WSDM2009,WSDM 2009,2009-02-09 00:00:00+00:00,World Wide Web,Spain,170.0,29.0,0.17,2009,WSDM,WSDM 2009,False,False,False,False,0,Highly Competitive Band
+ASE2004,ASE 2004,2004-09-20 00:00:00+00:00,Software Engineering,Austria,183.0,26.0,0.14,2004,ASE,ASE 2004,False,False,True,False,0,Highly Competitive Band
+ISWC2012,ISWC 2012,2012-11-11 00:00:00+00:00,World Wide Web,United States,183.0,41.0,0.224,2012,ISWC,ISWC 2012,False,False,False,False,0,Highly Competitive Band
+PODS2004,PODS 2004,2004-06-14 00:00:00+00:00,Information Systems,France,183.0,30.0,0.164,2004,PODS,PODS 2004,False,False,False,False,0,Highly Competitive Band
+UIST2009,UIST 2009,2009-10-04 00:00:00+00:00,Artificial Intelligence,United States,183.0,33.0,0.18,2009,UIST,UIST 2009,False,False,False,False,0,Highly Competitive Band
+ASE2005,ASE 2005,2005-11-07 00:00:00+00:00,Software Engineering,United States,291.0,28.0,0.096,2005,ASE,ASE 2005,False,False,True,False,0,Highly Competitive Band
+FSE2015,FSE 2015,2015-08-30 00:00:00+00:00,Software Engineering,Italy,291.0,74.0,0.254,2015,FSE,FSE 2015,False,False,True,False,0,Highly Competitive Band
+UAI2015,UAI 2015,2015-07-12 00:00:00+00:00,Artificial Intelligence,Netherlands,291.0,99.0,0.34,2015,UAI,UAI 2015,False,False,True,False,1,Accessible Band
+ASE2006,ASE 2006,2006-09-18 00:00:00+00:00,Software Engineering,Japan,121.0,22.0,0.18,2006,ASE,ASE 2006,False,False,True,False,0,Highly Competitive Band
+ISMAR2007,ISMAR 2007,2007-11-13 00:00:00+00:00,Human Centered Computing,Japan,121.0,50.0,0.413,2007,ISMAR,ISMAR 2007,False,False,False,False,1,Accessible Band
+NDSS2008,NDSS 2008,2008-02-10 00:00:00+00:00,Security And Privacy,United States,121.0,20.0,0.165,2008,NDSS,NDSS 2008,False,False,False,False,0,Highly Competitive Band
+RecSys2008,RecSys 2008,2008-10-23 00:00:00+00:00,Information Systems,Switzerland,121.0,38.0,0.314,2008,RECSYS,RECSYS 2008,False,False,False,False,1,Accessible Band
+ASE2007,ASE 2007,2007-11-05 00:00:00+00:00,Software Engineering,United States,312.0,37.0,0.12,2007,ASE,ASE 2007,False,False,True,False,0,Highly Competitive Band
+STOC2007,STOC 2007,2007-06-11 00:00:00+00:00,Theory Of Computations,United States,312.0,77.0,0.247,2007,STOC,STOC 2007,False,False,True,False,0,Highly Competitive Band
+ASE2008,ASE 2008,2008-09-15 00:00:00+00:00,Software Engineering,United States,280.0,34.0,0.12,2008,ASE,ASE 2008,False,False,True,False,0,Highly Competitive Band
+FSE2014,FSE 2014,2014-11-16 00:00:00+00:00,Software Engineering,China,280.0,61.0,0.218,2014,FSE,FSE 2014,False,False,True,False,0,Highly Competitive Band
+PERCOM2006,PERCOM 2006,2006-03-13 00:00:00+00:00,Computer Systems Organization,Italy,280.0,23.0,0.082,2006,PERCOM,PERCOM 2006,False,False,False,False,0,Highly Competitive Band
+TheWeb2000,TheWeb 2000,2000-05-15 00:00:00+00:00,World Wide Web,Netherlands,280.0,57.0,0.2,2000,THEWEB,THEWEB 2000,False,False,False,False,0,Highly Competitive Band
+ASE2009,ASE 2009,2009-11-16 00:00:00+00:00,Software Engineering,New Zealand,222.0,38.0,0.17,2009,ASE,ASE 2009,False,False,True,False,0,Highly Competitive Band
+ICWS2010,ICWS 2010,2010-07-05 00:00:00+00:00,World Wide Web,United States,222.0,39.0,0.176,2010,ICWS,ICWS 2010,False,False,False,False,0,Highly Competitive Band
+USENIX2012,USENIX 2012,2012-08-08 00:00:00+00:00,Software Engineering,United States,222.0,42.0,0.189,2012,USENIX,USENIX 2012,False,False,True,False,0,Highly Competitive Band
+ASE2010,ASE 2010,2010-09-20 00:00:00+00:00,Software Engineering,Belgium,190.0,33.0,0.174,2010,ASE,ASE 2010,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2005,EuroCrypt 2005,2005-05-22 00:00:00+00:00,Security And Privacy,Denmark,190.0,33.0,0.174,2005,EUROCRYPT,EUROCRYPT 2005,False,False,False,False,0,Highly Competitive Band
+ICWE2003,ICWE 2003,2003-07-14 00:00:00+00:00,World Wide Web,Spain,190.0,25.0,0.13,2003,ICWE,ICWE 2003,False,False,True,False,0,Highly Competitive Band
+ASE2011,ASE 2011,2011-11-06 00:00:00+00:00,Software Engineering,United States,252.0,38.0,0.15,2011,ASE,ASE 2011,False,False,True,False,0,Highly Competitive Band
+POPL2016,POPL 2016,2016-01-20 00:00:00+00:00,Software Engineering,United States,252.0,59.0,0.23,2016,POPL,POPL 2016,False,False,False,False,0,Highly Competitive Band
+ASE2012,ASE 2012,2012-09-03 00:00:00+00:00,Software Engineering,Germany,138.0,47.0,0.341,2012,ASE,ASE 2012,False,False,True,False,1,Accessible Band
+ECOOP2008,ECOOP 2008,2008-07-07 00:00:00+00:00,Software Engineering,Cyprus,138.0,27.0,0.196,2008,ECOOP,ECOOP 2008,False,False,True,False,0,Highly Competitive Band
+PODC2006,PODC 2006,2006-07-23 00:00:00+00:00,Software Engineering,United States,138.0,33.0,0.239,2006,PODC,PODC 2006,False,False,False,False,0,Highly Competitive Band
+ASE2013,ASE 2013,2013-11-11 00:00:00+00:00,Software Engineering,United States,254.0,43.0,0.169,2013,ASE,ASE 2013,False,False,True,False,0,Highly Competitive Band
+FOCS2003,FOCS 2003,2003-10-11 00:00:00+00:00,Computer Systems Organization,United States,254.0,62.0,0.244,2003,FOCS,FOCS 2003,False,False,False,False,0,Highly Competitive Band
+SP2009,S&P 2009,2009-05-17 00:00:00+00:00,Security And Privacy,United States,254.0,26.0,0.102,2009,S&P,S&P 2009,False,False,True,False,0,Highly Competitive Band
+ASE2014,ASE 2014,2014-09-15 00:00:00+00:00,Software Engineering,Sweden,337.0,81.0,0.24,2014,ASE,ASE 2014,False,False,True,False,0,Highly Competitive Band
+ASE2015,ASE 2015,2015-11-09 00:00:00+00:00,Software Engineering,United States,289.0,40.0,0.14,2015,ASE,ASE 2015,False,False,True,False,0,Highly Competitive Band
+SIGMOD2012,SIGMOD 2012,2012-05-20 00:00:00+00:00,Information Systems,United States,289.0,48.0,0.166,2012,SIGMOD,SIGMOD 2012,False,False,True,False,0,Highly Competitive Band
+ASE2016,ASE 2016,2016-09-03 00:00:00+00:00,Software Engineering,Singapore,333.0,53.0,0.159,2016,ASE,ASE 2016,False,False,True,False,0,Highly Competitive Band
+SP2014,S&P 2014,2014-05-18 00:00:00+00:00,Security And Privacy,United States,333.0,44.0,0.132,2014,S&P,S&P 2014,False,False,True,False,0,Highly Competitive Band
+UIST2014,UIST 2014,2014-10-05 00:00:00+00:00,Artificial Intelligence,United States,333.0,74.0,0.222,2014,UIST,UIST 2014,False,False,False,False,0,Highly Competitive Band
+ASE2017,ASE 2017,2017-10-30 00:00:00+00:00,Software Engineering,United States,388.0,65.0,0.168,2017,ASE,ASE 2017,False,False,True,False,0,Highly Competitive Band
+ASPLOS2000,ASPLOS 2000,2000-11-12 00:00:00+00:00,Software Engineering,United States,114.0,24.0,0.211,2000,ASPLOS,ASPLOS 2000,False,False,False,False,0,Highly Competitive Band
+ESORICS2003,ESORICS 2003,2003-10-13 00:00:00+00:00,Security And Privacy,Norway,114.0,19.0,0.167,2003,ESORICS,ESORICS 2003,False,False,True,False,0,Highly Competitive Band
+InfoVis2005,Infovis 2005,2005-10-23 00:00:00+00:00,Human Centered Computing,United States,114.0,31.0,0.27,2005,INFOVIS,INFOVIS 2005,False,False,True,False,1,Accessible Band
+SPAA2009,SPAA 2009,2009-08-11 00:00:00+00:00,Theory Of Computations,Canada,114.0,35.0,0.31,2009,SPAA,SPAA 2009,False,False,True,False,1,Accessible Band
+COLT2003,COLT 2003,2003-08-24 00:00:00+00:00,Theory Of Computations,United States,92.0,49.0,0.533,2003,COLT,COLT 2003,False,False,False,False,1,Accessible Band
+COLT2007,COLT 2007,2007-06-13 00:00:00+00:00,Theory Of Computations,United States,92.0,41.0,0.446,2007,COLT,COLT 2007,False,False,False,False,1,Accessible Band
+FSE2000,FSE 2000,2000-11-06 00:00:00+00:00,Software Engineering,United States,92.0,17.0,0.18,2000,FSE,FSE 2000,False,False,True,False,0,Highly Competitive Band
+ICFP2011,ICFP 2011,2011-09-19 00:00:00+00:00,Software Engineering,Japan,92.0,33.0,0.36,2011,ICFP,ICFP 2011,False,False,True,False,1,Accessible Band
+ICWE2013,ICWE 2013,2013-07-08 00:00:00+00:00,World Wide Web,Denmark,92.0,21.0,0.228,2013,ICWE,ICWE 2013,False,False,True,False,1,Accessible Band
+ECOOP2000,ECOOP 2000,2000-06-12 00:00:00+00:00,Software Engineering,France,109.0,20.0,0.183,2000,ECOOP,ECOOP 2000,False,False,True,False,0,Highly Competitive Band
+PODS2002,PODS 2002,2002-06-03 00:00:00+00:00,Information Systems,United States,109.0,24.0,0.22,2002,PODS,PODS 2002,False,False,False,False,0,Highly Competitive Band
+ASPLOS2002,ASPLOS 2002,2002-10-05 00:00:00+00:00,Software Engineering,United States,175.0,24.0,0.137,2002,ASPLOS,ASPLOS 2002,False,False,False,False,0,Highly Competitive Band
+HPCA2010,HPCA 2010,2010-01-09 00:00:00+00:00,Computer Systems Organization,India,175.0,32.0,0.183,2010,HPCA,HPCA 2010,False,False,False,False,0,Highly Competitive Band
+PERCOM2014,PERCOM 2014,2014-03-24 00:00:00+00:00,Computer Systems Organization,Hungary,175.0,25.0,0.143,2014,PERCOM,PERCOM 2014,False,False,False,False,0,Highly Competitive Band
+ASPLOS2004,ASPLOS 2004,2004-10-07 00:00:00+00:00,Software Engineering,United States,169.0,24.0,0.142,2004,ASPLOS,ASPLOS 2004,False,False,False,False,0,Highly Competitive Band
+FSE2004,FSE 2004,2004-10-31 00:00:00+00:00,Software Engineering,United States,169.0,25.0,0.15,2004,FSE,FSE 2004,False,False,True,False,0,Highly Competitive Band
+FSE2010,FSE 2010,2010-11-07 00:00:00+00:00,Software Engineering,United States,169.0,34.0,0.2,2010,FSE,FSE 2010,False,False,True,False,0,Highly Competitive Band
+PLDI2002,PLDI 2002,2002-06-17 00:00:00+00:00,Software Engineering,Germany,169.0,28.0,0.166,2002,PLDI,PLDI 2002,False,False,False,False,0,Highly Competitive Band
+ASPLOS2006,ASPLOS 2006,2006-10-21 00:00:00+00:00,Software Engineering,United States,158.0,38.0,0.241,2006,ASPLOS,ASPLOS 2006,False,False,False,False,0,Highly Competitive Band
+ASPLOS2008,ASPLOS 2008,2008-03-01 00:00:00+00:00,Software Engineering,United States,127.0,31.0,0.244,2008,ASPLOS,ASPLOS 2008,False,False,False,False,1,Accessible Band
+ICFP2017,ICFP 2017,2017-09-03 00:00:00+00:00,Software Engineering,England,127.0,44.0,0.347,2017,ICFP,ICFP 2017,False,False,True,False,1,Accessible Band
+NDSS2006,NDSS 2006,2006-02-02 00:00:00+00:00,Security And Privacy,United States,127.0,17.0,0.134,2006,NDSS,NDSS 2006,False,False,False,False,0,Highly Competitive Band
+PLDI2004,PLDI 2004,2004-06-09 00:00:00+00:00,Software Engineering,United States,127.0,25.0,0.197,2004,PLDI,PLDI 2004,False,False,False,False,0,Highly Competitive Band
+SPAA2017,SPAA 2017,2017-07-24 00:00:00+00:00,Theory Of Computations,United States,127.0,32.0,0.25,2017,SPAA,SPAA 2017,False,False,True,False,1,Accessible Band
+ASPLOS2009,ASPLOS 2009,2009-03-07 00:00:00+00:00,Software Engineering,United States,113.0,29.0,0.257,2009,ASPLOS,ASPLOS 2009,False,False,False,False,1,Accessible Band
+CCC2009,CCC 2009,2009-07-15 00:00:00+00:00,Theory Of Computations,France,113.0,37.0,0.327,2009,CCC,CCC 2009,False,False,True,False,1,Accessible Band
+ICSC2009,ICSC 2009,2009-09-14 00:00:00+00:00,World Wide Web,United States,113.0,34.0,0.3,2009,ICSC,ICSC 2009,False,False,True,False,1,Accessible Band
+PODS2010,PODS 2010,2010-06-06 00:00:00+00:00,Information Systems,United States,113.0,27.0,0.239,2010,PODS,PODS 2010,False,False,False,False,1,Accessible Band
+PODS2011,PODS 2011,2011-06-12 00:00:00+00:00,Information Systems,Greece,113.0,25.0,0.221,2011,PODS,PODS 2011,False,False,False,False,0,Highly Competitive Band
+ASPLOS2010,ASPLOS 2010,2010-03-13 00:00:00+00:00,Software Engineering,United States,181.0,32.0,0.177,2010,ASPLOS,ASPLOS 2010,False,False,False,False,0,Highly Competitive Band
+ESWC2006,ESWC 2006,2006-06-11 00:00:00+00:00,World Wide Web,Greece,181.0,48.0,0.324,2006,ESWC,ESWC 2006,False,False,False,False,1,Accessible Band
+HPCA2005,HPCA 2005,2005-02-12 00:00:00+00:00,Computer Systems Organization,United States,181.0,28.0,0.155,2005,HPCA,HPCA 2005,False,False,False,False,0,Highly Competitive Band
+ASPLOS2011,ASPLOS 2011,2011-03-05 00:00:00+00:00,Software Engineering,United States,152.0,32.0,0.211,2011,ASPLOS,ASPLOS 2011,False,False,False,False,0,Highly Competitive Band
+FSE2008,FSE 2008,2008-11-09 00:00:00+00:00,Software Engineering,United States,152.0,30.0,0.2,2008,FSE,FSE 2008,False,False,True,False,0,Highly Competitive Band
+RecSys2014,RecSys 2014,2014-10-06 00:00:00+00:00,Information Systems,United States,152.0,35.0,0.23,2014,RECSYS,RECSYS 2014,False,False,False,False,0,Highly Competitive Band
+UBICOMP2007,UBICOMP 2007,2007-09-16 00:00:00+00:00,Security And Privacy,Austria,152.0,29.0,0.19,2007,UBICOMP,UBICOMP 2007,False,False,True,False,0,Highly Competitive Band
+ASPLOS2012,ASPLOS 2012,2012-03-03 00:00:00+00:00,Software Engineering,England,172.0,37.0,0.215,2012,ASPLOS,ASPLOS 2012,False,False,False,False,0,Highly Competitive Band
+COLT2000,COLT 2000,2000-06-28 00:00:00+00:00,Theory Of Computations,United States,172.0,62.0,0.36,2000,COLT,COLT 2000,False,False,False,False,1,Accessible Band
+ECOOP2005,ECOOP 2005,2005-07-25 00:00:00+00:00,Software Engineering,England,172.0,24.0,0.14,2005,ECOOP,ECOOP 2005,False,False,True,False,0,Highly Competitive Band
+HPCA2006,HPCA 2006,2006-02-11 00:00:00+00:00,Computer Systems Organization,United States,172.0,22.0,0.128,2006,HPCA,HPCA 2006,False,False,False,False,0,Highly Competitive Band
+ICWE2007,ICWE 2007,2007-07-16 00:00:00+00:00,World Wide Web,Italy,172.0,39.0,0.227,2007,ICWE,ICWE 2007,False,False,True,False,0,Highly Competitive Band
+ISWC2015,ISWC 2015,2015-10-11 00:00:00+00:00,World Wide Web,United States,172.0,38.0,0.221,2015,ISWC,ISWC 2015,False,False,False,False,0,Highly Competitive Band
+InfoVis2011,Infovis 2011,2011-10-23 00:00:00+00:00,Human Centered Computing,United States,172.0,44.0,0.256,2011,INFOVIS,INFOVIS 2011,False,False,True,False,0,Highly Competitive Band
+KR2000,KR 2000,2000-04-11 00:00:00+00:00,Artificial Intelligence,United States,172.0,62.0,0.36,2000,KR,KR 2000,False,False,False,False,1,Accessible Band
+POPL2005,POPL 2005,2005-01-12 00:00:00+00:00,Software Engineering,United States,172.0,31.0,0.18,2005,POPL,POPL 2005,False,False,False,False,0,Highly Competitive Band
+ASPLOS2014,ASPLOS 2014,2014-03-01 00:00:00+00:00,Software Engineering,United States,217.0,49.0,0.226,2014,ASPLOS,ASPLOS 2014,False,False,False,False,0,Highly Competitive Band
+FSE2009,FSE 2009,2009-08-24 00:00:00+00:00,Software Engineering,Netherlands,217.0,33.0,0.15,2009,FSE,FSE 2009,False,False,True,False,0,Highly Competitive Band
+ISCA2004,ISCA 2004,2004-06-19 00:00:00+00:00,Computer Systems Organization,Germany,217.0,31.0,0.143,2004,ISCA,ISCA 2004,False,False,False,False,0,Highly Competitive Band
+ISWC2005,ISWC 2005,2005-11-06 00:00:00+00:00,World Wide Web,Ireland,217.0,54.0,0.249,2005,ISWC,ISWC 2005,False,False,False,False,0,Highly Competitive Band
+ASPLOS2015,ASPLOS 2015,2015-03-14 00:00:00+00:00,Software Engineering,Turkey,287.0,48.0,0.167,2015,ASPLOS,ASPLOS 2015,False,False,False,False,0,Highly Competitive Band
+ICDE2000,ICDE,2000-02-28 00:00:00+00:00,Software Engineering,United States,287.0,41.0,0.143,2000,ICDE,ICDE 2000,False,False,False,False,0,Highly Competitive Band
+ICDE2002,ICDE,2002-02-26 00:00:00+00:00,Software Engineering,United States,287.0,54.0,0.188,2002,ICDE,ICDE 2002,False,False,False,False,0,Highly Competitive Band
+PLDI2014,PLDI 2014,2014-06-09 00:00:00+00:00,Software Engineering,England,287.0,52.0,0.181,2014,PLDI,PLDI 2014,False,False,False,False,0,Highly Competitive Band
+STOC2002,STOC 2002,2002-05-19 00:00:00+00:00,Theory Of Computations,Canada,287.0,91.0,0.317,2002,STOC,STOC 2002,False,False,True,False,1,Accessible Band
+ASPLOS2016,ASPLOS 2016,2016-04-02 00:00:00+00:00,Software Engineering,United States,232.0,53.0,0.228,2016,ASPLOS,ASPLOS 2016,False,False,False,False,0,Highly Competitive Band
+ASPLOS2017,ASPLOS 2017,2017-04-08 00:00:00+00:00,Software Engineering,China,320.0,53.0,0.166,2017,ASPLOS,ASPLOS 2017,False,False,False,False,0,Highly Competitive Band
+CCC2005,CCC 2005,2005-06-11 00:00:00+00:00,Theory Of Computations,United States,79.0,30.0,0.38,2005,CCC,CCC 2005,False,False,True,False,1,Accessible Band
+ECOOP2016,ECOOP 2016,2016-07-18 00:00:00+00:00,Software Engineering,Italy,79.0,25.0,0.316,2016,ECOOP,ECOOP 2016,False,False,True,False,1,Accessible Band
+ESWC2004,ESWS 2004,2004-05-10 00:00:00+00:00,World Wide Web,Greece,79.0,,,2004,ESWS,ESWS 2004,False,False,False,False,-1,Unclassified
+IJCAR2016,IJCAR 2016,2016-06-27 00:00:00+00:00,Theory Of Computations,Portugal,79.0,35.0,0.443,2016,IJCAR,IJCAR 2016,False,False,False,False,1,Accessible Band
+NDSS2002,NDSS 2002,2002-02-06 00:00:00+00:00,Security And Privacy,United States,79.0,16.0,0.203,2002,NDSS,NDSS 2002,False,False,False,False,1,Accessible Band
+CCC2006,CCC 2006,2006-07-16 00:00:00+00:00,Theory Of Computations,Czech Republic,87.0,28.0,0.323,2006,CCC,CCC 2006,False,False,True,False,1,Accessible Band
+CCC2008,CCC 2008,2008-06-23 00:00:00+00:00,Theory Of Computations,United States,87.0,32.0,0.368,2008,CCC,CCC 2008,False,False,True,False,1,Accessible Band
+CSF2016,CSF 2016,2016-06-27 00:00:00+00:00,Security And Privacy,Portugal,87.0,31.0,0.356,2016,CSF,CSF 2016,False,False,True,False,1,Accessible Band
+ICFP2005,ICFP 2005,2005-09-26 00:00:00+00:00,Software Engineering,Estonia,87.0,26.0,0.3,2005,ICFP,ICFP 2005,False,False,True,False,1,Accessible Band
+ISMAR2014,ISMAR 2014,2014-09-10 00:00:00+00:00,Human Centered Computing,Germany,87.0,33.0,0.379,2014,ISMAR,ISMAR 2014,False,False,False,False,1,Accessible Band
+CCC2007,CCC 2007,2007-06-13 00:00:00+00:00,Theory Of Computations,United States,90.0,30.0,0.333,2007,CCC,CCC 2007,False,False,True,False,1,Accessible Band
+CCC2013,CCC 2013,2013-06-05 00:00:00+00:00,Theory Of Computations,United States,90.0,29.0,0.322,2013,CCC,CCC 2013,False,False,True,False,1,Accessible Band
+FASE2016,FASE 2016,2016-04-02 00:00:00+00:00,Software Engineering,Netherlands,90.0,24.0,0.267,2016,FASE,FASE 2016,False,False,True,False,1,Accessible Band
+ICWE2009,ICWE 2009,2009-06-24 00:00:00+00:00,World Wide Web,Spain,90.0,32.0,0.351,2009,ICWE,ICWE 2009,False,False,True,False,1,Accessible Band
+ICWE2011,ICWE 2011,2011-06-20 00:00:00+00:00,World Wide Web,Cyprus,90.0,22.0,0.244,2011,ICWE,ICWE 2011,False,False,True,False,1,Accessible Band
+InfoVis2003,Infovis 2003,2003-10-20 00:00:00+00:00,Human Centered Computing,United States,90.0,29.0,0.32,2003,INFOVIS,INFOVIS 2003,False,False,True,False,1,Accessible Band
+UBICOMP2001,UBICOMP 2001,2001-09-30 00:00:00+00:00,Security And Privacy,United States,90.0,14.0,0.15,2001,UBICOMP,UBICOMP 2001,False,False,True,False,0,Highly Competitive Band
+CCC2010,CCC 2010,2010-06-09 00:00:00+00:00,Theory Of Computations,Canada,76.0,25.0,0.329,2010,CCC,CCC 2010,False,False,True,False,1,Accessible Band
+ICFP2002,ICFP 2002,2002-10-04 00:00:00+00:00,Software Engineering,United States,76.0,24.0,0.32,2002,ICFP,ICFP 2002,False,False,True,False,1,Accessible Band
+SBAC-PAD2011,SBAC-PAD 2011,2011-10-26 00:00:00+00:00,Computer Systems Organization,Brazil,76.0,26.0,0.342,2011,SBAC-PAD,SBAC-PAD 2011,False,False,True,False,1,Accessible Band
+CCC2011,CCC 2011,2011-06-08 00:00:00+00:00,Theory Of Computations,United States,83.0,30.0,0.361,2011,CCC,CCC 2011,False,False,True,False,1,Accessible Band
+CSF2014,CSF 2014,2014-07-19 00:00:00+00:00,Security And Privacy,Austria,83.0,29.0,0.349,2014,CSF,CSF 2014,False,False,True,False,1,Accessible Band
+ESORICS2002,ESORICS 2002,2002-10-14 00:00:00+00:00,Security And Privacy,Switzerland,83.0,19.0,0.229,2002,ESORICS,ESORICS 2002,False,False,True,False,1,Accessible Band
+IJCAR2014,IJCAR 2014,2014-07-19 00:00:00+00:00,Theory Of Computations,Austria,83.0,37.0,0.446,2014,IJCAR,IJCAR 2014,False,False,False,False,1,Accessible Band
+ISSAC2011,ISSAC 2011,2011-06-08 00:00:00+00:00,Theory Of Computations,United States,83.0,44.0,0.53,2011,ISSAC,ISSAC 2011,False,False,True,False,1,Accessible Band
+SBAC-PAD2005,SBAC-PAD 2005,2005-10-24 00:00:00+00:00,Computer Systems Organization,Brazil,83.0,29.0,0.349,2005,SBAC-PAD,SBAC-PAD 2005,False,False,True,False,1,Accessible Band
+CCC2015,CCC 2015,2015-06-17 00:00:00+00:00,Theory Of Computations,United States,110.0,30.0,0.273,2015,CCC,CCC 2015,False,False,True,False,1,Accessible Band
+CSCW2009,CSCW 2009,2009-04-22 00:00:00+00:00,Computer Systems Organization,United States,110.0,35.0,0.318,2009,CSCW,CSCW 2009,False,False,True,False,1,Accessible Band
+CSCW2018,CSCW 2009,2009-04-22 00:00:00+00:00,Computer Systems Organization,United States,110.0,35.0,0.318,2009,CSCW,CSCW 2009,False,False,True,False,1,Accessible Band
+HPCA2001,HPCA 2001,2001-01-20 00:00:00+00:00,Computer Systems Organization,Mexico,110.0,26.0,0.236,2001,HPCA,HPCA 2001,False,False,False,False,1,Accessible Band
+ICFP2000,ICFP 2000,2000-09-18 00:00:00+00:00,Software Engineering,Canada,110.0,24.0,0.22,2000,ICFP,ICFP 2000,False,False,True,False,0,Highly Competitive Band
+ICWE2015,ICWE 2015,2015-06-23 00:00:00+00:00,World Wide Web,Netherlands,110.0,26.0,0.24,2015,ICWE,ICWE 2015,False,False,True,False,1,Accessible Band
+ISSAC2010,ISSAC 2010,2010-07-25 00:00:00+00:00,Theory Of Computations,Germany,110.0,45.0,0.409,2010,ISSAC,ISSAC 2010,False,False,True,False,1,Accessible Band
+JCDL2010,,2010-06-21 00:00:00+00:00,,,110.0,32.0,0.29,2010,,nan,False,False,False,False,1,Accessible Band
+PODC2009,PODC 2009,2009-08-10 00:00:00+00:00,Software Engineering,Canada,110.0,27.0,0.245,2009,PODC,PODC 2009,False,False,False,False,1,Accessible Band
+RecSys2011,RecSys 2011,2011-10-23 00:00:00+00:00,Information Systems,United States,110.0,22.0,0.2,2011,RECSYS,RECSYS 2011,False,False,False,False,0,Highly Competitive Band
+SPAA2010,SPAA 2010,2010-06-13 00:00:00+00:00,Theory Of Computations,Greece,110.0,35.0,0.32,2010,SPAA,SPAA 2010,False,False,True,False,1,Accessible Band
+VR2001,IEEE VR 2001,2001-03-13 00:00:00+00:00,Human Centered Computing,Japan,110.0,33.0,0.3,2001,IEEE VR,IEEE VR 2001,False,False,False,False,1,Accessible Band
+CCC2016,CCC 2016,2016-05-29 00:00:00+00:00,Theory Of Computations,Japan,91.0,34.0,0.374,2016,CCC,CCC 2016,False,False,True,False,1,Accessible Band
+FASE2004,FASE 2004,2004-03-29 00:00:00+00:00,Software Engineering,Spain,91.0,22.0,0.242,2004,FASE,FASE 2004,False,False,True,False,1,Accessible Band
+FASE2017,FASE 2017,2017-04-22 00:00:00+00:00,Software Engineering,Sweden,91.0,23.0,0.253,2017,FASE,FASE 2017,False,False,True,False,1,Accessible Band
+JCDL2012,,2012-06-10 00:00:00+00:00,,,91.0,25.0,0.27,2012,,nan,False,False,False,False,1,Accessible Band
+CCC2017,CCC 2017,2017-07-06 00:00:00+00:00,Theory Of Computations,Latvia,98.0,33.0,0.337,2017,CCC,CCC 2017,False,False,True,False,1,Accessible Band
+COLT2013,COLT 2013,2013-06-12 00:00:00+00:00,Theory Of Computations,United States,98.0,47.0,0.48,2013,COLT,COLT 2013,False,False,False,False,1,Accessible Band
+ICWE2012,ICWE 2012,2012-07-23 00:00:00+00:00,World Wide Web,Germany,98.0,20.0,0.204,2012,ICWE,ICWE 2012,False,False,True,False,0,Highly Competitive Band
+IJCAR2008,IJCAR 2008,2008-08-10 00:00:00+00:00,Theory Of Computations,Austria,98.0,39.0,0.398,2008,IJCAR,IJCAR 2008,False,False,False,False,1,Accessible Band
+ISSAC2000,ISSAC 2000,2000-08-06 00:00:00+00:00,Theory Of Computations,Scotland,98.0,40.0,0.408,2000,ISSAC,ISSAC 2000,False,False,True,False,1,Accessible Band
+ISSAC2007,ISSAC 2007,2007-07-29 00:00:00+00:00,Theory Of Computations,Canada,98.0,50.0,0.51,2007,ISSAC,ISSAC 2007,False,False,True,False,1,Accessible Band
+NDSS2004,NDSS 2004,2004-02-05 00:00:00+00:00,Security And Privacy,United States,98.0,16.0,0.163,2004,NDSS,NDSS 2004,False,False,False,False,0,Highly Competitive Band
+FASE2000,FASE 2000,2000-03-25 00:00:00+00:00,Software Engineering,Germany,60.0,21.0,0.35,2000,FASE,FASE 2000,False,False,True,False,1,Accessible Band
+FASE2002,FASE 2002,2002-04-08 00:00:00+00:00,Software Engineering,France,60.0,21.0,0.35,2002,FASE,FASE 2002,False,False,True,False,1,Accessible Band
+JCDL2015,,2015-06-21 00:00:00+00:00,,,60.0,18.0,0.3,2015,,nan,False,False,False,False,1,Accessible Band
+SBAC-PAD2009,SBAC-PAD 2009,2009-10-28 00:00:00+00:00,Computer Systems Organization,Brazil,60.0,21.0,0.35,2009,SBAC-PAD,SBAC-PAD 2009,False,False,True,False,1,Accessible Band
+PKDD2002,ECML PKDD 2002,2002-08-19 00:00:00+00:00,Information Systems,Finland,70.0,39.0,0.557,2002,ECML PKDD,ECML PKDD 2002,False,False,False,False,1,Accessible Band
+EUROGP2011,EuroGP 2011,2011-04-27 00:00:00+00:00,Artificial Intelligence,Italy,59.0,20.0,0.339,2011,EUROGP,EUROGP 2011,False,False,True,False,1,Accessible Band
+EuroGP2006,EuroGP,2006-04-10 00:00:00+00:00,Artificial Intelligence,Hungary,59.0,21.0,0.356,2006,EUROGP,EUROGP 2006,False,False,True,False,1,Accessible Band
+EuroGP2006,EuroGP 2006,2006-04-10 00:00:00+00:00,Artificial Intelligence,Hungary,59.0,21.0,0.356,2006,EUROGP,EUROGP 2006,False,False,True,False,1,Accessible Band
+EuroGP2005,EuroGP 2005,2005-03-30 00:00:00+00:00,Artificial Intelligence,Switzerland,64.0,20.0,0.312,2005,EUROGP,EUROGP 2005,False,False,True,False,1,Accessible Band
+ICFP2009,ICFP 2009,2009-08-31 00:00:00+00:00,Software Engineering,Scotland,85.0,26.0,0.31,2009,ICFP,ICFP 2009,False,False,True,False,1,Accessible Band
+ICFP2014,ICFP 2014,2014-09-01 00:00:00+00:00,Software Engineering,Sweden,85.0,28.0,0.33,2014,ICFP,ICFP 2014,False,False,True,False,1,Accessible Band
+CCS2000,CCS 2000,2000-11-01 00:00:00+00:00,Security And Privacy,Greece,132.0,28.0,0.212,2000,CCS,CCS 2000,False,False,False,False,0,Highly Competitive Band
+CSCW2007,CSCW 2007,2007-11-04 00:00:00+00:00,Computer Systems Organization,United States,132.0,38.0,0.288,2007,CSCW,CSCW 2007,False,False,True,False,1,Accessible Band
+ECOOP2004,ECOOP 2004,2004-06-14 00:00:00+00:00,Software Engineering,Norway,132.0,25.0,0.189,2004,ECOOP,ECOOP 2004,False,False,True,False,0,Highly Competitive Band
+SBAC-PAD2014,SBAC-PAD 2014,2014-10-22 00:00:00+00:00,Computer Systems Organization,France,132.0,43.0,0.326,2014,SBAC-PAD,SBAC-PAD 2014,False,False,True,False,1,Accessible Band
+CCS2001,CCS 2001,2001-11-05 00:00:00+00:00,Security And Privacy,United States,153.0,27.0,0.176,2001,CCS,CCS 2001,False,False,False,False,0,Highly Competitive Band
+CCS2002,CCS 2002,2002-11-18 00:00:00+00:00,Security And Privacy,United States,153.0,27.0,0.176,2002,CCS,CCS 2002,False,False,False,False,0,Highly Competitive Band
+HPCA2004,HPCA 2004,2004-02-14 00:00:00+00:00,Computer Systems Organization,Spain,153.0,27.0,0.176,2004,HPCA,HPCA 2004,False,False,False,False,0,Highly Competitive Band
+CCS2003,CCS 2003,2003-10-27 00:00:00+00:00,Security And Privacy,United States,253.0,35.0,0.138,2003,CCS,CCS 2003,False,False,False,False,0,Highly Competitive Band
+UAI2004,UAI 2004,2004-07-07 00:00:00+00:00,Artificial Intelligence,Canada,253.0,76.0,0.3,2004,UAI,UAI 2004,False,False,True,False,0,Highly Competitive Band
+CCS2005,CCS 2005,2005-11-07 00:00:00+00:00,Security And Privacy,United States,250.0,38.0,0.152,2005,CCS,CCS 2005,False,False,False,False,0,Highly Competitive Band
+ESWC2009,ESWC 2009,2009-05-31 00:00:00+00:00,World Wide Web,Greece,250.0,45.0,0.18,2009,ESWC,ESWC 2009,False,False,False,False,0,Highly Competitive Band
+ICWS2016,ICWS 2016,2016-06-27 00:00:00+00:00,World Wide Web,United States,250.0,30.0,0.14,2016,ICWS,ICWS 2016,False,False,False,False,0,Highly Competitive Band
+ISWC2009,ISWC 2009,2009-10-25 00:00:00+00:00,World Wide Web,United States,250.0,43.0,0.172,2009,ISWC,ISWC 2009,False,False,False,False,0,Highly Competitive Band
+JCDL2001,,2001-06-24 00:00:00+00:00,,,250.0,76.0,0.3,2001,,nan,False,False,False,False,1,Accessible Band
+NDSS2013,NDSS 2013,2013-02-24 00:00:00+00:00,Security And Privacy,United States,250.0,47.0,0.188,2013,NDSS,NDSS 2013,False,False,False,False,0,Highly Competitive Band
+CCS2006,CCS 2006,2006-10-30 00:00:00+00:00,Security And Privacy,United States,256.0,38.0,0.148,2006,CCS,CCS 2006,False,False,False,False,0,Highly Competitive Band
+UAI2008,UAI 2008,2008-07-09 00:00:00+00:00,Artificial Intelligence,Finland,256.0,72.0,0.281,2008,UAI,UAI 2008,False,False,True,False,0,Highly Competitive Band
+CCS2007,CCS 2007,2007-10-29 00:00:00+00:00,Security And Privacy,United States,302.0,55.0,0.182,2007,CCS,CCS 2007,False,False,False,False,0,Highly Competitive Band
+FOCS2007,FOCS 2007,2007-10-20 00:00:00+00:00,Computer Systems Organization,United States,302.0,66.0,0.219,2007,FOCS,FOCS 2007,False,False,False,False,0,Highly Competitive Band
+NDSS2015,NDSS 2015,2015-02-08 00:00:00+00:00,Security And Privacy,United States,302.0,51.0,0.169,2015,NDSS,NDSS 2015,False,False,False,False,0,Highly Competitive Band
+UBICOMP2011,UBICOMP 2011,2011-09-17 00:00:00+00:00,Security And Privacy,China,302.0,51.0,0.17,2011,UBICOMP,UBICOMP 2011,False,False,True,False,0,Highly Competitive Band
+CCS2008,CCS 2008,2008-10-27 00:00:00+00:00,Security And Privacy,United States,274.0,51.0,0.186,2008,CCS,CCS 2008,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2016,EuroCrypt 2016,2016-05-08 00:00:00+00:00,Security And Privacy,Austria,274.0,62.0,0.226,2016,EUROCRYPT,EUROCRYPT 2016,False,False,False,False,0,Highly Competitive Band
+CCS2009,CCS 2009,2009-11-09 00:00:00+00:00,Security And Privacy,United States,317.0,58.0,0.183,2009,CCS,CCS 2009,False,False,False,False,0,Highly Competitive Band
+UIST2013,UIST 2013,2013-10-08 00:00:00+00:00,Artificial Intelligence,England,317.0,62.0,0.196,2013,UIST,UIST 2013,False,False,False,False,0,Highly Competitive Band
+CCS2010,CCS 2010,2010-10-04 00:00:00+00:00,Security And Privacy,United States,325.0,55.0,0.169,2010,CCS,CCS 2010,False,False,False,False,0,Highly Competitive Band
+STOC2008,STOC 2008,2008-05-17 00:00:00+00:00,Theory Of Computations,Canada,325.0,80.0,0.246,2008,STOC,STOC 2008,False,False,True,False,0,Highly Competitive Band
+CCS2011,CCS 2011,2011-10-17 00:00:00+00:00,Security And Privacy,United States,429.0,60.0,0.14,2011,CCS,CCS 2011,False,False,False,False,0,Highly Competitive Band
+CCS2012,CCS 2012,2012-10-16 00:00:00+00:00,Security And Privacy,United States,426.0,81.0,0.19,2012,CCS,CCS 2012,False,False,False,False,0,Highly Competitive Band
+USENIX2015,USENIX 2015,2015-08-12 00:00:00+00:00,Software Engineering,United States,426.0,198.0,0.465,2015,USENIX,USENIX 2015,False,False,True,False,1,Accessible Band
+CCS2014,CCS 2014,2014-11-03 00:00:00+00:00,Security And Privacy,United States,585.0,114.0,0.195,2014,CCS,CCS 2014,False,False,False,False,0,Highly Competitive Band
+CCS2015,CCS 2015,2015-10-12 00:00:00+00:00,Security And Privacy,United States,660.0,128.0,0.194,2015,CCS,CCS 2015,False,False,False,False,0,Highly Competitive Band
+CCS2016,CCS 2016,2016-10-24 00:00:00+00:00,Security And Privacy,Austria,831.0,137.0,0.165,2016,CCS,CCS 2016,False,False,False,False,0,Highly Competitive Band
+TheWeb2013,TheWeb 2013,2013-05-13 00:00:00+00:00,World Wide Web,Brazil,831.0,125.0,0.15,2013,THEWEB,THEWEB 2013,False,False,False,False,0,Highly Competitive Band
+CCS2017,CCS 2017,2017-10-30 00:00:00+00:00,Security And Privacy,United States,836.0,151.0,0.181,2017,CCS,CCS 2017,False,False,False,False,0,Highly Competitive Band
+InfoVis2016,Infovis 2016,2016-10-23 00:00:00+00:00,Human Centered Computing,United States,165.0,38.0,0.23,2016,INFOVIS,INFOVIS 2016,False,False,True,False,0,Highly Competitive Band
+COLT2015,COLT 2015,2015-06-03 00:00:00+00:00,Theory Of Computations,France,176.0,62.0,0.352,2015,COLT,COLT 2015,False,False,False,False,1,Accessible Band
+CSCW2004,CSCW 2004,2004-11-06 00:00:00+00:00,Computer Systems Organization,United States,176.0,53.0,0.3,2004,CSCW,CSCW 2004,False,False,True,False,1,Accessible Band
+ICWS2012,ICWS 2012,2012-06-24 00:00:00+00:00,World Wide Web,United States,176.0,30.0,0.17,2012,ICWS,ICWS 2012,False,False,False,False,0,Highly Competitive Band
+POPL2004,POPL 2004,2004-01-14 00:00:00+00:00,Software Engineering,Italy,176.0,29.0,0.16,2004,POPL,POPL 2004,False,False,False,False,0,Highly Competitive Band
+USENIX2009,USENIX 2009,2009-08-10 00:00:00+00:00,Software Engineering,United States,176.0,26.0,0.148,2009,USENIX,USENIX 2009,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2002,EuroCrypt 2002,2002-04-28 00:00:00+00:00,Security And Privacy,Netherlands,122.0,33.0,0.27,2002,EUROCRYPT,EUROCRYPT 2002,False,False,False,False,1,Accessible Band
+ICSC2013,ICSC 2013,2013-09-16 00:00:00+00:00,World Wide Web,United States,122.0,37.0,0.3,2013,ICSC,ICSC 2013,False,False,True,False,1,Accessible Band
+SPAA2014,SPAA 2014,2014-06-23 00:00:00+00:00,Theory Of Computations,Czech Republic,122.0,30.0,0.25,2014,SPAA,SPAA 2014,False,False,True,False,1,Accessible Band
+FASE2006,FASE 2006,2006-03-26 00:00:00+00:00,Software Engineering,Austria,166.0,27.0,0.163,2006,FASE,FASE 2006,False,False,True,False,0,Highly Competitive Band
+OOPSLA2011,OOPSLA 2011,2011-10-22 00:00:00+00:00,Software Engineering,United States,166.0,61.0,0.367,2011,OOPSLA,OOPSLA 2011,False,False,False,False,1,Accessible Band
+DSN2006,DSN 2006,2006-06-25 00:00:00+00:00,Computer Systems Organization,United States,187.0,34.0,0.182,2006,DSN,DSN 2006,False,False,False,False,0,Highly Competitive Band
+EDBT2000,EDBT 2000,2000-03-27 00:00:00+00:00,Information Systems,Germany,187.0,30.0,0.16,2000,EDBT,EDBT 2000,False,False,False,False,0,Highly Competitive Band
+PODC2008,PODC 2008,2008-08-18 00:00:00+00:00,Software Engineering,Canada,187.0,84.0,0.449,2008,PODC,PODC 2008,False,False,False,False,1,Accessible Band
+PODS2007,PODS 2007,2007-06-11 00:00:00+00:00,Information Systems,China,187.0,28.0,0.15,2007,PODS,PODS 2007,False,False,False,False,0,Highly Competitive Band
+RecSys2009,RecSys 2009,2009-10-23 00:00:00+00:00,Information Systems,United States,187.0,80.0,0.428,2009,RECSYS,RECSYS 2009,False,False,False,False,1,Accessible Band
+USENIX2007,USENIX 2007,2007-08-06 00:00:00+00:00,Software Engineering,United States,187.0,23.0,0.123,2007,USENIX,USENIX 2007,False,False,True,False,0,Highly Competitive Band
+COLT2016,COLT 2016,2016-07-23 00:00:00+00:00,Theory Of Computations,United States,199.0,63.0,0.317,2016,COLT,COLT 2016,False,False,False,False,1,Accessible Band
+CSCW2000,CSCW 2000,2000-12-02 00:00:00+00:00,Computer Systems Organization,United States,199.0,36.0,0.18,2000,CSCW,CSCW 2000,False,False,True,False,0,Highly Competitive Band
+OSDI2010,OSDI 2010,2010-10-04 00:00:00+00:00,Software Engineering,Canada,199.0,32.0,0.161,2010,OSDI,OSDI 2010,False,False,False,False,0,Highly Competitive Band
+PERCOM2009,PERCOM 2009,2009-03-09 00:00:00+00:00,Computer Systems Organization,United States,199.0,26.0,0.131,2009,PERCOM,PERCOM 2009,False,False,False,False,0,Highly Competitive Band
+DSN2009,DSN 2009,2009-06-29 00:00:00+00:00,Computer Systems Organization,Portugal,260.0,63.0,0.242,2009,DSN,DSN 2009,False,False,False,False,0,Highly Competitive Band
+UAI2010,UAI 2010,2010-07-08 00:00:00+00:00,Artificial Intelligence,United States,260.0,88.0,0.338,2010,UAI,UAI 2010,False,False,True,False,1,Accessible Band
+FOCS2006,FOCS 2006,2006-10-22 00:00:00+00:00,Computer Systems Organization,United States,240.0,71.0,0.296,2006,FOCS,FOCS 2006,False,False,False,False,0,Highly Competitive Band
+HPCA2016,HPCA 2016,2016-03-12 00:00:00+00:00,Computer Systems Organization,Spain,240.0,53.0,0.221,2016,HPCA,HPCA 2016,False,False,False,False,0,Highly Competitive Band
+JCDL2002,,2002-06-14 00:00:00+00:00,,,240.0,69.0,0.29,2002,,nan,False,False,False,False,0,Highly Competitive Band
+SIGMOD2002,SIGMOD 2002,2002-06-03 00:00:00+00:00,Information Systems,United States,240.0,42.0,0.175,2002,SIGMOD,SIGMOD 2002,False,False,True,False,0,Highly Competitive Band
+JCDL2003,,2003-05-27 00:00:00+00:00,,,216.0,54.0,0.25,2003,,nan,False,False,False,False,0,Highly Competitive Band
+EDBT2015,EDBT 2015,2015-03-23 00:00:00+00:00,Information Systems,Belgium,228.0,74.0,0.325,2015,EDBT,EDBT 2015,False,False,False,False,1,Accessible Band
+ISWC2010,ISWC 2010,2010-11-07 00:00:00+00:00,World Wide Web,China,228.0,51.0,0.224,2010,ISWC,ISWC 2010,False,False,False,False,0,Highly Competitive Band
+OOPSLA2012,OOPSLA 2012,2012-10-21 00:00:00+00:00,Software Engineering,United States,228.0,59.0,0.259,2012,OOPSLA,OOPSLA 2012,False,False,False,False,0,Highly Competitive Band
+OSDI2014,OSDI 2014,2014-10-06 00:00:00+00:00,Software Engineering,United States,228.0,42.0,0.184,2014,OSDI,OSDI 2014,False,False,False,False,0,Highly Competitive Band
+ESORICS2014,ESORICS 2014,2014-09-07 00:00:00+00:00,Security And Privacy,Poland,234.0,58.0,0.248,2014,ESORICS,ESORICS 2014,False,False,True,False,0,Highly Competitive Band
+ISCA2006,ISCA 2006,2006-06-17 00:00:00+00:00,Computer Systems Organization,United States,234.0,31.0,0.132,2006,ISCA,ISCA 2006,False,False,False,False,0,Highly Competitive Band
+SIGIR2015,SIGIR 2015,2015-08-09 00:00:00+00:00,Information Systems,United States,351.0,70.0,0.199,2015,SIGIR,SIGIR 2015,False,False,True,False,0,Highly Competitive Band
+VLDB2000,VLDB 2000,2000-09-10 00:00:00+00:00,Information Systems,Egypt,351.0,53.0,0.151,2000,VLDB,VLDB 2000,False,False,False,False,0,Highly Competitive Band
+CHI2000,CHI 2000,2000-04-01 00:00:00+00:00,Human Centered Computing,Netherlands,336.0,71.0,0.211,2000,CHI,CHI 2000,False,False,True,False,0,Highly Competitive Band
+CHI2001,CHI 2001,2001-03-31 00:00:00+00:00,Human Centered Computing,United States,352.0,69.0,0.196,2001,CHI,CHI 2001,False,False,True,False,0,Highly Competitive Band
+EDBT2006,EDBT 2006,2006-03-26 00:00:00+00:00,Information Systems,Germany,352.0,60.0,0.17,2006,EDBT,EDBT 2006,False,False,False,False,0,Highly Competitive Band
+CHI2002,CHI 2002,2002-04-20 00:00:00+00:00,Human Centered Computing,United States,414.0,61.0,0.147,2002,CHI,CHI 2002,False,False,True,False,0,Highly Competitive Band
+CHI2003,CHI 2003,2003-04-05 00:00:00+00:00,Human Centered Computing,United States,468.0,75.0,0.16,2003,CHI,CHI 2003,False,False,True,False,0,Highly Competitive Band
+USENIX2016,USENIX 2016,2016-08-10 00:00:00+00:00,Software Engineering,United States,468.0,72.0,0.154,2016,USENIX,USENIX 2016,False,False,True,False,0,Highly Competitive Band
+VLDB2002,VLDB 2002,2002-08-20 00:00:00+00:00,Information Systems,China,468.0,84.0,0.179,2002,VLDB,VLDB 2002,False,False,False,False,0,Highly Competitive Band
+CHI2004,CHI 2004,2004-04-24 00:00:00+00:00,Human Centered Computing,Austria,578.0,92.0,0.16,2004,CHI,CHI 2004,False,False,True,False,0,Highly Competitive Band
+CHI2005,CHI 2005,2005-04-02 00:00:00+00:00,Human Centered Computing,United States,372.0,93.0,0.25,2005,CHI,CHI 2005,False,False,True,False,0,Highly Competitive Band
+SIGMOD2013,SIGMOD 2013,2013-06-22 00:00:00+00:00,Information Systems,United States,372.0,76.0,0.204,2013,SIGMOD,SIGMOD 2013,False,False,True,False,0,Highly Competitive Band
+WSDM2011,WSDM 2011,2011-02-09 00:00:00+00:00,World Wide Web,China,372.0,83.0,0.22,2011,WSDM,WSDM 2011,False,False,False,False,0,Highly Competitive Band
+CHI2006,CHI 2006,2006-04-24 00:00:00+00:00,Human Centered Computing,Canada,626.0,151.0,0.241,2006,CHI,CHI 2006,False,False,True,False,0,Highly Competitive Band
+VLDB2006,VLDB 2006,2006-09-12 00:00:00+00:00,Information Systems,Korea,626.0,83.0,0.133,2006,VLDB,VLDB 2006,False,False,False,False,0,Highly Competitive Band
+CHI2007,CHI 2007,2007-04-28 00:00:00+00:00,Human Centered Computing,United States,840.0,181.0,0.216,2007,CHI,CHI 2007,False,False,True,False,0,Highly Competitive Band
+CHI2008,CHI 2008,2008-04-05 00:00:00+00:00,Human Centered Computing,Italy,714.0,156.0,0.219,2008,CHI,CHI 2008,False,False,True,False,0,Highly Competitive Band
+CHI2009,CHI 2009,2009-04-04 00:00:00+00:00,Human Centered Computing,United States,1130.0,277.0,0.245,2009,CHI,CHI 2009,False,False,True,False,0,Highly Competitive Band
+CHI2010,CHI 2010,2010-04-10 00:00:00+00:00,Human Centered Computing,United States,1346.0,302.0,0.224,2010,CHI,CHI 2010,False,False,True,False,0,Highly Competitive Band
+CHI2011,CHI 2011,2011-05-07 00:00:00+00:00,Human Centered Computing,Canada,1532.0,409.0,0.267,2011,CHI,CHI 2011,False,False,True,False,0,Highly Competitive Band
+CHI2012,CHI 2012,2012-05-05 00:00:00+00:00,Human Centered Computing,United States,1577.0,369.0,0.234,2012,CHI,CHI 2012,False,False,True,False,0,Highly Competitive Band
+CHI2013,CHI 2013,2013-04-27 00:00:00+00:00,Human Centered Computing,France,1963.0,391.0,0.199,2013,CHI,CHI 2013,False,False,True,False,0,Highly Competitive Band
+CHI2014,CHI 2014,2014-04-26 00:00:00+00:00,Human Centered Computing,Canada,2043.0,464.0,0.227,2014,CHI,CHI 2014,False,False,True,False,0,Highly Competitive Band
+CHI2015,CHI 2015,2015-04-18 00:00:00+00:00,Human Centered Computing,Korea,2120.0,485.0,0.229,2015,CHI,CHI 2015,False,False,True,False,0,Highly Competitive Band
+CHI2016,CHI 2016,2016-05-07 00:00:00+00:00,Human Centered Computing,United States,2435.0,565.0,0.232,2016,CHI,CHI 2016,False,False,True,False,0,Highly Competitive Band
+CHI2017,CHI 2017,2017-05-06 00:00:00+00:00,Human Centered Computing,United States,2400.0,600.0,0.25,2017,CHI,CHI 2017,False,False,True,False,0,Highly Competitive Band
+EuroGP2007,EuroGP 2007,2007-04-11 00:00:00+00:00,Artificial Intelligence,Spain,71.0,21.0,0.296,2007,EUROGP,EUROGP 2007,False,False,True,False,1,Accessible Band
+ISSAC2015,ISSAC 2015,2015-07-06 00:00:00+00:00,Theory Of Computations,England,71.0,43.0,0.606,2015,ISSAC,ISSAC 2015,False,False,True,False,1,Accessible Band
+SBAC-PAD2006,SBAC-PAD 2006,2006-10-17 00:00:00+00:00,Computer Systems Organization,Brazil,71.0,23.0,0.324,2006,SBAC-PAD,SBAC-PAD 2006,False,False,True,False,1,Accessible Band
+COLT2002,COLT 2002,2002-07-08 00:00:00+00:00,Theory Of Computations,Australia,55.0,26.0,0.473,2002,COLT,COLT 2002,False,False,False,False,1,Accessible Band
+COLT2004,COLT 2004,2004-07-01 00:00:00+00:00,Theory Of Computations,Canada,107.0,44.0,0.411,2004,COLT,COLT 2004,False,False,False,False,1,Accessible Band
+DSN2013,DSN 2013,2013-06-24 00:00:00+00:00,Computer Systems Organization,Hungary,107.0,21.0,0.196,2013,DSN,DSN 2013,False,False,False,False,0,Highly Competitive Band
+ISMAR2010,ISMAR 2010,2010-10-13 00:00:00+00:00,Human Centered Computing,Korea,107.0,24.0,0.224,2010,ISMAR,ISMAR 2010,False,False,False,False,1,Accessible Band
+InfoVis2008,Infovis 2008,2008-10-19 00:00:00+00:00,Human Centered Computing,United States,107.0,28.0,0.26,2008,INFOVIS,INFOVIS 2008,False,False,True,False,1,Accessible Band
+SBAC-PAD2007,SBAC-PAD 2007,2007-10-24 00:00:00+00:00,Computer Systems Organization,Brazil,107.0,32.0,0.299,2007,SBAC-PAD,SBAC-PAD 2007,False,False,True,False,1,Accessible Band
+SP2001,S&P 2001,2001-05-14 00:00:00+00:00,Security And Privacy,United States,107.0,19.0,0.178,2001,S&P,S&P 2001,False,False,True,False,0,Highly Competitive Band
+COLT2005,COLT 2005,2005-06-27 00:00:00+00:00,Theory Of Computations,Italy,120.0,45.0,0.375,2005,COLT,COLT 2005,False,False,False,False,1,Accessible Band
+ICWE2010,ICWE 2010,2010-07-05 00:00:00+00:00,World Wide Web,Austria,120.0,26.0,0.217,2010,ICWE,ICWE 2010,False,False,True,False,0,Highly Competitive Band
+ISMAR2004,ISMAR 2004,2004-11-02 00:00:00+00:00,Human Centered Computing,United States,120.0,24.0,0.2,2004,ISMAR,ISMAR 2004,False,False,False,False,0,Highly Competitive Band
+SPAA2012,SPAA 2012,2012-06-25 00:00:00+00:00,Theory Of Computations,United States,120.0,31.0,0.26,2012,SPAA,SPAA 2012,False,False,True,False,1,Accessible Band
+SPAA2018,SPAA 2018,2018-07-16 00:00:00+00:00,Theory Of Computations,Austria,120.0,36.0,0.3,2018,SPAA,SPAA 2018,False,False,True,False,1,Accessible Band
+VR2008,IEEE VR 2008,2008-03-08 00:00:00+00:00,Human Centered Computing,United States,120.0,37.0,0.308,2008,IEEE VR,IEEE VR 2008,False,False,False,False,1,Accessible Band
+COLT2008,COLT 2008,2008-07-09 00:00:00+00:00,Theory Of Computations,Finland,126.0,44.0,0.349,2008,COLT,COLT 2008,False,False,False,False,1,Accessible Band
+POPL2001,POPL 2001,2001-01-17 00:00:00+00:00,Software Engineering,England,126.0,24.0,0.19,2001,POPL,POPL 2001,False,False,False,False,0,Highly Competitive Band
+POPL2003,POPL 2003,2003-01-15 00:00:00+00:00,Software Engineering,United States,126.0,24.0,0.19,2003,POPL,POPL 2003,False,False,False,False,0,Highly Competitive Band
+COLT2010,COLT 2010,2010-06-27 00:00:00+00:00,Theory Of Computations,Israel,133.0,40.0,0.301,2010,COLT,COLT 2010,False,False,False,False,1,Accessible Band
+ICFP2013,ICFP 2013,2013-09-25 00:00:00+00:00,Software Engineering,United States,133.0,40.0,0.3,2013,ICFP,ICFP 2013,False,False,True,False,1,Accessible Band
+ICWS2014,ICWS 2014,2014-06-27 00:00:00+00:00,World Wide Web,United States,133.0,24.0,0.18,2014,ICWS,ICWS 2014,False,False,False,False,0,Highly Competitive Band
+UIST2001,UIST 2001,2001-11-11 00:00:00+00:00,Artificial Intelligence,United States,133.0,25.0,0.188,2001,UIST,UIST 2001,False,False,False,False,0,Highly Competitive Band
+COLT2012,COLT 2012,2012-06-25 00:00:00+00:00,Theory Of Computations,Scotland,139.0,41.0,0.295,2012,COLT,COLT 2012,False,False,False,False,1,Accessible Band
+ICWE2017,ICWE 2017,2017-06-05 00:00:00+00:00,World Wide Web,Italy,139.0,20.0,0.144,2017,ICWE,ICWE 2017,False,False,True,False,0,Highly Competitive Band
+NDSS2011,NDSS 2011,2011-02-06 00:00:00+00:00,Security And Privacy,United States,139.0,28.0,0.201,2011,NDSS,NDSS 2011,False,False,False,False,0,Highly Competitive Band
+COLT2014,COLT 2014,2014-06-13 00:00:00+00:00,Theory Of Computations,Spain,140.0,52.0,0.371,2014,COLT,COLT 2014,False,False,False,False,1,Accessible Band
+ECOOP2012,ECOOP 2012,2012-06-11 00:00:00+00:00,Software Engineering,China,140.0,30.0,0.214,2012,ECOOP,ECOOP 2012,False,False,True,False,0,Highly Competitive Band
+Eurosys2010,EuroSys 2010,2010-04-13 00:00:00+00:00,Computer Systems Organization,France,140.0,27.0,0.19,2010,EUROSYS,EUROSYS 2010,False,False,True,False,0,Highly Competitive Band
+PKDD2001,ECML PKDD 2001,2001-09-03 00:00:00+00:00,Information Systems,Germany,140.0,50.0,0.357,2001,ECML PKDD,ECML PKDD 2001,False,False,False,False,1,Accessible Band
+COLT2017,COLT 2017,2017-07-07 00:00:00+00:00,Theory Of Computations,Netherlands,128.0,28.0,0.219,2017,COLT,COLT 2017,False,False,False,False,0,Highly Competitive Band
+FSE2002,FSE 2002,2002-11-18 00:00:00+00:00,Software Engineering,United States,128.0,17.0,0.13,2002,FSE,FSE 2002,False,False,True,False,0,Highly Competitive Band
+POPL2002,POPL 2002,2002-01-16 00:00:00+00:00,Software Engineering,United States,128.0,28.0,0.22,2002,POPL,POPL 2002,False,False,False,False,0,Highly Competitive Band
+SBAC-PAD2012,SBAC-PAD 2012,2012-10-24 00:00:00+00:00,Computer Systems Organization,United States,128.0,36.0,0.28,2012,SBAC-PAD,SBAC-PAD 2012,False,False,True,False,1,Accessible Band
+SPAA2008,SPAA 2008,2008-06-14 00:00:00+00:00,Theory Of Computations,Germany,128.0,36.0,0.28,2008,SPAA,SPAA 2008,False,False,True,False,1,Accessible Band
+USENIX2003,USENIX 2003,2003-08-04 00:00:00+00:00,Software Engineering,United States,128.0,21.0,0.164,2003,USENIX,USENIX 2003,False,False,True,False,0,Highly Competitive Band
+FASE2015,FASE 2015,2015-04-11 00:00:00+00:00,Software Engineering,England,80.0,23.0,0.288,2015,FASE,FASE 2015,False,False,True,False,1,Accessible Band
+ICFP2004,ICFP 2004,2004-09-19 00:00:00+00:00,Software Engineering,United States,80.0,21.0,0.26,2004,ICFP,ICFP 2004,False,False,True,False,1,Accessible Band
+PODS2015,PODS 2015,2015-05-31 00:00:00+00:00,Information Systems,Australia,80.0,25.0,0.313,2015,PODS,PODS 2015,False,False,False,False,1,Accessible Band
+USENIX2000,USENIX 2000,2000-08-14 00:00:00+00:00,Software Engineering,United States,80.0,20.0,0.25,2000,USENIX,USENIX 2000,False,False,True,False,1,Accessible Band
+Eurosys2017,EuroSys 2017,2017-04-23 00:00:00+00:00,Computer Systems Organization,Serbia,200.0,40.0,0.2,2017,EUROSYS,EUROSYS 2017,False,False,True,False,0,Highly Competitive Band
+DSN2017,DSN 2017,2017-06-26 00:00:00+00:00,Computer Systems Organization,United States,220.0,54.0,0.245,2017,DSN,DSN 2017,False,False,False,False,0,Highly Competitive Band
+ESORICS2009,ESORICS 2009,2009-09-21 00:00:00+00:00,Security And Privacy,France,220.0,42.0,0.191,2009,ESORICS,ESORICS 2009,False,False,True,False,0,Highly Competitive Band
+KR2014,KR 2014,2014-07-20 00:00:00+00:00,Artificial Intelligence,Austria,220.0,58.0,0.264,2014,KR,KR 2014,False,False,False,False,0,Highly Competitive Band
+MOBICOM2014,MOBICOM 2014,2014-09-07 00:00:00+00:00,Human Centered Computing,United States,220.0,36.0,0.164,2014,MOBICOM,MOBICOM 2014,False,False,True,False,0,Highly Competitive Band
+PKDD2005,ECML PKDD 2005,2005-10-03 00:00:00+00:00,Information Systems,Portugal,220.0,35.0,0.159,2005,ECML PKDD,ECML PKDD 2005,False,False,False,False,0,Highly Competitive Band
+POPL2014,POPL 2014,2014-01-22 00:00:00+00:00,Software Engineering,United States,220.0,51.0,0.23,2014,POPL,POPL 2014,False,False,False,False,0,Highly Competitive Band
+CSCW2006,CSCW 2006,2006-11-04 00:00:00+00:00,Computer Systems Organization,Canada,304.0,61.0,0.2,2006,CSCW,CSCW 2006,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2000,SIGGRAPH 2000,2000-07-23 00:00:00+00:00,Human Centered Computing,United States,304.0,58.0,0.19,2000,SIGGRAPH,SIGGRAPH 2000,False,False,True,False,0,Highly Competitive Band
+STOC2011,STOC 2011,2011-06-06 00:00:00+00:00,Theory Of Computations,United States,304.0,84.0,0.276,2011,STOC,STOC 2011,False,False,True,False,0,Highly Competitive Band
+UAI2012,UAI 2012,2012-08-15 00:00:00+00:00,Artificial Intelligence,United States,304.0,94.0,0.309,2012,UAI,UAI 2012,False,False,True,False,0,Highly Competitive Band
+CSCW2008,CSCW 2008,2008-11-08 00:00:00+00:00,Computer Systems Organization,United States,370.0,86.0,0.232,2008,CSCW,CSCW 2008,False,False,True,False,0,Highly Competitive Band
+STOC2016,STOC 2016,2016-06-18 00:00:00+00:00,Theory Of Computations,United States,370.0,92.0,0.249,2016,STOC,STOC 2016,False,False,True,False,0,Highly Competitive Band
+CSCW2010,CSCW 2010,2010-02-06 00:00:00+00:00,Computer Systems Organization,United States,288.0,58.0,0.2,2010,CSCW,CSCW 2010,False,False,True,False,0,Highly Competitive Band
+ICONIP2007,ICONIP 2007,2007-11-13 00:00:00+00:00,Artificial Intelligence,Japan,288.0,228.0,0.792,2007,ICONIP,ICONIP 2007,False,False,True,False,1,Accessible Band
+ISCA2013,ISCA 2013,2013-06-23 00:00:00+00:00,Computer Systems Organization,Israel,288.0,56.0,0.194,2013,ISCA,ISCA 2013,False,False,False,False,0,Highly Competitive Band
+ISCA2016,ISCA 2016,2016-06-18 00:00:00+00:00,Computer Systems Organization,Korea,288.0,54.0,0.188,2016,ISCA,ISCA 2016,False,False,False,False,0,Highly Competitive Band
+STOC2006,STOC 2006,2006-05-21 00:00:00+00:00,Theory Of Computations,United States,288.0,78.0,0.271,2006,STOC,STOC 2006,False,False,True,False,0,Highly Competitive Band
+UIST2012,UIST 2012,2012-10-07 00:00:00+00:00,Artificial Intelligence,United States,288.0,62.0,0.215,2012,UIST,UIST 2012,False,False,False,False,0,Highly Competitive Band
+CSCW2011,CSCW 2011,2011-03-19 00:00:00+00:00,Computer Systems Organization,China,264.0,58.0,0.22,2011,CSCW,CSCW 2011,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2017,EuroCrypt 2017,2017-04-30 00:00:00+00:00,Security And Privacy,France,264.0,67.0,0.254,2017,EUROCRYPT,EUROCRYPT 2017,False,False,False,False,0,Highly Competitive Band
+ICWS2011,ICWS 2011,2011-07-04 00:00:00+00:00,World Wide Web,United States,264.0,37.0,0.14,2011,ICWS,ICWS 2011,False,False,False,False,0,Highly Competitive Band
+ISWC2011,ISWC 2011,2011-10-23 00:00:00+00:00,World Wide Web,Germany,264.0,50.0,0.189,2011,ISWC,ISWC 2011,False,False,False,False,0,Highly Competitive Band
+MOBICOM2008,MOBICOM 2008,2008-09-14 00:00:00+00:00,Human Centered Computing,United States,264.0,31.0,0.117,2008,MOBICOM,MOBICOM 2008,False,False,True,False,0,Highly Competitive Band
+CSCW2012,CSCW 2012,2012-02-11 00:00:00+00:00,Computer Systems Organization,United States,290.0,127.0,0.438,2012,CSCW,CSCW 2012,False,False,True,False,1,Accessible Band
+WSDM2010,WSDM 2010,2010-02-03 00:00:00+00:00,World Wide Web,United States,290.0,45.0,0.15,2010,WSDM,WSDM 2010,False,False,False,False,0,Highly Competitive Band
+CSCW2013,CSCW 2013,2013-02-23 00:00:00+00:00,Computer Systems Organization,United States,390.0,139.0,0.356,2013,CSCW,CSCW 2013,False,False,True,False,1,Accessible Band
+SIGGRAPH2010,SIGGRAPH 2010,2010-07-26 00:00:00+00:00,Human Centered Computing,United States,390.0,101.0,0.26,2010,SIGGRAPH,SIGGRAPH 2010,False,False,True,False,0,Highly Competitive Band
+CSCW2014,CSCW 2014,2014-02-15 00:00:00+00:00,Computer Systems Organization,United States,497.0,134.0,0.27,2014,CSCW,CSCW 2014,False,False,True,False,0,Highly Competitive Band
+CSCW2016,CSCW 2016,2016-02-27 00:00:00+00:00,Computer Systems Organization,United States,571.0,142.0,0.249,2016,CSCW,CSCW 2016,False,False,True,False,0,Highly Competitive Band
+EUROGP2013,EuroGP 2013,2013-04-03 00:00:00+00:00,Artificial Intelligence,Austria,47.0,18.0,0.383,2013,EUROGP,EUROGP 2013,False,False,True,False,1,Accessible Band
+CSF2000,CSFW 2000,2000-07-03 00:00:00+00:00,Security And Privacy,England,48.0,22.0,0.458,2000,CSFW,CSFW 2000,False,False,True,False,1,Accessible Band
+EUROGP2010,EuroGp 2010,2010-04-07 00:00:00+00:00,Artificial Intelligence,Turkey,48.0,21.0,0.438,2010,EUROGP,EUROGP 2010,False,False,True,False,1,Accessible Band
+CSF2001,CSFW 2001,2001-06-11 00:00:00+00:00,Security And Privacy,Canada,54.0,21.0,0.389,2001,CSFW,CSFW 2001,False,False,True,False,1,Accessible Band
+CSF2002,CSFW 2002,2002-06-24 00:00:00+00:00,Security And Privacy,Canada,84.0,23.0,0.274,2002,CSFW,CSFW 2002,False,False,True,False,1,Accessible Band
+ISMAR2016,ISMAR 2016,2016-09-19 00:00:00+00:00,Human Centered Computing,Mexico,84.0,16.0,0.19,2016,ISMAR,ISMAR 2016,False,False,False,False,0,Highly Competitive Band
+SBAC-PAD2001,SBAC-PAD 2001,2001-09-10 00:00:00+00:00,Computer Systems Organization,Brazil,84.0,32.0,0.381,2001,SBAC-PAD,SBAC-PAD 2001,False,False,True,False,1,Accessible Band
+UAI2000,UAI 2000,2000-06-30 00:00:00+00:00,Artificial Intelligence,United States,84.0,30.0,0.357,2000,UAI,UAI 2000,False,False,True,False,1,Accessible Band
+USENIX2001,USENIX 2001,2001-08-13 00:00:00+00:00,Software Engineering,United States,84.0,25.0,0.298,2001,USENIX,USENIX 2001,False,False,True,False,1,Accessible Band
+CSF2005,CSFW 2005,2005-06-20 00:00:00+00:00,Security And Privacy,France,96.0,20.0,0.208,2005,CSFW,CSFW 2005,False,False,True,False,0,Highly Competitive Band
+ECOOP2002,ECOOP 2002,2002-06-10 00:00:00+00:00,Software Engineering,Spain,96.0,24.0,0.25,2002,ECOOP,ECOOP 2002,False,False,True,False,1,Accessible Band
+FASE2010,FASE 2010,2010-03-20 00:00:00+00:00,Software Engineering,Cyprus,96.0,24.0,0.25,2010,FASE,FASE 2010,False,False,True,False,1,Accessible Band
+ISSAC2012,ISSAC 2012,2012-07-22 00:00:00+00:00,Theory Of Computations,France,96.0,51.0,0.531,2012,ISSAC,ISSAC 2012,False,False,True,False,1,Accessible Band
+ISSAC2014,ISSAC 2014,2014-07-23 00:00:00+00:00,Theory Of Computations,Japan,96.0,51.0,0.531,2014,ISSAC,ISSAC 2014,False,False,True,False,1,Accessible Band
+CSF2007,CSF 2007,2007-07-06 00:00:00+00:00,Security And Privacy,Italy,101.0,25.0,0.248,2007,CSF,CSF 2007,False,False,True,False,1,Accessible Band
+CSF2012,CSF 2012,2012-06-25 00:00:00+00:00,Security And Privacy,United States,101.0,25.0,0.248,2012,CSF,CSF 2012,False,False,True,False,1,Accessible Band
+ECOOP2014,ECOOP 2014,2014-07-28 00:00:00+00:00,Software Engineering,Sweden,101.0,27.0,0.267,2014,ECOOP,ECOOP 2014,False,False,True,False,1,Accessible Band
+PODS2012,PODS 2012,2012-05-20 00:00:00+00:00,Information Systems,United States,101.0,26.0,0.257,2012,PODS,PODS 2012,False,False,False,False,1,Accessible Band
+CSF2008,CSF 2008,2008-06-23 00:00:00+00:00,Security And Privacy,United States,115.0,21.0,0.183,2008,CSF,CSF 2008,False,False,True,False,0,Highly Competitive Band
+IJCAR2012,IJCAR 2012,2012-06-25 00:00:00+00:00,Theory Of Computations,England,115.0,42.0,0.365,2012,IJCAR,IJCAR 2012,False,False,False,False,1,Accessible Band
+UIST2008,UIST 2008,2008-10-19 00:00:00+00:00,Artificial Intelligence,United States,115.0,25.0,0.217,2008,UIST,UIST 2008,False,False,False,False,0,Highly Competitive Band
+CSF2009,CSF 2009,2009-07-08 00:00:00+00:00,Security And Privacy,United States,93.0,22.0,0.237,2009,CSF,CSF 2009,False,False,True,False,1,Accessible Band
+SBAC-PAD2004,SBAC-PAD 2004,2004-10-27 00:00:00+00:00,Computer Systems Organization,Brazil,93.0,32.0,0.344,2004,SBAC-PAD,SBAC-PAD 2004,False,False,True,False,1,Accessible Band
+SPAA2001,SPAA 2001,2001-07-04 00:00:00+00:00,Theory Of Computations,Greece,93.0,34.0,0.37,2001,SPAA,SPAA 2001,False,False,True,False,1,Accessible Band
+VR2000,IEEE VR 2000,2000-03-18 00:00:00+00:00,Human Centered Computing,United States,93.0,31.0,0.333,2000,IEEE VR,IEEE VR 2000,False,False,False,False,1,Accessible Band
+CSF2010,CSF 2010,2010-07-17 00:00:00+00:00,Security And Privacy,Kingdom Of Scotland,81.0,23.0,0.28,2010,CSF,CSF 2010,False,False,True,False,1,Accessible Band
+CSF2011,CSF 2011,2011-06-27 00:00:00+00:00,Security And Privacy,France,81.0,21.0,0.26,2011,CSF,CSF 2011,False,False,True,False,1,Accessible Band
+ECOOP2017,ECOOP 2017,2017-06-18 00:00:00+00:00,Software Engineering,Spain,81.0,27.0,0.333,2017,ECOOP,ECOOP 2017,False,False,True,False,1,Accessible Band
+CSF2013,CSF 2013,2013-06-26 00:00:00+00:00,Security And Privacy,United States,73.0,19.0,0.26,2013,CSF,CSF 2013,False,False,True,False,1,Accessible Band
+ISSAC2009,ISSAC 2009,2009-07-28 00:00:00+00:00,Theory Of Computations,Korea,73.0,47.0,0.644,2009,ISSAC,ISSAC 2009,False,False,True,False,1,Accessible Band
+SBAC-PAD2017,SBAC-PAD 2017,2017-10-17 00:00:00+00:00,Computer Systems Organization,Brazil,73.0,23.0,0.32,2017,SBAC-PAD,SBAC-PAD 2017,False,False,True,False,1,Accessible Band
+SBAC-PAD2018,SBAC-PAD 2018,2018-09-24 00:00:00+00:00,Computer Systems Organization,France,73.0,23.0,0.32,2018,SBAC-PAD,SBAC-PAD 2018,False,False,True,False,1,Accessible Band
+CSF2018,CSF 2018,2018-07-09 00:00:00+00:00,Security And Privacy,England,72.0,25.0,0.347,2018,CSF,CSF 2018,False,False,True,False,1,Accessible Band
+EDBT2008,EDBT 2008,2008-03-25 00:00:00+00:00,Information Systems,France,327.0,59.0,0.18,2008,EDBT,EDBT 2008,False,False,False,False,0,Highly Competitive Band
+MOBICOM2004,MOBICOM 2004,2004-09-26 00:00:00+00:00,Human Centered Computing,United States,327.0,26.0,0.08,2004,MOBICOM,MOBICOM 2004,False,False,True,False,0,Highly Competitive Band
+ICDE2014,ICDE,2014-03-31 00:00:00+00:00,Software Engineering,United States,544.0,127.0,0.233,2014,ICDE,ICDE 2014,False,False,False,False,0,Highly Competitive Band
+ICDE2012,ICDE,2012-04-01 00:00:00+00:00,Software Engineering,United States,503.0,137.0,0.272,2012,ICDE,ICDE 2012,False,False,False,False,0,Highly Competitive Band
+CVPR2001,CVPR 2001,2001-12-08 00:00:00+00:00,Artificial Intelligence,United States,920.0,273.0,0.297,2001,CVPR,CVPR 2001,False,False,False,False,0,Highly Competitive Band
+CVPR2003,CVPR 2003,2003-06-16 00:00:00+00:00,Artificial Intelligence,United States,905.0,209.0,0.231,2003,CVPR,CVPR 2003,False,False,False,False,0,Highly Competitive Band
+CVPR2004,CVPR 2004,2004-06-27 00:00:00+00:00,Artificial Intelligence,United States,873.0,260.0,0.298,2004,CVPR,CVPR 2004,False,False,False,False,0,Highly Competitive Band
+CVPR2005,CVPR 2005,2005-06-20 00:00:00+00:00,Artificial Intelligence,United States,1160.0,324.0,0.279,2005,CVPR,CVPR 2005,False,False,False,False,0,Highly Competitive Band
+CVPR2006,CVPR 2006,2006-06-17 00:00:00+00:00,Artificial Intelligence,United States,1131.0,318.0,0.281,2006,CVPR,CVPR 2006,False,False,False,False,0,Highly Competitive Band
+CVPR2007,CVPR 2007,2007-06-18 00:00:00+00:00,Artificial Intelligence,United States,1250.0,353.0,0.282,2007,CVPR,CVPR 2007,False,False,False,False,0,Highly Competitive Band
+CVPR2008,CVPR 2008,2008-06-24 00:00:00+00:00,Artificial Intelligence,United States,1593.0,508.0,0.319,2008,CVPR,CVPR 2008,False,False,False,False,0,Highly Competitive Band
+CVPR2009,CVPR 2009,2009-06-20 00:00:00+00:00,Artificial Intelligence,United States,1464.0,383.0,0.262,2009,CVPR,CVPR 2009,False,False,False,False,0,Highly Competitive Band
+CVPR2010,CVPR 2010,2010-06-13 00:00:00+00:00,Artificial Intelligence,United States,1724.0,461.0,0.267,2010,CVPR,CVPR 2010,False,False,False,False,0,Highly Competitive Band
+CVPR2011,CVPR 2011,2011-06-20 00:00:00+00:00,Artificial Intelligence,United States,1677.0,438.0,0.261,2011,CVPR,CVPR 2011,False,False,False,False,0,Highly Competitive Band
+CVPR2012,CVPR 2012,2012-06-16 00:00:00+00:00,Artificial Intelligence,United States,1933.0,466.0,0.241,2012,CVPR,CVPR 2012,False,False,False,False,0,Highly Competitive Band
+CVPR2013,CVPR 2013,2013-06-23 00:00:00+00:00,Artificial Intelligence,United States,1798.0,472.0,0.263,2013,CVPR,CVPR 2013,False,False,False,False,0,Highly Competitive Band
+CVPR2014,CVPR 2014,2014-06-23 00:00:00+00:00,Artificial Intelligence,United States,1807.0,540.0,0.299,2014,CVPR,CVPR 2014,False,False,False,False,0,Highly Competitive Band
+CVPR2015,CVPR 2015,2015-06-07 00:00:00+00:00,Artificial Intelligence,United States,2123.0,602.0,0.284,2015,CVPR,CVPR 2015,False,False,False,False,0,Highly Competitive Band
+CVPR2016,CVPR 2016,2016-06-27 00:00:00+00:00,Artificial Intelligence,United States,2145.0,643.0,0.3,2016,CVPR,CVPR 2016,False,False,False,False,0,Highly Competitive Band
+CVPR2017,CVPR 2017,2017-07-21 00:00:00+00:00,Artificial Intelligence,United States,2620.0,783.0,0.299,2017,CVPR,CVPR 2017,False,False,False,False,0,Highly Competitive Band
+DSN2002,DSN 2002,2002-06-23 00:00:00+00:00,Computer Systems Organization,United States,213.0,91.0,0.427,2002,DSN,DSN 2002,False,False,False,False,1,Accessible Band
+HPCA2012,HPCA 2012,2012-02-25 00:00:00+00:00,Computer Systems Organization,United States,213.0,36.0,0.169,2012,HPCA,HPCA 2012,False,False,False,False,0,Highly Competitive Band
+UAI2006,UAI 2006,2006-07-13 00:00:00+00:00,Artificial Intelligence,United States,213.0,68.0,0.319,2006,UAI,UAI 2006,False,False,True,False,1,Accessible Band
+DSN2003,DSN 2003,2003-06-22 00:00:00+00:00,Computer Systems Organization,United States,225.0,80.0,0.356,2003,DSN,DSN 2003,False,False,False,False,1,Accessible Band
+DSN2004,DSN 2004,2004-06-28 00:00:00+00:00,Computer Systems Organization,Italy,377.0,83.0,0.22,2004,DSN,DSN 2004,False,False,False,False,0,Highly Competitive Band
+DSN2005,DSN 2005,2005-06-28 00:00:00+00:00,Computer Systems Organization,Japan,319.0,78.0,0.245,2005,DSN,DSN 2005,False,False,False,False,0,Highly Competitive Band
+STOC2014,STOC 2014,2014-05-31 00:00:00+00:00,Theory Of Computations,United States,319.0,91.0,0.285,2014,STOC,STOC 2014,False,False,True,False,0,Highly Competitive Band
+DSN2007,DSN 2007,2007-06-25 00:00:00+00:00,Computer Systems Organization,England,212.0,48.0,0.226,2007,DSN,DSN 2007,False,False,False,False,0,Highly Competitive Band
+ESWC2012,ESWC 2012,2012-05-27 00:00:00+00:00,World Wide Web,Greece,212.0,53.0,0.25,2012,ESWC,ESWC 2012,False,False,False,False,0,Highly Competitive Band
+ISWC2016,ISWC 2016,2016-10-17 00:00:00+00:00,World Wide Web,Japan,212.0,39.0,0.184,2016,ISWC,ISWC 2016,False,False,False,False,0,Highly Competitive Band
+MOBICOM2012,MOBICOM 2012,2012-08-22 00:00:00+00:00,Human Centered Computing,Turkey,212.0,32.0,0.151,2012,MOBICOM,MOBICOM 2012,False,False,True,False,0,Highly Competitive Band
+POPL2008,POPL 2008,2008-01-10 00:00:00+00:00,Software Engineering,United States,212.0,35.0,0.17,2008,POPL,POPL 2008,False,False,False,False,0,Highly Competitive Band
+DSN2008,DSN 2008,2008-06-24 00:00:00+00:00,Computer Systems Organization,United States,174.0,40.0,0.23,2008,DSN,DSN 2008,False,False,False,False,0,Highly Competitive Band
+DSN2010,DSN 2010,2010-06-28 00:00:00+00:00,Computer Systems Organization,United States,174.0,40.0,0.23,2010,DSN,DSN 2010,False,False,False,False,0,Highly Competitive Band
+Eurosys2006,EuroSys 2006,2006-04-18 00:00:00+00:00,Computer Systems Organization,Belgium,174.0,28.0,0.16,2006,EUROSYS,EUROSYS 2006,False,False,True,False,0,Highly Competitive Band
+Eurosys2007,EuroSys 2007,2007-03-21 00:00:00+00:00,Computer Systems Organization,Portugal,174.0,64.0,0.37,2007,EUROSYS,EUROSYS 2007,False,False,True,False,1,Accessible Band
+HPCA2007,HPCA 2007,2007-02-10 00:00:00+00:00,Computer Systems Organization,United States,174.0,28.0,0.161,2007,HPCA,HPCA 2007,False,False,False,False,0,Highly Competitive Band
+OOPSLA2005,OOPSLA 2005,2005-10-16 00:00:00+00:00,Software Engineering,United States,174.0,32.0,0.184,2005,OOPSLA,OOPSLA 2005,False,False,False,False,0,Highly Competitive Band
+PERCOM2013,PERCOM 2013,2013-03-18 00:00:00+00:00,Computer Systems Organization,United States,174.0,27.0,0.155,2013,PERCOM,PERCOM 2013,False,False,False,False,0,Highly Competitive Band
+PLDI2006,PLDI 2006,2006-06-11 00:00:00+00:00,Software Engineering,Canada,174.0,36.0,0.207,2006,PLDI,PLDI 2006,False,False,False,False,0,Highly Competitive Band
+USENIX2008,USENIX 2008,2008-07-28 00:00:00+00:00,Software Engineering,United States,174.0,27.0,0.155,2008,USENIX,USENIX 2008,False,False,True,False,0,Highly Competitive Band
+VR2017,IEEE VR 2017,2017-03-18 00:00:00+00:00,Human Centered Computing,United States,174.0,39.0,0.224,2017,IEEE VR,IEEE VR 2017,False,False,False,False,0,Highly Competitive Band
+DSN2011,DSN 2011,2011-06-27 00:00:00+00:00,Computer Systems Organization,China,148.0,26.0,0.176,2011,DSN,DSN 2011,False,False,False,False,0,Highly Competitive Band
+EDBT2011,EDBT 2011,2011-03-21 00:00:00+00:00,Information Systems,Sweden,148.0,41.0,0.277,2011,EDBT,EDBT 2011,False,False,False,False,1,Accessible Band
+ESWC2005,ESWC 2005,2005-05-29 00:00:00+00:00,World Wide Web,Greece,148.0,48.0,0.342,2005,ESWC,ESWC 2005,False,False,False,False,1,Accessible Band
+EuroCrypt2009,EuroCrypt 2009,2009-04-26 00:00:00+00:00,Security And Privacy,Germany,148.0,33.0,0.223,2009,EUROCRYPT,EUROCRYPT 2009,False,False,False,False,0,Highly Competitive Band
+DSN2014,DSN 2014,2014-06-23 00:00:00+00:00,Computer Systems Organization,United States,185.0,56.0,0.303,2014,DSN,DSN 2014,False,False,False,False,1,Accessible Band
+InfoVis2018,Infovis 2018,2018-10-21 00:00:00+00:00,Human Centered Computing,Germany,185.0,46.0,0.251,2018,INFOVIS,INFOVIS 2018,False,False,True,False,0,Highly Competitive Band
+PODS2006,PODS 2006,2006-06-26 00:00:00+00:00,Information Systems,United States,185.0,35.0,0.189,2006,PODS,PODS 2006,False,False,False,False,0,Highly Competitive Band
+DSN2016,DSN 2016,2016-06-28 00:00:00+00:00,Computer Systems Organization,France,259.0,58.0,0.224,2016,DSN,DSN 2016,False,False,False,False,0,Highly Competitive Band
+ISCA2008,ISCA 2008,2008-06-21 00:00:00+00:00,Computer Systems Organization,China,259.0,37.0,0.143,2008,ISCA,ISCA 2008,False,False,False,False,0,Highly Competitive Band
+ECAI2000,ECAI 2000,2000-08-20 00:00:00+00:00,Artificial Intelligence,Germany,443.0,140.0,0.316,2000,ECAI,ECAI 2000,False,False,True,False,0,Highly Competitive Band
+PKDD2012,ECML PKDD 2012,2012-09-24 00:00:00+00:00,Information Systems,England,443.0,124.0,0.28,2012,ECML PKDD,ECML PKDD 2012,False,False,False,False,0,Highly Competitive Band
+ECAI2002,ECAI 2002,2002-07-21 00:00:00+00:00,Artificial Intelligence,France,500.0,137.0,0.274,2002,ECAI,ECAI 2002,False,False,True,False,0,Highly Competitive Band
+ECAI2006,ECAI2006,2006-08-28 00:00:00+00:00,Artificial Intelligence,Italy,500.0,130.0,0.26,2006,ECAI,ECAI 2006,False,False,True,False,0,Highly Competitive Band
+ECAI2004,ECAI 2004,2004-08-22 00:00:00+00:00,Artificial Intelligence,Spain,787.0,180.0,0.229,2004,ECAI,ECAI 2004,False,False,True,False,0,Highly Competitive Band
+ECAI2008,ECAI 2008,2008-07-21 00:00:00+00:00,Artificial Intelligence,Greece,680.0,156.0,0.23,2008,ECAI,ECAI 2008,False,False,True,False,0,Highly Competitive Band
+ECAI2010,ECAI 2010,2010-08-16 00:00:00+00:00,Artificial Intelligence,Portugal,607.0,134.0,0.22,2010,ECAI,ECAI 2010,False,False,True,False,0,Highly Competitive Band
+ECAI2012,ECAI 2012,2012-08-27 00:00:00+00:00,Artificial Intelligence,France,563.0,163.0,0.29,2012,ECAI,ECAI 2012,False,False,True,False,0,Highly Competitive Band
+ECAI2014,ECAI 2014,2014-08-18 00:00:00+00:00,Artificial Intelligence,Czech Republic,611.0,177.0,0.29,2014,ECAI,ECAI 2014,False,False,True,False,0,Highly Competitive Band
+ECAI2016,ECAI 2016,2016-08-29 00:00:00+00:00,Artificial Intelligence,Netherlands,656.0,177.0,0.27,2016,ECAI,ECAI 2016,False,False,True,False,0,Highly Competitive Band
+ECAI2018,ECAI 2018,2018-07-13 00:00:00+00:00,Artificial Intelligence,Sweden,3470.0,694.0,0.2,2018,ECAI,ECAI 2018,False,False,True,False,0,Highly Competitive Band
+ECCV2000,ECCV 2000,2000-06-26 00:00:00+00:00,Artificial Intelligence,Ireland,266.0,116.0,0.436,2000,ECCV,ECCV 2000,False,False,True,False,1,Accessible Band
+EDBT2014,EDBT 2014,2014-03-24 00:00:00+00:00,Information Systems,Greece,266.0,52.0,0.195,2014,EDBT,EDBT 2014,False,False,False,False,0,Highly Competitive Band
+SIGIR2003,SIGIR 2003,2003-08-28 00:00:00+00:00,Information Systems,Canada,266.0,45.0,0.17,2003,SIGIR,SIGIR 2003,False,False,True,False,0,Highly Competitive Band
+ECCV2002,ECCV 2002,2002-05-28 00:00:00+00:00,Artificial Intelligence,Denmark,600.0,226.0,0.377,2002,ECCV,ECCV 2002,False,False,True,False,0,Highly Competitive Band
+ICDE2010,ICDE,2010-03-01 00:00:00+00:00,Software Engineering,United States,600.0,110.0,0.183,2010,ICDE,ICDE 2010,False,False,False,False,0,Highly Competitive Band
+PKDD2011,ECML PKDD 2011,2011-09-05 00:00:00+00:00,Information Systems,Greece,600.0,142.0,0.237,2011,ECML PKDD,ECML PKDD 2011,False,False,False,False,0,Highly Competitive Band
+ECCV2004,ECCV 2004,2004-05-11 00:00:00+00:00,Artificial Intelligence,Czech Republic,555.0,190.0,0.342,2004,ECCV,ECCV 2004,False,False,True,False,0,Highly Competitive Band
+ECCV2006,ECCV 2006,2006-05-07 00:00:00+00:00,Artificial Intelligence,Austria,900.0,192.0,0.213,2006,ECCV,ECCV 2006,False,False,True,False,0,Highly Competitive Band
+ECCV2008,ECCV 2008,2008-10-12 00:00:00+00:00,Artificial Intelligence,France,871.0,243.0,0.279,2008,ECCV,ECCV 2008,False,False,True,False,0,Highly Competitive Band
+ECCV2010,ECCV 2010,2010-09-05 00:00:00+00:00,Artificial Intelligence,Greece,1174.0,329.0,0.28,2010,ECCV,ECCV 2010,False,False,True,False,0,Highly Competitive Band
+ECCV2012,ECCV 2012,2012-10-07 00:00:00+00:00,Artificial Intelligence,Italy,1437.0,402.0,0.28,2012,ECCV,ECCV 2012,False,False,True,False,0,Highly Competitive Band
+ECCV2014,ECCV 2014,2014-09-06 00:00:00+00:00,Artificial Intelligence,Germany,1444.0,362.0,0.251,2014,ECCV,ECCV 2014,False,False,True,False,0,Highly Competitive Band
+ECCV2016,ECCV 2016,2016-10-08 00:00:00+00:00,Artificial Intelligence,Netherlands,1480.0,414.0,0.28,2016,ECCV,ECCV 2016,False,False,True,False,0,Highly Competitive Band
+ECCV2018,ECCV 2018,2000-06-26 00:00:00+00:00,Artificial Intelligence,Germany,2439.0,776.0,0.318,2000,ECCV,ECCV 2000,False,False,True,False,0,Highly Competitive Band
+ICFP2007,ICFP 2007,2007-10-01 00:00:00+00:00,Software Engineering,Germany,103.0,26.0,0.25,2007,ICFP,ICFP 2007,False,False,True,False,1,Accessible Band
+ICWE2006,ICWE 2006,2006-07-11 00:00:00+00:00,World Wide Web,United States,103.0,44.0,0.43,2006,ICWE,ICWE 2006,False,False,True,False,1,Accessible Band
+ISMAR2013,ISMAR 2013,2013-10-01 00:00:00+00:00,Human Centered Computing,Australia,103.0,26.0,0.252,2013,ISMAR,ISMAR 2013,False,False,False,False,1,Accessible Band
+ISMAR2015,ISMAR 2015,2015-09-29 00:00:00+00:00,Human Centered Computing,Japan,103.0,23.0,0.223,2015,ISMAR,ISMAR 2015,False,False,False,False,1,Accessible Band
+SBAC-PAD2003,SBAC-PAD 2003,2003-11-10 00:00:00+00:00,Computer Systems Organization,Brazil,103.0,31.0,0.3,2003,SBAC-PAD,SBAC-PAD 2003,False,False,True,False,1,Accessible Band
+VR2009,IEEE VR 2009,2009-03-14 00:00:00+00:00,Human Centered Computing,United States,103.0,35.0,0.34,2009,IEEE VR,IEEE VR 2009,False,False,False,False,1,Accessible Band
+FASE2009,FASE 2009,2009-03-22 00:00:00+00:00,Software Engineering,England,124.0,30.0,0.242,2009,FASE,FASE 2009,False,False,True,False,1,Accessible Band
+ISMAR2009,ISMAR 2009,2009-10-19 00:00:00+00:00,Human Centered Computing,United States,124.0,24.0,0.194,2009,ISMAR,ISMAR 2009,False,False,False,False,0,Highly Competitive Band
+NDSS2005,NDSS 2005,2005-02-03 00:00:00+00:00,Security And Privacy,United States,124.0,16.0,0.129,2005,NDSS,NDSS 2005,False,False,False,False,0,Highly Competitive Band
+ECOOP2003,ECOOP 2003,2003-07-21 00:00:00+00:00,Software Engineering,Germany,88.0,18.0,0.205,2003,ECOOP,ECOOP 2003,False,False,True,False,1,Accessible Band
+ICFP2012,ICFP 2012,2012-09-10 00:00:00+00:00,Software Engineering,Denmark,88.0,32.0,0.36,2012,ICFP,ICFP 2012,False,False,True,False,1,Accessible Band
+ECOOP2006,ECOOP 2006,2006-07-03 00:00:00+00:00,Software Engineering,France,160.0,21.0,0.131,2006,ECOOP,ECOOP 2006,False,False,True,False,0,Highly Competitive Band
+ECOOP2007,ECOOP 2007,2007-07-30 00:00:00+00:00,Software Engineering,Germany,160.0,25.0,0.156,2007,ECOOP,ECOOP 2007,False,False,True,False,0,Highly Competitive Band
+ESORICS2006,ESORICS 2006,2006-09-18 00:00:00+00:00,Security And Privacy,Germany,160.0,32.0,0.2,2006,ESORICS,ESORICS 2006,False,False,True,False,0,Highly Competitive Band
+PERCOM2008,PERCOM 2008,2008-03-17 00:00:00+00:00,Computer Systems Organization,Hong Kong,160.0,19.0,0.119,2008,PERCOM,PERCOM 2008,False,False,False,False,0,Highly Competitive Band
+PODC2005,PODC 2005,2005-07-17 00:00:00+00:00,Software Engineering,United States,160.0,22.0,0.138,2005,PODC,PODC 2005,False,False,False,False,0,Highly Competitive Band
+POPL2009,POPL 2009,2009-01-21 00:00:00+00:00,Software Engineering,United States,160.0,36.0,0.23,2009,POPL,POPL 2009,False,False,False,False,0,Highly Competitive Band
+ECOOP2009,ECOOP 2009,2009-07-06 00:00:00+00:00,Software Engineering,Italy,117.0,25.0,0.214,2009,ECOOP,ECOOP 2009,False,False,True,False,0,Highly Competitive Band
+JCDL2008,,2008-06-16 00:00:00+00:00,,,117.0,33.0,0.28,2008,,nan,False,False,False,False,1,Accessible Band
+OOPSLA2008,OOPSLA 2008,2008-10-19 00:00:00+00:00,Software Engineering,United States,117.0,33.0,0.282,2008,OOPSLA,OOPSLA 2008,False,False,False,False,1,Accessible Band
+PODC2000,PODC 2000,2000-07-16 00:00:00+00:00,Software Engineering,United States,117.0,32.0,0.274,2000,PODC,PODC 2000,False,False,False,False,1,Accessible Band
+UBICOMP2003,UBICOMP 2003,2003-10-12 00:00:00+00:00,Security And Privacy,United States,117.0,16.0,0.14,2003,UBICOMP,UBICOMP 2003,False,False,True,False,0,Highly Competitive Band
+ECOOP2013,ECOOP 2013,2013-07-01 00:00:00+00:00,Software Engineering,France,116.0,29.0,0.25,2013,ECOOP,ECOOP 2013,False,False,True,False,1,Accessible Band
+InfoVis2007,InfoVis,2007-10-28 00:00:00+00:00,Human Centered Computing,United States,116.0,27.0,0.23,2007,INFOVIS,INFOVIS 2007,False,False,True,False,1,Accessible Band
+InfoVis2007,InfoVis 2007,2007-10-28 00:00:00+00:00,Human Centered Computing,United States,116.0,27.0,0.23,2007,INFOVIS,INFOVIS 2007,False,False,True,False,1,Accessible Band
+SPAA2011,SPAA 2011,2011-06-04 00:00:00+00:00,Theory Of Computations,United States,116.0,35.0,0.3,2011,SPAA,SPAA 2011,False,False,True,False,1,Accessible Band
+UIST2003,UIST 2003,2003-11-02 00:00:00+00:00,Artificial Intelligence,Canada,116.0,25.0,0.216,2003,UIST,UIST 2003,False,False,False,False,0,Highly Competitive Band
+VR2014,IEEE VR 2014,2014-03-29 00:00:00+00:00,Human Centered Computing,United States,116.0,28.0,0.241,2014,IEEE VR,IEEE VR 2014,False,False,False,False,1,Accessible Band
+ECOOP2015,ECOOP 2015,2015-07-05 00:00:00+00:00,Software Engineering,Czech Republic,136.0,31.0,0.228,2015,ECOOP,ECOOP 2015,False,False,True,False,0,Highly Competitive Band
+PODS2003,PODS 2003,2003-06-09 00:00:00+00:00,Information Systems,United States,136.0,27.0,0.199,2003,PODS,PODS 2003,False,False,False,False,0,Highly Competitive Band
+RecSys2013,RecSys 2013,2013-10-12 00:00:00+00:00,Information Systems,China,136.0,32.0,0.235,2013,RECSYS,RECSYS 2013,False,False,False,False,0,Highly Competitive Band
+UBICOMP2002,UBICOMP 2002,2002-09-29 00:00:00+00:00,Security And Privacy,Sweden,136.0,15.0,0.11,2002,UBICOMP,UBICOMP 2002,False,False,True,False,0,Highly Competitive Band
+ESWC2014,ESWC 2014,2014-05-25 00:00:00+00:00,World Wide Web,Greece,178.0,41.0,0.23,2014,ESWC,ESWC 2014,False,False,False,False,0,Highly Competitive Band
+InfoVis2012,Infovis 2012,2012-10-14 00:00:00+00:00,Human Centered Computing,United States,178.0,44.0,0.247,2012,INFOVIS,INFOVIS 2012,False,False,True,False,0,Highly Competitive Band
+InfoVis2015,Infovis 2015,2015-10-25 00:00:00+00:00,Human Centered Computing,United States,178.0,38.0,0.213,2015,INFOVIS,INFOVIS 2015,False,False,True,False,0,Highly Competitive Band
+PLDI2007,PLDI 2007,2007-06-10 00:00:00+00:00,Software Engineering,United States,178.0,45.0,0.253,2007,PLDI,PLDI 2007,False,False,False,False,0,Highly Competitive Band
+Eurosys2016,EuroSys 2016,2016-04-18 00:00:00+00:00,Computer Systems Organization,England,180.0,38.0,0.21,2016,EUROSYS,EUROSYS 2016,False,False,True,False,0,Highly Competitive Band
+ISCA2002,ISCA 2002,2002-05-25 00:00:00+00:00,Computer Systems Organization,United States,180.0,27.0,0.15,2002,ISCA,ISCA 2002,False,False,False,False,0,Highly Competitive Band
+ISWC2014,ISWC 2014,2014-10-19 00:00:00+00:00,World Wide Web,Italy,180.0,38.0,0.211,2014,ISWC,ISWC 2014,False,False,False,False,0,Highly Competitive Band
+EDBT2002,EDBT 2002,2002-03-25 00:00:00+00:00,Information Systems,Czech Republic,207.0,36.0,0.174,2002,EDBT,EDBT 2002,False,False,False,False,0,Highly Competitive Band
+MOBICOM2013,MOBICOM 2013,2013-09-30 00:00:00+00:00,Human Centered Computing,United States,207.0,28.0,0.135,2013,MOBICOM,MOBICOM 2013,False,False,True,False,0,Highly Competitive Band
+MOBICOM2015,MOBICOM 2015,2015-09-07 00:00:00+00:00,Human Centered Computing,France,207.0,38.0,0.184,2015,MOBICOM,MOBICOM 2015,False,False,True,False,0,Highly Competitive Band
+POPL2010,POPL 2010,2012-01-17 00:00:00+00:00,Software Engineering,Spain,207.0,39.0,0.19,2012,POPL,POPL 2012,False,False,False,False,0,Highly Competitive Band
+UIST2010,UIST 2010,2010-10-03 00:00:00+00:00,Artificial Intelligence,United States,207.0,38.0,0.184,2010,UIST,UIST 2010,False,False,False,False,0,Highly Competitive Band
+USENIX2010,USENIX 2010,2010-08-11 00:00:00+00:00,Software Engineering,Canada,207.0,30.0,0.145,2010,USENIX,USENIX 2010,False,False,True,False,0,Highly Competitive Band
+EDBT2004,EDBT 2004,2004-03-14 00:00:00+00:00,Information Systems,Greece,294.0,42.0,0.143,2004,EDBT,EDBT 2004,False,False,False,False,0,Highly Competitive Band
+EDBT2009,EDBT 2009,2009-03-24 00:00:00+00:00,Information Systems,Republics Of Russia,447.0,110.0,0.246,2009,EDBT,EDBT 2009,False,False,False,False,0,Highly Competitive Band
+ICWS2013,ICWS 2013,2013-06-27 00:00:00+00:00,World Wide Web,United States,447.0,85.0,0.19,2013,ICWS,ICWS 2013,False,False,False,False,0,Highly Competitive Band
+PKDD2013,ECML PKDD 2013,2013-09-23 00:00:00+00:00,Information Systems,Czech Republic,447.0,111.0,0.248,2013,ECML PKDD,ECML PKDD 2013,False,False,False,False,0,Highly Competitive Band
+EDBT2010,EDBT 2010,2010-03-22 00:00:00+00:00,Information Systems,Switzerland,307.0,54.0,0.176,2010,EDBT,EDBT 2010,False,False,False,False,0,Highly Competitive Band
+FOCS2016,FOCS 2016,2016-10-09 00:00:00+00:00,Computer Systems Organization,United States,307.0,85.0,0.277,2016,FOCS,FOCS 2016,False,False,False,False,0,Highly Competitive Band
+SP2012,S&P 2012,2012-05-21 00:00:00+00:00,Security And Privacy,United States,307.0,40.0,0.13,2012,S&P,S&P 2012,False,False,True,False,0,Highly Competitive Band
+EDBT2013,EDBT 2013,2013-03-18 00:00:00+00:00,Information Systems,Italy,235.0,48.0,0.204,2013,EDBT,EDBT 2013,False,False,False,False,0,Highly Competitive Band
+EDBT2016,EDBT 2016,2016-03-15 00:00:00+00:00,Information Systems,France,282.0,102.0,0.362,2016,EDBT,EDBT 2016,False,False,False,False,1,Accessible Band
+MOBICOM2009,MOBICOM 2009,2009-09-20 00:00:00+00:00,Human Centered Computing,China,282.0,30.0,0.106,2009,MOBICOM,MOBICOM 2009,False,False,True,False,0,Highly Competitive Band
+POPL2017,POPL 2017,2017-01-15 00:00:00+00:00,Software Engineering,France,282.0,64.0,0.23,2017,POPL,POPL 2017,False,False,False,False,0,Highly Competitive Band
+UAI2017,UAI 2017,2017-08-11 00:00:00+00:00,Artificial Intelligence,Australia,282.0,87.0,0.309,2017,UAI,UAI 2017,False,False,True,False,0,Highly Competitive Band
+EDBT2017,EDBT 2017,2017-03-21 00:00:00+00:00,Information Systems,Italy,168.0,37.0,0.22,2017,EDBT,EDBT 2017,False,False,False,False,0,Highly Competitive Band
+ESORICS2008,ESORICS 2008,2008-10-06 00:00:00+00:00,Security And Privacy,Spain,168.0,37.0,0.22,2008,ESORICS,ESORICS 2008,False,False,True,False,0,Highly Competitive Band
+FSE2003,FSE 2003,2003-09-01 00:00:00+00:00,Software Engineering,Finland,168.0,34.0,0.2,2003,FSE,FSE 2003,False,False,True,False,0,Highly Competitive Band
+PERCOM2016,PERCOM 2016,2016-03-14 00:00:00+00:00,Computer Systems Organization,Australia,168.0,25.0,0.149,2016,PERCOM,PERCOM 2016,False,False,False,False,0,Highly Competitive Band
+ISWC2001,SWWS 2001,2001-07-30 00:00:00+00:00,World Wide Web,United States,58.0,35.0,0.603,2001,SWWS,SWWS 2001,False,False,False,False,1,Accessible Band
+EuroGP2009,EuroGP 2009,2009-04-15 00:00:00+00:00,Artificial Intelligence,Germany,57.0,21.0,0.368,2009,EUROGP,EUROGP 2009,False,False,True,False,1,Accessible Band
+ICWE2008,ICWE 2008,2008-07-14 00:00:00+00:00,World Wide Web,United States,57.0,19.0,0.34,2008,ICWE,ICWE 2008,False,False,True,False,1,Accessible Band
+ICWE2018,ICWE 2018,2018-06-05 00:00:00+00:00,World Wide Web,Spain,57.0,18.0,0.31,2018,ICWE,ICWE 2018,False,False,True,False,1,Accessible Band
+ICWS2003,ICWS 2003,2003-06-23 00:00:00+00:00,World Wide Web,United States,57.0,17.0,0.298,2003,ICWS,ICWS 2003,False,False,False,False,1,Accessible Band
+SBAC-PAD2008,SBAC-PAD 2008,2008-11-29 00:00:00+00:00,Computer Systems Organization,Brazil,57.0,22.0,0.385,2008,SBAC-PAD,SBAC-PAD 2008,False,False,True,False,1,Accessible Band
+ESORICS2000,ESORICS 2000,2000-10-04 00:00:00+00:00,Security And Privacy,France,75.0,19.0,0.253,2000,ESORICS,ESORICS 2000,False,False,True,False,1,Accessible Band
+ESORICS2004,ESORICS 2004,2004-09-13 00:00:00+00:00,Security And Privacy,France,159.0,27.0,0.17,2004,ESORICS,ESORICS 2004,False,False,True,False,0,Highly Competitive Band
+ESORICS2005,ESORICS 2005,2005-09-12 00:00:00+00:00,Security And Privacy,Italy,159.0,27.0,0.17,2005,ESORICS,ESORICS 2005,False,False,True,False,0,Highly Competitive Band
+PODS2008,PODS 2008,2008-06-09 00:00:00+00:00,Information Systems,Canada,159.0,28.0,0.176,2008,PODS,PODS 2008,False,False,False,False,0,Highly Competitive Band
+RecSys2016,RecSys 2016,2016-09-15 00:00:00+00:00,Information Systems,United States,159.0,29.0,0.182,2016,RECSYS,RECSYS 2016,False,False,False,False,0,Highly Competitive Band
+UIST2005,UIST 2005,2005-10-23 00:00:00+00:00,Artificial Intelligence,United States,159.0,31.0,0.195,2005,UIST,UIST 2005,False,False,False,False,0,Highly Competitive Band
+ESORICS2010,ESORICS 2010,2010-09-20 00:00:00+00:00,Security And Privacy,Greece,201.0,42.0,0.209,2010,ESORICS,ESORICS 2010,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2013,EuroCrypt 2013,2013-05-26 00:00:00+00:00,Security And Privacy,Greece,201.0,41.0,0.204,2013,EUROCRYPT,EUROCRYPT 2013,False,False,False,False,0,Highly Competitive Band
+FSE2005,FSE 2005,2005-09-05 00:00:00+00:00,Software Engineering,Portugal,201.0,32.0,0.159,2005,FSE,FSE 2005,False,False,True,False,0,Highly Competitive Band
+FSE2012,FSE 2012,2012-09-11 00:00:00+00:00,Software Engineering,United States,201.0,34.0,0.169,2012,FSE,FSE 2012,False,False,True,False,0,Highly Competitive Band
+SIGIR2001,SIGIR 2001,2001-09-09 00:00:00+00:00,Information Systems,United States,201.0,46.0,0.23,2001,SIGIR,SIGIR 2001,False,False,True,False,0,Highly Competitive Band
+ESORICS2011,ESORICS 2011,2011-09-12 00:00:00+00:00,Security And Privacy,Belgium,155.0,36.0,0.232,2011,ESORICS,ESORICS 2011,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2001,EuroCrypt 2001,2001-05-06 00:00:00+00:00,Security And Privacy,Austria,155.0,32.0,0.206,2001,EUROCRYPT,EUROCRYPT 2001,False,False,False,False,0,Highly Competitive Band
+ESORICS2012,ESORICS 2012,2012-09-10 00:00:00+00:00,Security And Privacy,Italy,248.0,50.0,0.202,2012,ESORICS,ESORICS 2012,False,False,True,False,0,Highly Competitive Band
+FOCS2012,FOCS 2012,2012-10-20 00:00:00+00:00,Computer Systems Organization,United States,248.0,79.0,0.319,2012,FOCS,FOCS 2012,False,False,False,False,1,Accessible Band
+JCDL2006,,2006-06-11 00:00:00+00:00,,,248.0,57.0,0.23,2006,,nan,False,False,False,False,0,Highly Competitive Band
+SIGMOD2000,SIGMOD 2000,2000-05-16 00:00:00+00:00,Information Systems,United States,248.0,42.0,0.169,2000,SIGMOD,SIGMOD 2000,False,False,True,False,0,Highly Competitive Band
+ESORICS2013,ESORICS 2013,2013-09-09 00:00:00+00:00,Security And Privacy,England,242.0,43.0,0.178,2013,ESORICS,ESORICS 2013,False,False,True,False,0,Highly Competitive Band
+ESORICS2015,ESORICS 2015,2015-09-21 00:00:00+00:00,Security And Privacy,Austria,293.0,59.0,0.201,2015,ESORICS,ESORICS 2015,False,False,True,False,0,Highly Competitive Band
+SIGMOD2001,SIGMOD 2001,2001-05-21 00:00:00+00:00,Information Systems,United States,293.0,44.0,0.15,2001,SIGMOD,SIGMOD 2001,False,False,True,False,0,Highly Competitive Band
+ESORICS2016,ESORICS 2016,2016-09-26 00:00:00+00:00,Security And Privacy,Greece,285.0,60.0,0.21,2016,ESORICS,ESORICS 2016,False,False,True,False,0,Highly Competitive Band
+ISCA2014,ISCA 2014,2014-06-14 00:00:00+00:00,Computer Systems Organization,United States,285.0,46.0,0.161,2014,ISCA,ISCA 2014,False,False,False,False,0,Highly Competitive Band
+UAI2011,UAI 2011,2011-07-14 00:00:00+00:00,Artificial Intelligence,Spain,285.0,96.0,0.337,2011,UAI,UAI 2011,False,False,True,False,1,Accessible Band
+ESORICS2017,ESORICS 2017,2017-09-11 00:00:00+00:00,Security And Privacy,Norway,338.0,54.0,0.16,2017,ESORICS,ESORICS 2017,False,False,True,False,0,Highly Competitive Band
+ESORICS2018,ESORICS 2018,2018-09-03 00:00:00+00:00,Security And Privacy,Italy,283.0,56.0,0.198,2018,ESORICS,ESORICS 2018,False,False,True,False,0,Highly Competitive Band
+ESWC2008,ESWC 2008,2008-06-01 00:00:00+00:00,World Wide Web,Spain,270.0,51.0,0.189,2008,ESWC,ESWC 2008,False,False,False,False,0,Highly Competitive Band
+FOCS2010,FOCS 2010,2010-10-23 00:00:00+00:00,Computer Systems Organization,United States,270.0,81.0,0.3,2010,FOCS,FOCS 2010,False,False,False,False,0,Highly Competitive Band
+ICWS2015,ICWS 2015,2015-06-27 00:00:00+00:00,World Wide Web,United States,270.0,47.0,0.174,2015,ICWS,ICWS 2015,False,False,False,False,0,Highly Competitive Band
+JCDL2005,,2005-06-07 00:00:00+00:00,,,270.0,59.0,0.22,2005,,nan,False,False,False,False,0,Highly Competitive Band
+STOC2003,STOC 2003,2003-06-09 00:00:00+00:00,Theory Of Computations,United States,270.0,80.0,0.296,2003,STOC,STOC 2003,False,False,True,False,0,Highly Competitive Band
+ESWC2010,ESWC 2010,2010-05-30 00:00:00+00:00,World Wide Web,Greece,245.0,52.0,0.212,2010,ESWC,ESWC 2010,False,False,False,False,0,Highly Competitive Band
+ISCA2010,ISCA 2010,2010-06-19 00:00:00+00:00,Computer Systems Organization,France,245.0,44.0,0.18,2010,ISCA,ISCA 2010,False,False,False,False,0,Highly Competitive Band
+PLDI2016,PLDI 2016,2016-06-13 00:00:00+00:00,Software Engineering,United States,245.0,49.0,0.2,2016,PLDI,PLDI 2016,False,False,False,False,0,Highly Competitive Band
+ESWC2011,ESWC 2011,2011-05-29 00:00:00+00:00,World Wide Web,Greece,247.0,57.0,0.231,2011,ESWC,ESWC 2011,False,False,False,False,0,Highly Competitive Band
+ESWC2013,ESWC 2013,2013-05-26 00:00:00+00:00,World Wide Web,France,162.0,37.0,0.228,2013,ESWC,ESWC 2013,False,False,False,False,0,Highly Competitive Band
+ESWC2015,ESWC 2015,2015-05-31 00:00:00+00:00,World Wide Web,Greece,145.0,33.0,0.228,2015,ESWC,ESWC 2015,False,False,False,False,0,Highly Competitive Band
+OOPSLA2001,OOPSLA 2001,2001-10-14 00:00:00+00:00,Software Engineering,United States,145.0,27.0,0.186,2001,OOPSLA,OOPSLA 2001,False,False,False,False,0,Highly Competitive Band
+PODC2013,PODC 2013,2013-07-22 00:00:00+00:00,Software Engineering,Canada,145.0,37.0,0.255,2013,PODC,PODC 2013,False,False,False,False,1,Accessible Band
+ESWC2016,ESWC 2016,2016-05-29 00:00:00+00:00,World Wide Web,Greece,204.0,47.0,0.21,2016,ESWC,ESWC 2016,False,False,False,False,0,Highly Competitive Band
+ICWE2004,ICWE 2004,2004-07-26 00:00:00+00:00,World Wide Web,Germany,204.0,24.0,0.12,2004,ICWE,ICWE 2004,False,False,True,False,0,Highly Competitive Band
+ISCA2007,ISCA 2007,2007-06-09 00:00:00+00:00,Computer Systems Organization,United States,204.0,46.0,0.225,2007,ISCA,ISCA 2007,False,False,False,False,0,Highly Competitive Band
+PODC2007,PODC 2007,2007-08-12 00:00:00+00:00,Software Engineering,United States,204.0,32.0,0.157,2007,PODC,PODC 2007,False,False,False,False,0,Highly Competitive Band
+UBICOMP2006,UBICOMP 2006,2006-09-17 00:00:00+00:00,Security And Privacy,United States,204.0,31.0,0.15,2006,UBICOMP,UBICOMP 2006,False,False,True,False,0,Highly Competitive Band
+EUROGP2001,EuroGP 2001,2001-04-18 00:00:00+00:00,Artificial Intelligence,Italy,42.0,17.0,0.405,2001,EUROGP,EUROGP 2001,False,False,True,False,1,Accessible Band
+EuroGP2002,EuroGP 2002,2002-04-03 00:00:00+00:00,Artificial Intelligence,Ireland,42.0,18.0,0.429,2002,EUROGP,EUROGP 2002,False,False,True,False,1,Accessible Band
+EUROGP2012,EuroGP 2012,2012-04-11 00:00:00+00:00,Artificial Intelligence,Spain,46.0,18.0,0.391,2012,EUROGP,EUROGP 2012,False,False,True,False,1,Accessible Band
+FSE2001,FSE 2001,2001-09-10 00:00:00+00:00,Software Engineering,Austria,137.0,29.0,0.21,2001,FSE,FSE 2001,False,False,True,False,0,Highly Competitive Band
+SP2000,S&P 2000,2000-05-14 00:00:00+00:00,Security And Privacy,United States,137.0,18.0,0.131,2000,S&P,S&P 2000,False,False,True,False,0,Highly Competitive Band
+ISMAR2008,ISMAR 2008,2008-09-15 00:00:00+00:00,Human Centered Computing,England,104.0,26.0,0.25,2008,ISMAR,ISMAR 2008,False,False,False,False,1,Accessible Band
+InfoVis2006,Infovis 2006,2006-10-29 00:00:00+00:00,Human Centered Computing,United States,104.0,24.0,0.23,2006,INFOVIS,INFOVIS 2006,False,False,True,False,1,Accessible Band
+VR2003,IEEE VR 2003,2003-03-22 00:00:00+00:00,Human Centered Computing,United States,104.0,29.0,0.279,2003,IEEE VR,IEEE VR 2003,False,False,False,False,1,Accessible Band
+Eurosys2011,EuroSys 2011,2011-04-10 00:00:00+00:00,Computer Systems Organization,Austria,161.0,24.0,0.15,2011,EUROSYS,EUROSYS 2011,False,False,True,False,0,Highly Competitive Band
+HPCA2008,HPCA 2008,2008-02-16 00:00:00+00:00,Computer Systems Organization,United States,161.0,31.0,0.193,2008,HPCA,HPCA 2008,False,False,False,False,0,Highly Competitive Band
+VR2010,IEEE VR 2010,2010-03-20 00:00:00+00:00,Human Centered Computing,United States,161.0,41.0,0.255,2010,IEEE VR,IEEE VR 2010,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2003,EuroCrypt 2003,2003-05-04 00:00:00+00:00,Security And Privacy,Poland,156.0,37.0,0.237,2003,EUROCRYPT,EUROCRYPT 2003,False,False,False,False,0,Highly Competitive Band
+NDSS2010,NDSS 2010,2010-02-28 00:00:00+00:00,Security And Privacy,United States,156.0,24.0,0.154,2010,NDSS,NDSS 2010,False,False,False,False,0,Highly Competitive Band
+OOPSLA2007,OOPSLA 2007,2007-10-21 00:00:00+00:00,Software Engineering,Canada,156.0,33.0,0.212,2007,OOPSLA,OOPSLA 2007,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2004,EuroCrypt 2004,2004-05-02 00:00:00+00:00,Security And Privacy,Switzerland,206.0,36.0,0.175,2004,EUROCRYPT,EUROCRYPT 2004,False,False,False,False,0,Highly Competitive Band
+FOCS2000,FOCS 2000,2000-11-12 00:00:00+00:00,Computer Systems Organization,United States,206.0,66.0,0.32,2000,FOCS,FOCS 2000,False,False,False,False,1,Accessible Band
+PLDI2010,PLDI 2010,2010-06-05 00:00:00+00:00,Software Engineering,Canada,206.0,41.0,0.199,2010,PLDI,PLDI 2010,False,False,False,False,0,Highly Competitive Band
+USENIX2011,USENIX 2011,2011-08-08 00:00:00+00:00,Software Engineering,United States,206.0,35.0,0.17,2011,USENIX,USENIX 2011,False,False,True,False,0,Highly Competitive Band
+EuroCrypt2006,EuroCrypt 2006,2006-05-28 00:00:00+00:00,Security And Privacy,Republics Of Russia,198.0,33.0,0.167,2006,EUROCRYPT,EUROCRYPT 2006,False,False,False,False,0,Highly Competitive Band
+POPL2007,POPL 2007,2007-01-17 00:00:00+00:00,Software Engineering,France,198.0,36.0,0.18,2007,POPL,POPL 2007,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2008,EuroCrypt 2008,2008-04-13 00:00:00+00:00,Security And Privacy,Turkey,163.0,31.0,0.19,2008,EUROCRYPT,EUROCRYPT 2008,False,False,False,False,0,Highly Competitive Band
+HPCA2000,HPCA 2000,2000-01-08 00:00:00+00:00,Computer Systems Organization,France,163.0,35.0,0.215,2000,HPCA,HPCA 2000,False,False,False,False,0,Highly Competitive Band
+ISCA2000,ISCA 2000,2000-06-10 00:00:00+00:00,Computer Systems Organization,Canada,163.0,29.0,0.178,2000,ISCA,ISCA 2000,False,False,False,False,0,Highly Competitive Band
+ISCA2001,ISCA 2001,2001-06-30 00:00:00+00:00,Computer Systems Organization,Sweden,163.0,24.0,0.147,2001,ISCA,ISCA 2001,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2010,EuroCrypt 2010,2010-05-30 00:00:00+00:00,Security And Privacy,France,188.0,35.0,0.186,2010,EUROCRYPT,EUROCRYPT 2010,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2011,EuroCrypt 2011,2011-05-15 00:00:00+00:00,Security And Privacy,Estonia,167.0,31.0,0.186,2011,EUROCRYPT,EUROCRYPT 2011,False,False,False,False,0,Highly Competitive Band
+POPL2006,POPL 2006,2006-01-11 00:00:00+00:00,Software Engineering,United States,167.0,33.0,0.2,2006,POPL,POPL 2006,False,False,False,False,0,Highly Competitive Band
+EuroCrypt2015,EuroCrypt 2015,2015-04-26 00:00:00+00:00,Security And Privacy,Bulgaria,194.0,57.0,0.294,2015,EUROCRYPT,EUROCRYPT 2015,False,False,False,False,1,Accessible Band
+ISCA2005,ISCA 2005,2005-06-04 00:00:00+00:00,Computer Systems Organization,United States,194.0,45.0,0.232,2005,ISCA,ISCA 2005,False,False,False,False,0,Highly Competitive Band
+PERCOM2017,PERCOM 2017,2017-03-13 00:00:00+00:00,Computer Systems Organization,United States,194.0,32.0,0.165,2017,PERCOM,PERCOM 2017,False,False,False,False,0,Highly Competitive Band
+PLDI2009,PLDI 2009,2009-06-15 00:00:00+00:00,Software Engineering,Ireland,194.0,41.0,0.211,2009,PLDI,PLDI 2009,False,False,False,False,0,Highly Competitive Band
+UAI2007,UAI 2007,2007-07-17 00:00:00+00:00,Artificial Intelligence,Canada,194.0,58.0,0.299,2007,UAI,UAI 2007,False,False,True,False,1,Accessible Band
+EuroGP2000,EuroGP 2000,2000-04-15 00:00:00+00:00,Artificial Intelligence,England,39.0,14.0,0.359,2000,EUROGP,EUROGP 2000,False,False,True,False,1,Accessible Band
+EuroGP2003,EuroGP 2003,2003-04-14 00:00:00+00:00,Artificial Intelligence,England,61.0,24.0,0.393,2003,EUROGP,EUROGP 2003,False,False,True,False,1,Accessible Band
+EuroGP2004,EuroGP 2004,2004-04-05 00:00:00+00:00,Artificial Intelligence,Portugal,61.0,19.0,0.311,2004,EUROGP,EUROGP 2004,False,False,True,False,1,Accessible Band
+EuroGP2008,EuroGP 2008,2008-03-26 00:00:00+00:00,Artificial Intelligence,Italy,61.0,21.0,0.34,2008,EUROGP,EUROGP 2008,False,False,True,False,1,Accessible Band
+EuroGP2014,EuroGP 2014,2014-04-23 00:00:00+00:00,Artificial Intelligence,Spain,40.0,15.0,0.375,2014,EUROGP,EUROGP 2014,False,False,True,False,1,Accessible Band
+EuroGP2015,EuroGP 2015,2015-04-08 00:00:00+00:00,Artificial Intelligence,Denmark,36.0,12.0,0.333,2015,EUROGP,EUROGP 2015,False,False,True,False,1,Accessible Band
+EuroGP2016,EuroGP 2016,2016-03-30 00:00:00+00:00,Artificial Intelligence,Portugal,36.0,11.0,0.306,2016,EUROGP,EUROGP 2016,False,False,True,False,1,Accessible Band
+EuroGP2018,EuroGP 2018,2018-04-04 00:00:00+00:00,Artificial Intelligence,Italy,36.0,11.0,0.306,2018,EUROGP,EUROGP 2018,False,False,True,False,1,Accessible Band
+EuroGP2017,EuroGP 2017,2017-04-19 00:00:00+00:00,Artificial Intelligence,Netherlands,32.0,14.0,0.438,2017,EUROGP,EUROGP 2017,False,False,True,False,1,Accessible Band
+Eurosys2008,EuroSys 2008,2008-03-31 00:00:00+00:00,Computer Systems Organization,Scotland,131.0,24.0,0.18,2008,EUROSYS,EUROSYS 2008,False,False,True,False,0,Highly Competitive Band
+ISSAC2004,ISSAC 2004,2004-07-04 00:00:00+00:00,Theory Of Computations,Spain,131.0,48.0,0.366,2004,ISSAC,ISSAC 2004,False,False,True,False,1,Accessible Band
+PLDI2003,PLDI 2003,2003-06-09 00:00:00+00:00,Software Engineering,United States,131.0,28.0,0.214,2003,PLDI,PLDI 2003,False,False,False,False,0,Highly Competitive Band
+RecSys2015,RecSys 2015,2015-09-16 00:00:00+00:00,Information Systems,Austria,131.0,28.0,0.214,2015,RECSYS,RECSYS 2015,False,False,False,False,0,Highly Competitive Band
+SP2003,S&P 2003,2003-05-11 00:00:00+00:00,Security And Privacy,United States,131.0,19.0,0.145,2003,S&P,S&P 2003,False,False,True,False,0,Highly Competitive Band
+SPAA2015,SPAA 2015,2015-06-13 00:00:00+00:00,Theory Of Computations,United States,131.0,31.0,0.24,2015,SPAA,SPAA 2015,False,False,True,False,1,Accessible Band
+Eurosys2009,EuroSys 2009,2009-03-31 00:00:00+00:00,Computer Systems Organization,Germany,149.0,63.0,0.42,2009,EUROSYS,EUROSYS 2009,False,False,True,False,1,Accessible Band
+PODC2002,PODC 2002,2002-07-21 00:00:00+00:00,Software Engineering,United States,149.0,43.0,0.289,2002,PODC,PODC 2002,False,False,False,False,1,Accessible Band
+PODC2016,PODC 2016,2016-07-25 00:00:00+00:00,Software Engineering,United States,149.0,40.0,0.268,2016,PODC,PODC 2016,False,False,False,False,1,Accessible Band
+USENIX2005,USENIX 2005,2005-07-31 00:00:00+00:00,Software Engineering,United States,149.0,22.0,0.148,2005,USENIX,USENIX 2005,False,False,True,False,0,Highly Competitive Band
+Eurosys2012,EuroSys 2012,2012-04-10 00:00:00+00:00,Computer Systems Organization,Switzerland,179.0,27.0,0.15,2012,EUROSYS,EUROSYS 2012,False,False,True,False,0,Highly Competitive Band
+PODC2010,PODC 2010,2010-07-25 00:00:00+00:00,Software Engineering,Switzerland,179.0,39.0,0.218,2010,PODC,PODC 2010,False,False,False,False,0,Highly Competitive Band
+USENIX2006,USENIX 2006,2006-07-31 00:00:00+00:00,Software Engineering,United States,179.0,22.0,0.123,2006,USENIX,USENIX 2006,False,False,True,False,0,Highly Competitive Band
+Eurosys2013,EuroSys 2013,2013-04-14 00:00:00+00:00,Computer Systems Organization,Czech Republic,143.0,27.0,0.19,2013,EUROSYS,EUROSYS 2013,False,False,True,False,0,Highly Competitive Band
+Eurosys2014,EuroSys 2014,2014-04-13 00:00:00+00:00,Computer Systems Organization,Netherlands,147.0,26.0,0.18,2014,EUROSYS,EUROSYS 2014,False,False,True,False,0,Highly Competitive Band
+OOPSLA2003,OOPSLA 2003,2003-10-26 00:00:00+00:00,Software Engineering,United States,147.0,26.0,0.177,2003,OOPSLA,OOPSLA 2003,False,False,False,False,0,Highly Competitive Band
+VR2015,IEEE VR 2015,2015-03-23 00:00:00+00:00,Human Centered Computing,France,147.0,32.0,0.218,2015,IEEE VR,IEEE VR 2015,False,False,False,False,0,Highly Competitive Band
+Eurosys2018,EuroSys 2018,2018-04-23 00:00:00+00:00,Computer Systems Organization,Portugal,262.0,43.0,0.164,2018,EUROSYS,EUROSYS 2018,False,False,True,False,0,Highly Competitive Band
+ISCA2012,ISCA 2012,2012-06-09 00:00:00+00:00,Computer Systems Organization,United States,262.0,47.0,0.179,2012,ISCA,ISCA 2012,False,False,False,False,0,Highly Competitive Band
+ISWC2003,ISWC 2003,2003-10-20 00:00:00+00:00,World Wide Web,United States,262.0,49.0,0.187,2003,ISWC,ISWC 2003,False,False,False,False,0,Highly Competitive Band
+UIST2011,UIST 2011,2011-10-16 00:00:00+00:00,Artificial Intelligence,United States,262.0,67.0,0.256,2011,UIST,UIST 2011,False,False,False,False,0,Highly Competitive Band
+FASE2001,FASE 2001,2001-04-02 00:00:00+00:00,Software Engineering,Italy,74.0,22.0,0.297,2001,FASE,FASE 2001,False,False,True,False,1,Accessible Band
+ICFP2006,ICFP 2006,2006-09-18 00:00:00+00:00,Software Engineering,United States,74.0,24.0,0.32,2006,ICFP,ICFP 2006,False,False,True,False,1,Accessible Band
+SBAC-PAD2002,SBAC-PAD 2002,2002-10-28 00:00:00+00:00,Computer Systems Organization,Brazil,74.0,25.0,0.337,2002,SBAC-PAD,SBAC-PAD 2002,False,False,True,False,1,Accessible Band
+FASE2003,FASE 2003,2003-04-07 00:00:00+00:00,Software Engineering,Poland,89.0,20.0,0.225,2003,FASE,FASE 2003,False,False,True,False,1,Accessible Band
+IJCAR2010,IJCAR 2010,2010-07-16 00:00:00+00:00,Theory Of Computations,England,89.0,40.0,0.449,2010,IJCAR,IJCAR 2010,False,False,False,False,1,Accessible Band
+InfoVis2004,Infovis 2004,2004-10-10 00:00:00+00:00,Human Centered Computing,United States,89.0,27.0,0.3,2004,INFOVIS,INFOVIS 2004,False,False,True,False,1,Accessible Band
+FASE2005,FASE 2005,2005-04-04 00:00:00+00:00,Software Engineering,England,99.0,22.0,0.222,2005,FASE,FASE 2005,False,False,True,False,1,Accessible Band
+FASE2011,FASE 2011,2011-03-26 00:00:00+00:00,Software Engineering,Germany,99.0,29.0,0.293,2011,FASE,FASE 2011,False,False,True,False,1,Accessible Band
+ICFP2008,ICFP 2008,2008-09-22 00:00:00+00:00,Software Engineering,Canada,99.0,35.0,0.35,2008,ICFP,ICFP 2008,False,False,True,False,1,Accessible Band
+ICFP2010,ICFP 2010,2010-09-27 00:00:00+00:00,Software Engineering,United States,99.0,33.0,0.33,2010,ICFP,ICFP 2010,False,False,True,False,1,Accessible Band
+ISSAC2008,ISSAC 2008,2008-07-20 00:00:00+00:00,Theory Of Computations,Austria,99.0,40.0,0.404,2008,ISSAC,ISSAC 2008,False,False,True,False,1,Accessible Band
+PODS2001,PODS 2001,2001-05-21 00:00:00+00:00,Information Systems,United States,99.0,26.0,0.263,2001,PODS,PODS 2001,False,False,False,False,1,Accessible Band
+FASE2007,FASE 2007,2007-04-22 00:00:00+00:00,Software Engineering,Portugal,141.0,30.0,0.213,2007,FASE,FASE 2007,False,False,True,False,0,Highly Competitive Band
+HPCA2003,HPCA 2003,2003-02-08 00:00:00+00:00,Computer Systems Organization,United States,141.0,31.0,0.22,2003,HPCA,HPCA 2003,False,False,False,False,0,Highly Competitive Band
+ISMAR2011,ISMAR 2011,2011-10-26 00:00:00+00:00,Human Centered Computing,Switzerland,141.0,26.0,0.184,2011,ISMAR,ISMAR 2011,False,False,False,False,0,Highly Competitive Band
+InfoVis2009,Infovis 2009,2009-10-11 00:00:00+00:00,Human Centered Computing,United States,141.0,37.0,0.26,2009,INFOVIS,INFOVIS 2009,False,False,True,False,1,Accessible Band
+PODC2014,PODC 2014,2014-07-15 00:00:00+00:00,Software Engineering,France,141.0,39.0,0.277,2014,PODC,PODC 2014,False,False,False,False,1,Accessible Band
+FASE2013,FASE 2013,2013-03-16 00:00:00+00:00,Software Engineering,Italy,112.0,26.0,0.232,2013,FASE,FASE 2013,False,False,True,False,1,Accessible Band
+IJCAR2001,IJCAR 2001,2001-06-18 00:00:00+00:00,Theory Of Computations,Italy,112.0,56.0,0.5,2001,IJCAR,IJCAR 2001,False,False,False,False,1,Accessible Band
+FASE2014,FASE 2014,2014-04-05 00:00:00+00:00,Software Engineering,France,125.0,28.0,0.224,2014,FASE,FASE 2014,False,False,True,False,0,Highly Competitive Band
+FSE2006,FSE 2006,2006-11-05 00:00:00+00:00,Software Engineering,Provisional Government Of Oregon,125.0,30.0,0.24,2006,FSE,FSE 2006,False,False,True,False,1,Accessible Band
+ICWE2016,ICWE 2016,2016-06-06 00:00:00+00:00,World Wide Web,Switzerland,125.0,26.0,0.21,2016,ICWE,ICWE 2016,False,False,True,False,0,Highly Competitive Band
+NDSS2007,NDSS 2007,2007-02-28 00:00:00+00:00,Security And Privacy,United States,125.0,18.0,0.144,2007,NDSS,NDSS 2007,False,False,False,False,0,Highly Competitive Band
+OOPSLA2002,OOPSLA 2002,2002-11-04 00:00:00+00:00,Software Engineering,United States,125.0,25.0,0.2,2002,OOPSLA,OOPSLA 2002,False,False,False,False,0,Highly Competitive Band
+RecSys2017,RecSys 2017,2017-08-27 00:00:00+00:00,Information Systems,Italy,125.0,26.0,0.208,2017,RECSYS,RECSYS 2017,False,False,False,False,0,Highly Competitive Band
+InfoVis2014,Infovis 2014,2014-11-09 00:00:00+00:00,Human Centered Computing,France,196.0,45.0,0.23,2014,INFOVIS,INFOVIS 2014,False,False,True,False,0,Highly Competitive Band
+PERCOM2015,PERCOM 2015,2015-03-23 00:00:00+00:00,Computer Systems Organization,United States,196.0,29.0,0.148,2015,PERCOM,PERCOM 2015,False,False,False,False,0,Highly Competitive Band
+UBICOMP2017,UBICOMP 2017,2017-09-11 00:00:00+00:00,Security And Privacy,United States,196.0,38.0,0.194,2017,UBICOMP,UBICOMP 2017,False,False,True,False,0,Highly Competitive Band
+FOCS2001,FOCS 2001,2001-10-14 00:00:00+00:00,Computer Systems Organization,United States,2014.0,63.0,0.031,2001,FOCS,FOCS 2001,False,False,False,False,0,Highly Competitive Band
+FOCS2002,FOCS 2002,2002-11-16 00:00:00+00:00,Computer Systems Organization,Canada,279.0,77.0,0.276,2002,FOCS,FOCS 2002,False,False,False,False,0,Highly Competitive Band
+STOC2010,STOC 2010,2010-06-05 00:00:00+00:00,Theory Of Computations,United States,279.0,78.0,0.28,2010,STOC,STOC 2010,False,False,True,False,0,Highly Competitive Band
+FOCS2008,FOCS 2008,2008-10-25 00:00:00+00:00,Computer Systems Organization,United States,276.0,79.0,0.286,2008,FOCS,FOCS 2008,False,False,False,False,0,Highly Competitive Band
+FOCS2009,FOCS 2009,2009-10-24 00:00:00+00:00,Computer Systems Organization,United States,249.0,75.0,0.301,2009,FOCS,FOCS 2009,False,False,False,False,1,Accessible Band
+HPCA2013,HPCA 2013,2013-02-23 00:00:00+00:00,Computer Systems Organization,China,249.0,51.0,0.205,2013,HPCA,HPCA 2013,False,False,False,False,0,Highly Competitive Band
+JCDL2004,,2004-06-07 00:00:00+00:00,,,249.0,61.0,0.24,2004,,nan,False,False,False,False,0,Highly Competitive Band
+SP2008,S&P 2008,2008-05-18 00:00:00+00:00,Security And Privacy,United States,249.0,28.0,0.112,2008,S&P,S&P 2008,False,False,True,False,0,Highly Competitive Band
+FOCS2011,FOCS 2011,2011-10-22 00:00:00+00:00,Computer Systems Organization,United States,292.0,85.0,0.291,2011,FOCS,FOCS 2011,False,False,False,False,0,Highly Competitive Band
+UAI2014,UAI 2014,2014-07-23 00:00:00+00:00,Artificial Intelligence,Canada,292.0,94.0,0.322,2014,UAI,UAI 2014,False,False,True,False,1,Accessible Band
+FOCS2013,FOCS 2013,2013-10-27 00:00:00+00:00,Computer Systems Organization,United States,281.0,79.0,0.281,2013,FOCS,FOCS 2013,False,False,False,False,0,Highly Competitive Band
+MOBICOM2001,MOBICOM 2001,2001-07-16 00:00:00+00:00,Human Centered Computing,Italy,281.0,30.0,0.107,2001,MOBICOM,MOBICOM 2001,False,False,True,False,0,Highly Competitive Band
+MOBICOM2003,MOBICOM 2003,2003-09-14 00:00:00+00:00,Human Centered Computing,United States,281.0,27.0,0.096,2003,MOBICOM,MOBICOM 2003,False,False,True,False,0,Highly Competitive Band
+FOCS2014,FOCS 2014,2014-10-18 00:00:00+00:00,Computer Systems Organization,United States,273.0,68.0,0.249,2014,FOCS,FOCS 2014,False,False,False,False,0,Highly Competitive Band
+FOCS2015,FOCS 2015,2015-10-18 00:00:00+00:00,Computer Systems Organization,United States,314.0,86.0,0.274,2015,FOCS,FOCS 2015,False,False,False,False,0,Highly Competitive Band
+PODC2004,PODC 2004,2004-07-25 00:00:00+00:00,Software Engineering,Canada,314.0,75.0,0.239,2004,PODC,PODC 2004,False,False,False,False,0,Highly Competitive Band
+FOGA2007,FOGA 2007,2007-01-08 00:00:00+00:00,Artificial Intelligence,United States,22.0,12.0,0.545,2007,FOGA,FOGA 2007,False,False,False,False,1,Accessible Band
+FOGA2009,FOGA 2009,2009-01-09 00:00:00+00:00,Artificial Intelligence,United States,30.0,18.0,0.6,2009,FOGA,FOGA 2009,False,False,False,False,1,Accessible Band
+FOGA2011,FOGA 2011,2011-01-05 00:00:00+00:00,Artificial Intelligence,Austria,35.0,21.0,0.6,2011,FOGA,FOGA 2011,False,False,False,False,1,Accessible Band
+RecSys2007,RecSys 2007,2007-10-19 00:00:00+00:00,Information Systems,United States,35.0,16.0,0.457,2007,RECSYS,RECSYS 2007,False,False,False,False,1,Accessible Band
+FOGA2015,FOGA 2015,2015-01-17 00:00:00+00:00,Artificial Intelligence,England,26.0,16.0,0.615,2015,FOGA,FOGA 2015,False,False,False,False,1,Accessible Band
+FOGA2017,FOGA 2017,2017-01-12 00:00:00+00:00,Artificial Intelligence,Denmark,23.0,13.0,0.565,2017,FOGA,FOGA 2017,False,False,False,False,1,Accessible Band
+FSE2007,FSE 2007,2007-09-03 00:00:00+00:00,Software Engineering,Croatia,251.0,43.0,0.17,2007,FSE,FSE 2007,False,False,True,False,0,Highly Competitive Band
+FSE2013,FSE 2013,2013-08-18 00:00:00+00:00,Software Engineering,Republics Of Russia,251.0,50.0,0.2,2013,FSE,FSE 2013,False,False,True,False,0,Highly Competitive Band
+KR2008,KR 2008,2008-09-16 00:00:00+00:00,Artificial Intelligence,Australia,251.0,69.0,0.275,2008,KR,KR 2008,False,False,False,False,0,Highly Competitive Band
+SP2006,S&P 2006,2006-05-21 00:00:00+00:00,Security And Privacy,United States,251.0,32.0,0.127,2006,S&P,S&P 2006,False,False,True,False,0,Highly Competitive Band
+UBICOMP2009,UBICOMP 2009,2009-09-30 00:00:00+00:00,Security And Privacy,United States,251.0,30.0,0.12,2009,UBICOMP,UBICOMP 2009,False,False,True,False,0,Highly Competitive Band
+FSE2011,FSE 2011,2011-09-05 00:00:00+00:00,Software Engineering,Hungary,203.0,34.0,0.168,2011,FSE,FSE 2011,False,False,True,False,0,Highly Competitive Band
+OOPSLA2016,OOPSLA 2016,2016-10-30 00:00:00+00:00,Software Engineering,Netherlands,203.0,52.0,0.256,2016,OOPSLA,OOPSLA 2016,False,False,False,False,0,Highly Competitive Band
+FSE2016,FSE 2016,2016-11-13 00:00:00+00:00,Software Engineering,United States,1149.0,195.0,0.17,2016,FSE,FSE 2016,False,False,True,False,0,Highly Competitive Band
+FSE2017,FSE 2017,2017-09-04 00:00:00+00:00,Software Engineering,Germany,295.0,72.0,0.244,2017,FSE,FSE 2017,False,False,True,False,0,Highly Competitive Band
+NDSS2014,NDSS 2014,2014-02-23 00:00:00+00:00,Security And Privacy,United States,295.0,55.0,0.186,2014,NDSS,NDSS 2014,False,False,False,False,0,Highly Competitive Band
+HPCA2002,HPCA 2002,2002-02-02 00:00:00+00:00,Computer Systems Organization,United States,130.0,26.0,0.2,2002,HPCA,HPCA 2002,False,False,False,False,0,Highly Competitive Band
+SPAA2007,SPAA 2007,2007-06-09 00:00:00+00:00,Theory Of Computations,United States,130.0,36.0,0.28,2007,SPAA,SPAA 2007,False,False,True,False,1,Accessible Band
+SPAA2013,SPAA 2013,2013-07-23 00:00:00+00:00,Theory Of Computations,Canada,130.0,31.0,0.24,2013,SPAA,SPAA 2013,False,False,True,False,1,Accessible Band
+USENIX2002,USENIX 2002,2002-08-05 00:00:00+00:00,Software Engineering,United States,130.0,22.0,0.169,2002,USENIX,USENIX 2002,False,False,True,False,0,Highly Competitive Band
+VR2004,IEEE VR 2004,2004-03-27 00:00:00+00:00,Human Centered Computing,United States,130.0,26.0,0.2,2004,IEEE VR,IEEE VR 2004,False,False,False,False,0,Highly Competitive Band
+VR2007,IEEE VR 2007,2007-03-10 00:00:00+00:00,Human Centered Computing,United States,130.0,26.0,0.2,2007,IEEE VR,IEEE VR 2007,False,False,False,False,0,Highly Competitive Band
+HPCA2009,HPCA 2009,2009-02-14 00:00:00+00:00,Computer Systems Organization,United States,184.0,35.0,0.19,2009,HPCA,HPCA 2009,False,False,False,False,0,Highly Competitive Band
+ISCA2003,ISCA 2003,2003-06-09 00:00:00+00:00,Computer Systems Organization,United States,184.0,36.0,0.196,2003,ISCA,ISCA 2003,False,False,False,False,0,Highly Competitive Band
+PLDI2008,PLDI 2008,2008-06-07 00:00:00+00:00,Software Engineering,United States,184.0,34.0,0.185,2008,PLDI,PLDI 2008,False,False,False,False,0,Highly Competitive Band
+USENIX2004,USENIX 2004,2004-08-09 00:00:00+00:00,Software Engineering,United States,184.0,22.0,0.12,2004,USENIX,USENIX 2004,False,False,True,False,0,Highly Competitive Band
+HPCA2014,HPCA 2014,2014-02-15 00:00:00+00:00,Computer Systems Organization,United States,215.0,55.0,0.256,2014,HPCA,HPCA 2014,False,False,False,False,0,Highly Competitive Band
+ISWC2006,ISWC 2006,2006-11-05 00:00:00+00:00,World Wide Web,United States,215.0,52.0,0.242,2006,ISWC,ISWC 2006,False,False,False,False,0,Highly Competitive Band
+OSDI2012,OSDI 2012,2012-10-08 00:00:00+00:00,Software Engineering,United States,215.0,25.0,0.116,2012,OSDI,OSDI 2012,False,False,False,False,0,Highly Competitive Band
+SP2011,S&P 2011,2011-05-22 00:00:00+00:00,Security And Privacy,United States,306.0,34.0,0.111,2011,S&P,S&P 2011,False,False,True,False,0,Highly Competitive Band
+ICSE2010,ICSE 2010,2010-05-02 00:00:00+00:00,Software Engineering,South Africa,380.0,52.0,0.137,2010,ICSE,ICSE 2010,False,False,False,False,0,Highly Competitive Band
+ICCV2001,ICCV 2001,2001-07-07 00:00:00+00:00,Artificial Intelligence,Canada,596.0,205.0,0.344,2001,ICCV,ICCV 2001,False,False,False,False,0,Highly Competitive Band
+ICCV2003,ICCV 2003,2003-10-14 00:00:00+00:00,Artificial Intelligence,France,966.0,199.0,0.206,2003,ICCV,ICCV 2003,False,False,False,False,0,Highly Competitive Band
+TheWeb2017,TheWeb 2017,2017-04-03 00:00:00+00:00,World Wide Web,Australia,966.0,164.0,0.17,2017,THEWEB,THEWEB 2017,False,False,False,False,0,Highly Competitive Band
+ICCV2005,ICCV 2005,2005-10-17 00:00:00+00:00,Artificial Intelligence,China,1230.0,244.0,0.198,2005,ICCV,ICCV 2005,False,False,False,False,0,Highly Competitive Band
+ICCV2007,ICCV 2007,2007-10-14 00:00:00+00:00,Artificial Intelligence,Brazil,1190.0,281.0,0.236,2007,ICCV,ICCV 2007,False,False,False,False,0,Highly Competitive Band
+ICCV2009,ICCV 2009,2009-09-27 00:00:00+00:00,Artificial Intelligence,Japan,1327.0,308.0,0.232,2009,ICCV,ICCV 2009,False,False,False,False,0,Highly Competitive Band
+ICCV2011,ICCV 2011,2011-11-06 00:00:00+00:00,Artificial Intelligence,Spain,1433.0,339.0,0.237,2011,ICCV,ICCV 2011,False,False,False,False,0,Highly Competitive Band
+ICCV2013,ICCV 2013,2013-12-01 00:00:00+00:00,Artificial Intelligence,Australia,1629.0,454.0,0.279,2013,ICCV,ICCV 2013,False,False,False,False,0,Highly Competitive Band
+ICCV2015,ICCV 2015,2015-12-07 00:00:00+00:00,Artificial Intelligence,Chile,1698.0,525.0,0.309,2015,ICCV,ICCV 2015,False,False,False,False,0,Highly Competitive Band
+ICCV2017,ICCV 2017,2017-10-22 00:00:00+00:00,Artificial Intelligence,Italy,2143.0,621.0,0.29,2017,ICCV,ICCV 2017,False,False,False,False,0,Highly Competitive Band
+ICWS2005,ICWS 2005,2005-07-11 00:00:00+00:00,World Wide Web,United States,233.0,44.0,0.189,2005,ICWS,ICWS 2005,False,False,False,False,0,Highly Competitive Band
+MOBICOM2007,MOBICOM 2007,2007-09-09 00:00:00+00:00,Human Centered Computing,United States,233.0,26.0,0.111,2007,MOBICOM,MOBICOM 2007,False,False,True,False,0,Highly Competitive Band
+MOBICOM2010,MOBICOM 2010,2010-09-20 00:00:00+00:00,Human Centered Computing,United States,233.0,33.0,0.142,2010,MOBICOM,MOBICOM 2010,False,False,True,False,0,Highly Competitive Band
+PERCOM2005,PERCOM 2005,2005-03-08 00:00:00+00:00,Computer Systems Organization,United States,233.0,38.0,0.163,2005,PERCOM,PERCOM 2005,False,False,False,False,0,Highly Competitive Band
+UAI2013,UAI 2013,2013-07-12 00:00:00+00:00,Artificial Intelligence,United States,233.0,73.0,0.313,2013,UAI,UAI 2013,False,False,True,False,1,Accessible Band
+ICDE2003,ICDE,2003-03-05 00:00:00+00:00,Software Engineering,India,378.0,51.0,0.135,2003,ICDE,ICDE 2003,False,False,False,False,0,Highly Competitive Band
+ICDE2004,ICDE,2004-03-30 00:00:00+00:00,Software Engineering,United States,441.0,63.0,0.143,2004,ICDE,ICDE 2004,False,False,False,False,0,Highly Competitive Band
+ICSE2011,ICSE 2011,2011-05-21 00:00:00+00:00,Software Engineering,United States,441.0,62.0,0.141,2011,ICSE,ICSE 2011,False,False,False,False,0,Highly Competitive Band
+ICDE2005,ICDE,2005-04-05 00:00:00+00:00,Software Engineering,Japan,521.0,67.0,0.129,2005,ICDE,ICDE 2005,False,False,False,False,0,Highly Competitive Band
+PKDD2008,ECML PKDD 2008,2008-09-15 00:00:00+00:00,Information Systems,Belgium,521.0,100.0,0.192,2008,ECML PKDD,ECML PKDD 2008,False,False,False,False,0,Highly Competitive Band
+ICDE2006,ICDE,2006-04-03 00:00:00+00:00,Software Engineering,United States,460.0,89.0,0.193,2006,ICDE,ICDE 2006,False,False,False,False,0,Highly Competitive Band
+PKDD2016,ECML PKDD 2016,2016-09-19 00:00:00+00:00,Information Systems,Italy,460.0,139.0,0.302,2016,ECML PKDD,ECML PKDD 2016,False,False,False,False,0,Highly Competitive Band
+ICDE2007,ICDE,2007-04-16 00:00:00+00:00,Software Engineering,Turkey,659.0,122.0,0.185,2007,ICDE,ICDE 2007,False,False,False,False,0,Highly Competitive Band
+VLDB2012,VLDB 2012,2012-08-27 00:00:00+00:00,Information Systems,Turkey,659.0,134.0,0.203,2012,VLDB,VLDB 2012,False,False,False,False,0,Highly Competitive Band
+ICDE2008,ICDE,2008-04-07 00:00:00+00:00,Software Engineering,Mexico,617.0,75.0,0.122,2008,ICDE,ICDE 2008,False,False,False,False,0,Highly Competitive Band
+ICDE2009,ICDE,2009-03-29 00:00:00+00:00,Software Engineering,China,665.0,148.0,0.223,2009,ICDE,ICDE 2009,False,False,False,False,0,Highly Competitive Band
+ICDE2011,ICDE,2011-04-11 00:00:00+00:00,Software Engineering,Germany,584.0,129.0,0.221,2011,ICDE,ICDE 2011,False,False,False,False,0,Highly Competitive Band
+ICDE2013,ICDE,2013-04-08 00:00:00+00:00,Software Engineering,Australia,532.0,130.0,0.244,2013,ICDE,ICDE 2013,False,False,False,False,0,Highly Competitive Band
+ICDE2015,ICDE,2015-04-13 00:00:00+00:00,Software Engineering,South Korea,541.0,147.0,0.272,2015,ICDE,ICDE 2015,False,False,False,False,0,Highly Competitive Band
+ICDE2016,ICDE,2016-05-16 00:00:00+00:00,Software Engineering,Finland,529.0,134.0,0.253,2016,ICDE,ICDE 2016,False,False,False,False,0,Highly Competitive Band
+ICDE2017,ICDE,2017-04-19 00:00:00+00:00,Software Engineering,United States,525.0,113.0,0.215,2017,ICDE,ICDE 2017,False,False,False,False,0,Highly Competitive Band
+SIGMOD2017,SIGMOD 2017,2017-05-14 00:00:00+00:00,Information Systems,United States,525.0,105.0,0.2,2017,SIGMOD,SIGMOD 2017,False,False,True,False,0,Highly Competitive Band
+InfoVis2002,Infovis 2002,2002-10-27 00:00:00+00:00,Human Centered Computing,United States,78.0,23.0,0.3,2002,INFOVIS,INFOVIS 2002,False,False,True,False,1,Accessible Band
+SBAC-PAD2016,SBAC-PAD 2016,2016-10-26 00:00:00+00:00,Computer Systems Organization,United States,77.0,27.0,0.35,2016,SBAC-PAD,SBAC-PAD 2016,False,False,True,False,1,Accessible Band
+ICFP2001,ICFP 2001,2001-09-03 00:00:00+00:00,Software Engineering,Italy,66.0,23.0,0.35,2001,ICFP,ICFP 2001,False,False,True,False,1,Accessible Band
+NDSS2001,NDSS 2001,2001-02-08 00:00:00+00:00,Security And Privacy,United States,66.0,16.0,0.242,2001,NDSS,NDSS 2001,False,False,False,False,1,Accessible Band
+ICFP2003,ICFP 2003,2003-08-25 00:00:00+00:00,Software Engineering,Sweden,95.0,24.0,0.25,2003,ICFP,ICFP 2003,False,False,True,False,1,Accessible Band
+ISWC2002,ISWC 2002,2002-06-09 00:00:00+00:00,World Wide Web,Italy,95.0,27.0,0.284,2002,ISWC,ISWC 2002,False,False,False,False,1,Accessible Band
+JCDL2013,,2013-07-22 00:00:00+00:00,,,95.0,28.0,0.29,2013,,nan,False,False,False,False,1,Accessible Band
+SP2002,S&P 2002,2002-05-12 00:00:00+00:00,Security And Privacy,United States,95.0,21.0,0.221,2002,S&P,S&P 2002,False,False,True,False,1,Accessible Band
+VR2012,IEEE VR 2012,2012-03-04 00:00:00+00:00,Human Centered Computing,United States,95.0,15.0,0.158,2012,IEEE VR,IEEE VR 2012,False,False,False,False,0,Highly Competitive Band
+ICFP2016,ICFP 2016,2016-09-18 00:00:00+00:00,Software Engineering,Japan,118.0,37.0,0.314,2016,ICFP,ICFP 2016,False,False,True,False,1,Accessible Band
+PODC2001,PODC 2001,2001-08-26 00:00:00+00:00,Software Engineering,United States,118.0,39.0,0.331,2001,PODC,PODC 2001,False,False,False,False,1,Accessible Band
+ICONIP2003,ICONIP 2003,2003-06-26 00:00:00+00:00,Artificial Intelligence,Turkey,346.0,138.0,0.399,2003,ICONIP,ICONIP 2003,False,False,True,False,1,Accessible Band
+ICONIP2004,ICONIP 2004,2004-11-22 00:00:00+00:00,Artificial Intelligence,India,470.0,210.0,0.447,2004,ICONIP,ICONIP 2004,False,False,True,False,1,Accessible Band
+ICONIP2010,ICONIP 2010,2010-11-22 00:00:00+00:00,Artificial Intelligence,Australia,470.0,146.0,0.311,2010,ICONIP,ICONIP 2010,False,False,True,False,0,Highly Competitive Band
+ICONIP2006,ICONIP 2006,2006-10-03 00:00:00+00:00,Artificial Intelligence,China,1175.0,388.0,0.33,2006,ICONIP,ICONIP 2006,False,False,True,False,0,Highly Competitive Band
+ICONIP2014,ICONIP 2014,2014-11-03 00:00:00+00:00,Artificial Intelligence,Malaysia,375.0,231.0,0.616,2014,ICONIP,ICONIP 2014,False,False,True,False,1,Accessible Band
+ICONIP2015,ICONIP 2015,2015-11-09 00:00:00+00:00,Artificial Intelligence,Turkey,375.0,231.0,0.616,2015,ICONIP,ICONIP 2015,False,False,True,False,1,Accessible Band
+SIGMOD2011,SIGMOD 2011,2011-06-12 00:00:00+00:00,Information Systems,Greece,375.0,87.0,0.232,2011,SIGMOD,SIGMOD 2011,False,False,True,False,0,Highly Competitive Band
+ICONIP2017,ICONIP 2017,2017-10-14 00:00:00+00:00,Artificial Intelligence,China,856.0,563.0,0.658,2017,ICONIP,ICONIP 2017,False,False,True,False,1,Accessible Band
+ICSC2012,ICSC 2012,2012-09-19 00:00:00+00:00,World Wide Web,Italy,906.0,298.0,0.329,2012,ICSC,ICSC 2012,False,False,True,False,0,Highly Competitive Band
+ICSC2017,ICSC 2017,2017-01-30 00:00:00+00:00,World Wide Web,United States,129.0,26.0,0.201,2017,ICSC,ICSC 2017,False,False,True,False,0,Highly Competitive Band
+PODC2011,PODC 2011,2011-06-06 00:00:00+00:00,Software Engineering,United States,129.0,34.0,0.264,2011,PODC,PODC 2011,False,False,False,False,1,Accessible Band
+RecSys2010,RecSys 2010,2010-09-26 00:00:00+00:00,Information Systems,Spain,129.0,25.0,0.194,2010,RECSYS,RECSYS 2010,False,False,False,False,0,Highly Competitive Band
+UIST2002,UIST 2002,2002-11-27 00:00:00+00:00,Artificial Intelligence,France,129.0,24.0,0.186,2002,UIST,UIST 2002,False,False,False,False,0,Highly Competitive Band
+UIST2007,UIST 2007,2007-10-07 00:00:00+00:00,Artificial Intelligence,England,129.0,24.0,0.186,2007,UIST,UIST 2007,False,False,False,False,0,Highly Competitive Band
+ICSC2018,ICSC 2018,2018-01-31 00:00:00+00:00,World Wide Web,United States,502.0,105.0,0.21,2018,ICSC,ICSC 2018,False,False,True,False,0,Highly Competitive Band
+SIGIR2002,SIGIR 2002,2002-08-11 00:00:00+00:00,Information Systems,Finland,219.0,44.0,0.2,2002,SIGIR,SIGIR 2002,False,False,True,False,0,Highly Competitive Band
+POPL2011,POPL 2011,2011-01-26 00:00:00+00:00,Software Engineering,United States,209.0,49.0,0.23,2011,POPL,POPL 2011,False,False,False,False,0,Highly Competitive Band
+ICWS2008,ICWS 2008,2008-09-12 00:00:00+00:00,World Wide Web,China,269.0,43.0,0.16,2008,ICWS,ICWS 2008,False,False,False,False,0,Highly Competitive Band
+PKDD2004,ECML PKDD 2004,2004-09-20 00:00:00+00:00,Information Systems,Italy,269.0,39.0,0.145,2004,ECML PKDD,ECML PKDD 2004,False,False,False,False,0,Highly Competitive Band
+ICSE2001,ICSE 2001,2001-05-12 00:00:00+00:00,Software Engineering,Canada,368.0,47.0,0.128,2001,ICSE,ICSE 2001,False,False,False,False,0,Highly Competitive Band
+SIGIR2005,SIGIR 2005,2005-08-15 00:00:00+00:00,Information Systems,Brazil,368.0,70.0,0.19,2005,SIGIR,SIGIR 2005,False,False,True,False,0,Highly Competitive Band
+WSDM2016,WSDM 2016,2016-02-22 00:00:00+00:00,World Wide Web,United States,368.0,67.0,0.18,2016,WSDM,WSDM 2016,False,False,False,False,0,Highly Competitive Band
+ICSE2002,ICSE 2002,2002-05-19 00:00:00+00:00,Software Engineering,United States,303.0,48.0,0.158,2002,ICSE,ICSE 2002,False,False,False,False,0,Highly Competitive Band
+PLDI2015,PLDI 2015,2015-06-13 00:00:00+00:00,Software Engineering,United States,303.0,58.0,0.191,2015,PLDI,PLDI 2015,False,False,False,False,0,Highly Competitive Band
+STOC2012,STOC 2012,2012-05-19 00:00:00+00:00,Theory Of Computations,United States,303.0,89.0,0.294,2012,STOC,STOC 2012,False,False,True,False,0,Highly Competitive Band
+ICSE2003,ICSE 2003,2003-05-03 00:00:00+00:00,Software Engineering,United States,324.0,42.0,0.13,2003,ICSE,ICSE 2003,False,False,False,False,0,Highly Competitive Band
+UIST2017,UIST 2017,2017-10-22 00:00:00+00:00,Artificial Intelligence,Canada,324.0,73.0,0.225,2017,UIST,UIST 2017,False,False,False,False,0,Highly Competitive Band
+ICSE2004,ICSE 2004,2004-05-23 00:00:00+00:00,Software Engineering,England,436.0,58.0,0.133,2004,ICSE,ICSE 2004,False,False,False,False,0,Highly Competitive Band
+ICSE2005,ICSE 2005,2005-05-15 00:00:00+00:00,Software Engineering,United States,313.0,44.0,0.141,2005,ICSE,ICSE 2005,False,False,False,False,0,Highly Competitive Band
+ICSE2006,ICSE 2006,2006-05-20 00:00:00+00:00,Software Engineering,China,395.0,36.0,0.091,2006,ICSE,ICSE 2006,False,False,False,False,0,Highly Competitive Band
+ICSE2007,ICSE 2007,2007-05-19 00:00:00+00:00,Software Engineering,United States,334.0,49.0,0.147,2007,ICSE,ICSE 2007,False,False,False,False,0,Highly Competitive Band
+ICSE2008,ICSE 2008,2008-05-10 00:00:00+00:00,Software Engineering,Germany,371.0,56.0,0.151,2008,ICSE,ICSE 2008,False,False,False,False,0,Highly Competitive Band
+ICSE2009,ICSE 2009,2009-05-16 00:00:00+00:00,Software Engineering,Canada,405.0,50.0,0.123,2009,ICSE,ICSE 2009,False,False,False,False,0,Highly Competitive Band
+ICSE2012,ICSE 2012,2012-06-02 00:00:00+00:00,Software Engineering,Switzerland,408.0,87.0,0.213,2012,ICSE,ICSE 2012,False,False,False,False,0,Highly Competitive Band
+ICSE2013,ICSE 2013,2013-05-18 00:00:00+00:00,Software Engineering,United States,461.0,85.0,0.184,2013,ICSE,ICSE 2013,False,False,False,False,0,Highly Competitive Band
+SIGGRAPH2005,SIGGRAPH 2005,2005-07-31 00:00:00+00:00,Human Centered Computing,United States,461.0,97.0,0.21,2005,SIGGRAPH,SIGGRAPH 2005,False,False,True,False,0,Highly Competitive Band
+SIGMOD2018,SIGMOD 2018,2018-06-10 00:00:00+00:00,Information Systems,United States,461.0,90.0,0.195,2018,SIGMOD,SIGMOD 2018,False,False,True,False,0,Highly Competitive Band
+ICSE2014,ICSE 2014,2014-05-31 00:00:00+00:00,Software Engineering,India,496.0,99.0,0.2,2014,ICSE,ICSE 2014,False,False,False,False,0,Highly Competitive Band
+ICSE2015,ICSE 2015,2015-05-16 00:00:00+00:00,Software Engineering,Italy,452.0,84.0,0.186,2015,ICSE,ICSE 2015,False,False,False,False,0,Highly Competitive Band
+ICSE2017,ICSE 2017,2017-05-20 00:00:00+00:00,Software Engineering,Argentina,415.0,68.0,0.164,2017,ICSE,ICSE 2017,False,False,False,False,0,Highly Competitive Band
+SIGMOD2015,SIGMOD 2015,2015-05-31 00:00:00+00:00,Information Systems,Australia,415.0,106.0,0.255,2015,SIGMOD,SIGMOD 2015,False,False,True,False,0,Highly Competitive Band
+ICWS2004,ICWS 2004,2004-06-06 00:00:00+00:00,World Wide Web,United States,230.0,66.0,0.287,2004,ICWS,ICWS 2004,False,False,False,False,0,Highly Competitive Band
+PLDI2017,PLDI 2017,2017-06-18 00:00:00+00:00,Software Engineering,Spain,230.0,47.0,0.204,2017,PLDI,PLDI 2017,False,False,False,False,0,Highly Competitive Band
+STOC2001,STOC 2001,2001-06-06 00:00:00+00:00,Theory Of Computations,Greece,230.0,83.0,0.361,2001,STOC,STOC 2001,False,False,True,False,1,Accessible Band
+UBICOMP2005,UBICOMP 2005,2005-09-11 00:00:00+00:00,Security And Privacy,Japan,230.0,21.0,0.09,2005,UBICOMP,UBICOMP 2005,False,False,True,False,0,Highly Competitive Band
+ICWS2007,ICWS 2007,2007-07-09 00:00:00+00:00,World Wide Web,United States,267.0,48.0,0.18,2007,ICWS,ICWS 2007,False,False,False,False,0,Highly Competitive Band
+OSDI2016,OSDI 2016,2016-10-02 00:00:00+00:00,Software Engineering,United States,267.0,47.0,0.176,2016,OSDI,OSDI 2016,False,False,False,False,0,Highly Competitive Band
+PLDI2013,PLDI 2013,2013-06-16 00:00:00+00:00,Software Engineering,United States,267.0,46.0,0.172,2013,PLDI,PLDI 2013,False,False,False,False,0,Highly Competitive Band
+SIGIR2004,SIGIR 2004,2004-07-25 00:00:00+00:00,Information Systems,England,267.0,59.0,0.22,2004,SIGIR,SIGIR 2004,False,False,True,False,0,Highly Competitive Band
+ICWS2009,ICWS 2009,2009-07-06 00:00:00+00:00,World Wide Web,United States,404.0,63.0,0.156,2009,ICWS,ICWS 2009,False,False,False,False,0,Highly Competitive Band
+ICWS2017,ICWS 2017,2017-06-25 00:00:00+00:00,World Wide Web,United States,630.0,126.0,0.2,2017,ICWS,ICWS 2017,False,False,False,False,0,Highly Competitive Band
+IJCAI2001,IJCAI 2001,2001-08-04 00:00:00+00:00,Artificial Intelligence,United States,796.0,197.0,0.247,2001,IJCAI,IJCAI 2001,False,False,False,False,0,Highly Competitive Band
+IJCAI2003,IJCAI 2003,2003-08-09 00:00:00+00:00,Artificial Intelligence,Mexico,913.0,189.0,0.207,2003,IJCAI,IJCAI 2003,False,False,False,False,0,Highly Competitive Band
+IJCAI2005,IJCAI 2005,2005-07-30 00:00:00+00:00,Artificial Intelligence,England,1329.0,240.0,0.181,2005,IJCAI,IJCAI 2005,False,False,False,False,0,Highly Competitive Band
+IJCAI2007,IJCAI 2007,2007-01-06 00:00:00+00:00,Artificial Intelligence,India,1365.0,470.0,0.344,2007,IJCAI,IJCAI 2007,False,False,False,False,0,Highly Competitive Band
+IJCAI2009,IJCAI 2009,2009-07-11 00:00:00+00:00,Artificial Intelligence,United States,1291.0,331.0,0.256,2009,IJCAI,IJCAI 2009,False,False,False,False,0,Highly Competitive Band
+IJCAI2011,IJCAI 2011,2011-07-16 00:00:00+00:00,Artificial Intelligence,Spain,1325.0,400.0,0.302,2011,IJCAI,IJCAI 2011,False,False,False,False,0,Highly Competitive Band
+IJCAI2013,IJCAI 2013,2013-08-03 00:00:00+00:00,Artificial Intelligence,China,1473.0,413.0,0.28,2013,IJCAI,IJCAI 2013,False,False,False,False,0,Highly Competitive Band
+IJCAI2015,IJCAI 2015,2015-07-25 00:00:00+00:00,Artificial Intelligence,Argentina,1996.0,572.0,0.287,2015,IJCAI,IJCAI 2015,False,False,False,False,0,Highly Competitive Band
+IJCAI2016,IJCAI 2016,2016-07-09 00:00:00+00:00,Artificial Intelligence,United States,2294.0,551.0,0.24,2016,IJCAI,IJCAI 2016,False,False,False,False,0,Highly Competitive Band
+IJCAI2017,IJCAI 2017,2017-08-19 00:00:00+00:00,Artificial Intelligence,Australia,2540.0,661.0,0.26,2017,IJCAI,IJCAI 2017,False,False,False,False,0,Highly Competitive Band
+IJCAR2004,IJCAR 2004,2004-07-04 00:00:00+00:00,Theory Of Computations,Ireland,86.0,32.0,0.372,2004,IJCAR,IJCAR 2004,False,False,False,False,1,Accessible Band
+ISSAC2002,ISSAC 2002,2002-07-07 00:00:00+00:00,Theory Of Computations,France,86.0,35.0,0.407,2002,ISSAC,ISSAC 2002,False,False,True,False,1,Accessible Band
+IJCAR2006,IJCAR 2006,2006-08-16 00:00:00+00:00,Theory Of Computations,United States,151.0,49.0,0.325,2006,IJCAR,IJCAR 2006,False,False,False,False,1,Accessible Band
+InfoVis2013,Infovis 2013,2013-10-13 00:00:00+00:00,Human Centered Computing,United States,151.0,38.0,0.25,2013,INFOVIS,INFOVIS 2013,False,False,True,False,0,Highly Competitive Band
+POPL2000,POPL 2000,2000-01-19 00:00:00+00:00,Software Engineering,United States,151.0,30.0,0.2,2000,POPL,POPL 2000,False,False,False,False,0,Highly Competitive Band
+WSDM2008,WSDM 2008,2008-02-11 00:00:00+00:00,World Wide Web,United States,151.0,24.0,0.15,2008,WSDM,WSDM 2008,False,False,False,False,0,Highly Competitive Band
+InfoVis2010,Infovis 2010,2010-10-24 00:00:00+00:00,Human Centered Computing,United States,135.0,35.0,0.26,2010,INFOVIS,INFOVIS 2010,False,False,True,False,1,Accessible Band
+PLDI2005,PLDI 2005,2005-06-12 00:00:00+00:00,Software Engineering,United States,135.0,28.0,0.207,2005,PLDI,PLDI 2005,False,False,False,False,0,Highly Competitive Band
+VR2016,IEEE VR 2016,2016-03-19 00:00:00+00:00,Human Centered Computing,United States,135.0,28.0,0.207,2016,IEEE VR,IEEE VR 2016,False,False,False,False,0,Highly Competitive Band
+ISCA2011,ISCA 2011,2011-06-04 00:00:00+00:00,Computer Systems Organization,United States,208.0,40.0,0.192,2011,ISCA,ISCA 2011,False,False,False,False,0,Highly Competitive Band
+PERCOM2007,PERCOM 2007,2007-03-19 00:00:00+00:00,Computer Systems Organization,United States,208.0,20.0,0.096,2007,PERCOM,PERCOM 2007,False,False,False,False,0,Highly Competitive Band
+ISCA2015,ISCA 2015,2015-06-13 00:00:00+00:00,Computer Systems Organization,United States,305.0,58.0,0.19,2015,ISCA,ISCA 2015,False,False,False,False,0,Highly Competitive Band
+ISCA2017,ISCA 2017,2017-06-24 00:00:00+00:00,Computer Systems Organization,Canada,322.0,54.0,0.168,2017,ISCA,ISCA 2017,False,False,False,False,0,Highly Competitive Band
+ISMAR2006,ISMAR 2006,2006-10-22 00:00:00+00:00,Human Centered Computing,United States,105.0,30.0,0.286,2006,ISMAR,ISMAR 2006,False,False,False,False,1,Accessible Band
+ISMAR2012,ISMAR 2012,2012-11-05 00:00:00+00:00,Human Centered Computing,United States,105.0,28.0,0.267,2012,ISMAR,ISMAR 2012,False,False,False,False,1,Accessible Band
+ISSAC2003,ISSAC 2003,2003-08-03 00:00:00+00:00,Theory Of Computations,United States,68.0,36.0,0.529,2003,ISSAC,ISSAC 2003,False,False,True,False,1,Accessible Band
+ISSAC2006,ISSAC 2006,2006-07-09 00:00:00+00:00,Theory Of Computations,Italy,97.0,48.0,0.495,2006,ISSAC,ISSAC 2006,False,False,True,False,1,Accessible Band
+PODS2009,PODS 2009,2009-06-29 00:00:00+00:00,Information Systems,United States,97.0,26.0,0.268,2009,PODS,PODS 2009,False,False,False,False,1,Accessible Band
+PODS2013,PODS 2013,2013-06-22 00:00:00+00:00,Information Systems,United States,97.0,24.0,0.247,2013,PODS,PODS 2013,False,False,False,False,1,Accessible Band
+VR2006,IEEE VR 2006,2006-03-25 00:00:00+00:00,Human Centered Computing,United States,97.0,28.0,0.289,2006,IEEE VR,IEEE VR 2006,False,False,False,False,1,Accessible Band
+VR2013,IEEE VR 2013,2013-03-16 00:00:00+00:00,Human Centered Computing,United States,97.0,21.0,0.216,2013,IEEE VR,IEEE VR 2013,False,False,False,False,1,Accessible Band
+ISWC2004,ISWC 2004,2004-11-07 00:00:00+00:00,World Wide Web,Japan,205.0,48.0,0.234,2004,ISWC,ISWC 2004,False,False,False,False,0,Highly Competitive Band
+POPL2012,POPL 2012,2012-01-22 00:00:00+00:00,Software Engineering,United States,205.0,44.0,0.21,2012,POPL,POPL 2012,False,False,False,False,0,Highly Competitive Band
+ISWC2007,ISWC 2007,2007-11-11 00:00:00+00:00,World Wide Web,Korea,257.0,50.0,0.195,2007,ISWC,ISWC 2007,False,False,False,False,0,Highly Competitive Band
+ISWC2008,ISWC 2008,2008-10-26 00:00:00+00:00,World Wide Web,Germany,261.0,43.0,0.165,2008,ISWC,ISWC 2008,False,False,False,False,0,Highly Competitive Band
+ISWC2017,ISWC 2017,2017-10-21 00:00:00+00:00,World Wide Web,Austria,326.0,67.0,0.206,2017,ISWC,ISWC 2017,False,False,False,False,0,Highly Competitive Band
+InfoVis2001,Infovis 2001,2001-10-22 00:00:00+00:00,Human Centered Computing,United States,63.0,22.0,0.35,2001,INFOVIS,INFOVIS 2001,False,False,True,False,1,Accessible Band
+JCDL2016,,2016-06-19 00:00:00+00:00,,,52.0,15.0,0.29,2016,,nan,False,False,False,False,1,Accessible Band
+JCDL2011,,2011-06-13 00:00:00+00:00,,,243.0,57.0,0.23,2011,,nan,False,False,False,False,0,Highly Competitive Band
+UAI1992,UAI 1992,2009-07-18 00:00:00+00:00,Artificial Intelligence,Canada,243.0,76.0,0.313,2009,UAI,UAI 2009,False,False,True,False,1,Accessible Band
+UAI1992,UAI 1992,2009-07-18 00:00:00+00:00,Artificial Intelligence,United States,243.0,76.0,0.313,2009,UAI,UAI 2009,False,False,True,False,1,Accessible Band
+UAI1992,UAI 2009,2009-07-18 00:00:00+00:00,Artificial Intelligence,Canada,243.0,76.0,0.313,2009,UAI,UAI 2009,False,False,True,False,1,Accessible Band
+UAI1992,UAI 2009,2009-07-18 00:00:00+00:00,Artificial Intelligence,United States,243.0,76.0,0.313,2009,UAI,UAI 2009,False,False,True,False,1,Accessible Band
+UAI2005,UAI 2005,2005-07-26 00:00:00+00:00,Artificial Intelligence,Scotland,243.0,86.0,0.354,2005,UAI,UAI 2005,False,False,True,False,1,Accessible Band
+UAI2009,UAI 2009,2009-07-18 00:00:00+00:00,Artificial Intelligence,Canada,243.0,76.0,0.313,2009,UAI,UAI 2009,False,False,True,False,1,Accessible Band
+KR2012,KR 2012,2012-06-10 00:00:00+00:00,Artificial Intelligence,Italy,202.0,53.0,0.262,2012,KR,KR 2012,False,False,False,False,0,Highly Competitive Band
+UBICOMP2010,UBICOMP 2010,2010-09-26 00:00:00+00:00,Security And Privacy,Denmark,202.0,38.0,0.19,2010,UBICOMP,UBICOMP 2010,False,False,True,False,0,Highly Competitive Band
+MOBICOM2000,MOBICOM 2000,2000-08-06 00:00:00+00:00,Human Centered Computing,United States,226.0,28.0,0.123,2000,MOBICOM,MOBICOM 2000,False,False,True,False,0,Highly Competitive Band
+MOBICOM2016,MOBICOM 2016,2016-10-03 00:00:00+00:00,Human Centered Computing,United States,226.0,31.0,0.137,2016,MOBICOM,MOBICOM 2016,False,False,True,False,0,Highly Competitive Band
+PODC2003,PODC 2003,2003-07-13 00:00:00+00:00,Software Engineering,United States,226.0,51.0,0.226,2003,PODC,PODC 2003,False,False,False,False,0,Highly Competitive Band
+UBICOMP2008,UBICOMP 2008,2008-09-21 00:00:00+00:00,Security And Privacy,South Korea,226.0,43.0,0.19,2008,UBICOMP,UBICOMP 2008,False,False,True,False,0,Highly Competitive Band
+MOBICOM2002,MOBICOM 2002,2002-09-23 00:00:00+00:00,Human Centered Computing,United States,364.0,35.0,0.096,2002,MOBICOM,MOBICOM 2002,False,False,True,False,0,Highly Competitive Band
+PKDD2017,ECML PKDD 2017,2017-09-18 00:00:00+00:00,Information Systems,Republic Of Macedonia,364.0,104.0,0.135,2017,ECML PKDD,ECML PKDD 2017,False,False,False,False,0,Highly Competitive Band
+MOBICOM2006,MOBICOM 2006,2006-09-24 00:00:00+00:00,Human Centered Computing,United States,298.0,35.0,0.117,2006,MOBICOM,MOBICOM 2006,False,False,True,False,0,Highly Competitive Band
+MOBICOM2011,MOBICOM 2011,2011-09-19 00:00:00+00:00,Human Centered Computing,United States,214.0,29.0,0.136,2011,MOBICOM,MOBICOM 2011,False,False,True,False,0,Highly Competitive Band
+MOBICOM2017,MOBICOM 2017,2017-10-16 00:00:00+00:00,Human Centered Computing,United States,186.0,35.0,0.188,2017,MOBICOM,MOBICOM 2017,False,False,True,False,0,Highly Competitive Band
+OOPSLA2014,OOPSLA 2014,2014-10-20 00:00:00+00:00,Software Engineering,United States,186.0,52.0,0.28,2014,OOPSLA,OOPSLA 2014,False,False,False,False,1,Accessible Band
+SP2004,S&P 2004,2004-05-09 00:00:00+00:00,Security And Privacy,United States,186.0,19.0,0.102,2004,S&P,S&P 2004,False,False,True,False,0,Highly Competitive Band
+MOBICOM2018,MOBICOM 2018,2018-10-29 00:00:00+00:00,Human Centered Computing,India,16.0,10.0,0.625,2018,MOBICOM,MOBICOM 2018,False,False,True,False,1,Accessible Band
+SPAA2000,SPAA 2000,2000-07-09 00:00:00+00:00,Theory Of Computations,United States,45.0,24.0,0.53,2000,SPAA,SPAA 2000,False,False,True,False,1,Accessible Band
+NDSS2000,NDSS 2000,2000-02-03 00:00:00+00:00,Security And Privacy,United States,51.0,15.0,0.294,2000,NDSS,NDSS 2000,False,False,False,False,1,Accessible Band
+NDSS2003,NDSS 2003,2003-02-06 00:00:00+00:00,Security And Privacy,United States,82.0,17.0,0.207,2003,NDSS,NDSS 2003,False,False,False,False,1,Accessible Band
+NDSS2012,NDSS 2012,2012-02-05 00:00:00+00:00,Security And Privacy,United States,258.0,46.0,0.178,2012,NDSS,NDSS 2012,False,False,False,False,0,Highly Competitive Band
+NDSS2016,NDSS 2016,2016-02-21 00:00:00+00:00,Security And Privacy,United States,389.0,60.0,0.154,2016,NDSS,NDSS 2016,False,False,False,False,0,Highly Competitive Band
+UBICOMP2016,UBICOMP 2016,2016-09-12 00:00:00+00:00,Security And Privacy,Germany,389.0,101.0,0.26,2016,UBICOMP,UBICOMP 2016,False,False,True,False,0,Highly Competitive Band
+NDSS2017,NDSS 2017,2017-02-26 00:00:00+00:00,Security And Privacy,United States,423.0,68.0,0.161,2017,NDSS,NDSS 2017,False,False,False,False,0,Highly Competitive Band
+NIPS2001,NIPS 2001,2001-12-03 00:00:00+00:00,Artificial Intelligence,Canada,650.0,196.0,0.302,2001,NIPS,NIPS 2001,False,False,False,False,0,Highly Competitive Band
+NIPS2002,NIPS 2002,2002-12-09 00:00:00+00:00,Artificial Intelligence,Canada,710.0,221.0,0.311,2002,NIPS,NIPS 2002,False,False,False,False,0,Highly Competitive Band
+VLDB2015,VLDB 2015,2015-08-31 00:00:00+00:00,Information Systems,United States,710.0,151.0,0.213,2015,VLDB,VLDB 2015,False,False,False,False,0,Highly Competitive Band
+NIPS2003,NIPS 2003,2003-12-08 00:00:00+00:00,Artificial Intelligence,Canada,717.0,198.0,0.276,2003,NIPS,NIPS 2003,False,False,False,False,0,Highly Competitive Band
+NIPS2005,NIPS 2005,2005-12-05 00:00:00+00:00,Artificial Intelligence,Canada,822.0,207.0,0.252,2005,NIPS,NIPS 2005,False,False,False,False,0,Highly Competitive Band
+NIPS2006,NIPS 2006,2006-12-04 00:00:00+00:00,Artificial Intelligence,Canada,833.0,204.0,0.245,2006,NIPS,NIPS 2006,False,False,False,False,0,Highly Competitive Band
+NIPS2008,NIPS 2008,2008-12-08 00:00:00+00:00,Artificial Intelligence,Canada,1022.0,250.0,0.245,2008,NIPS,NIPS 2008,False,False,False,False,0,Highly Competitive Band
+NIPS2009,NIPS 2009,2009-12-07 00:00:00+00:00,Artificial Intelligence,Canada,1105.0,263.0,0.238,2009,NIPS,NIPS 2009,False,False,False,False,0,Highly Competitive Band
+NIPS2010,NIPS 2010,2010-12-06 00:00:00+00:00,Artificial Intelligence,Canada,1219.0,293.0,0.24,2010,NIPS,NIPS 2010,False,False,False,False,0,Highly Competitive Band
+NIPS2011,NIPS 2011,2011-12-12 00:00:00+00:00,Artificial Intelligence,Spain,1400.0,305.0,0.218,2011,NIPS,NIPS 2011,False,False,False,False,0,Highly Competitive Band
+NIPS2012,NIPS 2012,2012-12-03 00:00:00+00:00,Artificial Intelligence,United States,1467.0,370.0,0.252,2012,NIPS,NIPS 2012,False,False,False,False,0,Highly Competitive Band
+NIPS2013,NIPS 2013,2013-12-05 00:00:00+00:00,Artificial Intelligence,United States,1420.0,360.0,0.254,2013,NIPS,NIPS 2013,False,False,False,False,0,Highly Competitive Band
+NIPS2014,NIPS 2014,2014-12-08 00:00:00+00:00,Artificial Intelligence,Canada,1678.0,414.0,0.247,2014,NIPS,NIPS 2014,False,False,False,False,0,Highly Competitive Band
+NIPS2015,NIPS 2015,2015-12-07 00:00:00+00:00,Artificial Intelligence,Canada,1838.0,403.0,0.219,2015,NIPS,NIPS 2015,False,False,False,False,0,Highly Competitive Band
+NIPS2016,NIPS 2016,2016-12-05 00:00:00+00:00,Artificial Intelligence,Spain,2406.0,568.0,0.236,2016,NIPS,NIPS 2016,False,False,False,False,0,Highly Competitive Band
+NIPS2017,NIPS 2017,2017-12-04 00:00:00+00:00,Artificial Intelligence,United States,3240.0,679.0,0.21,2017,NIPS,NIPS 2017,False,False,False,False,0,Highly Competitive Band
+OOPSLA2000,OOPSLA 2000,2000-10-15 00:00:00+00:00,Software Engineering,United States,142.0,26.0,0.183,2000,OOPSLA,OOPSLA 2000,False,False,False,False,0,Highly Competitive Band
+PODC2012,PODC 2012,2012-07-16 00:00:00+00:00,Software Engineering,Portugal,142.0,61.0,0.43,2012,PODC,PODC 2012,False,False,False,False,1,Accessible Band
+OOPSLA2006,OOPSLA 2006,2006-10-22 00:00:00+00:00,Software Engineering,United States,157.0,26.0,0.166,2006,OOPSLA,OOPSLA 2006,False,False,False,False,0,Highly Competitive Band
+PODS2005,PODS 2005,2005-06-13 00:00:00+00:00,Information Systems,United States,157.0,32.0,0.204,2005,PODS,PODS 2005,False,False,False,False,0,Highly Competitive Band
+OOPSLA2009,OOPSLA 2009,2009-10-25 00:00:00+00:00,Software Engineering,United States,144.0,25.0,0.174,2009,OOPSLA,OOPSLA 2009,False,False,False,False,0,Highly Competitive Band
+PLDI2001,PLDI 2001,2001-06-20 00:00:00+00:00,Software Engineering,United States,144.0,30.0,0.208,2001,PLDI,PLDI 2001,False,False,False,False,0,Highly Competitive Band
+UBICOMP2004,UBICOMP 2004,2004-09-07 00:00:00+00:00,Security And Privacy,England,144.0,26.0,0.18,2004,UBICOMP,UBICOMP 2004,False,False,True,False,0,Highly Competitive Band
+OOPSLA2013,OOPSLA 2013,2013-10-26 00:00:00+00:00,Software Engineering,United States,189.0,50.0,0.265,2013,OOPSLA,OOPSLA 2013,False,False,False,False,0,Highly Competitive Band
+OSDI2000,OSDI 2000,2000-10-23 00:00:00+00:00,Software Engineering,United States,111.0,24.0,0.216,2000,OSDI,OSDI 2000,False,False,False,False,0,Highly Competitive Band
+VR2005,IEEE VR 2005,2005-03-12 00:00:00+00:00,Human Centered Computing,Germany,111.0,29.0,0.261,2005,IEEE VR,IEEE VR 2005,False,False,False,False,1,Accessible Band
+PERCOM2011,PERCOM 2011,2011-03-21 00:00:00+00:00,Computer Systems Organization,United States,154.0,27.0,0.175,2011,PERCOM,PERCOM 2011,False,False,False,False,0,Highly Competitive Band
+PODC2017,PODC 2017,2017-07-25 00:00:00+00:00,Software Engineering,United States,154.0,38.0,0.247,2017,PODC,PODC 2017,False,False,False,False,0,Highly Competitive Band
+SPAA2003,SPAA 2003,2003-06-07 00:00:00+00:00,Theory Of Computations,United States,106.0,38.0,0.36,2003,SPAA,SPAA 2003,False,False,True,False,1,Accessible Band
+VR2002,IEEE VR 2002,2002-03-24 00:00:00+00:00,Human Centered Computing,United States,106.0,29.0,0.274,2002,IEEE VR,IEEE VR 2002,False,False,False,False,1,Accessible Band
+PKDD2003,ECML PKDD 2003,2003-09-22 00:00:00+00:00,Information Systems,Croatia,332.0,40.0,0.12,2003,ECML PKDD,ECML PKDD 2003,False,False,False,False,0,Highly Competitive Band
+PKDD2006,ECML PKDD 2006,2006-09-18 00:00:00+00:00,Information Systems,Germany,564.0,87.0,0.154,2006,ECML PKDD,ECML PKDD 2006,False,False,False,False,0,Highly Competitive Band
+PKDD2007,ECML PKDD 2007,2007-09-17 00:00:00+00:00,Information Systems,Poland,592.0,82.0,0.139,2007,ECML PKDD,ECML PKDD 2007,False,False,False,False,0,Highly Competitive Band
+PKDD2009,ECML PKDD 2009,2009-09-07 00:00:00+00:00,Information Systems,Slovenia,422.0,106.0,0.251,2009,ECML PKDD,ECML PKDD 2009,False,False,False,False,0,Highly Competitive Band
+SP2015,S&P 2015,2015-05-17 00:00:00+00:00,Security And Privacy,United States,422.0,57.0,0.135,2015,S&P,S&P 2015,False,False,True,False,0,Highly Competitive Band
+STOC2017,STOC 2017,2017-06-19 00:00:00+00:00,Theory Of Computations,Canada,422.0,103.0,0.244,2017,STOC,STOC 2017,False,False,True,False,0,Highly Competitive Band
+PKDD2010,ECML PKDD 2010,2010-09-20 00:00:00+00:00,Information Systems,Spain,658.0,124.0,0.188,2010,ECML PKDD,ECML PKDD 2010,False,False,False,False,0,Highly Competitive Band
+TheWeb2011,TheWeb 2011,2011-03-28 00:00:00+00:00,World Wide Web,India,658.0,81.0,0.12,2011,THEWEB,THEWEB 2011,False,False,False,False,0,Highly Competitive Band
+PKDD2015,ECML PKDD 2015,2015-09-07 00:00:00+00:00,Information Systems,Portugal,565.0,131.0,0.232,2015,ECML PKDD,ECML PKDD 2015,False,False,False,False,0,Highly Competitive Band
+PLDI2012,PLDI 2012,2012-06-11 00:00:00+00:00,Software Engineering,China,255.0,48.0,0.188,2012,PLDI,PLDI 2012,False,False,False,False,0,Highly Competitive Band
+PODS2014,PODS 2014,2014-06-22 00:00:00+00:00,Information Systems,United States,67.0,22.0,0.328,2014,PODS,PODS 2014,False,False,False,False,1,Accessible Band
+UIST2006,UIST 2006,2006-10-15 00:00:00+00:00,Artificial Intelligence,Switzerland,177.0,40.0,0.226,2006,UIST,UIST 2006,False,False,False,False,0,Highly Competitive Band
+POPL2013,POPL 2013,2013-01-23 00:00:00+00:00,Software Engineering,Italy,238.0,43.0,0.18,2013,POPL,POPL 2013,False,False,False,False,0,Highly Competitive Band
+WSDM2015,WSDM 2015,2015-01-31 00:00:00+00:00,World Wide Web,China,238.0,39.0,0.16,2015,WSDM,WSDM 2015,False,False,False,False,0,Highly Competitive Band
+SIGGRAPH2002,SIGGRAPH 2002,2002-07-23 00:00:00+00:00,Human Centered Computing,United States,358.0,68.0,0.19,2002,SIGGRAPH,SIGGRAPH 2002,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2003,SIGGRAPH 2003,2003-07-27 00:00:00+00:00,Human Centered Computing,United States,424.0,81.0,0.19,2003,SIGGRAPH,SIGGRAPH 2003,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2004,SIGGRAPH 2004,2004-08-08 00:00:00+00:00,Human Centered Computing,United States,478.0,81.0,0.17,2004,SIGGRAPH,SIGGRAPH 2004,False,False,True,False,0,Highly Competitive Band
+VLDB2010,VLDB 2010,2010-09-13 00:00:00+00:00,Information Systems,Singapore,478.0,84.0,0.176,2010,VLDB,VLDB 2010,False,False,False,False,0,Highly Competitive Band
+SIGGRAPH2006,SIGGRAPH 2006,2006-07-30 00:00:00+00:00,Human Centered Computing,United States,474.0,85.0,0.18,2006,SIGGRAPH,SIGGRAPH 2006,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2007,SIGGRAPH 2007,2007-08-05 00:00:00+00:00,Human Centered Computing,United States,455.0,109.0,0.24,2007,SIGGRAPH,SIGGRAPH 2007,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2008,SIGGRAPH 2008,2008-08-11 00:00:00+00:00,Human Centered Computing,United States,518.0,88.0,0.17,2008,SIGGRAPH,SIGGRAPH 2008,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2009,SIGGRAPH 2009,2009-08-03 00:00:00+00:00,Human Centered Computing,United States,439.0,79.0,0.18,2009,SIGGRAPH,SIGGRAPH 2009,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2017,SIGGRAPH 2017,2017-07-30 00:00:00+00:00,Human Centered Computing,United States,439.0,127.0,0.29,2017,SIGGRAPH,SIGGRAPH 2017,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2011,SIGGRAPH 2011,2011-08-07 00:00:00+00:00,Human Centered Computing,Canada,432.0,82.0,0.19,2011,SIGGRAPH,SIGGRAPH 2011,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2012,SIGGRAPH 2012,2012-08-05 00:00:00+00:00,Human Centered Computing,United States,449.0,94.0,0.21,2012,SIGGRAPH,SIGGRAPH 2012,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2013,SIGGRAPH 2013,2013-07-21 00:00:00+00:00,Human Centered Computing,United States,480.0,115.0,0.24,2013,SIGGRAPH,SIGGRAPH 2013,False,False,True,False,0,Highly Competitive Band
+SIGMOD2007,SIGMOD 2007,2007-06-11 00:00:00+00:00,Information Systems,China,480.0,70.0,0.146,2007,SIGMOD,SIGMOD 2007,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2014,SIGGRAPH 2014,2014-08-10 00:00:00+00:00,Human Centered Computing,Canada,505.0,126.0,0.25,2014,SIGGRAPH,SIGGRAPH 2014,False,False,True,False,0,Highly Competitive Band
+WSDM2017,WSDM 2017,2017-02-06 00:00:00+00:00,World Wide Web,England,505.0,80.0,0.15,2017,WSDM,WSDM 2017,False,False,False,False,0,Highly Competitive Band
+SIGGRAPH2015,SIGGRAPH 2015,2015-08-09 00:00:00+00:00,Human Centered Computing,United States,462.0,120.0,0.26,2015,SIGGRAPH,SIGGRAPH 2015,False,False,True,False,0,Highly Competitive Band
+SIGGRAPH2016,SIGGRAPH 2016,2016-07-24 00:00:00+00:00,Human Centered Computing,United States,467.0,121.0,0.26,2016,SIGGRAPH,SIGGRAPH 2016,False,False,True,False,0,Highly Competitive Band
+SIGIR2006,SIGIR 2006,2006-08-06 00:00:00+00:00,Information Systems,United States,399.0,74.0,0.185,2006,SIGIR,SIGIR 2006,False,False,True,False,0,Highly Competitive Band
+SIGIR2008,SIGIR 2008,2008-07-20 00:00:00+00:00,Information Systems,Singapore,399.0,68.0,0.17,2008,SIGIR,SIGIR 2008,False,False,True,False,0,Highly Competitive Band
+SIGIR2007,SIGIR 2007,2007-07-23 00:00:00+00:00,Information Systems,Netherlands,490.0,86.0,0.175,2007,SIGIR,SIGIR 2007,False,False,True,False,0,Highly Competitive Band
+SIGIR2009,SIGIR 2009,2009-07-19 00:00:00+00:00,Information Systems,United States,494.0,78.0,0.158,2009,SIGIR,SIGIR 2009,False,False,True,False,0,Highly Competitive Band
+SIGIR2010,SIGIR 2010,2010-07-19 00:00:00+00:00,Information Systems,Switzerland,520.0,87.0,0.167,2010,SIGIR,SIGIR 2010,False,False,True,False,0,Highly Competitive Band
+SIGIR2011,SIGIR 2011,2011-07-24 00:00:00+00:00,Information Systems,China,543.0,239.0,0.44,2011,SIGIR,SIGIR 2011,False,False,True,False,1,Accessible Band
+SIGIR2012,SIGIR 2012,2012-08-12 00:00:00+00:00,Information Systems,United States,483.0,97.0,0.2,2012,SIGIR,SIGIR 2012,False,False,True,False,0,Highly Competitive Band
+SIGIR2013,SIGIR 2013,2013-07-28 00:00:00+00:00,Information Systems,Ireland,366.0,73.0,0.2,2013,SIGIR,SIGIR 2013,False,False,True,False,0,Highly Competitive Band
+SIGIR2014,SIGIR 2014,2014-07-06 00:00:00+00:00,Information Systems,Australia,387.0,81.0,0.21,2014,SIGIR,SIGIR 2014,False,False,True,False,0,Highly Competitive Band
+WSDM2013,WSDM 2013,2013-02-04 00:00:00+00:00,World Wide Web,Italy,387.0,73.0,0.18,2013,WSDM,WSDM 2013,False,False,False,False,0,Highly Competitive Band
+SIGIR2016,SIGIR 2016,2016-07-17 00:00:00+00:00,Information Systems,Italy,341.0,61.0,0.18,2016,SIGIR,SIGIR 2016,False,False,True,False,0,Highly Competitive Band
+SIGIR2017,SIGIR 2017,2017-08-07 00:00:00+00:00,Information Systems,Japan,362.0,80.0,0.22,2017,SIGIR,SIGIR 2017,False,False,True,False,0,Highly Competitive Band
+WSDM2012,WSDM 2012,2012-02-08 00:00:00+00:00,World Wide Web,United States,362.0,75.0,0.2,2012,WSDM,WSDM 2012,False,False,False,False,0,Highly Competitive Band
+SIGIR2018,SIGIR 2018,2018-07-08 00:00:00+00:00,Information Systems,United States,409.0,86.0,0.21,2018,SIGIR,SIGIR 2018,False,False,True,False,0,Highly Competitive Band
+SP2007,S&P 2007,2007-05-20 00:00:00+00:00,Security And Privacy,United States,246.0,29.0,0.118,2007,S&P,S&P 2007,False,False,True,False,0,Highly Competitive Band
+SIGMOD2003,SIGMOD 2003,2003-06-09 00:00:00+00:00,Information Systems,United States,342.0,53.0,0.155,2003,SIGMOD,SIGMOD 2003,False,False,True,False,0,Highly Competitive Band
+SIGMOD2006,SIGMOD 2006,2006-06-26 00:00:00+00:00,Information Systems,United States,446.0,58.0,0.13,2006,SIGMOD,SIGMOD 2006,False,False,True,False,0,Highly Competitive Band
+SIGMOD2008,SIGMOD 2008,2008-06-09 00:00:00+00:00,Information Systems,Canada,435.0,78.0,0.179,2008,SIGMOD,SIGMOD 2008,False,False,True,False,0,Highly Competitive Band
+SIGMOD2009,SIGMOD 2009,2009-06-29 00:00:00+00:00,Information Systems,United States,430.0,118.0,0.274,2009,SIGMOD,SIGMOD 2009,False,False,True,False,0,Highly Competitive Band
+SIGMOD2010,SIGMOD 2010,2010-06-06 00:00:00+00:00,Information Systems,United States,384.0,80.0,0.208,2010,SIGMOD,SIGMOD 2010,False,False,True,False,0,Highly Competitive Band
+UIST2016,UIST 2016,2016-10-16 00:00:00+00:00,Artificial Intelligence,Japan,384.0,79.0,0.206,2016,UIST,UIST 2016,False,False,False,False,0,Highly Competitive Band
+SIGMOD2014,SIGMOD 2014,2014-06-22 00:00:00+00:00,Information Systems,United States,421.0,107.0,0.254,2014,SIGMOD,SIGMOD 2014,False,False,True,False,0,Highly Competitive Band
+SIGMOD2016,SIGMOD 2016,2016-06-26 00:00:00+00:00,Information Systems,United States,722.0,137.0,0.19,2016,SIGMOD,SIGMOD 2016,False,False,True,False,0,Highly Competitive Band
+SP2005,S&P 2005,2005-05-08 00:00:00+00:00,Security And Privacy,United States,192.0,17.0,0.089,2005,S&P,S&P 2005,False,False,True,False,0,Highly Competitive Band
+UAI2002,UAI 2002,2002-08-01 00:00:00+00:00,Artificial Intelligence,Canada,192.0,66.0,0.344,2002,UAI,UAI 2002,False,False,True,False,1,Accessible Band
+SP2010,S&P 2010,2010-05-16 00:00:00+00:00,Security And Privacy,United States,237.0,20.0,0.084,2010,S&P,S&P 2010,False,False,True,False,0,Highly Competitive Band
+SP2013,S&P 2013,2013-05-19 00:00:00+00:00,Security And Privacy,United States,315.0,38.0,0.121,2013,S&P,S&P 2013,False,False,True,False,0,Highly Competitive Band
+SP2016,S&P 2016,2016-05-22 00:00:00+00:00,Security And Privacy,United States,398.0,55.0,0.138,2016,S&P,S&P 2016,False,False,True,False,0,Highly Competitive Band
+SP2017,S&P 2017,2017-05-22 00:00:00+00:00,Security And Privacy,United States,463.0,60.0,0.13,2017,S&P,S&P 2017,False,False,True,False,0,Highly Competitive Band
+STOC2000,STOC 2000,2000-05-21 00:00:00+00:00,Theory Of Computations,United States,182.0,85.0,0.467,2000,STOC,STOC 2000,False,False,True,False,1,Accessible Band
+STOC2004,STOC 2004,2004-06-13 00:00:00+00:00,Theory Of Computations,United States,271.0,71.0,0.262,2004,STOC,STOC 2004,False,False,True,False,0,Highly Competitive Band
+STOC2009,STOC 2009,2009-05-31 00:00:00+00:00,Theory Of Computations,United States,329.0,77.0,0.234,2009,STOC,STOC 2009,False,False,True,False,0,Highly Competitive Band
+STOC2013,STOC 2013,2013-06-01 00:00:00+00:00,Theory Of Computations,United States,360.0,100.0,0.278,2013,STOC,STOC 2013,False,False,True,False,0,Highly Competitive Band
+STOC2015,STOC 2015,2015-06-14 00:00:00+00:00,Theory Of Computations,United States,347.0,93.0,0.268,2015,STOC,STOC 2015,False,False,True,False,0,Highly Competitive Band
+TheWeb2001,TheWeb 2001,2001-05-01 00:00:00+00:00,World Wide Web,China,391.0,78.0,0.2,2001,THEWEB,THEWEB 2001,False,False,False,False,0,Highly Competitive Band
+TheWeb2002,TheWeb 2002,2002-05-07 00:00:00+00:00,World Wide Web,United States,454.0,72.0,0.16,2002,THEWEB,THEWEB 2002,False,False,False,False,0,Highly Competitive Band
+UBICOMP2014,UBICOMP 2014,2014-09-13 00:00:00+00:00,Security And Privacy,United States,454.0,73.0,0.16,2014,UBICOMP,UBICOMP 2014,False,False,True,False,0,Highly Competitive Band
+TheWeb2003,TheWeb 2003,2003-05-20 00:00:00+00:00,World Wide Web,Hungary,602.0,77.0,0.13,2003,THEWEB,THEWEB 2003,False,False,False,False,0,Highly Competitive Band
+TheWeb2004,TheWeb 2004,2004-05-17 00:00:00+00:00,World Wide Web,United States,506.0,74.0,0.15,2004,THEWEB,THEWEB 2004,False,False,False,False,0,Highly Competitive Band
+TheWeb2006,TheWeb 2006,2006-05-23 00:00:00+00:00,World Wide Web,England,667.0,75.0,0.11,2006,THEWEB,THEWEB 2006,False,False,False,False,0,Highly Competitive Band
+TheWeb2007,TheWeb 2007,2007-05-08 00:00:00+00:00,World Wide Web,Canada,753.0,111.0,0.15,2007,THEWEB,THEWEB 2007,False,False,False,False,0,Highly Competitive Band
+TheWeb2008,TheWeb 2008,2008-04-21 00:00:00+00:00,World Wide Web,China,880.0,103.0,0.12,2008,THEWEB,THEWEB 2008,False,False,False,False,0,Highly Competitive Band
+TheWeb2009,TheWeb 2009,2009-04-20 00:00:00+00:00,World Wide Web,Spain,823.0,198.0,0.24,2009,THEWEB,THEWEB 2009,False,False,False,False,0,Highly Competitive Band
+TheWeb2010,TheWeb 2010,2010-04-26 00:00:00+00:00,World Wide Web,United States,754.0,105.0,0.14,2010,THEWEB,THEWEB 2010,False,False,False,False,0,Highly Competitive Band
+TheWeb2012,TheWeb 2012,2012-04-16 00:00:00+00:00,World Wide Web,France,885.0,108.0,0.12,2012,THEWEB,THEWEB 2012,False,False,False,False,0,Highly Competitive Band
+TheWeb2014,TheWeb 2014,2014-04-07 00:00:00+00:00,World Wide Web,Korea,645.0,84.0,0.13,2014,THEWEB,THEWEB 2014,False,False,False,False,0,Highly Competitive Band
+TheWeb2015,TheWeb 2015,2015-05-18 00:00:00+00:00,World Wide Web,Italy,929.0,131.0,0.14,2015,THEWEB,THEWEB 2015,False,False,False,False,0,Highly Competitive Band
+TheWeb2016,TheWeb 2016,2016-04-11 00:00:00+00:00,World Wide Web,Canada,727.0,115.0,0.16,2016,THEWEB,THEWEB 2016,False,False,False,False,0,Highly Competitive Band
+UAI2003,UAI 2003,2003-08-07 00:00:00+00:00,Artificial Intelligence,Mexico,229.0,77.0,0.336,2003,UAI,UAI 2003,False,False,True,False,1,Accessible Band
+UAI2016,,2016-06-25 00:00:00+00:00,Artificial Intelligence,United States,275.0,85.0,0.309,2016,,nan,False,False,True,False,1,Accessible Band
+UBICOMP2012,UBICOMP 2012,2012-09-05 00:00:00+00:00,Security And Privacy,United States,301.0,57.0,0.19,2012,UBICOMP,UBICOMP 2012,False,False,True,False,0,Highly Competitive Band
+UBICOMP2013,UBICOMP 2013,2013-09-08 00:00:00+00:00,Security And Privacy,Switzerland,394.0,91.0,0.23,2013,UBICOMP,UBICOMP 2013,False,False,True,False,0,Highly Competitive Band
+UBICOMP2015,UBICOMP 2015,2015-09-07 00:00:00+00:00,Security And Privacy,Japan,394.0,101.0,0.256,2015,UBICOMP,UBICOMP 2015,False,False,True,False,0,Highly Competitive Band
+UIST2015,UIST 2015,2015-11-08 00:00:00+00:00,Artificial Intelligence,United States,297.0,70.0,0.236,2015,UIST,UIST 2015,False,False,False,False,0,Highly Competitive Band
+USENIX2013,USENIX 2013,2013-08-14 00:00:00+00:00,Software Engineering,United States,277.0,44.0,0.159,2013,USENIX,USENIX 2013,False,False,True,False,0,Highly Competitive Band
+USENIX2014,USENIX 2014,2014-08-20 00:00:00+00:00,Software Engineering,United States,350.0,67.0,0.191,2014,USENIX,USENIX 2014,False,False,True,False,0,Highly Competitive Band
+USENIX2017,USENIX 2017,2017-08-16 00:00:00+00:00,Software Engineering,United States,572.0,85.0,0.149,2017,USENIX,USENIX 2017,False,False,True,False,0,Highly Competitive Band
+VLDB2001,VLDB 2001,2001-09-11 00:00:00+00:00,Information Systems,Italy,339.0,59.0,0.174,2001,VLDB,VLDB 2001,False,False,False,False,0,Highly Competitive Band
+VLDB2003,VLDB 2003,2003-09-09 00:00:00+00:00,Information Systems,Germany,457.0,84.0,0.184,2003,VLDB,VLDB 2003,False,False,False,False,0,Highly Competitive Band
+VLDB2004,VLDB 2004,2004-08-31 00:00:00+00:00,Information Systems,Canada,504.0,98.0,0.194,2004,VLDB,VLDB 2004,False,False,False,False,0,Highly Competitive Band
+VLDB2005,VLDB 2005,2005-08-30 00:00:00+00:00,Information Systems,Norway,517.0,85.0,0.164,2005,VLDB,VLDB 2005,False,False,False,False,0,Highly Competitive Band
+VLDB2007,VLDB 2007,2007-09-23 00:00:00+00:00,Information Systems,Austria,538.0,91.0,0.169,2007,VLDB,VLDB 2007,False,False,False,False,0,Highly Competitive Band
+VLDB2008,VLDB 2008,2008-08-24 00:00:00+00:00,Information Systems,New Zealand,567.0,95.0,0.168,2008,VLDB,VLDB 2008,False,False,False,False,0,Highly Competitive Band
+VLDB2009,VLDB 2009,2009-08-24 00:00:00+00:00,Information Systems,France,562.0,97.0,0.173,2009,VLDB,VLDB 2009,False,False,False,False,0,Highly Competitive Band
+VLDB2011,VLDB 2011,2011-08-29 00:00:00+00:00,Information Systems,United States,553.0,100.0,0.181,2011,VLDB,VLDB 2011,False,False,False,False,0,Highly Competitive Band
+VLDB2013,VLDB 2013,2013-08-26 00:00:00+00:00,Information Systems,Italy,559.0,127.0,0.227,2013,VLDB,VLDB 2013,False,False,False,False,0,Highly Competitive Band
+VLDB2017,VLDB 2017,2017-08-28 00:00:00+00:00,Information Systems,Germany,559.0,104.0,0.186,2017,VLDB,VLDB 2017,False,False,False,False,0,Highly Competitive Band
+VLDB2014,VLDB 2014,2014-09-01 00:00:00+00:00,Information Systems,China,1305.0,261.0,0.2,2014,VLDB,VLDB 2014,False,False,False,False,0,Highly Competitive Band
+VLDB2016,VLDB 2016,2016-09-05 00:00:00+00:00,Information Systems,India,527.0,187.0,0.355,2016,VLDB,VLDB 2016,False,False,False,False,0,Highly Competitive Band
+WSDM2014,WSDM 2014,2014-02-24 00:00:00+00:00,World Wide Web,United States,355.0,64.0,0.18,2014,WSDM,WSDM 2014,False,False,False,False,0,Highly Competitive Band

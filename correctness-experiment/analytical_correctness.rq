@@ -1,0 +1,14 @@
+PREFIX ac: <https://example.org/analytical-correctness/>
+
+SELECT ?programCode ?enrolled ?completed ?completion ?year ?discipline ?region
+WHERE {
+  ?program a ac:TrainingProgram ;
+           ac:programCode ?programCode ;
+           ac:enrolledLearners ?enrolled ;
+           ac:academicYear ?year ;
+           ac:discipline ?discipline ;
+           ac:region ?region .
+  OPTIONAL { ?program ac:completedLearners ?completed }
+  OPTIONAL { ?program ac:completionRate ?completion }
+}
+ORDER BY ?programCode

@@ -1,0 +1,180 @@
+{
+  "triples": 100012,
+  "normalization": {
+    "rows_raw": 5320,
+    "missing_before": {
+      "submitted": 25,
+      "accepted": 2470,
+      "acceptanceRate": 35
+    },
+    "y_out_of_range_set_missing": 0,
+    "x2_gt_x1_set_missing": 0,
+    "recovered": {
+      "y_rescaled": 0,
+      "y_recovered": 0,
+      "x2_recovered": 2435,
+      "inconsistent": 0
+    },
+    "missing_after": {
+      "submitted": 25,
+      "accepted": 35,
+      "acceptanceRate": 35
+    },
+    "dropped_missing_year_or_volume": 42,
+    "dropped_outside_year_range": 969,
+    "rows_final": 4309,
+    "year_range": [
+      2000,
+      2018
+    ]
+  },
+  "clustering": {
+    "k": 2,
+    "centroid_range_std_units": {
+      "submitted": 1.308,
+      "acceptanceRate": 1.544
+    },
+    "unclassified": 5
+  },
+  "trends": {
+    "global_total": {
+      "n_years": 19,
+      "slope": 3852.961403508874,
+      "intercept": -7655733.6701756455,
+      "ci95": [
+        1639.1792531860497,
+        6066.743553831699
+      ],
+      "p_value": 0.001889218206586264,
+      "p_value_hac": 0.00695078524084065,
+      "r2": 0.4423246091676878,
+      "durbin_watson": 1.4054601388376962,
+      "resid_var": 627560541.7828655
+    },
+    "global_per_event_mean": {
+      "n_years": 19,
+      "slope": 17.938718320183597,
+      "intercept": -35663.706425175464,
+      "ci95": [
+        14.965862351593822,
+        20.91157428877337
+      ],
+      "p_value": 4.051162512600873e-10,
+      "p_value_hac": 7.471084378128475e-21,
+      "r2": 0.9050693001892631,
+      "durbin_watson": 0.839794827933164,
+      "resid_var": 1131.7059617766106
+    },
+    "global_n_events": {
+      "n_years": 19,
+      "slope": 1.1456140350876316,
+      "intercept": -2074.7491228068466,
+      "ci95": [
+        -3.6919326701815436,
+        5.983160740356807
+      ],
+      "p_value": 0.6237330710911835,
+      "p_value_hac": 0.7276301350308727,
+      "r2": 0.01447222301414941,
+      "durbin_watson": 0.8984993792130882,
+      "resid_var": 2996.651289989682
+    },
+    "global_total_loglinear": {
+      "n_years": 19,
+      "slope": 0.04203194965807938,
+      "intercept": -73.17564952747625,
+      "ci95": [
+        0.008441964990271805,
+        0.07562193432588696
+      ],
+      "p_value": 0.017191867266058182,
+      "p_value_hac": 0.06066018498528542,
+      "r2": 0.29077808596097765,
+      "durbin_watson": 1.1519118321705555,
+      "resid_var": 0.14447924970699,
+      "annual_growth_pct": 4.2927799405061196
+    },
+    "per_cluster": {
+      "Accessible Band": {
+        "total": {
+          "n_years": 19,
+          "slope": -9.79999999999464,
+          "intercept": 28063.04210525233,
+          "ci95": [
+            -254.16876986987896,
+            234.56876986988968
+          ],
+          "p_value": 0.9335593922843919,
+          "p_value_hac": 0.9427738418520835,
+          "r2": 0.00042093783643193383,
+          "durbin_watson": 1.2632759573158117,
+          "resid_var": 7646756.689783283
+        },
+        "per_event_mean": {
+          "n_years": 19,
+          "slope": 0.472061423949393,
+          "intercept": -821.6264829929132,
+          "ci95": [
+            -1.9089799509289334,
+            2.8531027988277193
+          ],
+          "p_value": 0.6809724945202209,
+          "p_value_hac": 0.7231099581127635,
+          "r2": 0.01018723345616468,
+          "durbin_watson": 1.9002970893368731,
+          "resid_var": 725.9717993091799
+        }
+      },
+      "Highly Competitive Band": {
+        "total": {
+          "n_years": 19,
+          "slope": 3866.22631578957,
+          "intercept": -7690778.510526513,
+          "ci95": [
+            1812.3396387187395,
+            5920.1129928604005
+          ],
+          "p_value": 0.0009862647446227282,
+          "p_value_hac": 0.0032687940407208965,
+          "r2": 0.4812781812207061,
+          "durbin_watson": 1.4563494128754968,
+          "resid_var": 540180399.8430301
+        },
+        "per_event_mean": {
+          "n_years": 19,
+          "slope": 24.939700461752206,
+          "intercept": -49623.63301104188,
+          "ci95": [
+            18.571664704457685,
+            31.307736219046728
+          ],
+          "p_value": 2.343786136935592e-07,
+          "p_value_hac": 9.571541909767267e-09,
+          "r2": 0.8006445163790118,
+          "durbin_watson": 0.8089625279967445,
+          "resid_var": 5192.743289080578
+        }
+      }
+    },
+    "mean_r2_per_cluster_total": 0.240849559528569,
+    "note": "Clusters are defined on the same volume variable that is regressed; per-cluster slopes are descriptive."
+  },
+  "routing": {
+    "n_views": 8,
+    "agree_with_expert": 7,
+    "classifier_validation": {
+      "cv": "leave-one-domain-out",
+      "n": 566,
+      "domains": 6,
+      "accuracy": 0.9611307420494699,
+      "macro_f1": 0.9585084906213149
+    }
+  },
+  "timings_s": {
+    "module2_bootstrap": 0.03,
+    "module1_ingest_and_sparql": 4.354,
+    "module1_normalization": 0.069,
+    "module3_analytics": 3.178,
+    "module4_rendering": 2.334
+  }
+}
