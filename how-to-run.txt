@@ -17,5 +17,7 @@ correctness test:
 
 scalability:
 ------------
-	python3 graphlens.py   --query eventskg-query.rq   -f EVENTSKG_100k.ttl -p eventskg-profile.yaml -o scalability-experiment/results_100k_output
+	python3 graphlens.py   --query eventskg-query.rq   -f scalability-experiment/EVENTSKG_100k.ttl -p eventskg-profile.yaml -o scalability-experiment/results_100k_output
+	
+	python3 graphlens.py   --query eventskg-query.rq   -f scalability-experiment/EVENTSKG_500k.ttl -p eventskg-profile.yaml -o scalability-experiment/results_500k_output
 
