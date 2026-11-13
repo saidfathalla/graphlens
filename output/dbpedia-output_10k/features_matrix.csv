@@ -1,0 +1,656 @@
+film,label,year,country,genre,budget,recoupedBudget,recoveryRate,series_acronym,edition_label,y_rescaled,y_recovered,x2_recovered,inconsistent,cluster_label,agnostic_profile
+Mission:_Impossible_(film_series),Mission: Impossible (film series),2015,United States,Drama,1500000000.0,1500000000.0,1.0,MISSION:_IMPOSSIBLE_(FILM_SERIES),MISSION:_IMPOSSIBLE_(FILM_SERIES) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Blue_(2009_film),Blue (2009 film),2015,United States,Drama,750000000.0,639000000.0,0.852,BLUE_(2009_FILM),BLUE_(2009_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_White_Storm_3:_Heaven_or_Hell,The White Storm 3: Heaven or Hell,2015,Hong Kong,Drama,300000000.0,10503821.0,0.03501273666666667,THE_WHITE_STORM_3:_HEAVEN_OR_HELL,THE_WHITE_STORM_3:_HEAVEN_OR_HELL 2015,False,False,False,False,2,Low-Budget Band
+Danger:_Diabolik,Danger: Diabolik,2015,United States,Drama,200000000.0,200000000.0,1.0,DANGER:_DIABOLIK,DANGER:_DIABOLIK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Monsters_University,Monsters University,2015,United States,Drama,200000000.0,200000000.0,1.0,MONSTERS_UNIVERSITY,MONSTERS_UNIVERSITY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mulan_(2020_film),Mulan (2020 film),2015,United States,Drama,200000000.0,69900000.0,0.3495,MULAN_(2020_FILM),MULAN_(2020_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Skyfall,Skyfall,2012,United Kingdom,Action Film,200000000.0,200000000.0,1.0,SKYFALL,SKYFALL 2012,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Golden_Compass_(film),The Golden Compass (film),2015,United States,Drama,180000000.0,180000000.0,1.0,THE_GOLDEN_COMPASS_(FILM),THE_GOLDEN_COMPASS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Scary_Movie_(film_series),Scary Movie (film series),2015,United States,Drama,172000000.0,172000000.0,1.0,SCARY_MOVIE_(FILM_SERIES),SCARY_MOVIE_(FILM_SERIES) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mad_Max_Fury_Road,Mad Max: Fury Road,2015,Australia,Action Film,150000000.0,150000000.0,1.0,MAD_MAX_FURY_ROAD,MAD_MAX_FURY_ROAD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mission:_Impossible_–_Ghost_Protocol,Mission: Impossible – Ghost Protocol,2015,United States,Drama,145000000.0,145000000.0,1.0,MISSION:_IMPOSSIBLE_–_GHOST_PROTOCOL,MISSION:_IMPOSSIBLE_–_GHOST_PROTOCOL 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Treasure_Planet,Treasure Planet,2015,United States,Drama,140000000.0,109600000.0,0.7828571428571428,TREASURE_PLANET,TREASURE_PLANET 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Megamind,Megamind,2015,United States,Drama,130000000.0,130000000.0,1.0,MEGAMIND,MEGAMIND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+National_Treasure:_Book_of_Secrets,National Treasure: Book of Secrets,2015,United States,Drama,130000000.0,130000000.0,1.0,NATIONAL_TREASURE:_BOOK_OF_SECRETS,NATIONAL_TREASURE:_BOOK_OF_SECRETS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wonka_(film),Wonka (film),2015,United States,Drama,125000000.0,125000000.0,1.0,WONKA_(FILM),WONKA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wonka_(film),Wonka (film),2015,,Drama,125000000.0,125000000.0,1.0,WONKA_(FILM),WONKA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wonka_(film),Wonka (film),2015,United Kingdom,Drama,125000000.0,125000000.0,1.0,WONKA_(FILM),WONKA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Total_Recall_(2012_film),Total Recall (2012 film),2015,United States,Drama,125000000.0,125000000.0,1.0,TOTAL_RECALL_(2012_FILM),TOTAL_RECALL_(2012_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fast_Five,Fast Five,2015,United States,Drama,125000000.0,125000000.0,1.0,FAST_FIVE,FAST_FIVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Oblivion_(2013_film),Oblivion (2013 film),2015,United States,Drama,120000000.0,120000000.0,1.0,OBLIVION_(2013_FILM),OBLIVION_(2013_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Elysium_(film),Elysium (film),2015,United States,Drama,115000000.0,115000000.0,1.0,ELYSIUM_(FILM),ELYSIUM_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Real_Steel,Real Steel,2015,United States,Drama,110000000.0,110000000.0,1.0,REAL_STEEL,REAL_STEEL 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+300:_Rise_of_an_Empire,300: Rise of an Empire,2015,United States,Drama,110000000.0,110000000.0,1.0,300:_RISE_OF_AN_EMPIRE,300:_RISE_OF_AN_EMPIRE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Night_at_the_Museum,Night at the Museum,2015,United States,Drama,110000000.0,110000000.0,1.0,NIGHT_AT_THE_MUSEUM,NIGHT_AT_THE_MUSEUM 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Alamo_(2004_film),The Alamo (2004 film),2015,United States,Drama,107000000.0,25800000.0,0.2411214953271028,THE_ALAMO_(2004_FILM),THE_ALAMO_(2004_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Blood_Diamond,Blood Diamond,2015,Germany,Contemporary Classical Music,100000000.0,100000000.0,1.0,BLOOD_DIAMOND,BLOOD_DIAMOND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Blood_Diamond,Blood Diamond,2015,United States,Contemporary Classical Music,100000000.0,100000000.0,1.0,BLOOD_DIAMOND,BLOOD_DIAMOND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Cloudy_with_a_Chance_of_Meatballs_(film),Cloudy with a Chance of Meatballs (film),2015,United States,Drama,100000000.0,100000000.0,1.0,CLOUDY_WITH_A_CHANCE_OF_MEATBALLS_(FILM),CLOUDY_WITH_A_CHANCE_OF_MEATBALLS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Green_Zone_(film),Green Zone (film),2015,United States,Drama,100000000.0,94900000.0,0.949,GREEN_ZONE_(FILM),GREEN_ZONE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Surf's_Up_(film),Surf's Up (film),2015,United States,Drama,100000000.0,100000000.0,1.0,SURF'S_UP_(FILM),SURF'S_UP_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Tourist_(2010_film),The Tourist (2010 film),2015,United States,Drama,100000000.0,100000000.0,1.0,THE_TOURIST_(2010_FILM),THE_TOURIST_(2010_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Trolls_Band_Together,Trolls Band Together,2015,United States,Drama,95000000.0,95000000.0,1.0,TROLLS_BAND_TOGETHER,TROLLS_BAND_TOGETHER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Good_Day_to_Die_Hard,A Good Day to Die Hard,2015,United States,Drama,92000000.0,92000000.0,1.0,A_GOOD_DAY_TO_DIE_HARD,A_GOOD_DAY_TO_DIE_HARD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fearless_(2006_film),Fearless (2006 film),2015,United States,Drama,90000000.0,68100000.0,0.7566666666666667,FEARLESS_(2006_FILM),FEARLESS_(2006_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Horton_Hears_a_Who!_(film),Horton Hears a Who! (film),2015,United States,Drama,85000000.0,85000000.0,1.0,HORTON_HEARS_A_WHO!_(FILM),HORTON_HEARS_A_WHO!_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Ocean's_Thirteen,Ocean's Thirteen,2015,United States,Drama,85000000.0,85000000.0,1.0,OCEAN'S_THIRTEEN,OCEAN'S_THIRTEEN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Cats_&_Dogs:_The_Revenge_of_Kitty_Galore,Cats & Dogs: The Revenge of Kitty Galore,2015,United States,Drama,85000000.0,85000000.0,1.0,CATS_&_DOGS:_THE_REVENGE_OF_KITTY_GALORE,CATS_&_DOGS:_THE_REVENGE_OF_KITTY_GALORE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_6th_Day,The 6th Day,2015,United States,Drama,82000000.0,82000000.0,1.0,THE_6TH_DAY,THE_6TH_DAY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Accountant_2,The Accountant 2,2015,United States,Drama,80000000.0,80000000.0,1.0,THE_ACCOUNTANT_2,THE_ACCOUNTANT_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Bad_Guys_2,The Bad Guys 2,2015,United States,Film Score,80000000.0,80000000.0,1.0,THE_BAD_GUYS_2,THE_BAD_GUYS_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Spirit:_Stallion_of_the_Cimarron,Spirit: Stallion of the Cimarron,2015,United States,Drama,80000000.0,80000000.0,1.0,SPIRIT:_STALLION_OF_THE_CIMARRON,SPIRIT:_STALLION_OF_THE_CIMARRON 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Cold_Mountain_(film),Cold Mountain (film),2015,United States,Drama,79000000.0,79000000.0,1.0,COLD_MOUNTAIN_(FILM),COLD_MOUNTAIN_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Despicable_Me_2,Despicable Me 2,2015,United States,Drama,76000000.0,76000000.0,1.0,DESPICABLE_ME_2,DESPICABLE_ME_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Gigli,Gigli,2015,United States,Drama,75600000.0,7200000.0,0.09523809523809523,GIGLI,GIGLI 2015,False,False,False,False,2,Low-Budget Band
+Migration_(2023_film),Migration (2023 film),2015,United States,Drama,72000000.0,72000000.0,1.0,MIGRATION_(2023_FILM),MIGRATION_(2023_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+RRR_film,RRR,2022,India,Action Film,72000000.0,72000000.0,1.0,RRR_FILM,RRR_FILM 2022,False,False,False,False,0,Blockbuster / High-Budget Band
+Enemy_at_the_Gates,Enemy at the Gates,2015,United States,Drama,68000000.0,68000000.0,1.0,ENEMY_AT_THE_GATES,ENEMY_AT_THE_GATES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dirty_Harry_(film_series),Dirty Harry (film series),2015,United States,Drama,66000000.0,66000000.0,1.0,DIRTY_HARRY_(FILM_SERIES),DIRTY_HARRY_(FILM_SERIES) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wyatt_Earp_(film),Wyatt Earp (film),2015,United States,Drama,63000000.0,55900000.0,0.8873015873015873,WYATT_EARP_(FILM),WYATT_EARP_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+28_Years_Later,28 Years Later,2015,United Kingdom,Action Film,60000000.0,60000000.0,1.0,28_YEARS_LATER,28_YEARS_LATER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+28_Years_Later,28 Years Later,2015,United States,Action Film,60000000.0,60000000.0,1.0,28_YEARS_LATER,28_YEARS_LATER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+28_Years_Later,28 Years Later,2015,,Action Film,60000000.0,60000000.0,1.0,28_YEARS_LATER,28_YEARS_LATER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Coraline_(film),Coraline (film),2015,United States,Drama,60000000.0,60000000.0,1.0,CORALINE_(FILM),CORALINE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Spirit_(2008_film),The Spirit (2008 film),2015,United States,Drama,60000000.0,39000000.0,0.65,THE_SPIRIT_(2008_FILM),THE_SPIRIT_(2008_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Tuxedo,The Tuxedo,2015,United States,Drama,60000000.0,60000000.0,1.0,THE_TUXEDO,THE_TUXEDO 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mercury_Rising,Mercury Rising,2015,United States,Drama,60000000.0,60000000.0,1.0,MERCURY_RISING,MERCURY_RISING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Alvin_and_the_Chipmunks_(film),Alvin and the Chipmunks (film),2015,United States,Drama,60000000.0,60000000.0,1.0,ALVIN_AND_THE_CHIPMUNKS_(FILM),ALVIN_AND_THE_CHIPMUNKS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Star_Trek:_Nemesis,Star Trek: Nemesis,2015,United States,Drama,60000000.0,60000000.0,1.0,STAR_TREK:_NEMESIS,STAR_TREK:_NEMESIS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Missing_(2003_film),The Missing (2003 film),2015,United States,Drama,60000000.0,38400000.0,0.64,THE_MISSING_(2003_FILM),THE_MISSING_(2003_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Christmas_with_the_Kranks,Christmas with the Kranks,2015,United States,Drama,60000000.0,60000000.0,1.0,CHRISTMAS_WITH_THE_KRANKS,CHRISTMAS_WITH_THE_KRANKS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Just_like_Heaven_(2005_film),Just like Heaven (2005 film),2015,United States,Drama,58000000.0,58000000.0,1.0,JUST_LIKE_HEAVEN_(2005_FILM),JUST_LIKE_HEAVEN_(2005_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Cotton_Club_(film),The Cotton Club (film),2015,United States,Drama,58000000.0,25900000.0,0.44655172413793104,THE_COTTON_CLUB_(FILM),THE_COTTON_CLUB_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Afterburn_(upcoming_film),Afterburn (upcoming film),2015,United States,Drama,56700000.0,109967.0,0.0019394532627865961,AFTERBURN_(UPCOMING_FILM),AFTERBURN_(UPCOMING_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Afterburn_(upcoming_film),Afterburn (2025 film),2015,United States,Drama,56700000.0,109967.0,0.0019394532627865961,AFTERBURN_(UPCOMING_FILM),AFTERBURN_(UPCOMING_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Eden_(2024_film),Eden (2024 film),2015,United States,Action Film,55000000.0,2500000.0,0.045454545454545456,EDEN_(2024_FILM),EDEN_(2024_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Flightplan,Flightplan,2015,United States,Drama,55000000.0,55000000.0,1.0,FLIGHTPLAN,FLIGHTPLAN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Fan_(1996_film),The Fan (1996 film),2015,United States,Drama,55000000.0,42000000.0,0.7636363636363637,THE_FAN_(1996_FILM),THE_FAN_(1996_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Seven_Pounds,Seven Pounds,2015,United States,Drama,54000000.0,54000000.0,1.0,SEVEN_POUNDS,SEVEN_POUNDS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Superman_II,Superman II,2015,United States,Drama,54000000.0,54000000.0,1.0,SUPERMAN_II,SUPERMAN_II 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Law_Abiding_Citizen,Law Abiding Citizen,2015,United States,Drama,53000000.0,53000000.0,1.0,LAW_ABIDING_CITIZEN,LAW_ABIDING_CITIZEN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bulletproof_Monk,Bulletproof Monk,2015,United States,Drama,52000000.0,37700000.0,0.725,BULLETPROOF_MONK,BULLETPROOF_MONK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Horizon:_An_American_Saga_–_Chapter_1,Horizon: An American Saga – Chapter 1,2015,United States,Drama,50000000.0,38700000.0,0.774,HORIZON:_AN_AMERICAN_SAGA_–_CHAPTER_1,HORIZON:_AN_AMERICAN_SAGA_–_CHAPTER_1 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Shall_We_Dance%3F_(2004_film),Shall We Dance? (2004 film),2015,United States,Drama,50000000.0,50000000.0,1.0,SHALL_WE_DANCE%3F_(2004_FILM),SHALL_WE_DANCE%3F_(2004_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Herbie:_Fully_Loaded,Herbie: Fully Loaded,2015,United States,Drama,50000000.0,50000000.0,1.0,HERBIE:_FULLY_LOADED,HERBIE:_FULLY_LOADED 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Silent_Hill_(film),Silent Hill (film),2015,United States,Drama,50000000.0,50000000.0,1.0,SILENT_HILL_(FILM),SILENT_HILL_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Stepmom_(1998_film),Stepmom (1998 film),2015,United States,Drama,50000000.0,50000000.0,1.0,STEPMOM_(1998_FILM),STEPMOM_(1998_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Agora_(film),Agora (film),2015,United States,Drama,50000000.0,39000000.0,0.78,AGORA_(FILM),AGORA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Broken_Arrow_(1996_film),Broken Arrow (1996 film),2015,United States,Drama,50000000.0,50000000.0,1.0,BROKEN_ARROW_(1996_FILM),BROKEN_ARROW_(1996_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Baby's_Day_Out,Baby's Day Out,2015,United States,Drama,48000000.0,30000000.0,0.625,BABY'S_DAY_OUT,BABY'S_DAY_OUT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mary_Reilly_(film),Mary Reilly (film),2015,United States,Drama,47000000.0,12900000.0,0.274468085106383,MARY_REILLY_(FILM),MARY_REILLY_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Last_Voyage_of_the_Demeter,The Last Voyage of the Demeter,2015,United States,Drama,45000000.0,21800000.0,0.48444444444444446,THE_LAST_VOYAGE_OF_THE_DEMETER,THE_LAST_VOYAGE_OF_THE_DEMETER 2015,False,False,False,False,2,Low-Budget Band
+The_Last_Voyage_of_the_Demeter,The Last Voyage of the Demeter,2015,Germany,Drama,45000000.0,21800000.0,0.48444444444444446,THE_LAST_VOYAGE_OF_THE_DEMETER,THE_LAST_VOYAGE_OF_THE_DEMETER 2015,False,False,False,False,2,Low-Budget Band
+The_Last_Voyage_of_the_Demeter,The Last Voyage of the Demeter,2015,,Drama,45000000.0,21800000.0,0.48444444444444446,THE_LAST_VOYAGE_OF_THE_DEMETER,THE_LAST_VOYAGE_OF_THE_DEMETER 2015,False,False,False,False,2,Low-Budget Band
+Chicago_(2002_film),Chicago (2002 film),2015,United States,Drama,45000000.0,45000000.0,1.0,CHICAGO_(2002_FILM),CHICAGO_(2002_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Scary_Movie_2,Scary Movie 2,2015,United States,Drama,45000000.0,45000000.0,1.0,SCARY_MOVIE_2,SCARY_MOVIE_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Client_(1994_film),The Client (1994 film),2015,United States,Drama,45000000.0,45000000.0,1.0,THE_CLIENT_(1994_FILM),THE_CLIENT_(1994_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Boomerang_(1992_film),Boomerang (1992 film),2015,United States,Drama,42000000.0,42000000.0,1.0,BOOMERANG_(1992_FILM),BOOMERANG_(1992_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Anna_Karenina_(2012_film),Anna Karenina (2012 film),2015,,Drama,40600000.0,40600000.0,1.0,ANNA_KARENINA_(2012_FILM),ANNA_KARENINA_(2012_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Anna_Karenina_(2012_film),Anna Karenina (2012 film),2015,United Kingdom,Drama,40600000.0,40600000.0,1.0,ANNA_KARENINA_(2012_FILM),ANNA_KARENINA_(2012_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Anna_Karenina_(2012_film),Anna Karenina (2012 film),2015,United States,Drama,40600000.0,40600000.0,1.0,ANNA_KARENINA_(2012_FILM),ANNA_KARENINA_(2012_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Double_Jeopardy_(1999_film),Double Jeopardy (1999 film),2015,United States,Drama,40000000.0,40000000.0,1.0,DOUBLE_JEOPARDY_(1999_FILM),DOUBLE_JEOPARDY_(1999_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Get_Rich_or_Die_Tryin'_(film),Get Rich or Die Tryin' (film),2015,United States,Drama,40000000.0,40000000.0,1.0,GET_RICH_OR_DIE_TRYIN'_(FILM),GET_RICH_OR_DIE_TRYIN'_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+In_Time,In Time,2015,United States,Drama,40000000.0,40000000.0,1.0,IN_TIME,IN_TIME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Small_Soldiers,Small Soldiers,2015,United States,Drama,40000000.0,40000000.0,1.0,SMALL_SOLDIERS,SMALL_SOLDIERS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Havana_(film),Havana (film),2015,United States,Drama,40000000.0,9600000.0,0.24,HAVANA_(FILM),HAVANA_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Scream_3,Scream 3,2015,United States,Drama,40000000.0,40000000.0,1.0,SCREAM_3,SCREAM_3 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Mechanic_(2011_film),The Mechanic (2011 film),2015,United States,Drama,40000000.0,40000000.0,1.0,THE_MECHANIC_(2011_FILM),THE_MECHANIC_(2011_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Talented_Mr._Ripley_(film),The Talented Mr. Ripley (film),2015,United States,Drama,40000000.0,40000000.0,1.0,THE_TALENTED_MR._RIPLEY_(FILM),THE_TALENTED_MR._RIPLEY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Harold_&_Kumar,Harold & Kumar,2015,United States,Drama,40000000.0,40000000.0,1.0,HAROLD_&_KUMAR,HAROLD_&_KUMAR 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"I_Love_You,_Man","I Love You, Man",2015,United States,Drama,40000000.0,40000000.0,1.0,"I_LOVE_YOU,_MAN","I_LOVE_YOU,_MAN 2015",False,False,False,False,0,Blockbuster / High-Budget Band
+The_Guilt_Trip_(film),The Guilt Trip (film),2015,United States,Drama,40000000.0,40000000.0,1.0,THE_GUILT_TRIP_(FILM),THE_GUILT_TRIP_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Paddington_2,Paddington 2,2017,United Kingdom,Comedy Film,40000000.0,40000000.0,1.0,PADDINGTON_2,PADDINGTON_2 2017,False,False,False,False,0,Blockbuster / High-Budget Band
+Beating_Hearts,Beating Hearts,2015,France,Drama,35700000.0,35700000.0,1.0,BEATING_HEARTS,BEATING_HEARTS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Beating_Hearts,Beating Hearts,2015,,Drama,35700000.0,35700000.0,1.0,BEATING_HEARTS,BEATING_HEARTS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Beating_Hearts,Beating Hearts,2015,Belgium,Drama,35700000.0,35700000.0,1.0,BEATING_HEARTS,BEATING_HEARTS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Eden_(2024_film),Eden (2024 film),2015,United States,Action Film,35000000.0,2500000.0,0.07142857142857142,EDEN_(2024_FILM),EDEN_(2024_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Whiteout_(2009_film),Whiteout (2009 film),2015,United States,Drama,35000000.0,17800000.0,0.5085714285714286,WHITEOUT_(2009_FILM),WHITEOUT_(2009_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Friends_with_Benefits_(film),Friends with Benefits (film),2015,United States,Drama,35000000.0,35000000.0,1.0,FRIENDS_WITH_BENEFITS_(FILM),FRIENDS_WITH_BENEFITS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Winx_Club_3D:_Magical_Adventure,Winx Club 3D: Magical Adventure,2015,United States,Drama,35000000.0,11583758.0,0.3309645142857143,WINX_CLUB_3D:_MAGICAL_ADVENTURE,WINX_CLUB_3D:_MAGICAL_ADVENTURE 2015,False,False,False,False,2,Low-Budget Band
+Guess_Who_(film),Guess Who (film),2015,United States,Drama,35000000.0,35000000.0,1.0,GUESS_WHO_(FILM),GUESS_WHO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Four_Feathers_(2002_film),The Four Feathers (2002 film),2015,United States,Drama,35000000.0,29000000.0,0.8285714285714286,THE_FOUR_FEATHERS_(2002_FILM),THE_FOUR_FEATHERS_(2002_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+School_for_Scoundrels_(2006_film),School for Scoundrels (2006 film),2015,United States,Drama,35000000.0,23900000.0,0.6828571428571428,SCHOOL_FOR_SCOUNDRELS_(2006_FILM),SCHOOL_FOR_SCOUNDRELS_(2006_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Seasons_(2015_film),Seasons (2015 film),2015,Germany,Drama,33000000.0,11400000.0,0.34545454545454546,SEASONS_(2015_FILM),SEASONS_(2015_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Seasons_(2015_film),Seasons (2015 film),2015,France,Drama,33000000.0,11400000.0,0.34545454545454546,SEASONS_(2015_FILM),SEASONS_(2015_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Step_Up_Revolution,Step Up Revolution,2015,United States,Drama,33000000.0,33000000.0,1.0,STEP_UP_REVOLUTION,STEP_UP_REVOLUTION 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Elf_(film),Elf (film),2015,United States,Drama,33000000.0,33000000.0,1.0,ELF_(FILM),ELF_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Licence_to_Kill,Licence to Kill,2015,United States,Drama,32000000.0,32000000.0,1.0,LICENCE_TO_KILL,LICENCE_TO_KILL 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dreamer_(2005_film),Dreamer (2005 film),2015,United States,Drama,32000000.0,32000000.0,1.0,DREAMER_(2005_FILM),DREAMER_(2005_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Source_Code,Source Code,2015,United States,Drama,32000000.0,32000000.0,1.0,SOURCE_CODE,SOURCE_CODE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Paris_36,Paris 36,2015,United States,Drama,31000000.0,12900000.0,0.4161290322580645,PARIS_36,PARIS_36 2015,False,False,False,False,2,Low-Budget Band
+Hero_(2002_film),Hero (2002 film),2015,United States,Drama,31000000.0,31000000.0,1.0,HERO_(2002_FILM),HERO_(2002_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Phoenician_Scheme,The Phoenician Scheme,2015,,Drama,30000000.0,30000000.0,1.0,THE_PHOENICIAN_SCHEME,THE_PHOENICIAN_SCHEME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Phoenician_Scheme,The Phoenician Scheme,2015,Germany,Drama,30000000.0,30000000.0,1.0,THE_PHOENICIAN_SCHEME,THE_PHOENICIAN_SCHEME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Phoenician_Scheme,The Phoenician Scheme,2015,United States,Drama,30000000.0,30000000.0,1.0,THE_PHOENICIAN_SCHEME,THE_PHOENICIAN_SCHEME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Lot_like_Love,A Lot like Love,2015,United States,Drama,30000000.0,30000000.0,1.0,A_LOT_LIKE_LOVE,A_LOT_LIKE_LOVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Ace_Ventura:_When_Nature_Calls,Ace Ventura: When Nature Calls,2015,United States,Drama,30000000.0,30000000.0,1.0,ACE_VENTURA:_WHEN_NATURE_CALLS,ACE_VENTURA:_WHEN_NATURE_CALLS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mortal_Kombat_Annihilation,Mortal Kombat Annihilation,2015,United States,Drama,30000000.0,30000000.0,1.0,MORTAL_KOMBAT_ANNIHILATION,MORTAL_KOMBAT_ANNIHILATION 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Radio_(2003_film),Radio (2003 film),2015,United States,Drama,30000000.0,30000000.0,1.0,RADIO_(2003_FILM),RADIO_(2003_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Step_Up_3D,Step Up 3D,2015,United States,Drama,30000000.0,30000000.0,1.0,STEP_UP_3D,STEP_UP_3D 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Blow_(film),Blow (film),2015,United States,Drama,30000000.0,30000000.0,1.0,BLOW_(FILM),BLOW_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Drag_Me_to_Hell,Drag Me to Hell,2015,United States,Drama,30000000.0,30000000.0,1.0,DRAG_ME_TO_HELL,DRAG_ME_TO_HELL 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Barney's_Version_(film),Barney's Version (film),2015,United States,Drama,30000000.0,12100000.0,0.4033333333333333,BARNEY'S_VERSION_(FILM),BARNEY'S_VERSION_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Fright_Night_(2011_film),Fright Night (2011 film),2015,United States,Drama,30000000.0,30000000.0,1.0,FRIGHT_NIGHT_(2011_FILM),FRIGHT_NIGHT_(2011_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Get_Shorty_(film),Get Shorty (film),2015,United States,Drama,30000000.0,30000000.0,1.0,GET_SHORTY_(FILM),GET_SHORTY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Next_Three_Days,The Next Three Days,2015,United States,Drama,30000000.0,30000000.0,1.0,THE_NEXT_THREE_DAYS,THE_NEXT_THREE_DAYS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Letters_to_Juliet,Letters to Juliet,2015,United States,Drama,30000000.0,30000000.0,1.0,LETTERS_TO_JULIET,LETTERS_TO_JULIET 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Assassination_of_Jesse_James_by_the_Coward_Robert_Ford,The Assassination of Jesse James by the Coward Robert Ford,2015,United States,Drama,30000000.0,15300000.0,0.51,THE_ASSASSINATION_OF_JESSE_JAMES_BY_THE_COWARD_ROBERT_FORD,THE_ASSASSINATION_OF_JESSE_JAMES_BY_THE_COWARD_ROBERT_FORD 2015,False,False,False,False,2,Low-Budget Band
+Hoodlum_(film),Hoodlum (film),2015,United States,Drama,30000000.0,23461013.0,0.7820337666666667,HOODLUM_(FILM),HOODLUM_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Secondhand_Lions,Secondhand Lions,2015,United States,Drama,30000000.0,30000000.0,1.0,SECONDHAND_LIONS,SECONDHAND_LIONS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Sinbad:_Beyond_the_Veil_of_Mists,Sinbad: Beyond the Veil of Mists,2015,United States,Drama,30000000.0,29245.0,0.0009748333333333333,SINBAD:_BEYOND_THE_VEIL_OF_MISTS,SINBAD:_BEYOND_THE_VEIL_OF_MISTS 2015,False,False,False,False,2,Low-Budget Band
+Cry_Freedom,Cry Freedom,2015,United States,Drama,29000000.0,15000000.0,0.5172413793103449,CRY_FREEDOM,CRY_FREEDOM 2015,False,False,False,False,2,Low-Budget Band
+Smile_2,Smile 2,2015,United States,Drama,28000000.0,28000000.0,1.0,SMILE_2,SMILE_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Ghosts_of_Mars,Ghosts of Mars,2015,United States,Drama,28000000.0,14000000.0,0.5,GHOSTS_OF_MARS,GHOSTS_OF_MARS 2015,False,False,False,False,2,Low-Budget Band
+Agent_Cody_Banks,Agent Cody Banks,2015,United States,Drama,28000000.0,28000000.0,1.0,AGENT_CODY_BANKS,AGENT_CODY_BANKS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Rocky_IV,Rocky IV,2015,United States,Drama,28000000.0,28000000.0,1.0,ROCKY_IV,ROCKY_IV 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Son_of_the_Pink_Panther,Son of the Pink Panther,2015,United States,Drama,28000000.0,20000000.0,0.7142857142857143,SON_OF_THE_PINK_PANTHER,SON_OF_THE_PINK_PANTHER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Flawless_(1999_film),Flawless (1999 film),2015,United States,Drama,27000000.0,4488529.0,0.16624181481481481,FLAWLESS_(1999_FILM),FLAWLESS_(1999_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Suspect_Zero,Suspect Zero,2015,United States,Drama,27000000.0,11400000.0,0.4222222222222222,SUSPECT_ZERO,SUSPECT_ZERO 2015,False,False,False,False,2,Low-Budget Band
+OSS_117:_Lost_in_Rio,OSS 117: Lost in Rio,2015,United States,Drama,26800000.0,21900000.0,0.8171641791044776,OSS_117:_LOST_IN_RIO,OSS_117:_LOST_IN_RIO 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+That_Thing_You_Do!,That Thing You Do!,2015,United States,Drama,26000000.0,26000000.0,1.0,THAT_THING_YOU_DO!,THAT_THING_YOU_DO! 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kindergarten_Cop,Kindergarten Cop,2015,United States,Drama,26000000.0,26000000.0,1.0,KINDERGARTEN_COP,KINDERGARTEN_COP 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Lawless_(film),Lawless (film),2015,United States,Drama,26000000.0,26000000.0,1.0,LAWLESS_(FILM),LAWLESS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+CZ12,CZ12,2015,United States,Drama,26000000.0,26000000.0,1.0,CZ12,CZ12 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+It_Ends_with_Us_(film),It Ends with Us (film),2015,United States,Drama,25000000.0,25000000.0,1.0,IT_ENDS_WITH_US_(FILM),IT_ENDS_WITH_US_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Anyone_but_You,Anyone but You,2015,United States,Drama,25000000.0,25000000.0,1.0,ANYONE_BUT_YOU,ANYONE_BUT_YOU 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bonhoeffer_(film),Bonhoeffer (film),2015,Belgium,Drama,25000000.0,12600000.0,0.504,BONHOEFFER_(FILM),BONHOEFFER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Bonhoeffer_(film),Bonhoeffer (film),2015,Ireland,Drama,25000000.0,12600000.0,0.504,BONHOEFFER_(FILM),BONHOEFFER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Bonhoeffer_(film),Bonhoeffer (film),2015,,Drama,25000000.0,12600000.0,0.504,BONHOEFFER_(FILM),BONHOEFFER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Bonhoeffer_(film),Bonhoeffer (film),2015,United States,Drama,25000000.0,12600000.0,0.504,BONHOEFFER_(FILM),BONHOEFFER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Mongolian_Conspiracy,The Mongolian Conspiracy,2015,Mexico,Drama,25000000.0,985589.0,0.03942356,THE_MONGOLIAN_CONSPIRACY,THE_MONGOLIAN_CONSPIRACY 2015,False,False,False,False,2,Low-Budget Band
+Cirque_du_Soleil:_Worlds_Away,Cirque du Soleil: Worlds Away,2015,United States,Drama,25000000.0,25000000.0,1.0,CIRQUE_DU_SOLEIL:_WORLDS_AWAY,CIRQUE_DU_SOLEIL:_WORLDS_AWAY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dark_Tide,Dark Tide,2015,United States,Drama,25000000.0,1100000.0,0.044,DARK_TIDE,DARK_TIDE 2015,False,False,False,False,2,Low-Budget Band
+La_Vie_en_Rose_(film),La Vie en Rose (film),2015,United States,Drama,25000000.0,25000000.0,1.0,LA_VIE_EN_ROSE_(FILM),LA_VIE_EN_ROSE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Eagle_(2011_film),The Eagle (2011 film),2015,United States,Drama,25000000.0,25000000.0,1.0,THE_EAGLE_(2011_FILM),THE_EAGLE_(2011_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Underclassman,Underclassman,2015,United States,Drama,25000000.0,5600000.0,0.224,UNDERCLASSMAN,UNDERCLASSMAN 2015,False,False,False,False,2,Low-Budget Band
+Cobra_(1986_film),Cobra (1986 film),2015,United States,Drama,25000000.0,25000000.0,1.0,COBRA_(1986_FILM),COBRA_(1986_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+EuroTrip,EuroTrip,2015,United States,Drama,25000000.0,22600000.0,0.904,EUROTRIP,EUROTRIP 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Greenberg_(film),Greenberg (film),2015,United States,Drama,25000000.0,7000000.0,0.28,GREENBERG_(FILM),GREENBERG_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+BASEketball,BASEketball,2015,United States,Drama,25000000.0,7000000.0,0.28,BASEKETBALL,BASEKETBALL 2015,False,False,False,False,2,Low-Budget Band
+Dirty_Dancing:_Havana_Nights,Dirty Dancing: Havana Nights,2015,United States,Drama,25000000.0,25000000.0,1.0,DIRTY_DANCING:_HAVANA_NIGHTS,DIRTY_DANCING:_HAVANA_NIGHTS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Greedy_(film),Greedy (film),2015,United States,Drama,25000000.0,13137484.0,0.52549936,GREEDY_(FILM),GREEDY_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Evening_Star,The Evening Star,2015,United States,Drama,25000000.0,12800000.0,0.512,THE_EVENING_STAR,THE_EVENING_STAR 2015,False,False,False,False,2,Low-Budget Band
+Aftershock_(2010_film),Aftershock (2010 film),2015,United States,Drama,25000000.0,25000000.0,1.0,AFTERSHOCK_(2010_FILM),AFTERSHOCK_(2010_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Little_Big_Soldier,Little Big Soldier,2015,United States,Drama,25000000.0,25000000.0,1.0,LITTLE_BIG_SOLDIER,LITTLE_BIG_SOLDIER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Two_Jakes,The Two Jakes,2015,United States,Drama,25000000.0,10000000.0,0.4,THE_TWO_JAKES,THE_TWO_JAKES 2015,False,False,False,False,2,Low-Budget Band
+Dragonkeeper_(film),Dragonkeeper (film),2015,United States,Drama,24000000.0,3800000.0,0.15833333333333333,DRAGONKEEPER_(FILM),DRAGONKEEPER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+OSS_117:_Lost_in_Rio,OSS 117: Lost in Rio,2015,United States,Drama,23400000.0,21900000.0,0.9358974358974359,OSS_117:_LOST_IN_RIO,OSS_117:_LOST_IN_RIO 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Universal_Soldier_(1992_film),Universal Soldier (1992 film),2015,United States,Drama,23000000.0,23000000.0,1.0,UNIVERSAL_SOLDIER_(1992_FILM),UNIVERSAL_SOLDIER_(1992_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Silverado_(film),Silverado (film),2015,United States,Drama,23000000.0,23000000.0,1.0,SILVERADO_(FILM),SILVERADO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Joyeux_Noël,Joyeux Noël,2015,United States,Drama,22000000.0,17.7,8.045454545454545e-07,JOYEUX_NOËL,JOYEUX_NOËL 2015,False,False,False,False,2,Low-Budget Band
+Rust_and_Bone,Rust and Bone,2015,United States,Drama,22000000.0,22000000.0,1.0,RUST_AND_BONE,RUST_AND_BONE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+I_Am_Sam,I Am Sam,2015,United States,Drama,22000000.0,22000000.0,1.0,I_AM_SAM,I_AM_SAM 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fire_Birds,Fire Birds,2015,United States,Drama,22000000.0,14700000.0,0.6681818181818182,FIRE_BIRDS,FIRE_BIRDS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Bridges_of_Madison_County_(film),The Bridges of Madison County (film),2015,United States,Drama,22000000.0,22000000.0,1.0,THE_BRIDGES_OF_MADISON_COUNTY_(FILM),THE_BRIDGES_OF_MADISON_COUNTY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Made_in_America_(1993_film),Made in America (1993 film),2015,United States,Drama,22000000.0,22000000.0,1.0,MADE_IN_AMERICA_(1993_FILM),MADE_IN_AMERICA_(1993_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Man_to_Man_(2005_film),Man to Man (2005 film),2015,United States,Drama,21200000.0,3500000.0,0.1650943396226415,MAN_TO_MAN_(2005_FILM),MAN_TO_MAN_(2005_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Babygirl,Babygirl,2015,United States,Drama,20000000.0,20000000.0,1.0,BABYGIRL,BABYGIRL 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Priscilla_(film),Priscilla (film),2015,United States,Drama,20000000.0,20000000.0,1.0,PRISCILLA_(FILM),PRISCILLA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Never_Let_Go_(2024_film),Never Let Go (2024 film),2015,United States,Drama,20000000.0,20000000.0,1.0,NEVER_LET_GO_(2024_FILM),NEVER_LET_GO_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Warfare_(film),Warfare (film),2015,United States,Drama,20000000.0,20000000.0,1.0,WARFARE_(FILM),WARFARE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Warfare_(film),Warfare (film),2015,United Kingdom,Drama,20000000.0,20000000.0,1.0,WARFARE_(FILM),WARFARE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Warfare_(film),Warfare (film),2015,,Drama,20000000.0,20000000.0,1.0,WARFARE_(FILM),WARFARE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Loser_(2000_film),Loser (2000 film),2015,United States,Drama,20000000.0,18400000.0,0.92,LOSER_(2000_FILM),LOSER_(2000_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"Confess,_Fletch","Confess, Fletch",2015,United States,Drama,20000000.0,656613.0,0.03283065,"CONFESS,_FLETCH","CONFESS,_FLETCH 2015",False,False,False,False,2,Low-Budget Band
+Hellboy:_The_Crooked_Man,Hellboy: The Crooked Man,2015,United States,Drama,20000000.0,2000000.0,0.1,HELLBOY:_THE_CROOKED_MAN,HELLBOY:_THE_CROOKED_MAN 2015,False,False,False,False,2,Low-Budget Band
+The_Retirement_Plan,The Retirement Plan,2015,United States,Drama,20000000.0,751370.0,0.0375685,THE_RETIREMENT_PLAN,THE_RETIREMENT_PLAN 2015,False,False,False,False,2,Low-Budget Band
+Be_Kind_Rewind,Be Kind Rewind,2015,United States,Drama,20000000.0,20000000.0,1.0,BE_KIND_REWIND,BE_KIND_REWIND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Be_Kind_Rewind,Be Kind Rewind,2015,France,Drama,20000000.0,20000000.0,1.0,BE_KIND_REWIND,BE_KIND_REWIND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Be_Kind_Rewind,Be Kind Rewind,2015,United Kingdom,Drama,20000000.0,20000000.0,1.0,BE_KIND_REWIND,BE_KIND_REWIND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Be_Kind_Rewind,Be Kind Rewind,2015,,Drama,20000000.0,20000000.0,1.0,BE_KIND_REWIND,BE_KIND_REWIND 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+One_Night_with_the_King,One Night with the King,2015,United States,Drama,20000000.0,13700000.0,0.685,ONE_NIGHT_WITH_THE_KING,ONE_NIGHT_WITH_THE_KING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Paparazzi_(2004_film),Paparazzi (2004 film),2015,United States,Drama,20000000.0,16000000.0,0.8,PAPARAZZI_(2004_FILM),PAPARAZZI_(2004_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Doubt_(2008_film),Doubt (2008 film),2015,United States,Drama,20000000.0,20000000.0,1.0,DOUBT_(2008_FILM),DOUBT_(2008_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Paint_Your_Wagon_(film),Paint Your Wagon (film),2015,United States,Drama,20000000.0,20000000.0,1.0,PAINT_YOUR_WAGON_(FILM),PAINT_YOUR_WAGON_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Jaws_2,Jaws 2,2015,United States,Drama,20000000.0,20000000.0,1.0,JAWS_2,JAWS_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Let_Me_In_(film),Let Me In (film),2015,United States,Drama,20000000.0,20000000.0,1.0,LET_ME_IN_(FILM),LET_ME_IN_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+My_Best_Friend's_Girl_(2008_film),My Best Friend's Girl (2008 film),2015,United States,Drama,20000000.0,20000000.0,1.0,MY_BEST_FRIEND'S_GIRL_(2008_FILM),MY_BEST_FRIEND'S_GIRL_(2008_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Conjuring,The Conjuring,2015,United States,Drama,20000000.0,20000000.0,1.0,THE_CONJURING,THE_CONJURING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Beverly_Hills_Chihuahua,Beverly Hills Chihuahua,2015,United States,Drama,20000000.0,20000000.0,1.0,BEVERLY_HILLS_CHIHUAHUA,BEVERLY_HILLS_CHIHUAHUA 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dragnet_(1987_film),Dragnet (1987 film),2015,United States,Drama,20000000.0,20000000.0,1.0,DRAGNET_(1987_FILM),DRAGNET_(1987_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Get_the_Gringo,Get the Gringo,2015,United States,Drama,20000000.0,8826837.0,0.44134185,GET_THE_GRINGO,GET_THE_GRINGO 2015,False,False,False,False,2,Low-Budget Band
+Orphan_(2009_film),Orphan (2009 film),2015,United States,Drama,20000000.0,20000000.0,1.0,ORPHAN_(2009_FILM),ORPHAN_(2009_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Man_Who_Knew_Too_Little,The Man Who Knew Too Little,2015,United States,Drama,20000000.0,13700000.0,0.685,THE_MAN_WHO_KNEW_TOO_LITTLE,THE_MAN_WHO_KNEW_TOO_LITTLE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+What's_Your_Number%3F,What's Your Number?,2015,United States,Drama,20000000.0,20000000.0,1.0,WHAT'S_YOUR_NUMBER%3F,WHAT'S_YOUR_NUMBER%3F 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Life_Is_Beautiful,Life Is Beautiful,1997,Italy,Comedy Film,20000000.0,20000000.0,1.0,LIFE_IS_BEAUTIFUL,LIFE_IS_BEAUTIFUL 1997,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Goonies,The Goonies,2015,United States,Drama,19000000.0,19000000.0,1.0,THE_GOONIES,THE_GOONIES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Trollhunter,Trollhunter,2015,United States,Drama,19000000.0,19000000.0,1.0,TROLLHUNTER,TROLLHUNTER 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Spirited_Away,Spirited Away,2001,Japan,Animation,19000000.0,19000000.0,1.0,SPIRITED_AWAY,SPIRITED_AWAY 2001,False,False,False,False,0,Blockbuster / High-Budget Band
+Pans_Labyrinth,Pan's Labyrinth,2006,Spain,Fantasy,19000000.0,19000000.0,1.0,PANS_LABYRINTH,PANS_LABYRINTH 2006,False,False,False,False,0,Blockbuster / High-Budget Band
+Heart_Eyes,Heart Eyes,2015,United States,Action Film,18000000.0,18000000.0,1.0,HEART_EYES,HEART_EYES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Love_Hurts_(2025_film),Love Hurts (2025 film),2015,United States,Drama,18000000.0,17600000.0,0.9777777777777777,LOVE_HURTS_(2025_FILM),LOVE_HURTS_(2025_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Novocaine_(2025_film),Novocaine (2025 film),2015,United States,Drama,18000000.0,18000000.0,1.0,NOVOCAINE_(2025_FILM),NOVOCAINE_(2025_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Elevation_(film),Elevation (film),2015,United States,Drama,18000000.0,3600000.0,0.2,ELEVATION_(FILM),ELEVATION_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Ed_Wood_(film),Ed Wood (film),2015,United States,Drama,18000000.0,13800000.0,0.7666666666666667,ED_WOOD_(FILM),ED_WOOD_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+She's_So_Lovely,She's So Lovely,2015,United States,Drama,18000000.0,7281450.0,0.404525,SHE'S_SO_LOVELY,SHE'S_SO_LOVELY 2015,False,False,False,False,2,Low-Budget Band
+Young_Sherlock_Holmes,Young Sherlock Holmes,2015,United States,Drama,18000000.0,18000000.0,1.0,YOUNG_SHERLOCK_HOLMES,YOUNG_SHERLOCK_HOLMES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_'Burbs,The 'Burbs,2015,United States,Drama,18000000.0,18000000.0,1.0,THE_'BURBS,THE_'BURBS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Getaway_(2013_film),Getaway (2013 film),2015,United States,Drama,18000000.0,11800000.0,0.6555555555555556,GETAWAY_(2013_FILM),GETAWAY_(2013_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Spy_Hard,Spy Hard,2015,United States,Drama,18000000.0,18000000.0,1.0,SPY_HARD,SPY_HARD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Step_Up_2:_The_Streets,Step Up 2: The Streets,2015,United States,Drama,17500000.0,17500000.0,1.0,STEP_UP_2:_THE_STREETS,STEP_UP_2:_THE_STREETS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Gutter_(2024_film),The Gutter (2024 film),2015,United States,Drama,17000000.0,17750.0,0.0010441176470588236,THE_GUTTER_(2024_FILM),THE_GUTTER_(2024_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Evil_Dead_(2013_film),Evil Dead (2013 film),2015,United States,Drama,17000000.0,17000000.0,1.0,EVIL_DEAD_(2013_FILM),EVIL_DEAD_(2013_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tron,Tron,2015,United States,Drama,17000000.0,17000000.0,1.0,TRON,TRON 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Smokey_and_the_Bandit_II,Smokey and the Bandit II,2015,United States,Drama,17000000.0,17000000.0,1.0,SMOKEY_AND_THE_BANDIT_II,SMOKEY_AND_THE_BANDIT_II 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Apprentice_(2024_film),The Apprentice (2024 film),2015,Cinema Of The United States,Drama,16000000.0,16000000.0,1.0,THE_APPRENTICE_(2024_FILM),THE_APPRENTICE_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Apprentice_(2024_film),The Apprentice (2024 film),2015,Cinema Of Canada,Drama,16000000.0,16000000.0,1.0,THE_APPRENTICE_(2024_FILM),THE_APPRENTICE_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Apprentice_(2024_film),The Apprentice (2024 film),2015,Cinema Of Ireland,Drama,16000000.0,16000000.0,1.0,THE_APPRENTICE_(2024_FILM),THE_APPRENTICE_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Apprentice_(2024_film),The Apprentice (2024 film),2015,Cinema Of Denmark,Drama,16000000.0,16000000.0,1.0,THE_APPRENTICE_(2024_FILM),THE_APPRENTICE_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+American_Me,American Me,2015,United States,Drama,16000000.0,13000000.0,0.8125,AMERICAN_ME,AMERICAN_ME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Remember_Me_(2010_film),Remember Me (2010 film),2015,United States,Drama,16000000.0,16000000.0,1.0,REMEMBER_ME_(2010_FILM),REMEMBER_ME_(2010_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Messengers_(film),The Messengers (film),2015,United States,Drama,16000000.0,16000000.0,1.0,THE_MESSENGERS_(FILM),THE_MESSENGERS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Texas_Chainsaw_Massacre:_The_Beginning,The Texas Chainsaw Massacre: The Beginning,2015,United States,Drama,16000000.0,16000000.0,1.0,THE_TEXAS_CHAINSAW_MASSACRE:_THE_BEGINNING,THE_TEXAS_CHAINSAW_MASSACRE:_THE_BEGINNING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Thirteenth_Floor,The Thirteenth Floor,2015,United States,Drama,16000000.0,16000000.0,1.0,THE_THIRTEENTH_FLOOR,THE_THIRTEENTH_FLOOR 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Rust_and_Bone,Rust and Bone,2015,United States,Drama,15500000.0,15500000.0,1.0,RUST_AND_BONE,RUST_AND_BONE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Ararat_(film),Ararat (film),2015,United States,Drama,15500000.0,2743336.0,0.17698941935483872,ARARAT_(FILM),ARARAT_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Parasite_film,Parasite,2019,South Korea,Thriller Film,15500000.0,15500000.0,1.0,PARASITE_FILM,PARASITE_FILM 2019,False,False,False,False,0,Blockbuster / High-Budget Band
+November_(2022_film),November (2022 film),2015,France,Drama,15000000.0,15000000.0,1.0,NOVEMBER_(2022_FILM),NOVEMBER_(2022_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Y2K_(2024_film),Y2K (2024 film),2015,United States,Drama,15000000.0,4500000.0,0.3,Y2K_(2024_FILM),Y2K_(2024_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Ace_Ventura:_Pet_Detective,Ace Ventura: Pet Detective,2015,United States,Drama,15000000.0,15000000.0,1.0,ACE_VENTURA:_PET_DETECTIVE,ACE_VENTURA:_PET_DETECTIVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Diary_of_a_Wimpy_Kid_(2010_film),Diary of a Wimpy Kid (2010 film),2015,United States,Drama,15000000.0,15000000.0,1.0,DIARY_OF_A_WIMPY_KID_(2010_FILM),DIARY_OF_A_WIMPY_KID_(2010_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Return_from_the_River_Kwai,Return from the River Kwai,2015,United States,Drama,15000000.0,5000000.0,0.3333333333333333,RETURN_FROM_THE_RIVER_KWAI,RETURN_FROM_THE_RIVER_KWAI 2015,False,False,False,False,2,Low-Budget Band
+Baby_Boom_(film),Baby Boom (film),2015,United States,Drama,15000000.0,15000000.0,1.0,BABY_BOOM_(FILM),BABY_BOOM_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Flicka,Flicka,2015,United States,Drama,15000000.0,15000000.0,1.0,FLICKA,FLICKA 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Arizona_Dream,Arizona Dream,2015,United States,Drama,15000000.0,112547.0,0.0075031333333333335,ARIZONA_DREAM,ARIZONA_DREAM 2015,False,False,False,False,2,Low-Budget Band
+Raise_Your_Voice,Raise Your Voice,2015,United States,Drama,15000000.0,14900000.0,0.9933333333333333,RAISE_YOUR_VOICE,RAISE_YOUR_VOICE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Short_Circuit_2,Short Circuit 2,2015,United States,Drama,15000000.0,15000000.0,1.0,SHORT_CIRCUIT_2,SHORT_CIRCUIT_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Faculty,The Faculty,2015,United States,Drama,15000000.0,15000000.0,1.0,THE_FACULTY,THE_FACULTY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+China_Moon,China Moon,2015,United States,Drama,15000000.0,3038499.0,0.2025666,CHINA_MOON,CHINA_MOON 2015,False,False,False,False,2,Low-Budget Band
+Faces_in_the_Crowd_(2011_film),Faces in the Crowd (2011 film),2015,United States,Drama,15000000.0,2078672.0,0.13857813333333333,FACES_IN_THE_CROWD_(2011_FILM),FACES_IN_THE_CROWD_(2011_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Funny_Games_(2007_film),Funny Games (2007 film),2015,United States,Drama,15000000.0,8200000.0,0.5466666666666666,FUNNY_GAMES_(2007_FILM),FUNNY_GAMES_(2007_FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Three_Burials_of_Melquiades_Estrada,The Three Burials of Melquiades Estrada,2015,United States,Drama,15000000.0,13500000.0,0.9,THE_THREE_BURIALS_OF_MELQUIADES_ESTRADA,THE_THREE_BURIALS_OF_MELQUIADES_ESTRADA 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Shin_Godzilla,Shin Godzilla,2016,Japan,Science Fiction,15000000.0,15000000.0,1.0,SHIN_GODZILLA,SHIN_GODZILLA 2016,False,False,False,False,0,Blockbuster / High-Budget Band
+Secret_Agents_(film),Secret Agents (film),2015,United States,Drama,14600000.0,6300000.0,0.4315068493150685,SECRET_AGENTS_(FILM),SECRET_AGENTS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Gun_Shy_(2000_film),Gun Shy (2000 film),2015,United States,Drama,14000000.0,3000000.0,0.21428571428571427,GUN_SHY_(2000_FILM),GUN_SHY_(2000_FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Concorde..._Airport_'79,The Concorde... Airport '79,2015,United States,Drama,14000000.0,14000000.0,1.0,THE_CONCORDE..._AIRPORT_'79,THE_CONCORDE..._AIRPORT_'79 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Das_Boot,Das Boot,1981,Germany,Drama,14000000.0,14000000.0,1.0,DAS_BOOT,DAS_BOOT 1981,False,False,False,False,0,Blockbuster / High-Budget Band
+Save_the_Last_Dance,Save the Last Dance,2015,United States,Drama,13000000.0,13000000.0,1.0,SAVE_THE_LAST_DANCE,SAVE_THE_LAST_DANCE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Game_of_Their_Lives_(2005_film),The Game of Their Lives (2005 film),2015,United States,Drama,13000000.0,388998.0,0.029922923076923076,THE_GAME_OF_THEIR_LIVES_(2005_FILM),THE_GAME_OF_THEIR_LIVES_(2005_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Dead_Ringers_(film),Dead Ringers (film),2015,United States,Drama,13000000.0,13000000.0,1.0,DEAD_RINGERS_(FILM),DEAD_RINGERS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Against_All_Odds_(1984_film),Against All Odds (1984 film),2015,United States,Drama,13000000.0,13000000.0,1.0,AGAINST_ALL_ODDS_(1984_FILM),AGAINST_ALL_ODDS_(1984_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Joe's_Apartment,Joe's Apartment,2015,United States,Drama,13000000.0,4600000.0,0.35384615384615387,JOE'S_APARTMENT,JOE'S_APARTMENT 2015,False,False,False,False,2,Low-Budget Band
+Wrong_Turn_(2003_film),Wrong Turn (2003 film),2015,United States,Drama,12600000.0,12600000.0,1.0,WRONG_TURN_(2003_FILM),WRONG_TURN_(2003_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Emperor's_Club,The Emperor's Club,2015,United States,Drama,12500000.0,12500000.0,1.0,THE_EMPEROR'S_CLUB,THE_EMPEROR'S_CLUB 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Brighter_Tomorrow,A Brighter Tomorrow,2015,,Drama,12300000.0,6700000.0,0.5447154471544715,A_BRIGHTER_TOMORROW,A_BRIGHTER_TOMORROW 2015,False,False,False,False,2,Low-Budget Band
+A_Brighter_Tomorrow,A Brighter Tomorrow,2015,Italy,Drama,12300000.0,6700000.0,0.5447154471544715,A_BRIGHTER_TOMORROW,A_BRIGHTER_TOMORROW 2015,False,False,False,False,2,Low-Budget Band
+A_Brighter_Tomorrow,A Brighter Tomorrow,2015,France,Drama,12300000.0,6700000.0,0.5447154471544715,A_BRIGHTER_TOMORROW,A_BRIGHTER_TOMORROW 2015,False,False,False,False,2,Low-Budget Band
+Protocol_(film),Protocol (film),2015,United States,Drama,12000000.0,12000000.0,1.0,PROTOCOL_(FILM),PROTOCOL_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Body_Snatchers_(1993_film),Body Snatchers (1993 film),2015,United States,Drama,12000000.0,428868.0,0.035739,BODY_SNATCHERS_(1993_FILM),BODY_SNATCHERS_(1993_FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Falcon_and_the_Snowman,The Falcon and the Snowman,2015,United States,Drama,12000000.0,12000000.0,1.0,THE_FALCON_AND_THE_SNOWMAN,THE_FALCON_AND_THE_SNOWMAN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Guilty_as_Sin,Guilty as Sin,2015,United States,Drama,12000000.0,12000000.0,1.0,GUILTY_AS_SIN,GUILTY_AS_SIN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Jobs_(film),Jobs (film),2015,United States,Drama,12000000.0,12000000.0,1.0,JOBS_(FILM),JOBS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Nadine_(1987_film),Nadine (1987 film),2015,United States,Drama,12000000.0,5600000.0,0.4666666666666667,NADINE_(1987_FILM),NADINE_(1987_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Lilly_the_Witch:_The_Dragon_and_the_Magic_Book,Lilly the Witch: The Dragon and the Magic Book,2015,United States,Drama,11700000.0,11700000.0,1.0,LILLY_THE_WITCH:_THE_DRAGON_AND_THE_MAGIC_BOOK,LILLY_THE_WITCH:_THE_DRAGON_AND_THE_MAGIC_BOOK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Patriots_(film),The Patriots (film),2015,France,Drama,11000000.0,2400000.0,0.21818181818181817,THE_PATRIOTS_(FILM),THE_PATRIOTS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Patriots_(film),The Patriots (French film),2015,France,Drama,11000000.0,2400000.0,0.21818181818181817,THE_PATRIOTS_(FILM),THE_PATRIOTS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Kinsey_(film),Kinsey (film),2015,United States,Drama,11000000.0,11000000.0,1.0,KINSEY_(FILM),KINSEY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Splash_(film),Splash (film),2015,United States,Drama,11000000.0,11000000.0,1.0,SPLASH_(FILM),SPLASH_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Honeysuckle_Rose_(film),Honeysuckle Rose (film),2015,United States,Drama,11000000.0,11000000.0,1.0,HONEYSUCKLE_ROSE_(FILM),HONEYSUCKLE_ROSE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Down_to_You,Down to You,2015,United States,Drama,11000000.0,11000000.0,1.0,DOWN_TO_YOU,DOWN_TO_YOU 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Homicide_(1991_film),Homicide (1991 film),2015,United States,Drama,11000000.0,2900000.0,0.2636363636363636,HOMICIDE_(1991_FILM),HOMICIDE_(1991_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Boy_Erased,Boy Erased,2015,United States,Drama,11000000.0,11000000.0,1.0,BOY_ERASED,BOY_ERASED 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Cruising_(film),Cruising (film),2015,United States,Drama,11000000.0,11000000.0,1.0,CRUISING_(FILM),CRUISING_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Miami_Blues,Miami Blues,2015,United States,Drama,11000000.0,9900000.0,0.9,MIAMI_BLUES,MIAMI_BLUES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Intouchables,The Intouchables,2011,France,Drama,10800000.0,10800000.0,1.0,THE_INTOUCHABLES,THE_INTOUCHABLES 2011,False,False,False,False,0,Blockbuster / High-Budget Band
+Actors_(film),Actors (film),2015,France,Drama,10700000.0,3100000.0,0.2897196261682243,ACTORS_(FILM),ACTORS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Actors_(film),Actors (2000 film),2015,France,Drama,10700000.0,3100000.0,0.2897196261682243,ACTORS_(FILM),ACTORS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Joy_Luck_Club_(film),The Joy Luck Club (film),2015,United States,Drama,10500000.0,10500000.0,1.0,THE_JOY_LUCK_CLUB_(FILM),THE_JOY_LUCK_CLUB_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Amelie,Amélie,2001,France,Comedy Film,10400000.0,10400000.0,1.0,AMELIE,AMELIE 2001,False,False,False,False,0,Blockbuster / High-Budget Band
+Airport_(1970_film),Airport (1970 film),2015,United States,Drama,10200000.0,10200000.0,1.0,AIRPORT_(1970_FILM),AIRPORT_(1970_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Opus_(film),Opus (film),2015,United States,Drama,10000000.0,2200000.0,0.22,OPUS_(FILM),OPUS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Best_Christmas_Pageant_Ever_(film),The Best Christmas Pageant Ever (film),2015,United States,Drama,10000000.0,10000000.0,1.0,THE_BEST_CHRISTMAS_PAGEANT_EVER_(FILM),THE_BEST_CHRISTMAS_PAGEANT_EVER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Legend_of_Ochi,The Legend of Ochi,2015,United States,Drama,10000000.0,4900000.0,0.49,THE_LEGEND_OF_OCHI,THE_LEGEND_OF_OCHI 2015,False,False,False,False,2,Low-Budget Band
+Tough_Guys,Tough Guys,2015,United States,Drama,10000000.0,10000000.0,1.0,TOUGH_GUYS,TOUGH_GUYS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+White_Noise:_The_Light,White Noise: The Light,2015,United States,Drama,10000000.0,8520000.0,0.852,WHITE_NOISE:_THE_LIGHT,WHITE_NOISE:_THE_LIGHT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Brown_Bunny,The Brown Bunny,2015,United States,Drama,10000000.0,630427.0,0.0630427,THE_BROWN_BUNNY,THE_BROWN_BUNNY 2015,False,False,False,False,2,Low-Budget Band
+X,X,2015,United States,Drama,10000000.0,10000000.0,1.0,X,X 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Girl_with_a_Pearl_Earring_(film),Girl with a Pearl Earring (film),2015,United States,Drama,10000000.0,10000000.0,1.0,GIRL_WITH_A_PEARL_EARRING_(FILM),GIRL_WITH_A_PEARL_EARRING_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Blob_(1988_film),The Blob (1988 film),2015,United States,Drama,10000000.0,8200000.0,0.82,THE_BLOB_(1988_FILM),THE_BLOB_(1988_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Les_gamins,Les Gamins,2015,France,Drama,9700000.0,9700000.0,1.0,LES_GAMINS,LES_GAMINS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Les_gamins,Les gamins,2015,France,Drama,9700000.0,9700000.0,1.0,LES_GAMINS,LES_GAMINS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Endless_Love_(1981_film),Endless Love (1981 film),2015,United States,Drama,9700000.0,9700000.0,1.0,ENDLESS_LOVE_(1981_FILM),ENDLESS_LOVE_(1981_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Missing_(1982_film),Missing (1982 film),2015,United States,Drama,9500000.0,9500000.0,1.0,MISSING_(1982_FILM),MISSING_(1982_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Texas_Chainsaw_Massacre_(2003_film),The Texas Chainsaw Massacre (2003 film),2015,United States,Drama,9500000.0,9500000.0,1.0,THE_TEXAS_CHAINSAW_MASSACRE_(2003_FILM),THE_TEXAS_CHAINSAW_MASSACRE_(2003_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Love_Again_(2023_film),Love Again (2023 film),2015,United States,Drama,9000000.0,9000000.0,1.0,LOVE_AGAIN_(2023_FILM),LOVE_AGAIN_(2023_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Dry_White_Season,A Dry White Season,2015,United States,Drama,9000000.0,3766879.0,0.4185421111111111,A_DRY_WHITE_SEASON,A_DRY_WHITE_SEASON 2015,False,False,False,False,2,Low-Budget Band
+The_Woman_in_Red_(1984_film),The Woman in Red (1984 film),2015,United States,Drama,9000000.0,9000000.0,1.0,THE_WOMAN_IN_RED_(1984_FILM),THE_WOMAN_IN_RED_(1984_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Libertine_(2000_film),The Libertine (2000 film),2015,United States,Drama,9000000.0,4700000.0,0.5222222222222223,THE_LIBERTINE_(2000_FILM),THE_LIBERTINE_(2000_FILM) 2015,False,False,False,False,2,Low-Budget Band
+After_You...,After You...,2015,United States,Drama,8700000.0,8700000.0,1.0,AFTER_YOU...,AFTER_YOU... 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Train_to_Busan,Train to Busan,2016,South Korea,Horror Film,8500000.0,8500000.0,1.0,TRAIN_TO_BUSAN,TRAIN_TO_BUSAN 2016,False,False,False,False,0,Blockbuster / High-Budget Band
+Killer_Joe_(film),Killer Joe (film),2015,United States,Drama,8300000.0,4600000.0,0.5542168674698795,KILLER_JOE_(FILM),KILLER_JOE_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tarot_(2024_American_film),Tarot (2024 American film),2015,United States,Drama,8000000.0,8000000.0,1.0,TAROT_(2024_AMERICAN_FILM),TAROT_(2024_AMERICAN_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Homestead_(film),Homestead (film),2015,United States,Drama,8000000.0,8000000.0,1.0,HOMESTEAD_(FILM),HOMESTEAD_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dogtanian_and_the_Three_Muskehounds_(film),Dogtanian and the Three Muskehounds (film),2015,Spain,Drama,8000000.0,3100000.0,0.3875,DOGTANIAN_AND_THE_THREE_MUSKEHOUNDS_(FILM),DOGTANIAN_AND_THE_THREE_MUSKEHOUNDS_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Flypaper_(2011_film),Flypaper (2011 film),2015,United States,Drama,8000000.0,1200000.0,0.15,FLYPAPER_(2011_FILM),FLYPAPER_(2011_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Hoodwinked!,Hoodwinked!,2015,United States,Drama,8000000.0,8000000.0,1.0,HOODWINKED!,HOODWINKED! 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Modern_Problems,Modern Problems,2015,United States,Drama,8000000.0,8000000.0,1.0,MODERN_PROBLEMS,MODERN_PROBLEMS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wes_Craven's_New_Nightmare,Wes Craven's New Nightmare,2015,United States,Drama,8000000.0,8000000.0,1.0,WES_CRAVEN'S_NEW_NIGHTMARE,WES_CRAVEN'S_NEW_NIGHTMARE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Castle_Keep,Castle Keep,2015,United States,Drama,8000000.0,1800000.0,0.225,CASTLE_KEEP,CASTLE_KEEP 2015,False,False,False,False,2,Low-Budget Band
+Less_than_Zero_(film),Less than Zero (film),2015,United States,Drama,8000000.0,8000000.0,1.0,LESS_THAN_ZERO_(FILM),LESS_THAN_ZERO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"Bonnard,_Pierre_and_Marthe","Bonnard, Pierre and Marthe",2015,France,Drama,7950000.0,2400000.0,0.3018867924528302,"BONNARD,_PIERRE_AND_MARTHE","BONNARD,_PIERRE_AND_MARTHE 2015",False,False,False,False,2,Low-Budget Band
+The_Light_(film),The Light (2004 film),2015,United States,Drama,7600000.0,5200000.0,0.6842105263157895,THE_LIGHT_(FILM),THE_LIGHT_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Light_(film),The Light (film),2015,United States,Drama,7600000.0,5200000.0,0.6842105263157895,THE_LIGHT_(FILM),THE_LIGHT_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Footloose,Footloose,2015,United States,Drama,7500000.0,7500000.0,1.0,FOOTLOOSE,FOOTLOOSE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Fury_(film),The Fury (film),2015,United States,Drama,7500000.0,7500000.0,1.0,THE_FURY_(FILM),THE_FURY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Agnes_of_God_(film),Agnes of God (film),2015,United States,Drama,7500000.0,7500000.0,1.0,AGNES_OF_GOD_(FILM),AGNES_OF_GOD_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Undefeated_(1969_film),The Undefeated (1969 film),2015,United States,Drama,7115000.0,7115000.0,1.0,THE_UNDEFEATED_(1969_FILM),THE_UNDEFEATED_(1969_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Little_Something_Extra,A Little Something Extra,2015,France,Drama,7100000.0,7100000.0,1.0,A_LITTLE_SOMETHING_EXTRA,A_LITTLE_SOMETHING_EXTRA 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+God's_Crooked_Lines,God's Crooked Lines,2015,Spain,Drama,7000000.0,5500000.0,0.7857142857142857,GOD'S_CROOKED_LINES,GOD'S_CROOKED_LINES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Arthur_(1981_film),Arthur (1981 film),2015,United States,Drama,7000000.0,7000000.0,1.0,ARTHUR_(1981_FILM),ARTHUR_(1981_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Man_with_the_Golden_Gun_(film),The Man with the Golden Gun (film),2015,United States,Drama,7000000.0,7000000.0,1.0,THE_MAN_WITH_THE_GOLDEN_GUN_(FILM),THE_MAN_WITH_THE_GOLDEN_GUN_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mortal_Thoughts,Mortal Thoughts,2015,United States,Drama,7000000.0,7000000.0,1.0,MORTAL_THOUGHTS,MORTAL_THOUGHTS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Incendies,Incendies,2010,Canada,Drama,6800000.0,6800000.0,1.0,INCENDIES,INCENDIES 2010,False,False,False,False,0,Blockbuster / High-Budget Band
+Return_from_the_River_Kwai,Return from the River Kwai,2015,United States,Drama,6700000.0,5000000.0,0.746268656716418,RETURN_FROM_THE_RIVER_KWAI,RETURN_FROM_THE_RIVER_KWAI 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+House_Calls_(1978_film),House Calls (1978 film),2015,United States,Drama,6500000.0,6500000.0,1.0,HOUSE_CALLS_(1978_FILM),HOUSE_CALLS_(1978_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Home_at_the_End_of_the_World_(film),A Home at the End of the World (film),2015,United States,Drama,6500000.0,1500000.0,0.23076923076923078,A_HOME_AT_THE_END_OF_THE_WORLD_(FILM),A_HOME_AT_THE_END_OF_THE_WORLD_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Shift_(2023_film),The Shift (2023 film),2015,United States,Action Film,6400000.0,6400000.0,1.0,THE_SHIFT_(2023_FILM),THE_SHIFT_(2023_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Where_Eagles_Dare,Where Eagles Dare,2015,United States,Drama,6200000.0,6200000.0,1.0,WHERE_EAGLES_DARE,WHERE_EAGLES_DARE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fox_and_Hare_Save_the_Forest,Fox and Hare Save the Forest,2015,Belgium,Drama,6000000.0,1400000.0,0.23333333333333334,FOX_AND_HARE_SAVE_THE_FOREST,FOX_AND_HARE_SAVE_THE_FOREST 2015,False,False,False,False,2,Low-Budget Band
+Fox_and_Hare_Save_the_Forest,Fox and Hare Save the Forest,2015,Luxembourg,Drama,6000000.0,1400000.0,0.23333333333333334,FOX_AND_HARE_SAVE_THE_FOREST,FOX_AND_HARE_SAVE_THE_FOREST 2015,False,False,False,False,2,Low-Budget Band
+Fox_and_Hare_Save_the_Forest,Fox and Hare Save the Forest,2015,Netherlands,Drama,6000000.0,1400000.0,0.23333333333333334,FOX_AND_HARE_SAVE_THE_FOREST,FOX_AND_HARE_SAVE_THE_FOREST 2015,False,False,False,False,2,Low-Budget Band
+Fox_and_Hare_Save_the_Forest,Fox and Hare Save the Forest,2015,,Drama,6000000.0,1400000.0,0.23333333333333334,FOX_AND_HARE_SAVE_THE_FOREST,FOX_AND_HARE_SAVE_THE_FOREST 2015,False,False,False,False,2,Low-Budget Band
+Unsung_Hero_(film),Unsung Hero (film),2015,United States,Drama,6000000.0,6000000.0,1.0,UNSUNG_HERO_(FILM),UNSUNG_HERO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Abigail_(2019_Russian_film),Abigail (2019 Russian film),2015,Russia,Drama,6000000.0,1900000.0,0.31666666666666665,ABIGAIL_(2019_RUSSIAN_FILM),ABIGAIL_(2019_RUSSIAN_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Abigail_(2019_Russian_film),Abigail (2019 film),2015,Russia,Drama,6000000.0,1900000.0,0.31666666666666665,ABIGAIL_(2019_RUSSIAN_FILM),ABIGAIL_(2019_RUSSIAN_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Grease_(film),Grease (film),2015,United States,Drama,6000000.0,6000000.0,1.0,GREASE_(FILM),GREASE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Heaven_Can_Wait_(1978_film),Heaven Can Wait (1978 film),2015,United States,Drama,6000000.0,6000000.0,1.0,HEAVEN_CAN_WAIT_(1978_FILM),HEAVEN_CAN_WAIT_(1978_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Escape_from_New_York,Escape from New York,2015,United States,Drama,6000000.0,6000000.0,1.0,ESCAPE_FROM_NEW_YORK,ESCAPE_FROM_NEW_YORK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"After_Dark,_My_Sweet","After Dark, My Sweet",2015,United States,Drama,6000000.0,2700000.0,0.45,"AFTER_DARK,_MY_SWEET","AFTER_DARK,_MY_SWEET 2015",False,False,False,False,2,Low-Budget Band
+Tales_from_the_Darkside:_The_Movie,Tales from the Darkside: The Movie,2015,United States,Drama,6000000.0,6000000.0,1.0,TALES_FROM_THE_DARKSIDE:_THE_MOVIE,TALES_FROM_THE_DARKSIDE:_THE_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Airport_'77,Airport '77,2015,United States,Drama,6000000.0,6000000.0,1.0,AIRPORT_'77,AIRPORT_'77 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Shaun_of_the_Dead,Shaun of the Dead,2004,United Kingdom,Horror Film,6000000.0,6000000.0,1.0,SHAUN_OF_THE_DEAD,SHAUN_OF_THE_DEAD 2004,False,False,False,False,0,Blockbuster / High-Budget Band
+Merci_pour_le_Chocolat,Merci pour le Chocolat,2015,United States,Drama,5900000.0,5900000.0,1.0,MERCI_POUR_LE_CHOCOLAT,MERCI_POUR_LE_CHOCOLAT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Moroccan_Affair,A Moroccan Affair,2015,Spain,Drama,5500000.0,5500000.0,1.0,A_MOROCCAN_AFFAIR,A_MOROCCAN_AFFAIR 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Quiet_Chaos_(film),Quiet Chaos (film),2015,United States,Drama,5500000.0,5500000.0,1.0,QUIET_CHAOS_(FILM),QUIET_CHAOS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Red_Lights_(2004_film),Red Lights (2004 film),2015,United States,Drama,5300000.0,2400000.0,0.4528301886792453,RED_LIGHTS_(2004_FILM),RED_LIGHTS_(2004_FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Moustache_(film),The Moustache (film),2015,United States,Drama,5100000.0,5100000.0,1.0,THE_MOUSTACHE_(FILM),THE_MOUSTACHE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+IMordecai,IMordecai,2015,United States,Drama,5000000.0,140272.0,0.0280544,IMORDECAI,IMORDECAI 2015,False,False,False,False,2,Low-Budget Band
+New_Jersey_Drive,New Jersey Drive,2015,United States,Drama,5000000.0,3500000.0,0.7,NEW_JERSEY_DRIVE,NEW_JERSEY_DRIVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Juice_(1992_film),Juice (1992 film),2015,United States,Drama,5000000.0,5000000.0,1.0,JUICE_(1992_FILM),JUICE_(1992_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Amazon_Women_on_the_Moon,Amazon Women on the Moon,2015,United States,Drama,5000000.0,548696.0,0.1097392,AMAZON_WOMEN_ON_THE_MOON,AMAZON_WOMEN_ON_THE_MOON 2015,False,False,False,False,2,Low-Budget Band
+The_Love_Bug,The Love Bug,2015,United States,Drama,5000000.0,5000000.0,1.0,THE_LOVE_BUG,THE_LOVE_BUG 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Age_of_the_Dragons,Age of the Dragons,2015,United States,Drama,5000000.0,1000000.0,0.2,AGE_OF_THE_DRAGONS,AGE_OF_THE_DRAGONS 2015,False,False,False,False,2,Low-Budget Band
+Irma_la_Douce,Irma la Douce,2015,United States,Drama,5000000.0,5000000.0,1.0,IRMA_LA_DOUCE,IRMA_LA_DOUCE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wishmaster_(film),Wishmaster (film),2015,United States,Drama,5000000.0,5000000.0,1.0,WISHMASTER_(FILM),WISHMASTER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Gridlock'd,Gridlock'd,2015,United States,Drama,5000000.0,5000000.0,1.0,GRIDLOCK'D,GRIDLOCK'D 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Halloween_4:_The_Return_of_Michael_Myers,Halloween 4: The Return of Michael Myers,2015,United States,Drama,5000000.0,5000000.0,1.0,HALLOWEEN_4:_THE_RETURN_OF_MICHAEL_MYERS,HALLOWEEN_4:_THE_RETURN_OF_MICHAEL_MYERS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Sunshine_Barry_&_The_Disco_Worms,Sunshine Barry & The Disco Worms,2015,United States,Drama,5000000.0,5000000.0,1.0,SUNSHINE_BARRY_&_THE_DISCO_WORMS,SUNSHINE_BARRY_&_THE_DISCO_WORMS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+When_Fall_Is_Coming,When Fall Is Coming,2015,France,Drama,4800000.0,4800000.0,1.0,WHEN_FALL_IS_COMING,WHEN_FALL_IS_COMING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Invisibles_(2018_film),Invisibles (2018 film),2015,France,Drama,4800000.0,4800000.0,1.0,INVISIBLES_(2018_FILM),INVISIBLES_(2018_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Pat_Garrett_and_Billy_the_Kid,Pat Garrett and Billy the Kid,2015,United States,Drama,4640000.0,4640000.0,1.0,PAT_GARRETT_AND_BILLY_THE_KID,PAT_GARRETT_AND_BILLY_THE_KID 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kneecap_(film),Kneecap (film),2015,Cinema Of Ireland,Action Film,4500000.0,4500000.0,1.0,KNEECAP_(FILM),KNEECAP_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kneecap_(film),Kneecap (film),2015,Cinema Of The United Kingdom,Action Film,4500000.0,4500000.0,1.0,KNEECAP_(FILM),KNEECAP_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Girl_from_Paris_(2001_film),The Girl from Paris (2001 film),2015,France,Drama,4500000.0,4500000.0,1.0,THE_GIRL_FROM_PARIS_(2001_FILM),THE_GIRL_FROM_PARIS_(2001_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Character_(film),Character (film),2015,United States,Drama,4500000.0,713413.0,0.15853622222222222,CHARACTER_(FILM),CHARACTER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Secrets_&_Lies_(film),Secrets & Lies (film),2015,United States,Drama,4500000.0,33.0,7.333333333333333e-06,SECRETS_&_LIES_(FILM),SECRETS_&_LIES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tinā,Tinā,2015,New Zealand,Drama,4300000.0,4300000.0,1.0,TINĀ,TINĀ 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+There's_No_Business_Like_Show_Business_(film),There's No Business Like Show Business (film),2015,United States,Drama,4300000.0,4300000.0,1.0,THERE'S_NO_BUSINESS_LIKE_SHOW_BUSINESS_(FILM),THERE'S_NO_BUSINESS_LIKE_SHOW_BUSINESS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Greatest_Show_on_Earth_(film),The Greatest Show on Earth (film),2015,United States,Drama,4000000.0,4000000.0,1.0,THE_GREATEST_SHOW_ON_EARTH_(FILM),THE_GREATEST_SHOW_ON_EARTH_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+10_to_Midnight,10 to Midnight,2015,United States,Drama,4000000.0,4000000.0,1.0,10_TO_MIDNIGHT,10_TO_MIDNIGHT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bite_the_Bullet_(film),Bite the Bullet (film),2015,United States,Drama,4000000.0,4000000.0,1.0,BITE_THE_BULLET_(FILM),BITE_THE_BULLET_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bullitt,Bullitt,2015,United States,Drama,4000000.0,4000000.0,1.0,BULLITT,BULLITT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Gospel_(film),The Gospel (film),2015,United States,Drama,4000000.0,4000000.0,1.0,THE_GOSPEL_(FILM),THE_GOSPEL_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Great_Escape_(film),The Great Escape (film),2015,United States,Drama,3800000.0,3800000.0,1.0,THE_GREAT_ESCAPE_(FILM),THE_GREAT_ESCAPE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Clubbed_to_Death_(film),Clubbed to Death (film),2015,United States,Drama,3800000.0,110.0,2.894736842105263e-05,CLUBBED_TO_DEATH_(FILM),CLUBBED_TO_DEATH_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Pirate_(1948_film),The Pirate (1948 film),2015,United States,Drama,3768000.0,2956000.0,0.7845010615711253,THE_PIRATE_(1948_FILM),THE_PIRATE_(1948_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Ballad_of_Cable_Hogue,The Ballad of Cable Hogue,2015,United States,Drama,3716946.0,2445863.0,0.6580302753927553,THE_BALLAD_OF_CABLE_HOGUE,THE_BALLAD_OF_CABLE_HOGUE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Tale_of_Two_Sisters,A Tale of Two Sisters,2015,United States,Drama,3700000.0,1000000.0,0.2702702702702703,A_TALE_OF_TWO_SISTERS,A_TALE_OF_TWO_SISTERS 2015,False,False,False,False,2,Low-Budget Band
+Bite_the_Bullet_(film),Bite the Bullet (film),2015,United States,Drama,3700000.0,3700000.0,1.0,BITE_THE_BULLET_(FILM),BITE_THE_BULLET_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bhowani_Junction_(film),Bhowani Junction (film),2015,United States,Drama,3637000.0,3637000.0,1.0,BHOWANI_JUNCTION_(FILM),BHOWANI_JUNCTION_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Balconettes,The Balconettes,2015,France,Drama,3500000.0,373256.0,0.10664457142857142,THE_BALCONETTES,THE_BALCONETTES 2015,False,False,False,False,2,Low-Budget Band
+My_Summer_with_the_Shark,My Summer with the Shark,2015,Italy,Drama,3500000.0,249609.0,0.07131685714285714,MY_SUMMER_WITH_THE_SHARK,MY_SUMMER_WITH_THE_SHARK 2015,False,False,False,False,2,Low-Budget Band
+John_and_Mary_(film),John and Mary (film),2015,United States,Drama,3500000.0,3500000.0,1.0,JOHN_AND_MARY_(FILM),JOHN_AND_MARY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tony_Rome,Tony Rome,2015,United States,Drama,3500000.0,3500000.0,1.0,TONY_ROME,TONY_ROME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Harper_(film),Harper (film),2015,United States,Drama,3500000.0,3500000.0,1.0,HARPER_(FILM),HARPER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+How_to_Succeed_in_Business_Without_Really_Trying_(film),How to Succeed in Business Without Really Trying (film),2015,United States,Drama,3500000.0,2900000.0,0.8285714285714286,HOW_TO_SUCCEED_IN_BUSINESS_WITHOUT_REALLY_TRYING_(FILM),HOW_TO_SUCCEED_IN_BUSINESS_WITHOUT_REALLY_TRYING_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Inbetweeners_Movie,The Inbetweeners Movie,2015,United States,Drama,3500000.0,3500000.0,1.0,THE_INBETWEENERS_MOVIE,THE_INBETWEENERS_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Countess_from_Hong_Kong,A Countess from Hong Kong,2015,United States,Drama,3500000.0,1100000.0,0.3142857142857143,A_COUNTESS_FROM_HONG_KONG,A_COUNTESS_FROM_HONG_KONG 2015,False,False,False,False,2,Low-Budget Band
+Run_Lola_Run,Run Lola Run,1998,Germany,Thriller Film,3500000.0,3500000.0,1.0,RUN_LOLA_RUN,RUN_LOLA_RUN 1998,False,False,False,False,0,Blockbuster / High-Budget Band
+Journey_to_the_Center_of_the_Earth_(1959_film),Journey to the Center of the Earth (1959 film),2015,United States,Drama,3440000.0,3440000.0,1.0,JOURNEY_TO_THE_CENTER_OF_THE_EARTH_(1959_FILM),JOURNEY_TO_THE_CENTER_OF_THE_EARTH_(1959_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Five_Devils,The Five Devils,2015,France,Drama,3400000.0,497028.0,0.14618470588235294,THE_FIVE_DEVILS,THE_FIVE_DEVILS 2015,False,False,False,False,2,Low-Budget Band
+Feast_(2005_film),Feast (2005 film),2015,United States,Drama,3200000.0,658573.0,0.2058040625,FEAST_(2005_FILM),FEAST_(2005_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Interiors,Interiors,2015,United States,Drama,3100000.0,3100000.0,1.0,INTERIORS,INTERIORS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Brigadoon_(film),Brigadoon (film),2015,United States,Drama,3019000.0,2250000.0,0.7452798940046373,BRIGADOON_(FILM),BRIGADOON_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Real_Pain,A Real Pain,2015,United States,Drama,3000000.0,3000000.0,1.0,A_REAL_PAIN,A_REAL_PAIN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Real_Pain,A Real Pain,2015,Poland,Drama,3000000.0,3000000.0,1.0,A_REAL_PAIN,A_REAL_PAIN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Real_Pain,A Real Pain,2015,,Drama,3000000.0,3000000.0,1.0,A_REAL_PAIN,A_REAL_PAIN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Thelma_(2024_film),Thelma (2024 film),2015,United States,Drama,3000000.0,3000000.0,1.0,THELMA_(2024_FILM),THELMA_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+They_Live,They Live,2015,United States,Drama,3000000.0,3000000.0,1.0,THEY_LIVE,THEY_LIVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dave_Chappelle's_Block_Party,Dave Chappelle's Block Party,2015,United States,Drama,3000000.0,3000000.0,1.0,DAVE_CHAPPELLE'S_BLOCK_PARTY,DAVE_CHAPPELLE'S_BLOCK_PARTY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Krush_Groove,Krush Groove,2015,United States,Drama,3000000.0,3000000.0,1.0,KRUSH_GROOVE,KRUSH_GROOVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Local_Hero_(film),Local Hero (film),2015,United States,Drama,3000000.0,3000000.0,1.0,LOCAL_HERO_(FILM),LOCAL_HERO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tsotsi,Tsotsi,2015,United States,Drama,3000000.0,3000000.0,1.0,TSOTSI,TSOTSI 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tommy_(1975_film),Tommy (1975 film),2015,United States,Drama,3000000.0,3000000.0,1.0,TOMMY_(1975_FILM),TOMMY_(1975_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Air_Bud,Air Bud,2015,United States,Drama,3000000.0,3000000.0,1.0,AIR_BUD,AIR_BUD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Airport_1975,Airport 1975,2015,United States,Drama,3000000.0,3000000.0,1.0,AIRPORT,AIRPORT 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hidden_Agenda_(1990_film),Hidden Agenda (1990 film),2015,United States,Drama,3000000.0,1030938.0,0.343646,HIDDEN_AGENDA_(1990_FILM),HIDDEN_AGENDA_(1990_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Wild_in_the_Country,Wild in the Country,2015,United States,Drama,2975000.0,2500000.0,0.8403361344537815,WILD_IN_THE_COUNTRY,WILD_IN_THE_COUNTRY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Invitation_to_the_Dance_(film),Invitation to the Dance (film),2015,United States,Drama,2822000.0,615000.0,0.2179305457122608,INVITATION_TO_THE_DANCE_(FILM),INVITATION_TO_THE_DANCE_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+How_Kids_Roll,How Kids Roll,2015,,Drama,2800000.0,126000.0,0.045,HOW_KIDS_ROLL,HOW_KIDS_ROLL 2015,False,False,False,False,2,Low-Budget Band
+How_Kids_Roll,How Kids Roll,2015,Italy,Drama,2800000.0,126000.0,0.045,HOW_KIDS_ROLL,HOW_KIDS_ROLL 2015,False,False,False,False,2,Low-Budget Band
+How_Kids_Roll,How Kids Roll,2015,Belgium,Drama,2800000.0,126000.0,0.045,HOW_KIDS_ROLL,HOW_KIDS_ROLL 2015,False,False,False,False,2,Low-Budget Band
+How_Kids_Roll,How Kids Roll,2015,United States,Drama,2800000.0,126000.0,0.045,HOW_KIDS_ROLL,HOW_KIDS_ROLL 2015,False,False,False,False,2,Low-Budget Band
+An_American_in_Paris_(film),An American in Paris (film),2015,United States,Drama,2700000.0,2700000.0,1.0,AN_AMERICAN_IN_PARIS_(FILM),AN_AMERICAN_IN_PARIS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Easter_Parade_(film),Easter Parade (film),2015,United States,Drama,2660000.0,2660000.0,1.0,EASTER_PARADE_(FILM),EASTER_PARADE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Local_Hero_(film),Local Hero (film),2015,United States,Drama,2600000.0,2600000.0,1.0,LOCAL_HERO_(FILM),LOCAL_HERO_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Subway_(film),Subway (film),2015,United States,Drama,2600000.0,2600000.0,1.0,SUBWAY_(FILM),SUBWAY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Blazing_Saddles,Blazing Saddles,2015,United States,Drama,2600000.0,2600000.0,1.0,BLAZING_SADDLES,BLAZING_SADDLES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Deadly_Blessing,Deadly Blessing,2015,United States,Drama,2500000.0,2500000.0,1.0,DEADLY_BLESSING,DEADLY_BLESSING 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Pretty_Persuasion,Pretty Persuasion,2015,United States,Drama,2500000.0,537100.0,0.21484,PRETTY_PERSUASION,PRETTY_PERSUASION 2015,False,False,False,False,2,Low-Budget Band
+The_Joker_Is_Wild,The Joker Is Wild,2015,United States,Drama,2400000.0,2400000.0,1.0,THE_JOKER_IS_WILD,THE_JOKER_IS_WILD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Fountainhead_(film),The Fountainhead (film),2015,United States,Drama,2375000.0,2375000.0,1.0,THE_FOUNTAINHEAD_(FILM),THE_FOUNTAINHEAD_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_White_Cliffs_of_Dover_(film),The White Cliffs of Dover (film),2015,United States,Drama,2342000.0,2342000.0,1.0,THE_WHITE_CLIFFS_OF_DOVER_(FILM),THE_WHITE_CLIFFS_OF_DOVER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_White_Cliffs_of_Dover_(film),The White Cliffs of Dover (film),2015,United States,Drama,2342000.0,2249000.0,0.9602903501280956,THE_WHITE_CLIFFS_OF_DOVER_(FILM),THE_WHITE_CLIFFS_OF_DOVER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hit_the_Deck_(1955_film),Hit the Deck (1955 film),2015,United States,Drama,2300000.0,2300000.0,1.0,HIT_THE_DECK_(1955_FILM),HIT_THE_DECK_(1955_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Curdled_(film),Curdled (film),2015,United States,Drama,2300000.0,49620.0,0.02157391304347826,CURDLED_(FILM),CURDLED_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+The_Great_Dictator,The Great Dictator,2015,United States,Drama,2200000.0,2200000.0,1.0,THE_GREAT_DICTATOR,THE_GREAT_DICTATOR 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"Hush...Hush,_Sweet_Charlotte","Hush...Hush, Sweet Charlotte",2015,United States,Drama,2200000.0,2200000.0,1.0,"HUSH...HUSH,_SWEET_CHARLOTTE","HUSH...HUSH,_SWEET_CHARLOTTE 2015",False,False,False,False,0,Blockbuster / High-Budget Band
+Kina_&_Yuk,Kina & Yuk,2015,Italy,Drama,2166046.0,2166046.0,1.0,KINA_&_YUK,KINA_&_YUK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kina_&_Yuk,Kina & Yuk,2015,,Drama,2166046.0,2166046.0,1.0,KINA_&_YUK,KINA_&_YUK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kina_&_Yuk,Kina & Yuk,2015,Canada,Drama,2166046.0,2166046.0,1.0,KINA_&_YUK,KINA_&_YUK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Kina_&_Yuk,Kina & Yuk,2015,France,Drama,2166046.0,2166046.0,1.0,KINA_&_YUK,KINA_&_YUK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hollywood_Canteen_(film),Hollywood Canteen (film),2015,United States,Drama,2126000.0,2126000.0,1.0,HOLLYWOOD_CANTEEN_(FILM),HOLLYWOOD_CANTEEN_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hollywood_Canteen_(film),Hollywood Canteen (film),2015,United States,Drama,2126000.0,2126000.0,1.0,HOLLYWOOD_CANTEEN_(FILM),HOLLYWOOD_CANTEEN_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Love_in_the_Afternoon_(1957_film),Love in the Afternoon (1957 film),2015,United States,Drama,2100000.0,2000000.0,0.9523809523809523,LOVE_IN_THE_AFTERNOON_(1957_FILM),LOVE_IN_THE_AFTERNOON_(1957_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Presence_(2024_film),Presence (2024 film),2015,United States,Drama,2000000.0,2000000.0,1.0,PRESENCE_(2024_FILM),PRESENCE_(2024_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Apocalypse_Clown,Apocalypse Clown,2015,Ireland,Drama,2000000.0,12687.0,0.0063435,APOCALYPSE_CLOWN,APOCALYPSE_CLOWN 2015,False,False,False,False,2,Low-Budget Band
+Heart_of_the_Hunter_(film),Heart of the Hunter (film),2015,South Africa,Drama,2000000.0,2000000.0,1.0,HEART_OF_THE_HUNTER_(FILM),HEART_OF_THE_HUNTER_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hot_Dog…The_Movie,Hot Dog…The Movie,2015,United States,Drama,2000000.0,2000000.0,1.0,HOT_DOG…THE_MOVIE,HOT_DOG…THE_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hot_Dog…The_Movie,Hot Dog...The Movie,2015,United States,Drama,2000000.0,2000000.0,1.0,HOT_DOG…THE_MOVIE,HOT_DOG…THE_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hot_Dog…The_Movie,Hot Dog…The Movie,2015,United States,Drama,2000000.0,2000000.0,1.0,HOT_DOG…THE_MOVIE,HOT_DOG…THE_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hot_Dog…The_Movie,Hot Dog...The Movie,2015,United States,Drama,2000000.0,2000000.0,1.0,HOT_DOG…THE_MOVIE,HOT_DOG…THE_MOVIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Locust_(2015_film),Locust (2014 film),2015,Russia,Drama,2000000.0,477.0,0.0002385,LOCUST_(2015_FILM),LOCUST_(2015_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Locust_(2015_film),Locust (2015 film),2015,Russia,Drama,2000000.0,477.0,0.0002385,LOCUST_(2015_FILM),LOCUST_(2015_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tell_Her_(film),Tell Her (film),2015,Russia,Drama,2000000.0,69557.0,0.0347785,TELL_HER_(FILM),TELL_HER_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Sleeper_(1973_film),Sleeper (1973 film),2015,United States,Drama,2000000.0,2000000.0,1.0,SLEEPER_(1973_FILM),SLEEPER_(1973_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Damned_(1969_film),The Damned (1969 film),2015,United States,Drama,2000000.0,1200000.0,0.6,THE_DAMNED_(1969_FILM),THE_DAMNED_(1969_FILM) 2015,False,False,False,False,2,Low-Budget Band
+A_Date_with_Judy_(film),A Date with Judy (film),2015,United States,Drama,2000000.0,2000000.0,1.0,A_DATE_WITH_JUDY_(FILM),A_DATE_WITH_JUDY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Babadook,The Babadook,2014,Australia,Horror Film,2000000.0,2000000.0,1.0,THE_BABADOOK,THE_BABADOOK 2014,False,False,False,False,0,Blockbuster / High-Budget Band
+Mutiny_on_the_Bounty_(1935_film),Mutiny on the Bounty (1935 film),2015,United States,Drama,1950000.0,1950000.0,1.0,MUTINY_ON_THE_BOUNTY_(1935_FILM),MUTINY_ON_THE_BOUNTY_(1935_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+"The_Adventures_of_Priscilla,_Queen_of_the_Desert","The Adventures of Priscilla, Queen of the Desert",2015,United States,Drama,1884200.0,1884200.0,1.0,"THE_ADVENTURES_OF_PRISCILLA,_QUEEN_OF_THE_DESERT","THE_ADVENTURES_OF_PRISCILLA,_QUEEN_OF_THE_DESERT 2015",False,False,False,False,0,Blockbuster / High-Budget Band
+Dancing_Village:_The_Curse_Begins,Dancing Village: The Curse Begins,2015,Indonesia,Action Film,1800000.0,1800000.0,1.0,DANCING_VILLAGE:_THE_CURSE_BEGINS,DANCING_VILLAGE:_THE_CURSE_BEGINS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Ace_in_the_Hole_(1951_film),Ace in the Hole (1951 film),2015,United States,Drama,1800000.0,1300000.0,0.7222222222222222,ACE_IN_THE_HOLE_(1951_FILM),ACE_IN_THE_HOLE_(1951_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hour_of_the_Gun,Hour of the Gun,2015,United States,Drama,1800000.0,1800000.0,1.0,HOUR_OF_THE_GUN,HOUR_OF_THE_GUN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Monica_(2022_film),Monica (2022 film),2015,Italy,Drama,1700000.0,182156.0,0.10715058823529412,MONICA_(2022_FILM),MONICA_(2022_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Monica_(2022_film),Monica (2022 film),2015,United States,Drama,1700000.0,182156.0,0.10715058823529412,MONICA_(2022_FILM),MONICA_(2022_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Monica_(2022_film),Monica (2022 film),2015,,Drama,1700000.0,182156.0,0.10715058823529412,MONICA_(2022_FILM),MONICA_(2022_FILM) 2015,False,False,False,False,2,Low-Budget Band
+Lapland_Odyssey,Lapland Odyssey,2015,United States,Drama,1700000.0,1700000.0,1.0,LAPLAND_ODYSSEY,LAPLAND_ODYSSEY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Sergeant_York_(film),Sergeant York (film),2015,United States,Drama,1700000.0,1700000.0,1.0,SERGEANT_YORK_(FILM),SERGEANT_YORK_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+You_Can't_Take_It_with_You_(film),You Can't Take It with You (film),2015,United States,Drama,1644736.0,1644736.0,1.0,YOU_CAN'T_TAKE_IT_WITH_YOU_(FILM),YOU_CAN'T_TAKE_IT_WITH_YOU_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+You_Can't_Take_It_with_You_(film),You Can't Take It with You (film),2015,United States,Drama,1644736.0,1644736.0,1.0,YOU_CAN'T_TAKE_IT_WITH_YOU_(FILM),YOU_CAN'T_TAKE_IT_WITH_YOU_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Johnny_Belinda_(1948_film),Johnny Belinda (1948 film),2015,United States,Drama,1631000.0,1631000.0,1.0,JOHNNY_BELINDA_(1948_FILM),JOHNNY_BELINDA_(1948_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Johnny_Belinda_(1948_film),Johnny Belinda (1948 film),2015,United States,Drama,1631000.0,1631000.0,1.0,JOHNNY_BELINDA_(1948_FILM),JOHNNY_BELINDA_(1948_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Lapland_Odyssey_2,Lapland Odyssey 2,2015,Finland,Drama,1600000.0,1600000.0,1.0,LAPLAND_ODYSSEY_2,LAPLAND_ODYSSEY_2 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Women_in_Love_(film),Women in Love (film),2015,United States,Drama,1600000.0,1600000.0,1.0,WOMEN_IN_LOVE_(FILM),WOMEN_IN_LOVE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+In_the_Good_Old_Summertime,In the Good Old Summertime,2015,United States,Drama,1577000.0,1577000.0,1.0,IN_THE_GOOD_OLD_SUMMERTIME,IN_THE_GOOD_OLD_SUMMERTIME 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Her_Twelve_Men,Her Twelve Men,2015,United States,Drama,1534000.0,1418000.0,0.924380704041721,HER_TWELVE_MEN,HER_TWELVE_MEN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Bruno_Reidal,Bruno Reidal,2015,France,Drama,1500000.0,52584.0,0.035056,BRUNO_REIDAL,BRUNO_REIDAL 2015,False,False,False,False,2,Low-Budget Band
+Sign_of_the_Pagan,Sign of the Pagan,2015,United States,Drama,1500000.0,1500000.0,1.0,SIGN_OF_THE_PAGAN,SIGN_OF_THE_PAGAN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Sign_of_the_Pagan,Sign of the Pagan,2015,United States,Drama,1500000.0,1500000.0,1.0,SIGN_OF_THE_PAGAN,SIGN_OF_THE_PAGAN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fahrenheit_451_(1966_film),Fahrenheit 451 (1966 film),2015,United States,Drama,1500000.0,1000000.0,0.6666666666666666,FAHRENHEIT_451_(1966_FILM),FAHRENHEIT_451_(1966_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Believer_(2001_film),The Believer (2001 film),2015,United States,Drama,1500000.0,1300000.0,0.8666666666666667,THE_BELIEVER_(2001_FILM),THE_BELIEVER_(2001_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Yankee_Doodle_Dandy,Yankee Doodle Dandy,2015,United States,Drama,1500000.0,1500000.0,1.0,YANKEE_DOODLE_DANDY,YANKEE_DOODLE_DANDY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Parrish_(film),Parrish (film),2015,United States,Drama,1500000.0,1500000.0,1.0,PARRISH_(FILM),PARRISH_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_High_and_the_Mighty_(film),The High and the Mighty (film),2015,United States,Drama,1470000.0,1470000.0,1.0,THE_HIGH_AND_THE_MIGHTY_(FILM),THE_HIGH_AND_THE_MIGHTY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Mildred_Pierce_(film),Mildred Pierce (film),2015,United States,Drama,1400000.0,1400000.0,1.0,MILDRED_PIERCE_(FILM),MILDRED_PIERCE_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Brood,The Brood,2015,United States,Drama,1400000.0,1400000.0,1.0,THE_BROOD,THE_BROOD 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Batman_(1966_film),Batman (1966 film),2015,United States,Drama,1378000.0,1378000.0,1.0,BATMAN_(1966_FILM),BATMAN_(1966_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Angel_&_Tony,Angel & Tony,2015,United States,Drama,1300000.0,1300000.0,1.0,ANGEL_&_TONY,ANGEL_&_TONY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Bells_of_St._Mary's,The Bells of St. Mary's,2015,United States,Drama,1300000.0,1300000.0,1.0,THE_BELLS_OF_ST._MARY'S,THE_BELLS_OF_ST._MARY'S 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Date_with_Judy_(film),A Date with Judy (film),2015,United States,Drama,1300000.0,1300000.0,1.0,A_DATE_WITH_JUDY_(FILM),A_DATE_WITH_JUDY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Close_Shave,A Close Shave,2015,United States,Drama,1300000.0,20909.0,0.016083846153846153,A_CLOSE_SHAVE,A_CLOSE_SHAVE 2015,False,False,False,False,2,Low-Budget Band
+In_Her_Line_of_Fire,In Her Line of Fire,2015,United States,Drama,1300000.0,884000.0,0.68,IN_HER_LINE_OF_FIRE,IN_HER_LINE_OF_FIRE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Walk_in_the_Sun_(1945_film),A Walk in the Sun (1945 film),2015,United States,Drama,1250000.0,1250000.0,1.0,A_WALK_IN_THE_SUN_(1945_FILM),A_WALK_IN_THE_SUN_(1945_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Walk_in_the_Sun_(1945_film),A Walk in the Sun (1945 film),2015,United States,Drama,1250000.0,1250000.0,1.0,A_WALK_IN_THE_SUN_(1945_FILM),A_WALK_IN_THE_SUN_(1945_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+It_Started_with_Eve,It Started with Eve,2015,United States,Drama,1250000.0,1250000.0,1.0,IT_STARTED_WITH_EVE,IT_STARTED_WITH_EVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Sewu_Dino,Sewu Dino,2015,Indonesia,Drama,1200000.0,1200000.0,1.0,SEWU_DINO,SEWU_DINO 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Alexander's_Ragtime_Band_(film),Alexander's Ragtime Band (film),2015,United States,Drama,1200000.0,1200000.0,1.0,ALEXANDER'S_RAGTIME_BAND_(FILM),ALEXANDER'S_RAGTIME_BAND_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Breakin',Breakin',2015,United States,Drama,1200000.0,1200000.0,1.0,BREAKIN',BREAKIN' 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+It_Started_with_Eve,It Started with Eve,2015,United States,Drama,1166000.0,1166000.0,1.0,IT_STARTED_WITH_EVE,IT_STARTED_WITH_EVE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tulsa_(film),Tulsa (film),2015,United States,Drama,1158035.0,1158035.0,1.0,TULSA_(FILM),TULSA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Magnificent_Ambersons_(film),The Magnificent Ambersons (film),2015,United States,Drama,1100000.0,1000000.0,0.9090909090909091,THE_MAGNIFICENT_AMBERSONS_(FILM),THE_MAGNIFICENT_AMBERSONS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Old_Acquaintance,Old Acquaintance,2015,United States,Drama,1070000.0,1070000.0,1.0,OLD_ACQUAINTANCE,OLD_ACQUAINTANCE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Old_Acquaintance,Old Acquaintance,2015,United States,Drama,1070000.0,1070000.0,1.0,OLD_ACQUAINTANCE,OLD_ACQUAINTANCE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Citadel_(1938_film),The Citadel (1938 film),2015,United States,Drama,1012000.0,1012000.0,1.0,THE_CITADEL_(1938_FILM),THE_CITADEL_(1938_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Scrambled_(film),Scrambled (film),2015,United States,Drama,1000000.0,422555.0,0.422555,SCRAMBLED_(FILM),SCRAMBLED_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+How_to_Make_Millions_Before_Grandma_Dies,How to Make Millions Before Grandma Dies,2015,Thailand,Drama,1000000.0,1000000.0,1.0,HOW_TO_MAKE_MILLIONS_BEFORE_GRANDMA_DIES,HOW_TO_MAKE_MILLIONS_BEFORE_GRANDMA_DIES 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Nefarious_(film),Nefarious (film),2015,United States,Drama,1000000.0,1000000.0,1.0,NEFARIOUS_(FILM),NEFARIOUS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Addiction_(film),Addiction (film),2015,Finland,Drama,1000000.0,1000000.0,1.0,ADDICTION_(FILM),ADDICTION_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Dillinger_(1973_film),Dillinger (1973 film),2015,United States,Drama,1000000.0,1000000.0,1.0,DILLINGER_(1973_FILM),DILLINGER_(1973_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Shine_a_Light_(film),Shine a Light (film),2015,United States,Drama,1000000.0,1000000.0,1.0,SHINE_A_LIGHT_(FILM),SHINE_A_LIGHT_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Donkey_Punch_(2008_film),Donkey Punch (2008 film),2015,United States,Drama,1000000.0,694422.0,0.694422,DONKEY_PUNCH_(2008_FILM),DONKEY_PUNCH_(2008_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+In_Old_Chicago,In Old Chicago,2015,United States,Drama,1000000.0,1000000.0,1.0,IN_OLD_CHICAGO,IN_OLD_CHICAGO 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Battle_of_Shaker_Heights,The Battle of Shaker Heights,2015,United States,Drama,1000000.0,280351.0,0.280351,THE_BATTLE_OF_SHAKER_HEIGHTS,THE_BATTLE_OF_SHAKER_HEIGHTS 2015,False,False,False,False,2,Low-Budget Band
+The_Twisted_Childhood_Universe,The Twisted Childhood Universe,2015,United Kingdom,Drama,850000.0,850000.0,1.0,THE_TWISTED_CHILDHOOD_UNIVERSE,THE_TWISTED_CHILDHOOD_UNIVERSE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Walk_in_the_Sun_(1945_film),A Walk in the Sun (1945 film),2015,United States,Drama,850000.0,850000.0,1.0,A_WALK_IN_THE_SUN_(1945_FILM),A_WALK_IN_THE_SUN_(1945_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Walk_in_the_Sun_(1945_film),A Walk in the Sun (1945 film),2015,United States,Drama,850000.0,850000.0,1.0,A_WALK_IN_THE_SUN_(1945_FILM),A_WALK_IN_THE_SUN_(1945_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Indonesia,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Malaysia,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Netherlands,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Qatar,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Germany,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,France,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Singapore,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Tiger_Stripes_(film),Tiger Stripes (film),2015,Taiwan,Drama,834000.0,29200.0,0.03501199040767386,TIGER_STRIPES_(FILM),TIGER_STRIPES_(FILM) 2015,False,False,False,False,2,Low-Budget Band
+Attack_(1956_film),Attack (1956 film),2015,United States,Drama,810000.0,810000.0,1.0,ATTACK_(1956_FILM),ATTACK_(1956_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+A_Man_and_a_Woman,A Man and a Woman,2015,United States,Drama,775198.0,775198.0,1.0,A_MAN_AND_A_WOMAN,A_MAN_AND_A_WOMAN 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Babes_in_Arms_(film),Babes in Arms (film),2015,United States,Drama,745341.0,745341.0,1.0,BABES_IN_ARMS_(FILM),BABES_IN_ARMS_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Go_into_Your_Dance,Go into Your Dance,2015,United States,Drama,703000.0,703000.0,1.0,GO_INTO_YOUR_DANCE,GO_INTO_YOUR_DANCE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Wild_in_the_Streets,Wild in the Streets,2015,United States,Drama,700000.0,700000.0,1.0,WILD_IN_THE_STREETS,WILD_IN_THE_STREETS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Tarzan_the_Ape_Man_(1932_film),Tarzan the Ape Man (1932 film),2015,United States,Drama,652675.0,652675.0,1.0,TARZAN_THE_APE_MAN_(1932_FILM),TARZAN_THE_APE_MAN_(1932_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+All_Through_the_Night_(film),All Through the Night (film),2015,United States,Drama,643000.0,643000.0,1.0,ALL_THROUGH_THE_NIGHT_(FILM),ALL_THROUGH_THE_NIGHT_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+London_to_Brighton,London to Brighton,2015,United States,Drama,639200.0,449700.0,0.7035356695869838,LONDON_TO_BRIGHTON,LONDON_TO_BRIGHTON 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Trouble_in_Paradise_(1932_film),Trouble in Paradise (1932 film),2015,United States,Drama,519706.0,475000.0,0.9139782877242133,TROUBLE_IN_PARADISE_(1932_FILM),TROUBLE_IN_PARADISE_(1932_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Red_Shoes_(1948_film),The Red Shoes (1948 film),2015,United States,Drama,505600.0,505600.0,1.0,THE_RED_SHOES_(1948_FILM),THE_RED_SHOES_(1948_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Alfie_(1966_film),Alfie (1966 film),2015,United States,Drama,500000.0,500000.0,1.0,ALFIE_(1966_FILM),ALFIE_(1966_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+High_Sierra_(film),High Sierra (film),2015,United States,Drama,491000.0,491000.0,1.0,HIGH_SIERRA_(FILM),HIGH_SIERRA_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Flirtation_Walk,Flirtation Walk,2015,United States,Drama,479000.0,479000.0,1.0,FLIRTATION_WALK,FLIRTATION_WALK 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Henry_V_(1944_film),Henry V (1944 film),2015,United States,Drama,475708.0,475708.0,1.0,HENRY_V_(1944_FILM),HENRY_V_(1944_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Slightly_Honorable,Slightly Honorable,2015,United States,Drama,434874.0,386116.0,0.8878801675887729,SLIGHTLY_HONORABLE,SLIGHTLY_HONORABLE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Storm_Boy_(1976_film),Storm Boy (1976 film),2015,United States,Drama,360000.0,360000.0,1.0,STORM_BOY_(1976_FILM),STORM_BOY_(1976_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+One_Way_Passage,One Way Passage,2015,United States,Drama,350000.0,350000.0,1.0,ONE_WAY_PASSAGE,ONE_WAY_PASSAGE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Goodbye_Pork_Pie,Goodbye Pork Pie,2015,United States,Drama,350000.0,350000.0,1.0,GOODBYE_PORK_PIE,GOODBYE_PORK_PIE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Brother_from_Another_Planet,The Brother from Another Planet,2015,United States,Drama,350000.0,350000.0,1.0,THE_BROTHER_FROM_ANOTHER_PLANET,THE_BROTHER_FROM_ANOTHER_PLANET 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Storm_Boy_(1976_film),Storm Boy (1976 film),2015,United States,Drama,320000.0,320000.0,1.0,STORM_BOY_(1976_FILM),STORM_BOY_(1976_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Crime_in_the_Streets,Crime in the Streets,2015,United States,Drama,280000.0,280000.0,1.0,CRIME_IN_THE_STREETS,CRIME_IN_THE_STREETS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Crime_in_the_Streets,Crime in the Streets,2015,United States,Drama,280000.0,280000.0,1.0,CRIME_IN_THE_STREETS,CRIME_IN_THE_STREETS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Crazies_(1973_film),The Crazies (1973 film),2015,United States,Drama,275000.0,143784.0,0.5228509090909091,THE_CRAZIES_(1973_FILM),THE_CRAZIES_(1973_FILM) 2015,False,False,False,False,2,Low-Budget Band
+His_Only_Son,His Only Son,2015,United States,Drama,250000.0,250000.0,1.0,HIS_ONLY_SON,HIS_ONLY_SON 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Anne_of_Green_Gables_(1934_film),Anne of Green Gables (1934 film),2015,United States,Drama,226000.0,226000.0,1.0,ANNE_OF_GREEN_GABLES_(1934_FILM),ANNE_OF_GREEN_GABLES_(1934_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Citadel_(1938_film),The Citadel (1938 film),2015,United States,Drama,222386.0,222386.0,1.0,THE_CITADEL_(1938_FILM),THE_CITADEL_(1938_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Brighton_Rock_(1948_film),Brighton Rock (1948 film),2015,United States,Drama,192436.0,190147.0,0.9881051362530919,BRIGHTON_ROCK_(1948_FILM),BRIGHTON_ROCK_(1948_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+London_After_Midnight_(film),London After Midnight (film),2015,United States,Drama,151666.14,151666.14,1.0,LONDON_AFTER_MIDNIGHT_(FILM),LONDON_AFTER_MIDNIGHT_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hundreds_of_Beavers,Hundreds of Beavers,2015,United States,Drama,150000.0,150000.0,1.0,HUNDREDS_OF_BEAVERS,HUNDREDS_OF_BEAVERS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Life_and_Times_of_Grizzly_Adams,The Life and Times of Grizzly Adams,2015,United States,Drama,125000.0,125000.0,1.0,THE_LIFE_AND_TIMES_OF_GRIZZLY_ADAMS,THE_LIFE_AND_TIMES_OF_GRIZZLY_ADAMS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Life_and_Times_of_Grizzly_Adams,The Life and Times of Grizzly Adams,2015,United States,Drama,125000.0,125000.0,1.0,THE_LIFE_AND_TIMES_OF_GRIZZLY_ADAMS,THE_LIFE_AND_TIMES_OF_GRIZZLY_ADAMS 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+While_the_Sun_Shines_(film),While the Sun Shines (film),2015,England,Drama,110840.0,110840.0,1.0,WHILE_THE_SUN_SHINES_(FILM),WHILE_THE_SUN_SHINES_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Hue_and_Cry_(film),Hue and Cry (film),2015,United States,Drama,104222.0,96812.0,0.9289017673811671,HUE_AND_CRY_(FILM),HUE_AND_CRY_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Fist_of_Fury,Fist of Fury,2015,United States,Drama,100000.0,100000.0,1.0,FIST_OF_FURY,FIST_OF_FURY 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Trip_(1967_film),The Trip (1967 film),2015,United States,Drama,100000.0,100000.0,1.0,THE_TRIP_(1967_FILM),THE_TRIP_(1967_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Texas_Chain_Saw_Massacre,The Texas Chain Saw Massacre,2015,United States,Drama,80000.0,80000.0,1.0,THE_TEXAS_CHAIN_SAW_MASSACRE,THE_TEXAS_CHAIN_SAW_MASSACRE 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Repulsion_(film),Repulsion (film),2015,United States,Drama,65000.0,65000.0,1.0,REPULSION_(FILM),REPULSION_(FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+Die_Familie_Hesselbach,Die Familie Hesselbach,2015,West Germany,Drama,30000.0,30000.0,1.0,DIE_FAMILIE_HESSELBACH,DIE_FAMILIE_HESSELBACH 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Bridge_(2006_documentary_film),The Bridge (2006 documentary film),2015,United States,Drama,25000.0,25000.0,1.0,THE_BRIDGE_(2006_DOCUMENTARY_FILM),THE_BRIDGE_(2006_DOCUMENTARY_FILM) 2015,False,False,False,False,0,Blockbuster / High-Budget Band
+The_Hobbit_(film_series),The Hobbit (film series),2015,United States,Drama,700.0,700.0,1.0,THE_HOBBIT_(FILM_SERIES),THE_HOBBIT_(FILM_SERIES) 2015,False,False,False,False,1,Mid-Budget Band
+Kalki_2898_AD,Kalki 2898 AD,2015,India,Drama,600.0,600.0,1.0,KALKI_2898_AD,KALKI_2898_AD 2015,False,False,False,False,1,Mid-Budget Band
+Singham_Again,Singham Again,2015,India,Soundtrack,350.0,350.0,1.0,SINGHAM_AGAIN,SINGHAM_AGAIN 2015,False,False,False,False,1,Mid-Budget Band
+Grave_Torture,Grave Torture,2015,Indonesia,Drama,314.445,314.445,1.0,GRAVE_TORTURE,GRAVE_TORTURE 2015,False,False,False,False,1,Mid-Budget Band
+Jawan_(film),Jawan (film),2015,India,Drama,300.0,300.0,1.0,JAWAN_(FILM),JAWAN_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Kanguva,Kanguva,2015,India,Drama,300.0,106.0,0.35333333333333333,KANGUVA,KANGUVA 2015,False,False,False,False,1,Mid-Budget Band
+Mission:_Impossible_–_The_Final_Reckoning,Mission: Impossible – The Final Reckoning,2015,United States,Drama,300.0,300.0,1.0,MISSION:_IMPOSSIBLE_–_THE_FINAL_RECKONING,MISSION:_IMPOSSIBLE_–_THE_FINAL_RECKONING 2015,False,False,False,False,1,Mid-Budget Band
+Devara:_Part_1,Devara: Part 1,2015,India,Drama,250.0,250.0,1.0,DEVARA:_PART_1,DEVARA:_PART_1 2015,False,False,False,False,1,Mid-Budget Band
+The_Hobbit:_An_Unexpected_Journey,The Hobbit: An Unexpected Journey,2015,United States,Drama,200.0,200.0,1.0,THE_HOBBIT:_AN_UNEXPECTED_JOURNEY,THE_HOBBIT:_AN_UNEXPECTED_JOURNEY 2015,False,False,False,False,1,Mid-Budget Band
+Fantastic_Four:_Rise_of_the_Silver_Surfer,Fantastic Four: Rise of the Silver Surfer,2015,United States,Drama,120.0,120.0,1.0,FANTASTIC_FOUR:_RISE_OF_THE_SILVER_SURFER,FANTASTIC_FOUR:_RISE_OF_THE_SILVER_SURFER 2015,False,False,False,False,1,Mid-Budget Band
+Kraven_the_Hunter_(film),Kraven the Hunter (film),2015,United States,Drama,110.0,110.0,1.0,KRAVEN_THE_HUNTER_(FILM),KRAVEN_THE_HUNTER_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Salt_(2010_film),Salt (2010 film),2015,United States,Drama,110.0,110.0,1.0,SALT_(2010_FILM),SALT_(2010_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Beetlejuice_Beetlejuice,Beetlejuice Beetlejuice,2015,United States,Action Film,99.0,99.0,1.0,BEETLEJUICE_BEETLEJUICE,BEETLEJUICE_BEETLEJUICE 2015,False,False,False,False,1,Mid-Budget Band
+Gangs_of_New_York,Gangs of New York,2015,United States,Drama,97.0,97.0,1.0,GANGS_OF_NEW_YORK,GANGS_OF_NEW_YORK 2015,False,False,False,False,1,Mid-Budget Band
+Seventh_Son_(film),Seventh Son (film),2015,United States,Drama,95.0,95.0,1.0,SEVENTH_SON_(FILM),SEVENTH_SON_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Mirror_Mirror_(film),Mirror Mirror (film),2015,United States,Drama,85.0,85.0,1.0,MIRROR_MIRROR_(FILM),MIRROR_MIRROR_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+White_Noise_(2022_film),White Noise (2022 film),2015,United States,Drama,80.0,80.0,1.0,WHITE_NOISE_(2022_FILM),WHITE_NOISE_(2022_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+White_Noise_(2022_film),White Noise (2022 film),2015,,Drama,80.0,80.0,1.0,WHITE_NOISE_(2022_FILM),WHITE_NOISE_(2022_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+White_Noise_(2022_film),White Noise (2022 film),2015,United Kingdom,Drama,80.0,80.0,1.0,WHITE_NOISE_(2022_FILM),WHITE_NOISE_(2022_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Little_Nicky,Little Nicky,2015,United States,Drama,80.0,80.0,1.0,LITTLE_NICKY,LITTLE_NICKY 2015,False,False,False,False,1,Mid-Budget Band
+Crew_(film),Crew (film),2015,India,Soundtrack,75.0,75.0,1.0,CREW_(FILM),CREW_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Vedaa,Vedaa,2015,India,Soundtrack,60.0,26.71,0.44516666666666665,VEDAA,VEDAA 2015,False,False,False,False,1,Mid-Budget Band
+Man_on_Fire_(2004_film),Man on Fire (2004 film),2015,United States,Drama,60.0,60.0,1.0,MAN_ON_FIRE_(2004_FILM),MAN_ON_FIRE_(2004_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Rambo_III,Rambo III,2015,United States,Drama,58.0,58.0,1.0,RAMBO_III,RAMBO_III 2015,False,False,False,False,1,Mid-Budget Band
+After_the_Sunset,After the Sunset,2015,United States,Drama,57.0,57.0,1.0,AFTER_THE_SUNSET,AFTER_THE_SUNSET 2015,False,False,False,False,1,Mid-Budget Band
+The_Sabarmati_Report,The Sabarmati Report,2015,India,Soundtrack,50.0,31.31,0.6262,THE_SABARMATI_REPORT,THE_SABARMATI_REPORT 2015,False,False,False,False,1,Mid-Budget Band
+Patch_Adams_(film),Patch Adams (film),2015,United States,Drama,50.0,50.0,1.0,PATCH_ADAMS_(FILM),PATCH_ADAMS_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Ted_(film),Ted (film),2015,United States,Drama,50.0,50.0,1.0,TED_(FILM),TED_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Inside_Man,Inside Man,2015,United States,Drama,45.0,45.0,1.0,INSIDE_MAN,INSIDE_MAN 2015,False,False,False,False,1,Mid-Budget Band
+Flight_of_the_Phoenix_(2004_film),Flight of the Phoenix (2004 film),2015,United States,Drama,45.0,45.0,1.0,FLIGHT_OF_THE_PHOENIX_(2004_FILM),FLIGHT_OF_THE_PHOENIX_(2004_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Scary_Movie_3,Scary Movie 3,2015,United States,Drama,45.0,45.0,1.0,SCARY_MOVIE_3,SCARY_MOVIE_3 2015,False,False,False,False,1,Mid-Budget Band
+Aranmanai_4,Aranmanai 4,2015,India,Soundtrack,40.0,40.0,1.0,ARANMANAI_4,ARANMANAI_4 2015,False,False,False,False,1,Mid-Budget Band
+Dracula:_A_Love_Tale,Dracula: A Love Tale,2015,France,Drama,40.0,40.0,1.0,DRACULA:_A_LOVE_TALE,DRACULA:_A_LOVE_TALE 2015,False,False,False,False,1,Mid-Budget Band
+Nadikar,Nadikar,2015,India,Drama,40.0,5.39,0.13474999999999998,NADIKAR,NADIKAR 2015,False,False,False,False,1,Mid-Budget Band
+Zara_Hatke_Zara_Bachke,Zara Hatke Zara Bachke,2015,India,Soundtrack,40.0,40.0,1.0,ZARA_HATKE_ZARA_BACHKE,ZARA_HATKE_ZARA_BACHKE 2015,False,False,False,False,1,Mid-Budget Band
+IB71,IB71,2015,India,Drama,38.0,29.19,0.7681578947368422,IB71,IB71 2015,False,False,False,False,1,Mid-Budget Band
+Rush_Hour_(1998_film),Rush Hour (1998 film),2015,United States,Drama,33.0,33.0,1.0,RUSH_HOUR_(1998_FILM),RUSH_HOUR_(1998_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Aavesham_(2024_film),Aavesham (2024 film),2015,India,Drama,30.0,30.0,1.0,AAVESHAM_(2024_FILM),AAVESHAM_(2024_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Madgaon_Express,Madgaon Express,2015,India,Soundtrack,30.0,30.0,1.0,MADGAON_EXPRESS,MADGAON_EXPRESS 2015,False,False,False,False,1,Mid-Budget Band
+Rocky_V,Rocky V,2015,United States,Drama,30.0,30.0,1.0,ROCKY_V,ROCKY_V 2015,False,False,False,False,1,Mid-Budget Band
+Air_America_(film),Air America (film),2015,United States,Drama,30.0,30.0,1.0,AIR_AMERICA_(FILM),AIR_AMERICA_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Entourage_(film),Entourage (film),2015,United States,Drama,27.0,27.0,1.0,ENTOURAGE_(FILM),ENTOURAGE_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Ruslaan,Ruslaan,2015,India,Drama,25.0,2.7,0.10800000000000001,RUSLAAN,RUSLAAN 2015,False,False,False,False,1,Mid-Budget Band
+Saturday_Night_(2024_film),Saturday Night (2024 film),2015,United States,Drama,25.0,25.0,1.0,SATURDAY_NIGHT_(2024_FILM),SATURDAY_NIGHT_(2024_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Malayalee_from_India,Malayalee from India,2015,India,Drama,22.0,18.37,0.8350000000000001,MALAYALEE_FROM_INDIA,MALAYALEE_FROM_INDIA 2015,False,False,False,False,1,Mid-Budget Band
+Guruvayoor_Ambalanadayil,Guruvayoor Ambalanadayil,2015,India,Drama,20.0,20.0,1.0,GURUVAYOOR_AMBALANADAYIL,GURUVAYOOR_AMBALANADAYIL 2015,False,False,False,False,1,Mid-Budget Band
+Kill_(film),Kill (film),2015,India,Soundtrack,20.0,20.0,1.0,KILL_(FILM),KILL_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Manjummel_Boys,Manjummel Boys,2015,India,Drama,20.0,20.0,1.0,MANJUMMEL_BOYS,MANJUMMEL_BOYS 2015,False,False,False,False,1,Mid-Budget Band
+Swatantrya_Veer_Savarkar_(film),Swatantrya Veer Savarkar (film),2015,India,Soundtrack,20.0,20.0,1.0,SWATANTRYA_VEER_SAVARKAR_(FILM),SWATANTRYA_VEER_SAVARKAR_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Sapta_Saagaradaache_Ello_–_Side_A,Sapta Saagaradaache Ello – Side A,2015,India,Soundtrack,20.0,20.0,1.0,SAPTA_SAAGARADAACHE_ELLO_–_SIDE_A,SAPTA_SAAGARADAACHE_ELLO_–_SIDE_A 2015,False,False,False,False,1,Mid-Budget Band
+Sapta_Saagaradaache_Ello_–_Side_A,Sapta Saagaradaache Ello: Side A,2015,India,Soundtrack,20.0,20.0,1.0,SAPTA_SAAGARADAACHE_ELLO_–_SIDE_A,SAPTA_SAAGARADAACHE_ELLO_–_SIDE_A 2015,False,False,False,False,1,Mid-Budget Band
+She's_the_Man,She's the Man,2015,United States,Drama,20.0,20.0,1.0,SHE'S_THE_MAN,SHE'S_THE_MAN 2015,False,False,False,False,1,Mid-Budget Band
+Mean_Girls,Mean Girls,2015,United States,Drama,17.0,17.0,1.0,MEAN_GIRLS,MEAN_GIRLS 2015,False,False,False,False,1,Mid-Budget Band
+18_Pages,18 Pages,2015,India,Soundtrack,16.0,16.0,1.0,18_PAGES,18_PAGES 2015,False,False,False,False,1,Mid-Budget Band
+The_Cannonball_Run,The Cannonball Run,2015,United States,Drama,16.0,16.0,1.0,THE_CANNONBALL_RUN,THE_CANNONBALL_RUN 2015,False,False,False,False,1,Mid-Budget Band
+Bastar:_The_Naxal_Story,Bastar: The Naxal Story,2015,India,Action Film,15.0,1.79,0.11933333333333333,BASTAR:_THE_NAXAL_STORY,BASTAR:_THE_NAXAL_STORY 2015,False,False,False,False,1,Mid-Budget Band
+Kantara_(2022_film),Kantara (2022 film),2015,India,Drama,14.0,14.0,1.0,KANTARA_(2022_FILM),KANTARA_(2022_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+The_Animal_Kingdom_(2023_film),The Animal Kingdom (2023 film),2015,Belgium,Drama,13.0,13.0,1.0,THE_ANIMAL_KINGDOM_(2023_FILM),THE_ANIMAL_KINGDOM_(2023_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+The_Animal_Kingdom_(2023_film),The Animal Kingdom (2023 film),2015,France,Drama,13.0,13.0,1.0,THE_ANIMAL_KINGDOM_(2023_FILM),THE_ANIMAL_KINGDOM_(2023_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+De_Danadan,De Danadan,2015,United States,Drama,12.0,12.0,1.0,DE_DANADAN,DE_DANADAN 2015,False,False,False,False,1,Mid-Budget Band
+Problem_Child_2,Problem Child 2,2015,United States,Drama,11.0,11.0,1.0,PROBLEM_CHILD_2,PROBLEM_CHILD_2 2015,False,False,False,False,1,Mid-Budget Band
+Chhatrapati_Sambhaji_(2024_film),Chhatrapati Sambhaji (2024 film),2015,India,Drama,10.0,5.45,0.545,CHHATRAPATI_SAMBHAJI_(2024_FILM),CHHATRAPATI_SAMBHAJI_(2024_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Sherdil:_The_Pilibhit_Saga,Sherdil: The Pilibhit Saga,2015,India,Drama,10.0,10.0,1.0,SHERDIL:_THE_PILIBHIT_SAGA,SHERDIL:_THE_PILIBHIT_SAGA 2015,False,False,False,False,1,Mid-Budget Band
+Amour_(2012_film),Amour (2012 film),2015,United States,Drama,8.9,8.9,1.0,AMOUR_(2012_FILM),AMOUR_(2012_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Ghar_Banduk_Biryani,Ghar Banduk Biryani,2015,India,Soundtrack,8.0,5.0,0.625,GHAR_BANDUK_BIRYANI,GHAR_BANDUK_BIRYANI 2015,False,False,False,False,1,Mid-Budget Band
+Raw_Deal_(1986_film),Raw Deal (1986 film),2015,United States,Drama,8.0,8.0,1.0,RAW_DEAL_(1986_FILM),RAW_DEAL_(1986_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Juno_(film),Juno (film),2015,United States,Drama,6.5,6.5,1.0,JUNO_(FILM),JUNO_(FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Khadaan,Khadaan,2015,India,Soundtrack,6.0,6.0,1.0,KHADAAN,KHADAAN 2015,False,False,False,False,1,Mid-Budget Band
+Khadari,Khadari,2015,India,Drama,6.0,1.19,0.19833333333333333,KHADARI,KHADARI 2015,False,False,False,False,1,Mid-Budget Band
+An_Officer_and_a_Gentleman,An Officer and a Gentleman,2015,United States,Drama,6.0,6.0,1.0,AN_OFFICER_AND_A_GENTLEMAN,AN_OFFICER_AND_A_GENTLEMAN 2015,False,False,False,False,1,Mid-Budget Band
+The_King_of_Algiers,The King of Algiers,2015,France,Drama,5.49,5.49,1.0,THE_KING_OF_ALGIERS,THE_KING_OF_ALGIERS 2015,False,False,False,False,1,Mid-Budget Band
+Rollerball_(1975_film),Rollerball (1975 film),2015,United States,Drama,5.0,5.0,1.0,ROLLERBALL_(1975_FILM),ROLLERBALL_(1975_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Ekda_Yeun_Tar_Bagha,Ekda Yeun Tar Bagha,2015,India,Drama,4.0,4.0,1.0,EKDA_YEUN_TAR_BAGHA,EKDA_YEUN_TAR_BAGHA 2015,False,False,False,False,1,Mid-Budget Band
+Laapataa_Ladies,Laapataa Ladies,2015,India,Soundtrack,4.0,4.0,1.0,LAAPATAA_LADIES,LAAPATAA_LADIES 2015,False,False,False,False,1,Mid-Budget Band
+Consent_(2023_French_film),Consent (2023 French film),2015,Belgium,Drama,3.0,3.0,1.0,CONSENT_(2023_FRENCH_FILM),CONSENT_(2023_FRENCH_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Consent_(2023_French_film),Consent (2023 French film),2015,France,Drama,3.0,3.0,1.0,CONSENT_(2023_FRENCH_FILM),CONSENT_(2023_FRENCH_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+Consent_(2023_French_film),Consent (2023 French film),2015,,Drama,3.0,3.0,1.0,CONSENT_(2023_FRENCH_FILM),CONSENT_(2023_FRENCH_FILM) 2015,False,False,False,False,1,Mid-Budget Band
+The_Good_Teacher,The Good Teacher,2015,Belgium,Drama,3.0,3.0,1.0,THE_GOOD_TEACHER,THE_GOOD_TEACHER 2015,False,False,False,False,1,Mid-Budget Band
+The_Good_Teacher,The Good Teacher,2015,,Drama,3.0,3.0,1.0,THE_GOOD_TEACHER,THE_GOOD_TEACHER 2015,False,False,False,False,1,Mid-Budget Band
+The_Good_Teacher,The Good Teacher,2015,France,Drama,3.0,3.0,1.0,THE_GOOD_TEACHER,THE_GOOD_TEACHER 2015,False,False,False,False,1,Mid-Budget Band
+Little_Hearts_(2025_film),Little Hearts (2025 film),2015,India,Drama,2.4,2.4,1.0,LITTLE_HEARTS_(2025_FILM),LITTLE_HEARTS_(2025_FILM) 2015,False,False,False,False,1,Mid-Budget Band

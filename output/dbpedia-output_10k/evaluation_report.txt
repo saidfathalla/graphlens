@@ -1,0 +1,33 @@
+============================================================
+ GRAPHLENS ROBUSTNESS EVALUATION REPORT
+============================================================
+
+--- 1. CLUSTERING BASELINES (K=3) ---
+Comparing default K-Means against density and hierarchical baselines.
+
+K-Means (GraphLens Default):
+  - Silhouette (Higher is better): 0.733
+  - Davies-Bouldin (Lower is better): 0.384
+  - Calinski-Harabasz (Higher is better): 1897.9
+
+Gaussian Mixture (GMM):
+  - Silhouette (Higher is better): 0.622
+  - Davies-Bouldin (Lower is better): 0.585
+  - Calinski-Harabasz (Higher is better): 1118.7
+
+Agglomerative (Ward):
+  - Silhouette (Higher is better): 0.733
+  - Davies-Bouldin (Lower is better): 0.383
+  - Calinski-Harabasz (Higher is better): 1897.2
+
+--- 2. CLUSTERING STABILITY (K-Means) ---
+Evaluated across 50 random initializations:
+  - Mean Adjusted Rand Index (ARI): 1.000 +/- 0.000
+  - Conclusion: Highly stable clustering topology.
+
+--- 3. LONGITUDINAL REGRESSION DIAGNOSTICS ---
+Validating statistical assumptions of the OLS model:
+  - R-squared: 0.032
+  - Autocorrelation (Durbin-Watson): 2.23 (Ideal: ~2.0)
+  - Normality of Residuals (Shapiro-Wilk p-value): 1.209e-06 (Fail: Non-normal)
+  - Homoscedasticity (Breusch-Pagan p-value): 4.517e-01 (Pass: Constant variance)

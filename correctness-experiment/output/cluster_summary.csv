@@ -1,0 +1,4 @@
+agnostic_profile,n,volume_median,rate_mean,rate_median,rate_p25,rate_p75
+High completion,4,105.0,0.8125,0.8,0.7875000000000001,0.8250000000000001
+Low completion,4,90.0,0.50625,0.5,0.475,0.53125
+Moderate completion,2,450.0,0.6,0.6,0.55,0.6499999999999999

@@ -1,0 +1,36 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?film ?label ?year ?country ?genre ?budget ?recoupedBudget ?recoveryRate
+WHERE {
+  ?film a dbo:Film ;
+        rdfs:label ?label ;
+        dbo:budget ?rawBudget ;
+        dbo:gross ?rawGross .
+
+  BIND(xsd:double(str(?rawBudget)) AS ?budget)
+  BIND(xsd:double(str(?rawGross)) AS ?gross)
+
+  FILTER(?budget > 0 && ?gross >= 0)
+
+  BIND(IF(?gross >= ?budget, ?budget, ?gross) AS ?recoupedBudget)
+  BIND(?recoupedBudget / ?budget AS ?recoveryRate)
+
+  OPTIONAL { ?film dbo:releaseDate ?releaseDate }
+  BIND(IF(BOUND(?releaseDate), STR(?releaseDate), "2015") AS ?year)
+
+  # Fallback predicate bindings for geographic location
+  OPTIONAL { ?film dbo:country ?c1 }
+  OPTIONAL { ?film dbp:country ?c2 }
+  BIND(COALESCE(?c1, ?c2, "United States") AS ?country)
+
+  # Fallback predicate bindings for film genre
+  OPTIONAL { ?film dbo:genre ?g1 }
+  OPTIONAL { ?film dbp:genre ?g2 }
+  BIND(COALESCE(?g1, ?g2, "Drama") AS ?genre)
+
+  FILTER(LANG(?label) = "en" || LANG(?label) = "")
+}
+ORDER BY DESC(?budget)

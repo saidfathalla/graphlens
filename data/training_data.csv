@@ -1,10 +1,567 @@
-columns_text,target_chart
-year submittedPapers acceptedPapers,Bar
-country eventsCount,GeoMap
-series acceptanceRate,Line
-subfields events country,Tree
-countries events,Bubble
-field acceptanceRate,Bar
-series date acceptanceRate,Line
-events month,Bar
-series editionsCount,Bar
+columns_text,descriptor,target_chart,domain
+submitted year,__numeric_1 __skewed __temporal,Line,scholarly
+submitted research field edition year,__numeric_1 __temporal,Line,scholarly
+papers edition year,__numeric_1 __temporal,Line,scholarly
+venue tier papers start year,__numeric_1 __temporal,Line,scholarly
+year submissions subdomain,__numeric_1 __temporal,Line,scholarly
+submitted tracking year,__numeric_1 __skewed __temporal,Line,scholarly
+submitted tracking year,__numeric_1 __temporal,Line,scholarly
+papers start year,__numeric_1 __skewed,Line,scholarly
+tracking year research field submissions,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+research field accepted tracking year,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+submitted subdomain edition year,__lowcard __numeric_1 __temporal,Line,scholarly
+submitted tracking year research field,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+papers year field,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+submissions research field start year,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+tracking year venue tier papers,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+submitted year research field,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+cluster profile submissions edition year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+cluster profile submissions year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+cluster profile submitted year,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+edition year cluster label submissions,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+field accepted edition year agnostic profile,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+papers cluster label year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+research field agnostic profile edition year submitted,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,scholarly
+agnostic profile papers year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,scholarly
+submissions venue name,__highcard __numeric_1 __skewed,Bar,scholarly
+venue name accepted,__highcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+subdomain series acronym submissions,__highcard __numeric_1 __one_row_per_key,Bar,scholarly
+accepted series,__highcard __numeric_1 __one_row_per_key,Bar,scholarly
+accepted series,__numeric_1 __one_row_per_key __skewed,Bar,scholarly
+series acronym research field accepted,__highcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+subdomain submitted venue name,__highcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+submissions acronym,__highcard __one_row_per_key __skewed,Bar,scholarly
+research field papers,__lowcard __numeric_1 __one_row_per_key,Bar,scholarly
+venue tier papers,__lowcard __numeric_1 __one_row_per_key,Bar,scholarly
+papers research field,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+submissions research field,__lowcard __numeric_1 __one_row_per_key,Bar,scholarly
+papers research field research field,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+submissions research field,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+research field accepted,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,scholarly
+subdomain submissions,__lowcard __numeric_1 __one_row_per_key,Bar,scholarly
+held in country accepted,__geo __numeric_1 __one_row_per_key,Geomap,scholarly
+hosting country submitted,__geo __numeric_1 __one_row_per_key __skewed,Geomap,scholarly
+country submissions,__geo __numeric_1 __one_row_per_key __skewed,Geomap,scholarly
+venue tier hosting country submissions,__geo __numeric_1 __one_row_per_key __skewed,Geomap,scholarly
+submissions country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,scholarly
+nation papers,__geo __numeric_1 __one_row_per_key __skewed,Geomap,scholarly
+papers country field,__geo __numeric_1,Geomap,scholarly
+acceptance ratio accepted,__bounded __numeric_2 __skewed,Scatter,scholarly
+accepted field acceptance ratio,__bounded __numeric_2,Scatter,scholarly
+acceptance ratio submitted,__numeric_2 __skewed,Scatter,scholarly
+venue tier submitted acceptance ratio,__bounded __numeric_2 __skewed,Scatter,scholarly
+papers acceptance ratio,__bounded __numeric_2 __skewed,Scatter,scholarly
+subdomain acceptance ratio submissions,__bounded __numeric_2,Scatter,scholarly
+acceptance rate papers,__bounded __numeric_2,Scatter,scholarly
+acceptance ratio submissions,__bounded __numeric_2 __skewed,Scatter,scholarly
+venue name acceptance ratio submissions,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,scholarly
+acceptance ratio papers series,__bounded __highcard __one_row_per_key __skewed,Scatter,scholarly
+series acronym submissions acceptance rate,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,scholarly
+submitted acceptance rate subdomain acronym,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,scholarly
+papers series acceptance rate,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,scholarly
+acronym acceptance ratio submissions,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,scholarly
+submissions series acronym acceptance rate,__highcard __numeric_2 __one_row_per_key,Scatter,scholarly
+venue name acceptance rate submissions,__highcard __numeric_2 __skewed,Scatter,scholarly
+submitted cluster label field acceptance rate,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,scholarly
+cluster label acceptance ratio submitted,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,scholarly
+subdomain submitted agnostic profile acceptance ratio,__lowcard __many_rows_per_key,Scatter,scholarly
+papers acceptance ratio agnostic profile,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,scholarly
+agnostic profile accepted acceptance ratio,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,scholarly
+agnostic profile acceptance ratio papers,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,scholarly
+cluster label acceptance ratio papers,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,scholarly
+submissions acceptance ratio agnostic profile,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,scholarly
+acceptance ratio research field,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+venue tier acceptance rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+field acceptance rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+acceptance ratio subdomain field,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+venue tier acceptance rate field,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+acceptance ratio subdomain,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+subdomain acceptance ratio,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,scholarly
+cluster profile accepted,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+submitted cluster label,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+cluster profile papers research field,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+agnostic profile submitted,__many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+cluster label accepted subdomain,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+agnostic profile papers,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+venue tier papers cluster label,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+research field agnostic profile papers,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,scholarly
+papers field edition year acceptance rate submissions,__bounded __numeric_3plus __skewed __temporal,Heatmap,scholarly
+acceptance ratio submissions start year submitted,__bounded __numeric_3plus __skewed __temporal,Heatmap,scholarly
+submissions papers year acceptance rate,__bounded __numeric_3plus __skewed __temporal,Heatmap,scholarly
+accepted acceptance ratio accepted start year,__numeric_3plus __skewed,Heatmap,scholarly
+field tracking year papers acceptance rate accepted,__numeric_3plus __skewed,Heatmap,scholarly
+papers year submissions venue tier acceptance rate,__bounded __numeric_3plus __temporal,Heatmap,scholarly
+submissions papers tracking year acceptance ratio,__numeric_3plus,Heatmap,scholarly
+submissions edition year accepted acceptance ratio,__bounded __numeric_3plus __skewed __temporal,Heatmap,scholarly
+date units,__numeric_1 __temporal,Line,retail
+fiscal year units,__numeric_1 __temporal,Line,retail
+units fiscal year,__numeric_1 __skewed __temporal,Line,retail
+month orders,__numeric_1 __temporal,Line,retail
+month orders segment,__numeric_1 __temporal,Line,retail
+units category date,__numeric_1 __skewed __temporal,Line,retail
+units month category,__numeric_1 __skewed __temporal,Line,retail
+units segment order year channel,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+sales category fiscal year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+units channel month,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+orders channel month,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+segment revenue fiscal year product line,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+date orders segment category,__highcard __lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+fiscal year category units,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+revenue fiscal year channel,__lowcard __many_rows_per_key __numeric_1 __one_row_per_key __temporal,Line,retail
+date revenue customer band,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+segment cluster date orders,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+sales month segment cluster,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+orders segment date customer band,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+customer band month units,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+cluster profile date sales,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+date cluster profile orders,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,retail
+units order year segment cluster,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,retail
+sku product line sales,__highcard __numeric_1 __one_row_per_key,Bar,retail
+segment orders store name,__highcard __numeric_1 __one_row_per_key,Bar,retail
+sales sku,__numeric_1 __one_row_per_key,Bar,retail
+units customer id,__highcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+units customer id,__highcard __one_row_per_key,Bar,retail
+sku units,__highcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+customer id units,__numeric_1 __one_row_per_key __skewed,Bar,retail
+revenue brand segment,__highcard __numeric_1 __one_row_per_key,Bar,retail
+product line units,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+sales channel,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+channel sales,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+category sales product line,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+channel orders,__lowcard __numeric_1 __one_row_per_key,Bar,retail
+orders channel,__lowcard __numeric_1 __one_row_per_key,Bar,retail
+orders product line,__lowcard __numeric_1 __one_row_per_key,Bar,retail
+product line orders,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,retail
+orders store country,__geo __numeric_1 __one_row_per_key,Geomap,retail
+channel sales country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,retail
+orders region,__geo __numeric_1 __one_row_per_key,Geomap,retail
+sales store country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,retail
+units market segment,__geo __numeric_1 __one_row_per_key __skewed,Geomap,retail
+revenue region,__geo __numeric_1 __one_row_per_key,Geomap,retail
+region orders,__geo __numeric_1 __one_row_per_key,Geomap,retail
+units store country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,retail
+conversion rate units segment,__numeric_2 __skewed,Scatter,retail
+orders margin,__bounded __numeric_2,Scatter,retail
+revenue return ratio,__bounded __numeric_2 __skewed,Scatter,retail
+conversion rate sales,__bounded __numeric_2 __skewed,Scatter,retail
+margin sales,__numeric_2,Scatter,retail
+revenue return ratio,__bounded __skewed,Scatter,retail
+margin revenue,__bounded __numeric_1 __numeric_2 __skewed,Scatter,retail
+sales conversion rate,__numeric_2 __skewed,Scatter,retail
+brand units return ratio,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+conversion rate brand revenue,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+brand revenue return ratio,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,retail
+sales store name margin,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+margin category customer id revenue,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+store name revenue margin segment,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+brand conversion rate sales,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,retail
+return ratio brand orders channel,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,retail
+orders margin customer band,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,retail
+sales conversion rate customer band,__lowcard __many_rows_per_key __numeric_2,Scatter,retail
+revenue customer band return ratio,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,retail
+conversion rate sales cluster profile,__lowcard __many_rows_per_key __numeric_2,Scatter,retail
+customer band units return ratio,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,retail
+orders customer band segment margin,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,retail
+revenue return ratio cluster profile,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,retail
+customer band conversion rate revenue,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,retail
+product line segment margin,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+conversion rate product line,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+margin product line,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+margin category,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+margin segment segment,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+return ratio channel category,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+channel return ratio,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,retail
+conversion rate segment channel,__lowcard __numeric_1,Boxplot,retail
+sales customer band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+cluster profile units,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+units customer band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+cluster profile revenue,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+revenue segment cluster,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+customer band revenue,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+customer band orders,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,retail
+orders return ratio units order year,__skewed __temporal,Heatmap,retail
+sales revenue return ratio order year,__numeric_3plus __skewed,Heatmap,retail
+order year margin sales revenue,__bounded __numeric_3plus __skewed __temporal,Heatmap,retail
+return ratio fiscal year orders revenue,__bounded __numeric_3plus __skewed __temporal,Heatmap,retail
+order year sales orders return ratio,__bounded __numeric_3plus __temporal,Heatmap,retail
+category month units units margin,__bounded __numeric_3plus __skewed __temporal,Heatmap,retail
+units units margin date,__bounded __numeric_3plus __skewed __temporal,Heatmap,retail
+order year margin revenue revenue,__bounded __numeric_3plus __temporal,Heatmap,retail
+year age band cases,__numeric_1 __skewed,Line,health
+cases report year,__numeric_1 __skewed __temporal,Line,health
+patients year,__skewed __temporal,Line,health
+cases week,__numeric_1 __temporal,Line,health
+admissions week,__numeric_1 __temporal,Line,health
+year patients,__numeric_1 __temporal,Line,health
+age band week tests,__numeric_1 __temporal,Line,health
+ward admission year cases,__lowcard __numeric_1 __temporal,Line,health
+week patients diagnosis group specialty,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+cases report year age band,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+patients admission year ward,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+specialty tests ward week,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+specialty admission year patients,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+admission year tests specialty,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+ward week tests,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+admission year age band tests age band,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+admissions year cluster profile,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+week cases ward cluster profile,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+cluster profile week cases,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+risk band week cases,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+tests risk band admission year,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+cohort cluster week tests,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+report year cluster profile age band tests,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,health
+cases report year cohort cluster,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,health
+admissions provider,__highcard __numeric_1 __one_row_per_key __skewed,Bar,health
+cases trial acronym,__highcard __numeric_1 __one_row_per_key,Bar,health
+tests provider,__highcard __numeric_1 __skewed,Bar,health
+tests provider,__highcard __numeric_1 __one_row_per_key __skewed,Bar,health
+admissions provider,__highcard __lowcard __numeric_1 __one_row_per_key,Bar,health
+admissions provider,__highcard __numeric_1 __one_row_per_key,Bar,health
+clinic id patients,__highcard __numeric_1 __one_row_per_key __skewed,Bar,health
+cases age band,__lowcard __numeric_1 __one_row_per_key,Bar,health
+age band tests specialty,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,health
+specialty tests,__lowcard __numeric_1 __one_row_per_key,Bar,health
+specialty cases,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,health
+tests ward,__lowcard __numeric_1 __skewed,Bar,health
+age band cases,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,health
+tests ward,__highcard __lowcard __numeric_1 __one_row_per_key __skewed,Bar,health
+country tests,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+tests province,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+admissions district,__geo __numeric_1 __one_row_per_key,Geomap,health
+province cases,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+district cases,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+province tests,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+country diagnosis group patients,__geo __numeric_1 __one_row_per_key __skewed,Geomap,health
+positivity ratio admissions diagnosis group,__numeric_2 __skewed,Scatter,health
+positivity ratio cases,__bounded __numeric_2 __skewed,Scatter,health
+mortality rate admissions ward,__bounded __numeric_2,Scatter,health
+positivity ratio admissions specialty,__numeric_2 __skewed,Scatter,health
+cases positivity ratio,__bounded __numeric_2,Scatter,health
+mortality rate cases,__bounded __numeric_2,Scatter,health
+mortality rate admissions,__bounded __numeric_2,Scatter,health
+occupancy tests,__bounded __numeric_2 __skewed,Scatter,health
+hospital name mortality rate tests,__bounded __highcard __one_row_per_key __skewed,Scatter,health
+admissions occupancy provider,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,health
+mortality rate provider patients ward,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,health
+trial acronym diagnosis group occupancy tests,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,health
+patients positivity ratio trial acronym,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,health
+positivity ratio trial acronym admissions,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,health
+cases clinic id occupancy specialty,__bounded __numeric_2 __one_row_per_key __skewed,Scatter,health
+diagnosis group mortality rate provider cases,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,health
+mortality rate cluster profile cases,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,health
+positivity ratio risk band age band tests,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+occupancy tests risk band,__bounded __geo __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+cohort cluster positivity ratio patients,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+cases risk band positivity ratio,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+tests positivity ratio cluster profile,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+positivity ratio admissions cluster profile,__bounded __many_rows_per_key __numeric_2 __skewed,Scatter,health
+positivity ratio ward risk band admissions,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,health
+ward occupancy,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+mortality rate specialty,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+occupancy age band specialty,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+specialty positivity ratio diagnosis group,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+diagnosis group age band occupancy,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+positivity ratio diagnosis group,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+diagnosis group mortality rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+age band occupancy ward,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,health
+cohort cluster patients,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+risk band cases,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+age band cluster profile tests,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+admissions cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+cohort cluster cases,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+cases risk band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+tests ward cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,health
+patients patients occupancy admission year,__numeric_3plus __temporal,Heatmap,health
+mortality rate tests cases diagnosis group week,__numeric_3plus __skewed,Heatmap,health
+admissions week mortality rate tests,__bounded __numeric_3plus __skewed __temporal,Heatmap,health
+year admissions admissions positivity ratio,__bounded __numeric_3plus,Heatmap,health
+occupancy cases patients week,__temporal,Heatmap,health
+year positivity ratio specialty cases admissions,__bounded __temporal,Heatmap,health
+patients week mortality rate patients,__bounded __numeric_3plus __skewed __temporal,Heatmap,health
+cases ward occupancy report year tests,__numeric_3plus __temporal,Heatmap,health
+commission year consumption,__numeric_1 __skewed __temporal,Line,energy
+plants commission year,__numeric_1 __skewed __temporal,Line,energy
+sector generation commission year,__numeric_1 __temporal,Line,energy
+commission year plants,__numeric_1 __skewed,Line,energy
+hour consumption,__numeric_1 __temporal,Line,energy
+hour plants sector,__numeric_1 __temporal,Line,energy
+commission year capacity mw sector,__numeric_1 __skewed __temporal,Line,energy
+fuel type year consumption,__numeric_1 __temporal,Line,energy
+year generation sector,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+plants operator year,__lowcard __many_rows_per_key __numeric_1,Line,energy
+period fuel type generation,__highcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,energy
+fuel type capacity mw hour,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+year grid zone plants,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,energy
+sector period generation fuel type,__lowcard __numeric_1 __temporal,Line,energy
+fuel type commission year capacity mw,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,energy
+year grid zone consumption,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+cluster profile commission year capacity mw,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+cluster profile consumption period,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+plant cluster year capacity mw,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,energy
+plant cluster plants commission year,__lowcard __many_rows_per_key __temporal,Line,energy
+plants plant cluster period,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+generation fuel type period load band,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,energy
+generation year plant cluster,__lowcard __numeric_1 __temporal,Line,energy
+plant cluster hour plants,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,energy
+capacity mw plant name,__highcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+station code plants sector,__highcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+plants operator name operator,__highcard __numeric_1 __skewed,Bar,energy
+station code generation,__highcard __numeric_1 __one_row_per_key,Bar,energy
+plants operator name,__highcard __one_row_per_key __skewed,Bar,energy
+sector station code capacity mw,__highcard __numeric_1 __one_row_per_key,Bar,energy
+plant name consumption sector,__highcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+consumption operator name,__numeric_1 __one_row_per_key,Bar,energy
+generation operator,__lowcard __numeric_1 __one_row_per_key,Bar,energy
+consumption operator,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+plants grid zone,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+sector plants,__lowcard __numeric_1 __one_row_per_key,Bar,energy
+consumption grid zone,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+grid zone plants fuel type,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,energy
+consumption sector grid zone,__lowcard __numeric_1 __one_row_per_key,Bar,energy
+capacity mw fuel type,__lowcard __numeric_1 __one_row_per_key,Bar,energy
+generation host country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+region capacity mw,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+state plants,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+capacity mw state,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+plants host country operator,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+plants country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,energy
+sector region consumption,__geo __numeric_1 __one_row_per_key,Geomap,energy
+state generation,__geo __numeric_1 __one_row_per_key,Geomap,energy
+share ratio consumption,__numeric_2 __skewed,Scatter,energy
+load factor capacity mw,__bounded __numeric_2 __skewed,Scatter,energy
+efficiency capacity mw,__bounded __numeric_2 __skewed,Scatter,energy
+capacity mw efficiency,__bounded __numeric_2 __skewed,Scatter,energy
+generation load factor,__numeric_2 __skewed,Scatter,energy
+load factor plants,__bounded __numeric_2 __skewed,Scatter,energy
+share ratio capacity mw,__bounded __numeric_2 __skewed,Scatter,energy
+generation load factor utility id,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+load factor generation operator name,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+share ratio plant name generation,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+plant name consumption fuel type share ratio,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+consumption plant name efficiency,__highcard __numeric_2 __one_row_per_key,Scatter,energy
+share ratio utility id generation,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+grid zone consumption load factor operator name,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,energy
+efficiency plants plant name,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,energy
+load factor cluster profile generation,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,energy
+consumption efficiency plant cluster sector,__bounded __lowcard __numeric_2 __skewed,Scatter,energy
+consumption cluster profile share ratio,__lowcard __many_rows_per_key __numeric_2,Scatter,energy
+operator load band load factor consumption,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,energy
+operator cluster profile load factor capacity mw,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,energy
+share ratio generation plant cluster,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,energy
+efficiency operator plant cluster capacity mw,__many_rows_per_key __numeric_2 __skewed,Scatter,energy
+load band share ratio generation,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,energy
+operator load factor,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+share ratio operator fuel type,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+share ratio grid zone,__bounded __lowcard __numeric_1,Boxplot,energy
+sector operator load factor,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+share ratio grid zone,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+load factor grid zone sector,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+grid zone efficiency,__bounded __lowcard __numeric_1,Boxplot,energy
+grid zone share ratio,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,energy
+load band capacity mw,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+plant cluster plants,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+consumption load band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+plant cluster generation,__lowcard __numeric_1 __skewed,Violin,energy
+cluster profile consumption,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+generation load band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+cluster profile generation,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+capacity mw plant cluster,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,energy
+share ratio commission year generation consumption,__bounded __numeric_3plus __temporal,Heatmap,energy
+consumption hour share ratio capacity mw,__bounded __numeric_3plus __skewed __temporal,Heatmap,energy
+period plants load factor plants,__bounded __numeric_3plus __skewed __temporal,Heatmap,energy
+consumption consumption sector hour load factor,__numeric_3plus __temporal,Heatmap,energy
+sector capacity mw efficiency plants commission year,__numeric_3plus __skewed,Heatmap,energy
+commission year capacity mw efficiency plants sector,__numeric_3plus __skewed __temporal,Heatmap,energy
+generation plants hour efficiency,__bounded __numeric_3plus __skewed __temporal,Heatmap,energy
+commission year load factor consumption fuel type consumption,__bounded __numeric_3plus,Heatmap,energy
+students term discipline,__numeric_1 __skewed __temporal,Line,education
+academic year enrolments,__numeric_1 __skewed __temporal,Line,education
+enrol year graduates,__numeric_1 __temporal,Line,education
+academic year applications,__numeric_1 __temporal,Line,education
+academic year students,__skewed __temporal,Line,education
+graduates academic year,__numeric_1 __temporal,Line,education
+graduates term,__numeric_1 __temporal,Line,education
+academic year enrolments,__numeric_1 __temporal,Line,education
+level graduates enrol year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+faculty academic year faculty students,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+graduates discipline enrol year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+students enrol year discipline program type,__lowcard __many_rows_per_key __numeric_1,Line,education
+discipline graduates term,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+program type discipline year students,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+program type graduates term,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+academic year enrolments faculty,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+year performance band applications,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+academic year enrolments cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+academic year performance band students,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,education
+program type students year school cluster,__lowcard __many_rows_per_key __skewed __temporal,Line,education
+graduates cluster profile faculty enrol year,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+students term performance band,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+academic year program type applications school cluster,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+year cluster profile enrolments,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,education
+school id graduates,__highcard __numeric_1 __one_row_per_key,Bar,education
+school id graduates,__numeric_2 __one_row_per_key,Bar,education
+students school id,__highcard __numeric_1 __one_row_per_key __skewed,Bar,education
+students level course code,__highcard __numeric_1 __one_row_per_key __skewed,Bar,education
+course code students,__highcard __numeric_1 __one_row_per_key __skewed,Bar,education
+school id students,__highcard __numeric_1 __one_row_per_key __skewed,Bar,education
+enrolments university name,__highcard __numeric_1 __one_row_per_key,Bar,education
+graduates course code,__highcard __numeric_1 __one_row_per_key __skewed,Bar,education
+faculty enrolments,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,education
+applications discipline,__lowcard __numeric_1 __one_row_per_key,Bar,education
+discipline program type enrolments,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,education
+level enrolments,__lowcard __numeric_1 __one_row_per_key,Bar,education
+students faculty program type,__lowcard __one_row_per_key,Bar,education
+applications discipline program type,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,education
+applications faculty,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,education
+faculty students,__lowcard __numeric_1 __one_row_per_key,Bar,education
+enrolments region,__geo __numeric_1 __one_row_per_key,Geomap,education
+region level students,__geo __numeric_1 __one_row_per_key __skewed,Geomap,education
+home country students,__geo __one_row_per_key,Geomap,education
+graduates city,__geo __numeric_1 __one_row_per_key __skewed,Geomap,education
+city enrolments,__geo __numeric_1 __one_row_per_key,Geomap,education
+enrolments city,__geo __numeric_1 __one_row_per_key __skewed,Geomap,education
+students country program type,__geo __numeric_1 __one_row_per_key,Geomap,education
+enrolments home country,__numeric_1 __one_row_per_key __skewed,Geomap,education
+enrolments admit rate,__bounded __numeric_2,Scatter,education
+graduates admit rate,__bounded __numeric_2 __skewed,Scatter,education
+admit rate applications,__numeric_2 __skewed,Scatter,education
+applications pass rate,__numeric_2 __skewed,Scatter,education
+dropout ratio graduates,__bounded __numeric_2 __skewed,Scatter,education
+pass rate applications discipline,__bounded __numeric_2 __skewed,Scatter,education
+pass rate graduates,__bounded __numeric_2 __skewed,Scatter,education
+enrolments dropout ratio,__bounded __numeric_2 __skewed,Scatter,education
+enrolments pass rate school id,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,education
+pass rate applications course code,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,education
+pass rate program type institution graduates,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,education
+institution faculty dropout ratio applications,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,education
+admit rate discipline school id graduates,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,education
+dropout ratio university name graduates,__highcard __numeric_2 __one_row_per_key,Scatter,education
+applications pass rate program type school id,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,education
+school id enrolments pass rate,__highcard __numeric_2 __one_row_per_key,Scatter,education
+pass rate cluster profile enrolments,__bounded __many_rows_per_key __numeric_2 __skewed,Scatter,education
+level school cluster graduates admit rate,__lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,education
+performance band enrolments pass rate,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,education
+school cluster admit rate students,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,education
+dropout ratio cluster profile students,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,education
+admit rate performance band students,__lowcard __many_rows_per_key __numeric_2,Scatter,education
+graduates admit rate performance band,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,education
+dropout ratio graduates cluster profile,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,education
+program type pass rate discipline,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+dropout ratio level level,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+dropout ratio faculty,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+discipline pass rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+discipline pass rate discipline,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+program type pass rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+discipline dropout ratio discipline,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,education
+enrolments performance band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+graduates performance band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+applications cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+applications school cluster,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+cluster profile enrolments,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+performance band graduates,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+school cluster students,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+graduates level cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,education
+discipline enrolments term dropout ratio enrolments,__numeric_3plus,Heatmap,education
+applications term enrolments discipline admit rate,__numeric_3plus __one_row_per_key __skewed __temporal,Heatmap,education
+applications graduates pass rate academic year,__bounded __numeric_3plus __skewed,Heatmap,education
+students applications pass rate enrol year,__numeric_3plus __temporal,Heatmap,education
+year graduates students dropout ratio,__numeric_3plus,Heatmap,education
+pass rate enrol year students graduates,__skewed __temporal,Heatmap,education
+graduates pass rate enrol year enrolments,__numeric_3plus __temporal,Heatmap,education
+applications pass rate academic year enrolments,__numeric_3plus __temporal,Heatmap,education
+line type passengers day,__numeric_1 __temporal,Line,mobility
+distance km survey year,__numeric_1 __skewed __temporal,Line,mobility
+year vehicles,__numeric_1 __skewed __temporal,Line,mobility
+survey year distance km,__numeric_1 __skewed __temporal,Line,mobility
+passengers trip date,__skewed,Line,mobility
+year distance km,__numeric_1 __skewed,Line,mobility
+trips trip date,__numeric_1 __skewed __temporal,Line,mobility
+trip date trips,__numeric_1 __skewed __temporal,Line,mobility
+mode line type day vehicles,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+purpose passengers trip date,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+year trips mode,__numeric_1 __skewed __temporal,Line,mobility
+survey year trips purpose,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+day vehicles mode,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+passengers survey year operator type,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+trips trip date operator type operator type,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+mode vehicles year mode,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+trips trip date cluster profile,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+cluster profile survey year distance km,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+demand band day distance km,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+vehicles day cluster profile,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+operator type demand band trips year,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+cluster profile passengers day,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+trips cluster profile trip date,__lowcard __many_rows_per_key __numeric_1 __temporal,Line,mobility
+year cluster profile trips,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,mobility
+trips operator mode,__numeric_1 __one_row_per_key __skewed,Bar,mobility
+distance km line type line code,__highcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+distance km purpose operator,__highcard __numeric_1 __one_row_per_key,Bar,mobility
+vehicles operator type line code,__highcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+passengers line code,__highcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+stop name distance km,__highcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+trips stop name,__highcard __numeric_1 __skewed,Bar,mobility
+distance km route id,__numeric_1 __one_row_per_key __skewed,Bar,mobility
+mode trips,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+operator type distance km line type,__numeric_1 __one_row_per_key,Bar,mobility
+mode vehicles,__lowcard __numeric_1 __one_row_per_key,Bar,mobility
+line type trips,__lowcard __numeric_1 __one_row_per_key,Bar,mobility
+trips operator type,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+operator type passengers,__lowcard __numeric_1 __one_row_per_key,Bar,mobility
+mode distance km,__lowcard __numeric_1 __one_row_per_key,Bar,mobility
+mode passengers,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,mobility
+passengers country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+distance km origin,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+zone vehicles,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+passengers origin,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+city passengers,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+trips country,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+vehicles city,__geo __one_row_per_key __skewed,Geomap,mobility
+origin passengers line type,__geo __numeric_1 __one_row_per_key __skewed,Geomap,mobility
+distance km delay ratio,__numeric_2 __skewed,Scatter,mobility
+passengers delay ratio,__bounded __numeric_2 __skewed,Scatter,mobility
+trips modal share,__bounded __numeric_2,Scatter,mobility
+occupancy rate trips,__numeric_2,Scatter,mobility
+delay ratio vehicles,__bounded __numeric_2,Scatter,mobility
+passengers occupancy rate,__numeric_2 __skewed,Scatter,mobility
+vehicles delay ratio,__bounded __numeric_2,Scatter,mobility
+delay ratio vehicles purpose,__bounded __numeric_2,Scatter,mobility
+delay ratio line code vehicles,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,mobility
+passengers operator delay ratio,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,mobility
+vehicles operator occupancy rate,__bounded __highcard __one_row_per_key,Scatter,mobility
+stop name vehicles modal share line type,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,mobility
+stop name vehicles delay ratio,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,mobility
+distance km delay ratio operator,__bounded __highcard __numeric_2 __one_row_per_key __skewed,Scatter,mobility
+distance km delay ratio route id,__highcard __numeric_2 __one_row_per_key __skewed,Scatter,mobility
+passengers line code occupancy rate,__bounded __highcard __numeric_2 __one_row_per_key,Scatter,mobility
+trips modal share line cluster purpose,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,mobility
+trips line cluster modal share,__bounded __many_rows_per_key __numeric_2 __skewed,Scatter,mobility
+passengers demand band occupancy rate,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,mobility
+occupancy rate line cluster trips operator type,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,mobility
+vehicles cluster profile modal share,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,mobility
+occupancy rate line cluster vehicles,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,mobility
+occupancy rate trips cluster profile,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,mobility
+delay ratio cluster profile trips,__bounded __lowcard __many_rows_per_key __numeric_2,Scatter,mobility
+line type occupancy rate,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+purpose purpose modal share,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+mode modal share,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+purpose purpose delay ratio,__lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+purpose modal share,__bounded __lowcard __numeric_1,Boxplot,mobility
+purpose occupancy rate line type,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+delay ratio purpose,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+delay ratio line type,__bounded __lowcard __many_rows_per_key __numeric_1,Boxplot,mobility
+line cluster vehicles,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+vehicles line cluster,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+demand band distance km,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+trips demand band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+distance km demand band mode,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+trips line cluster,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+demand band trips,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+distance km demand band,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,mobility
+vehicles occupancy rate distance km day,__bounded __numeric_3plus __skewed __temporal,Heatmap,mobility
+distance km year delay ratio passengers,__bounded __numeric_3plus __skewed __temporal,Heatmap,mobility
+delay ratio year line type passengers passengers,__bounded __numeric_3plus __skewed,Heatmap,mobility
+delay ratio trips day vehicles,__bounded __numeric_3plus __skewed __temporal,Heatmap,mobility
+passengers year trips delay ratio,__bounded __numeric_3plus __skewed,Heatmap,mobility
+year distance km occupancy rate vehicles,__bounded __numeric_3plus __skewed __temporal,Heatmap,mobility
+year trips delay ratio passengers,__bounded __geo __numeric_3plus,Heatmap,mobility
+survey year trips modal share vehicles,__bounded,Heatmap,mobility

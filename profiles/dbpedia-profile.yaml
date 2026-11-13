@@ -1,0 +1,67 @@
+target_class: "http://dbpedia.org/ontology/Film"
+
+labels:
+  volume: "Production Budget ($)"
+  success: "Recouped Budget ($)"
+  rate: "Budget Recovery Rate"
+  category: "Genre"
+  location: "Country"
+  entity_identifier: "Film Title"
+  entity_group: "Film Series"
+
+attributes:
+  independent_metrics:
+    - identifier: "budget"
+      sparql_var: "budget"
+      description: "Primary volume metric (x1)"
+    - identifier: "recoupedBudget"
+      sparql_var: "recoupedBudget"
+      description: "Secondary success metric (x2 <= x1)"
+
+  derived_ratios:
+    - identifier: "recoveryRate"
+      sparql_var: "recoveryRate"
+      description: "Derived ratio (y = x2 / x1) bounded in [0, 1]"
+
+  nominal_categories:
+    - identifier: "genre"
+      sparql_var: "genre"
+      description: "Primary category attribute (c1)"
+    - identifier: "country"
+      sparql_var: "country"
+      semantic_type: "geo"
+      description: "Geographic location attribute (c2)"
+
+  temporal_indicators:
+    - identifier: "year"
+      sparql_var: "year"
+      description: "Temporal release year indicator (t)"
+
+  entity_identifiers:
+    - identifier: "film"
+      sparql_var: "film"
+      description: "Entity URI"
+    - identifier: "label"
+      sparql_var: "label"
+      description: "Entity identifier label (e)"
+
+filters:
+  year_min: 1950
+  year_max: 2026
+
+clustering:
+  log_volume: true
+  k_min: 2
+  k_max: 3          # Fixed to 3 clusters to match cluster_bands exactly
+  fixed_k: 3
+  stability_runs: 10
+
+cluster_bands:
+  - "Low-Budget Band"
+  - "Mid-Budget Band"
+  - "Blockbuster / High-Budget Band"
+
+analysis:
+  corr_method: "spearman"
+
+value_aliases: {}

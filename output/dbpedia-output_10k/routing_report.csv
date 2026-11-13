@@ -1,0 +1,9 @@
+view,columns,shape_tokens,predicted,confidence,rendered,status,expert_layout,agrees_with_expert
+cluster_scatter,budget recoveryRate clusterProfile,__bounded __lowcard __many_rows_per_key __numeric_2 __skewed,Scatter,1.0,Scatter,predicted,Scatter,True
+trend_by_cluster,year clusterProfile budget,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,1.0,Line,predicted,Line,True
+field_growth,year genre budget,__lowcard __many_rows_per_key __numeric_1 __skewed __temporal,Line,1.0,Line,predicted,Line,True
+geo_distribution,country events,__geo __numeric_1 __one_row_per_key __skewed,Geomap,1.0,Geomap,predicted,Geomap,True
+correlation,year budget recoupedBudget recoveryRate,__bounded __numeric_3plus __skewed __temporal,Heatmap,1.0,Heatmap,predicted,Heatmap,True
+ratio_by_category,genre recoveryRate,__bounded __lowcard __many_rows_per_key __numeric_1 __skewed,Violin,1.0,Violin,predicted,Boxplot,False
+top_entities,series_acronym budget,__lowcard __numeric_1 __one_row_per_key __skewed,Bar,1.0,Bar,predicted,Bar,True
+cluster_density,clusterProfile budget,__lowcard __many_rows_per_key __numeric_1 __skewed,Violin,1.0,Violin,predicted,Violin,True

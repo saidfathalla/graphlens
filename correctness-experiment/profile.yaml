@@ -1,0 +1,60 @@
+domain_namespace: "https://example.org/analytical-correctness/"
+target_class: "https://example.org/analytical-correctness/TrainingProgram"
+
+labels:
+  volume: "Enrolled learners"
+  success: "Completed learners"
+  rate: "Completion rate"
+  category: "Discipline"
+  location: "Region"
+  entity_identifier: "Program code"
+  entity_group: "Training program"
+
+cluster_bands:
+  - "Low completion"
+  - "Moderate completion"
+  - "High completion"
+
+attributes:
+  independent_metrics:
+    - identifier: "x1"
+      sparql_var: "enrolled"
+      predicate: "https://example.org/analytical-correctness/enrolledLearners"
+      datatype: "xsd:integer"
+    - identifier: "x2"
+      sparql_var: "completed"
+      predicate: "https://example.org/analytical-correctness/completedLearners"
+      datatype: "xsd:integer"
+  derived_ratios:
+    - identifier: "y"
+      sparql_var: "completion"
+      predicate: "https://example.org/analytical-correctness/completionRate"
+      dependency_formula: "x2 / x1"
+  nominal_categories:
+    - identifier: "c1"
+      sparql_var: "discipline"
+      predicate: "https://example.org/analytical-correctness/discipline"
+    - identifier: "c2"
+      sparql_var: "region"
+      predicate: "https://example.org/analytical-correctness/region"
+  temporal_indicators:
+    - identifier: "t"
+      sparql_var: "year"
+      predicate: "https://example.org/analytical-correctness/academicYear"
+  entity_identifiers:
+    - identifier: "e"
+      sparql_var: "programCode"
+      predicate: "https://example.org/analytical-correctness/programCode"
+
+clustering:
+  log_volume: true
+  k_min: 2
+  k_max: 3
+  stability_runs: 10
+
+analysis:
+  corr_method: "spearman"
+
+filters:
+  year_min: 2021
+  year_max: 2024
