@@ -1,0 +1,240 @@
+{
+  "triples": 92,
+  "entropy_profile": [
+    {
+      "attribute": "x1",
+      "kind": "numeric",
+      "n_distinct": 10,
+      "missing_rate": 0.0,
+      "entropy_bits": 2.855,
+      "entropy_norm": 0.952,
+      "flags": ""
+    },
+    {
+      "attribute": "x2",
+      "kind": "numeric",
+      "n_distinct": 8,
+      "missing_rate": 0.083,
+      "entropy_bits": 2.482,
+      "entropy_norm": 0.96,
+      "flags": ""
+    },
+    {
+      "attribute": "y",
+      "kind": "numeric",
+      "n_distinct": 7,
+      "missing_rate": 0.167,
+      "entropy_bits": 2.122,
+      "entropy_norm": 0.914,
+      "flags": ""
+    },
+    {
+      "attribute": "c1",
+      "kind": "categorical",
+      "n_distinct": 3,
+      "missing_rate": 0.0,
+      "entropy_bits": 1.585,
+      "entropy_norm": 1.0,
+      "flags": ""
+    },
+    {
+      "attribute": "c2",
+      "kind": "categorical",
+      "n_distinct": 3,
+      "missing_rate": 0.0,
+      "entropy_bits": 1.555,
+      "entropy_norm": 0.981,
+      "flags": ""
+    },
+    {
+      "attribute": "t",
+      "kind": "numeric",
+      "n_distinct": 4,
+      "missing_rate": 0.0,
+      "entropy_bits": 1.959,
+      "entropy_norm": 0.98,
+      "flags": ""
+    },
+    {
+      "attribute": "e",
+      "kind": "categorical",
+      "n_distinct": 12,
+      "missing_rate": 0.0,
+      "entropy_bits": 3.585,
+      "entropy_norm": 1.0,
+      "flags": ""
+    },
+    {
+      "attribute": "year",
+      "kind": "categorical",
+      "n_distinct": 4,
+      "missing_rate": 0.0,
+      "entropy_bits": 1.959,
+      "entropy_norm": 0.98,
+      "flags": ""
+    }
+  ],
+  "normalization": {
+    "rows_raw": 12,
+    "missing_before": {
+      "x1": 0,
+      "x2": 2,
+      "y": 2
+    },
+    "ratio_scale": "auto",
+    "y_out_of_range_set_missing": 2,
+    "x2_gt_x1_set_missing": 1,
+    "recovered": {
+      "y_rescaled": 3,
+      "y_recovered": 2,
+      "x2_recovered": 2,
+      "inconsistent": 1
+    },
+    "missing_after": {
+      "x1": 0,
+      "x2": 1,
+      "y": 2
+    },
+    "dropped_missing_year_or_volume": 0,
+    "dropped_outside_year_range": 0,
+    "rows_final": 12,
+    "year_range": [
+      2021,
+      2024
+    ]
+  },
+  "clustering": {
+    "k": 3,
+    "centroid_range_std_units": {
+      "x1": 2.292,
+      "y": 1.935
+    },
+    "unclassified": 2
+  },
+  "trends": {
+    "global_total": {
+      "n_years": 4,
+      "slope": 102.99999999998892,
+      "intercept": -207844.99999997765,
+      "ci95": [
+        -227.57704016943825,
+        433.5770401694161
+      ],
+      "p_value": 0.3120326097504398,
+      "p_value_hac": 0.01404862971419152,
+      "r2": 0.4732991300467746,
+      "durbin_watson": 2.1993393189903583,
+      "resid_var": 29515.00000000387
+    },
+    "global_per_entity_mean": {
+      "n_years": 4,
+      "slope": 75.41666666665853,
+      "intercept": -152348.74999998356,
+      "ci95": [
+        -140.13835056985621,
+        290.97168390317324
+      ],
+      "p_value": 0.2711690404610035,
+      "p_value_hac": 0.007217020507497228,
+      "r2": 0.5311945675825549,
+      "durbin_watson": 2.081395348837222,
+      "resid_var": 12549.131944444443
+    },
+    "global_n_entities": {
+      "n_years": 4,
+      "slope": -0.3999999999999461,
+      "intercept": 811.9999999998914,
+      "ci95": [
+        -1.890482627050044,
+        1.0904826270501518
+      ],
+      "p_value": 0.36754446796634976,
+      "p_value_hac": 0.03300625769511329,
+      "r2": 0.3999999999999999,
+      "durbin_watson": 2.2333333333333254,
+      "resid_var": 0.6000000000000001
+    },
+    "global_total_loglinear": {
+      "n_years": 4,
+      "slope": 0.1795913969591052,
+      "intercept": -357.1183724115158,
+      "ci95": [
+        -0.46359544281183496,
+        0.8227782367300454
+      ],
+      "p_value": 0.35256738515698516,
+      "p_value_hac": 0.027981503677847606,
+      "r2": 0.4191689907625311,
+      "durbin_watson": 2.192479877987373,
+      "resid_var": 0.11173049254382839,
+      "annual_growth_pct": 19.67282763945932
+    },
+    "per_cluster": {
+      "Low completion": {
+        "total": {
+          "n_years": 3,
+          "slope": -9.999999999994369,
+          "intercept": 20359.999999988606,
+          "ci95": [
+            -890.3116869772214,
+            870.3116869772327
+          ],
+          "p_value": 0.9087421033140864,
+          "p_value_hac": 0.7236736096802663,
+          "r2": 0.020408163265335788,
+          "durbin_watson": 3.0,
+          "resid_var": 9599.999999999709
+        },
+        "per_entity_mean": {
+          "n_years": 3,
+          "slope": 35.00000000001127,
+          "intercept": -70705.0000000228,
+          "ci95": [
+            -515.1948043608174,
+            585.19480436084
+          ],
+          "p_value": 0.5672413826152432,
+          "p_value_hac": 0.04771488024254409,
+          "r2": 0.3951612903224633,
+          "durbin_watson": 3.0,
+          "resid_var": 3750.0000000007276
+        }
+      }
+    },
+    "mean_r2_per_cluster_total": 0.020408163265335788,
+    "note": "Clusters are defined on the same volume variable that is regressed; per-cluster slopes are descriptive."
+  },
+  "geomap": {
+    "locations": 3,
+    "matched": 0,
+    "value_coverage": 0.0,
+    "unmatched": [
+      "East",
+      "North",
+      "South"
+    ]
+  },
+  "routing": {
+    "n_views": 8,
+    "agree_with_expert": 8,
+    "classifier_validation": {
+      "cv": "leave-one-domain-out",
+      "n": 566,
+      "domains": 6,
+      "accuracy": 0.9611307420494699,
+      "macro_f1": 0.9585084906213149
+    },
+    "rule_base": {
+      "depth": 8,
+      "n_rules": 25,
+      "vocabulary": 147
+    }
+  },
+  "timings_s": {
+    "module2_bootstrap": 0.041,
+    "module1_ingest_and_sparql": 0.062,
+    "module1_normalization": 0.03,
+    "module3_analytics": 0.09,
+    "module4_rendering": 1.071
+  }
+}

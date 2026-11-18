@@ -8,7 +8,10 @@ WHERE {
     OPTIONAL { ?event seo:acceptedPapers ?accepted . }
     OPTIONAL { ?event co:acronym ?acronym . }
     OPTIONAL { ?event co:startDate ?date . }
-    OPTIONAL { ?event seo:field ?field . }
+    # Research field: seo:ResearchField in EVENTSKG release 3.0+, seo:field in older releases
+    OPTIONAL { ?event seo:ResearchField ?f1 . }
+    OPTIONAL { ?event seo:field ?f2 . }
+    BIND(COALESCE(?f1, ?f2) AS ?field)
     OPTIONAL { ?event seo:heldInCountry ?country . }
     OPTIONAL { ?event seo:acceptanceRate ?acceptanceRate . }
 }

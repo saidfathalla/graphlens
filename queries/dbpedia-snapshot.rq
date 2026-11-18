@@ -1,0 +1,34 @@
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbt: <http://dbpedia.org/datatype/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+# Offline copy for queries/dbpedia-query.rq: copies the triples that query reads, for the
+# films whose MD5 hash starts with __SLICE__ (two hex digits). Slices 00-2f are the same
+# 3-of-16 sample that the live command analyses with --max-rows 2000. Download them with
+# the loop in docs/USE_CASES.md (small requests stay within DBpedia's result limits).
+CONSTRUCT {
+  ?film a dbo:Film ; rdfs:label ?lbl ; dbo:budget ?budget ; dbo:gross ?gross ;
+        dbo:releaseDate ?d1 ; dbp:released ?d2 ; dct:subject ?cat ;
+        dbo:country ?c1 ; dbp:country ?c2 ; dbo:language ?l1 ; dbp:language ?l2 .
+}
+WHERE {
+  {
+    SELECT DISTINCT ?film WHERE {
+      ?film a dbo:Film ; dbo:budget ?anyBudget ; dbo:gross ?anyGross .
+      FILTER(SUBSTR(MD5(STR(?film)), 1, 2) = "__SLICE__")
+    }
+  }
+  ?film rdfs:label ?lbl .
+  FILTER(LANG(?lbl) = "en" || LANG(?lbl) = "")
+  OPTIONAL { ?film dbo:budget ?budget FILTER(DATATYPE(?budget) = dbt:usDollar) }
+  OPTIONAL { ?film dbo:gross ?gross FILTER(DATATYPE(?gross) = dbt:usDollar) }
+  OPTIONAL { ?film dbo:releaseDate ?d1 }
+  OPTIONAL { ?film dbp:released ?d2 }
+  OPTIONAL { ?film dct:subject ?cat FILTER(REGEX(STR(?cat), "Category:[0-9]{4}_films$")) }
+  OPTIONAL { ?film dbo:country ?c1 }
+  OPTIONAL { ?film dbp:country ?c2 }
+  OPTIONAL { ?film dbo:language ?l1 }
+  OPTIONAL { ?film dbp:language ?l2 }
+}

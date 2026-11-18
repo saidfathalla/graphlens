@@ -1,175 +1,238 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)
-![FAIR Principles](https://img.shields.io/badge/FAIR-Supported-brightgreen.svg)
-![RDF/Semantic Web](https://img.shields.io/badge/Semantic-RDF-orange.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg) [![tests](https://github.com/saidfathalla/graphlens/actions/workflows/tests.yml/badge.svg)](https://github.com/saidfathalla/graphlens/actions/workflows/tests.yml) ![RDF/Semantic Web](https://img.shields.io/badge/Semantic-RDF-orange.svg)
 
-# GraphLens: Automated Schema-Agnostic Semantic Graph Analytics Framework
+# GraphLens
 
-**GraphLens** is an automated, profile-configurable command-line framework engineered to bridge the gap between uncurated RDF Knowledge Graphs (KGs) and advanced statistical, longitudinal, and machine learning analytics.
+**Machine learning-driven behavioral and visual analytics over heterogeneous knowledge graphs.**
 
-Rather than requiring custom data engineering scripts, manual schema mappings, or complex SPARQL query overhauls, GraphLens decouples analytical execution logic from domain ontologies using declarative YAML configuration profiles. Operating under Open-World Semantics (OWA), GraphLens handles missing data recovery, entropy-driven layout routing, unsupervised $K$-means behavioral clustering, and Ordinary Least Squares (OLS) longitudinal modeling in a single execution pipeline.
+GraphLens is a knowledge-based framework that analyzes heterogeneous data in RDF knowledge graphs completely and reproducibly: cleaned and recovered metrics, behavioral clusters, longitudinal trends, and a set of publication-ready figures whose chart types are chosen by an interpretable classifier. Nothing in the code is tied to a particular ontology. Everything domain-specific lives in a small YAML *profile* that maps SPARQL variables to analytical roles, so the same framework runs unchanged on scholarly events (EVENTSKG), films (DBpedia) and the Olympic Games: see [Use cases](#use-cases).
 
----
+## How it works
 
-## Architecture & Four-Module Pipeline
+| Module | What it does |
+|---|---|
+| **1. Ingestion & normalization** | Parses a local or remote RDF file with `rdflib` or queries a SPARQL endpoint, maps variables to roles via the profile, strips namespaces, parses years, and recovers missing values from the declared dependency *ratio = success / volume* (open-world assumption: only values that are algebraically implied are filled). Every dropped row is logged with its reason, and a per-attribute Shannon-entropy profile flags near-constant, identifier-like and sparse predicates. |
+| **2. Layout classification** | An entropy-criterion decision tree over column-name tokens and domain-neutral *shape descriptors* (temporal, geographic, bounded, skewed, cardinality, …) selects one of seven layouts per view: Line, Bar, Geomap, Scatter, Boxplot, Violin, Heatmap. It is trained on 566 labeled examples from six domains and validated with leave-one-domain-out cross-validation. The fitted tree is exported as a human-readable IF-THEN rule base. |
+| **3. Analytics** | K-means on (log-)volume and ratio with K swept over {2,…,6} and selected by silhouette, reported with Davies-Bouldin, WCSS and bootstrap ARI stability. OLS trend models with HAC (Newey-West) standard errors, log-linear growth rates and Durbin-Watson diagnostics, globally and per cluster. |
+| **4. Rendering & reporting** | Renders each view with its routed layout (300 dpi PNG; Geomap is a choropleth world map), and writes a JSON run report, a routing report with classifier confidence and low-confidence flags, and all intermediate tables. |
 
-GraphLens operates via four modular processing stages:
+## Use cases
 
-```mermaid
-graph TD
-    M1["<table style='width: 480px; border-collapse: collapse; border: 1px solid #000000;'><tr><td style='background-color: #ffffff; color: #000000; padding: 8px 12px; font-weight: bold; border-bottom: 1px solid #000000;'>1. Normalization & OWA Metric Recovery Engine</td></tr><tr><td style='background-color: #ffffff; color: #000000; padding: 10px 12px; text-align: left;'>• SPARQL projection & URI suffix extraction<br/>• Scale normalization (percentage-to-decimal)<br/>• Deterministic functional-dependency recovery & audit flags</td></tr></table>"]
-    
-    M2["<table style='width: 480px; border-collapse: collapse; border: 1px solid #000000;'><tr><td style='background-color: #ffffff; color: #000000; padding: 8px 12px; font-weight: bold; border-bottom: 1px solid #000000;'>2. Autonomous Layout Classifier Engine</td></tr><tr><td style='background-color: #ffffff; color: #000000; padding: 10px 12px; text-align: left;'>• Feature vectorization via CountVectorizer<br/>• Shannon entropy-driven DecisionTreeClassifier layout prediction<br/>• Dynamic routing to optimal visualization paradigms</td></tr></table>"]
-    
-    M3["<table style='width: 480px; border-collapse: collapse; border: 1px solid #000000;'><tr><td style='background-color: #ffffff; color: #000000; padding: 8px 12px; font-weight: bold; border-bottom: 1px solid #000000;'>3. Advanced Multimodal Analytics Engine</td></tr><tr><td style='background-color: #ffffff; color: #000000; padding: 10px 12px; text-align: left;'>• Log10-scaling & Z-score feature standardization<br/>• K-Means clustering (Silhouette, Davies-Bouldin & ARI stability optimization)<br/>• Longitudinal OLS trajectory regression & Durbin-Watson diagnostic checks</td></tr></table>"]
-    
-    M4["<table style='width: 480px; border-collapse: collapse; border: 1px solid #000000;'><tr><td style='background-color: #ffffff; color: #000000; padding: 8px 12px; font-weight: bold; border-bottom: 1px solid #000000;'>4. Graphical Production & Export Module</td></tr><tr><td style='background-color: #ffffff; color: #000000; padding: 10px 12px; text-align: left;'>• 8 High-resolution visual diagnostics (300 DPI)<br/>• Feature matrix export with explicit provenance recovery flags<br/>• Detailed JSON execution report & routing/clustering CSVs</td></tr></table>"]
+The same code runs on three unrelated knowledge graphs; only the SPARQL query and the profile change. **[docs/USE_CASES.md](docs/USE_CASES.md) gives the offline and live commands for each case.** Every run produces eight figures; the examples below show each chart type once, taken from whichever use case shows it best.
 
-M1 --> M2 --> M3 --> M4
+| Chart type | Shown for |
+|---|---|
+| Stacked area (the Line layout split by category), choropleth map, box plot | Scholarly events |
+| Scatter, bar, heatmap | Films |
+| Line with trend fits, violin | Olympic Games |
 
-```
+### 1. Scholarly events (EVENTSKG)
 
-## Features
+Submissions and acceptance rates of top computer-science conferences, 2000-2026, by research field and host country. The field chart shows the surge in artificial-intelligence submissions after 2017; the three bands separate highly competitive, moderate and accessible venues.
 
-* **Declarative Schema Agnosticism**: Fully decouples execution logic from specific SPARQL endpoints or ontology prefixes via external SPARQL query files (`.rq`) and lightweight YAML configuration profiles (`profile.yaml`).
-* **Deterministic OWA Metric Recovery**: Reconstructs missing attributes (e.g., deriving `acceptanceRate` or `acceptedPapers` count) using exact functional dependencies defined in the YAML profile under Open-World Assumption (OWA) principles. All derived records are tagged with audit provenance flags (`y_recovered`, `x2_recovered`, `y_rescaled`, `inconsistent`).
-* **Entropy-Driven Layout Classifier**: Bootstraps an entropy decision tree classifier (`DecisionTreeClassifier` on `CountVectorizer` tokens + dataset structural shape descriptors) to dynamically map dataset features to 7 layout paradigms (`Line`, `Bar`, `Geomap`, `Scatter`, `Boxplot`, `Violin`, `Heatmap`).
-* **Unsupervised $K$-Means Behavioral Profiling**: Performs $\log_{10}$-transformed and Z-score standardized $K$-means clustering across continuous selectivity boundaries to group entities into human-readable, domain-configured taxonomy bands (e.g., *Low-ratio*, *Moderate-ratio*, *High-ratio*).
-* **Longitudinal Trajectory Modeling**: Embeds Ordinary Least Squares (OLS) linear regressions with Durbin-Watson residual independence checks to measure multi-decadal growth slopes, log-linear annual growth rates, and goodness-of-fit ($R^2$).
-* **Dual Production Output Suite**: Exports a complete machine-learning-ready data matrix (`features_matrix.csv`) alongside a comprehensive suite of 8 publication-ready visual diagnostics.
+<p>
+<img src="docs/figures/eventskg/fig3_field_growth.png" width="49%" alt="Stacked area: yearly submitted papers by research field">
+<img src="docs/figures/eventskg/fig6_ratio_by_category.png" width="49%" alt="Box plot: acceptance rate by research field">
+</p>
+<img src="docs/figures/eventskg/fig4_geo_distribution.png" width="98%" alt="Choropleth map: conference editions by host country">
 
----
+### 2. Films (DBpedia)
+
+Film budgets and box-office recovery by original language and country, queried live from the DBpedia SPARQL endpoint (a reproducible hash sample of 3 of 16 slices: 1,963 films with a US-dollar budget and gross, 1950-2025). The two bands separate films that earned back their budget (1,374; median recovery 100%) from those that did not (589; median 18%).
+
+<p>
+<img src="docs/figures/dbpedia/fig1_cluster_scatter.png" width="49%" alt="Scatter: budget vs recovery rate by band">
+<img src="docs/figures/dbpedia/fig7_top_entities.png" width="49%" alt="Bar: top 10 films by budget">
+</p>
+<img src="docs/figures/dbpedia/fig5_correlation.png" width="49%" alt="Heatmap: Spearman correlation of the film metrics">
+
+### 3. Olympic Games (Olympics KG)
+
+National delegations at the Summer Olympics, 1896-2016 (1.78 million triples, 229 NOCs). Women's share of athlete entries rises from 1.6% in 1900 to 45.7% in 2016; the dips in 1932, 1956 and 1980 are the Depression and the boycotts. Delegations fall into three medal-efficiency bands.
+
+<p>
+<img src="docs/figures/olympics/fig2_cluster_trend_ols.png" width="49%" alt="Line with OLS trend fits: yearly athlete entries per medal-efficiency band">
+<img src="docs/figures/olympics/fig8_cluster_density.png" width="49%" alt="Violin: delegation size per medal-efficiency band">
+</p>
 
 ## Installation
 
-### Prerequisites
-
-* Python 3.8+ (Python 3.12 recommended)
-* `pip` package manager
-
-### Installation Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/saidfathalla/graphlens.git
-   cd graphlens
-   ```
-
-2. Create and activate a virtual environment (recommended):
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install requirements:
-   ```bash
-   pip install -r requirements.txt --upgrade
-   ```
-
----
-
-## Usage
-
-GraphLens is executed via a CLI interface accepting SPARQL queries, configuration profiles, and RDF input sources (file path or remote URL).
-
-### Command-Line Arguments
-
-| Argument | Long Flag | Description | Required |
-|---|---|---|---|
-| `-q` | `--query` | Path or URL to the SPARQL query file (`.rq`) | Yes |
-| `-p` | `--profile` | Path or URL to the YAML profile file (`.yaml`) | Yes |
-| `-u` | `--url` | Direct HTTPS URL to remote RDF Turtle dataset | Mutually exclusive |
-| `-f` | `--file` | Local file path to RDF Turtle dataset | Mutually exclusive |
-| `-t` | `--training` | Path to layout classifier training dataset (Default: `data/training_data.csv`) | No |
-| `-o` | `--output` | Output directory (Default: `output`) | No |
-| `--seed` | `--seed` | Random seed for $K$-means & layout classifier (Default: `42`) | No |
-| `--log-level` | `--log-level` | Logging verbosity (`DEBUG`, `INFO`, `WARNING`, `ERROR`) | No |
-
-### Examples
-
-**1. Execution using Remote EVENTSKG Dataset (URL):**
+Python 3.10 or newer.
 
 ```bash
-python3 graphlens.py \
-  --query eventkg_query.rq \
-  --profile profile.yaml \
-  --url https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+pip install -r requirements.txt
 ```
 
-**2. Execution using Local RDF File:**
+The repository includes `data/training_data.csv` (layout training corpus) and `data/world_countries.geojson` (Natural Earth country outlines, public domain). Keep both in `data/`.
+
+## Quick start
+
+The commands for all three use cases, offline and live, are in [docs/USE_CASES.md](docs/USE_CASES.md). In short:
 
 ```bash
-python3 graphlens.py \
-  --query query.rq \
-  --profile profile.yaml \
-  --file dataset.ttl \
-  --output output_dir
+# EVENTSKG (scholarly events)
+python3 graphlens.py -q queries/eventskg-query.rq -f data/eventskg.ttl \
+    -p profiles/eventskg-profile.yaml -o output/eventskg
+
+# DBpedia (films), local copy of the sample
+python3 graphlens.py -q queries/dbpedia-query.rq -f data/dbpedia_films.nt \
+    -p profiles/dbpedia-profile.yaml -o output/dbpedia
+
+# Remote RDF file instead of a local one
+python3 graphlens.py -q queries/eventskg-query.rq -p profiles/eventskg-profile.yaml \
+    -u https://raw.githubusercontent.com/saidfathalla/EVENTSKG-Dataset/master/EVENTSKG.ttl
+
+# Live SPARQL endpoint: the query runs remotely and results are fetched page by page
+python3 graphlens.py -q queries/dbpedia-query.rq -p profiles/dbpedia-profile.yaml \
+    -e https://dbpedia.org/sparql -o output/dbpedia-live --page-size 10000 --max-rows 2000
 ```
 
----
+With `-f` or `-u` the whole graph is parsed into memory. With `-e` only the query result is transferred, so graph size is limited by the endpoint, not by your machine. GraphLens pages with `LIMIT`/`OFFSET`, keeps requesting until an empty page comes back (so per-request row caps such as DBpedia's are handled), retries on HTTP 429/5xx, dropped connections and responses cut off mid-transfer (with back-off; if a large page keeps failing, the page size is halved automatically, down to 250 rows), and types values exactly as in file mode, so both modes give identical results for the same data. If your query already ends with `LIMIT` or `OFFSET`, it is sent once, unpaged. After paging, GraphLens asks the endpoint for a `COUNT` of the same query and warns if rows are missing, for example because DBpedia (Virtuoso) cannot page deep into results sorted with `ORDER BY`; it also warns when the endpoint marks a response as partial (query time limit) or when rows repeat across pages. Avoid `ORDER BY` in queries meant for public endpoints. A page that the endpoint marks as partial (time limit hit) is retried, never taken as the end of the data.
 
-## Output Artifacts
+**Heavy queries on public endpoints.** A query that aggregates (`GROUP BY`) is re-run in full for every page, which can exceed an endpoint's time limit. Put the line `# GRAPHLENS-PARTITION ?var` inside its `WHERE` clause, where `?var` is the entity variable (e.g. `?film`). In endpoint mode GraphLens then runs the query as 16 independent slices, each restricted with `FILTER(SUBSTR(MD5(STR(?var)), 1, 1) = "0"…"f")`, pages and verifies each slice, and joins them; use `--partitions 256` for very large results. With `--max-rows`, whole slices are fetched until the limit is reached, which gives a reproducible random sample. Place the line in a small sub-query that selects the entities (see `queries/dbpedia-query.rq`): Virtuoso ignores the filter inside a large aggregated block. In file mode the line is an ordinary comment. `queries/dbpedia-query.rq` uses this. Rows are put into a fixed order before analysis, so results do not depend on the order in which a file or endpoint returned them.
 
-Upon completion, GraphLens writes structured analytical reports, CSV data matrices, and visual assets directly to the configured output directory (`output/` by default).
+### Command-line options
 
-### 1. Data & Analytics Artifacts
-
-* 📊 **`features_matrix.csv`**: Provenance-augmented feature space containing normalized data, cluster band labels, and explicit recovery flags (`y_recovered`, `x2_recovered`, `y_rescaled`, `inconsistent`).
-* 📋 **`cluster_summary.csv`**: Grouped cluster medians, quartile distributions (P25, P75), and mean ratios across identified taxonomy bands.
-* 📈 **`yearly_aggregates.csv`**: Annual aggregations tracking total volume, mean metrics, and entity instance counts over time.
-* 🔬 **`cluster_validation.csv`**: $K$-means sweep evaluation metrics (Silhouette score, Davies-Bouldin index, WCSS, and Adjusted Rand Index stability scores).
-* 📑 **`routing_report.csv`**: Layout classification predictions, model confidence scores, rendered layouts, and expert layout agreement flags.
-* 📄 **`run_report.json`**: Complete execution metadata including pipeline module execution timings (seconds), input triple counts, OWA recovery counts, and OLS regression slopes/p-values.
-
-### 2. Publication-Ready Visual Diagnostic Suite
-
-| Asset File | Layout Paradigm | Description |
+| Option | Default | Meaning |
 |---|---|---|
-| `fig1_cluster_scatter.png` | Scatter Plot | Maps primary volume metrics against derived ratios, segmented by cluster bands. |
-| `fig2_cluster_trend_ols.png` | Line Plot | Traces multi-decadal yearly total metrics overlaid with per-cluster OLS regression fit lines. |
-| `fig3_field_growth.png` | Stacked Area / Line | Displays temporal macro-scale growth distributions across research domains or categories over time. |
-| `fig4_geo_distribution.png` | Geomap / Bar Chart | Illustrates geographic distribution and instance densities across host locations/countries. |
-| `fig5_correlation.png` | Correlation Heatmap | Computes Spearman or Pearson rank correlation matrices across key numerical metrics. |
-| `fig6_ratio_by_category.png` | Boxplot | Illustrates cross-domain ratio variance, inner quartiles, medians, and outlier boundaries. |
-| `fig7_top_entities.png` | Horizontal Bar Chart | Ranks the top 10 most active entities/series by cumulative primary metric volume. |
-| `fig8_cluster_density.png` | Violin Plot | Log-scaled probability density violin profiles exposing boundary cutoffs between cluster bands. |
+| `-q, --query` | required | SPARQL file or https URL |
+| `-p, --profile` | required | Profile YAML file or https URL |
+| `-f, --file` / `-u, --url` / `-e, --endpoint` | one required | Local RDF file, remote RDF file (format detected from extension or content type), or SPARQL endpoint URL |
+| `-t, --training` | `data/training_data.csv` | Layout training corpus. If missing, a 7-row fallback is used and a warning is logged; results then do not generalize |
+| `-o, --output` | `output` | Output folder |
+| `--seed` | `42` | Seed for every stochastic step (K-means, bootstrap, classifier) |
+| `--stability-runs` | `50` | Bootstrap runs for cluster stability (overrides the profile) |
+| `--log-level` | `INFO` | `DEBUG`, `INFO`, `WARNING`, `ERROR` |
+| `--page-size` | `5000` | Endpoint mode: rows requested per page |
+| `--max-rows` | none | Endpoint mode: stop after this many rows. With a `GRAPHLENS-PARTITION` query, whole slices are fetched, giving a reproducible random sample |
+| `--timeout` | `120` | Endpoint mode: seconds per request |
+| `--stable-order` | off | Endpoint mode: wrap the query with `ORDER BY` over all variables so pages are deterministic. Slower; use it when the endpoint may change row order between requests |
+| `--no-count-check` | off | Endpoint mode: skip the `COUNT` query that verifies every row arrived |
+| `--partitions` | `16` | Endpoint mode: number of slices (1, 16 or 256) for queries containing `# GRAPHLENS-PARTITION ?var` |
 
----
+## Writing a profile
 
-## Testing & Quality Assurance
+A profile tells GraphLens which SPARQL variable plays which analytical role. Minimal example:
 
-GraphLens includes a test suite powered by `pytest` that verifies data transformations, regular expression parsing, OWA recovery logic, and pipeline execution.
+```yaml
+target_class: Conference
+labels: {volume: Submitted papers, rate: Acceptance rate, category: Research field,
+         location: Country, entity_group: Event series}
+attributes:
+  independent_metrics:          # first = volume (x1), second = success count (x2)
+    - {identifier: submitted, sparql_var: submittedPapers}
+    - {identifier: accepted,  sparql_var: acceptedPapers}
+  derived_ratios:               # y = x2 / x1
+    - {identifier: acceptanceRate, sparql_var: acceptanceRate}
+  nominal_categories:
+    - {identifier: field,   sparql_var: field}
+    - {identifier: country, sparql_var: country, semantic_type: geo}
+  temporal_indicators:
+    - {identifier: date, sparql_var: startDate}
+  entity_identifiers:
+    - {identifier: acronym, sparql_var: acronym}
+```
 
-### Run Tests Locally
+Optional sections (defaults shown):
 
-To execute the test suite:
+```yaml
+filters:       {year_min: null, year_max: null}
+clustering:    {log_volume: true, k_min: 2, k_max: 6, fixed_k: null, stability_runs: 50}
+cluster_bands: [Low-ratio band, Moderate-ratio band, High-ratio band]
+analysis:      {corr_method: spearman, geomap: map, geo_shapes: data/world_countries.geojson,
+                top_n: 10, top_categories: 10, low_confidence: 0.5}
+# top_categories: charts show the most frequent categories and group the rest as "Other"
+# (display only; clustering and trends use all values). Long labels are shortened in charts.
+labels:        {time: Year, count: Instance count, band: Cluster band}   # plus volume, success, rate, …
+value_aliases: {country: {USA: United States}}
+normalization:
+  ratio_scale: auto        # auto (values > 1 are percentages) | fraction | percent | unbounded
+  year_pattern: '(?<!\d)(\d{4})(?!\d)'
+  time_fallback: [date, year]
+  entity_fallback: [label, name, title, acronym]
+```
+
+`sparql_var` may be a list when different queries name the same attribute differently. Use `ratio_scale: unbounded` for ratios that can exceed 1 (e.g. growth factors); this also disables the *success ≤ volume* consistency check. Set `analysis.geomap: bar` to draw the geographic view as a ranked bar chart instead of a map. All axis and legend wording comes from `labels`, so figures can be produced in any domain vocabulary or language.
+
+## Outputs
+
+| File | Content |
+|---|---|
+| `fig1_cluster_scatter.png` … `fig8_cluster_density.png` | One figure per analytical view, rendered with the routed layout |
+| `features_matrix.csv` | Normalized table with recovery flags and cluster assignments |
+| `normalization_dropped.csv` | Every dropped row with its reason |
+| `attribute_entropy.csv` | Shannon entropy (bits and normalized), distinct values, missing rate and flags per attribute |
+| `cluster_validation.csv`, `cluster_summary.csv` | K sweep metrics (silhouette, Davies-Bouldin, WCSS, ARI) and per-band statistics |
+| `yearly_aggregates.csv` | Yearly totals used for the trend models |
+| `routing_report.csv` | Per view: shape descriptors, predicted layout, confidence, rendered layout, fallback status |
+| `layout_rules.txt` | The classifier as IF-THEN rules with support and confidence |
+| `run_report.json` | All of the above summarized, plus trend models, module timings and, in endpoint mode, paging statistics (`ingest`) |
+
+## Reproducing the evaluation
+
+Run from the repository root. Each experiment writes CSV files to its output folder (`layout_baselines.py` and `recovery_masking.py` also print a LaTeX table with `--latex`).
 
 ```bash
+# Layout classifier: baselines, feature ablation, per-domain accuracy, McNemar tests
+python3 experiments/layout_baselines.py -t data/training_data.csv -o results/layout
+
+# Regenerate the (synthetic, rule-based) classifier training corpus data/training_data.csv
+python3 experiments/make_training_data.py
+
+# Missing-value recovery: MCAR masking at 10-50% vs mean, median, k-NN and MICE
+python3 experiments/recovery_masking.py -q queries/eventskg-query.rq -f data/eventskg.ttl \
+    -p profiles/eventskg-profile.yaml -o results/recovery
+
+# Clustering baselines (GMM, Ward), initialization and bootstrap stability, OLS diagnostics
+python3 experiments/evaluate_robustness.py -q queries/eventskg-query.rq -f data/eventskg.ttl \
+    -p profiles/eventskg-profile.yaml -o results/robustness
+
+# Analytical correctness: 12 hand-computed cases (see experiments/correctness/README.md)
+python3 graphlens.py -f experiments/correctness/analytical_correctness.ttl \
+    -q experiments/correctness/analytical_correctness.rq -p experiments/correctness/profile.yaml \
+    -o experiments/correctness/output
+python3 experiments/correctness/validate_results.py
+
+# Scalability: enlarge EVENTSKG, then one warm-up + 5 timed runs (needs GNU /usr/bin/time)
+python3 experiments/scalability/scale_rdf.py --input data/eventskg.ttl \
+    --output experiments/scalability/EVENTSKG_500k.ttl --target-triples 500000 \
+    --target-class "https://w3id.org/scholarlydata/ontology/conference-ontology.owl#Conference"
+bash experiments/scalability/benchmark.sh graphlens.py experiments/scalability/EVENTSKG_500k.ttl \
+    queries/eventskg-query.rq profiles/eventskg-profile.yaml experiments/scalability/results_500k 5
+```
+
+Timings depend on hardware; the timings in `experiments/scalability/results_*_timings.csv` were measured on an Intel Core Ultra 5 225U with 30 GB RAM.
+
+## Repository layout
+
+```
+graphlens.py            the tool (single file)
+queries/  profiles/     SPARQL query and YAML profile for each use case
+                        (queries/dbpedia-snapshot.rq makes the local DBpedia copy)
+data/                   training_data.csv, world_countries.geojson, eventskg.ttl, dbpedia_films.nt
+docs/                   USE_CASES.md (how to run each case) and the figures shown above
+experiments/            evaluation scripts; correctness/ and scalability/ experiments
+tests/                  pytest suite (run on every push)
+```
+
+Generated and large files are not tracked (see `.gitignore`): run outputs in `output/` and `results/`, the Olympics data (`data/olympics.ttl`, `olympics_db/`) and the enlarged scalability graphs.
+
+## Tests
+
+```bash
+pip install pytest
 python3 -m pytest
 ```
 
-### Continuous Integration (CI)
-
-A GitHub Actions workflow is pre-configured to execute `pytest` across Python versions on every `push` or `pull_request` to ensure deterministic calculations, numeric coercion accuracy, and pipeline stability.
-
----
+The suite covers entropy (Eq. 1), missing-value recovery and consistency checks, year parsing, ratio scales, the dropped-row audit, series naming and spelling, country matching and aliases, rule export, the `fixed_k` guard, seed reproducibility, category folding and label display, SPARQL endpoint paging/retries/row caps, slicing and sampling (against a local test server, no network needed) and end-to-end runs, including file mode versus endpoint mode giving identical results. It runs on every push via GitHub Actions (Python 3.10–3.12).
 
 ## Citation
 
-If you use GraphLens in your research, please cite our paper:
+If you use GraphLens, please cite:
 
-```bibtex
-@article{fathalla2026graphlens,
-  title     = {From Triples to Insights: A Schema-Agnostic Framework for Automated Knowledge Graph Visual Analytics},
-  author    = {Fathalla, Said},
-  journal   = {Submitted to Journal of Intelligent Information Systems},
-  year      = {2026},
-  publisher = {Springer}
-}
-```
+> Fathalla, S. and Mohamed, H. (2026). GraphLens: Machine learning-driven behavioral and visual analytics over heterogeneous knowledge graphs. Submitted to *Knowledge-Based Systems*.
 
----
+See also [`CITATION.cff`](CITATION.cff).
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Code: MIT. `data/world_countries.geojson` is derived from [Natural Earth](https://www.naturalearthdata.com/) 1:50m Admin 0 – Countries (public domain).
