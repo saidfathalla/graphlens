@@ -2,16 +2,16 @@
 
 # GraphLens
 
-**Machine learning-driven behavioural and visual analytics over heterogeneous knowledge graphs.**
+**Machine learning-driven behavioral and visual analytics over heterogeneous knowledge graphs.**
 
-GraphLens turns the result of a SPARQL query over any RDF knowledge graph into a complete, reproducible analysis: cleaned and recovered metrics, behavioural clusters, longitudinal trends, and a set of publication-ready figures whose chart types are chosen by an interpretable classifier. Nothing in the code is tied to a particular ontology. Everything domain-specific lives in a small YAML *profile* that maps SPARQL variables to analytical roles, so the same pipeline runs unchanged on scholarly events (EVENTSKG), films (DBpedia) and the Olympic Games: see [Use cases](#use-cases).
+GraphLens is a knowledge-based framework that analyzes heterogeneous data in RDF knowledge graphs completely and reproducibly: cleaned and recovered metrics, behavioral clusters, longitudinal trends, and a set of publication-ready figures whose chart types are chosen by an interpretable classifier. Nothing in the code is tied to a particular ontology. Everything domain-specific lives in a small YAML *profile* that maps SPARQL variables to analytical roles, so the same framework runs unchanged on scholarly events (EVENTSKG), films (DBpedia) and the Olympic Games: see [Use cases](#use-cases).
 
 ## How it works
 
 | Module | What it does |
 |---|---|
-| **1. Ingestion & normalisation** | Parses a local or remote RDF file with `rdflib`, runs the SPARQL query, maps variables to roles via the profile, strips namespaces, parses years, and recovers missing values from the declared dependency *ratio = success / volume* (Open World Assumption: only values that are algebraically implied are filled). Every dropped row is logged with its reason, and a per-attribute Shannon-entropy profile flags near-constant, identifier-like and sparse predicates. |
-| **2. Layout classification** | An entropy-criterion decision tree over column-name tokens and domain-neutral *shape descriptors* (temporal, geographic, bounded, skewed, cardinality, …) selects one of seven layouts per view: Line, Bar, Geomap, Scatter, Boxplot, Violin, Heatmap. It is trained on 566 labelled examples from six domains and validated with leave-one-domain-out cross-validation. The fitted tree is exported as a human-readable IF-THEN rule base. |
+| **1. Ingestion & normalization** | Parses a local or remote RDF file with `rdflib` or queries a SPARQL endpoint, maps variables to roles via the profile, strips namespaces, parses years, and recovers missing values from the declared dependency *ratio = success / volume* (open-world assumption: only values that are algebraically implied are filled). Every dropped row is logged with its reason, and a per-attribute Shannon-entropy profile flags near-constant, identifier-like and sparse predicates. |
+| **2. Layout classification** | An entropy-criterion decision tree over column-name tokens and domain-neutral *shape descriptors* (temporal, geographic, bounded, skewed, cardinality, …) selects one of seven layouts per view: Line, Bar, Geomap, Scatter, Boxplot, Violin, Heatmap. It is trained on 566 labeled examples from six domains and validated with leave-one-domain-out cross-validation. The fitted tree is exported as a human-readable IF-THEN rule base. |
 | **3. Analytics** | K-means on (log-)volume and ratio with K swept over {2,…,6} and selected by silhouette, reported with Davies-Bouldin, WCSS and bootstrap ARI stability. OLS trend models with HAC (Newey-West) standard errors, log-linear growth rates and Durbin-Watson diagnostics, globally and per cluster. |
 | **4. Rendering & reporting** | Renders each view with its routed layout (300 dpi PNG; Geomap is a choropleth world map), and writes a JSON run report, a routing report with classifier confidence and low-confidence flags, and all intermediate tables. |
 
@@ -97,7 +97,7 @@ With `-f` or `-u` the whole graph is parsed into memory. With `-e` only the quer
 | `-q, --query` | required | SPARQL file or https URL |
 | `-p, --profile` | required | Profile YAML file or https URL |
 | `-f, --file` / `-u, --url` / `-e, --endpoint` | one required | Local RDF file, remote RDF file (format detected from extension or content type), or SPARQL endpoint URL |
-| `-t, --training` | `data/training_data.csv` | Layout training corpus. If missing, a 7-row fallback is used and a warning is logged; results then do not generalise |
+| `-t, --training` | `data/training_data.csv` | Layout training corpus. If missing, a 7-row fallback is used and a warning is logged; results then do not generalize |
 | `-o, --output` | `output` | Output folder |
 | `--seed` | `42` | Seed for every stochastic step (K-means, bootstrap, classifier) |
 | `--stability-runs` | `50` | Bootstrap runs for cluster stability (overrides the profile) |
@@ -158,14 +158,14 @@ normalization:
 | File | Content |
 |---|---|
 | `fig1_cluster_scatter.png` … `fig8_cluster_density.png` | One figure per analytical view, rendered with the routed layout |
-| `features_matrix.csv` | Normalised table with recovery flags and cluster assignments |
+| `features_matrix.csv` | Normalized table with recovery flags and cluster assignments |
 | `normalization_dropped.csv` | Every dropped row with its reason |
-| `attribute_entropy.csv` | Shannon entropy (bits and normalised), distinct values, missing rate and flags per attribute |
+| `attribute_entropy.csv` | Shannon entropy (bits and normalized), distinct values, missing rate and flags per attribute |
 | `cluster_validation.csv`, `cluster_summary.csv` | K sweep metrics (silhouette, Davies-Bouldin, WCSS, ARI) and per-band statistics |
 | `yearly_aggregates.csv` | Yearly totals used for the trend models |
 | `routing_report.csv` | Per view: shape descriptors, predicted layout, confidence, rendered layout, fallback status |
 | `layout_rules.txt` | The classifier as IF-THEN rules with support and confidence |
-| `run_report.json` | All of the above summarised, plus trend models, module timings and, in endpoint mode, paging statistics (`ingest`) |
+| `run_report.json` | All of the above summarized, plus trend models, module timings and, in endpoint mode, paging statistics (`ingest`) |
 
 ## Reproducing the evaluation
 
@@ -182,7 +182,7 @@ python3 experiments/make_training_data.py
 python3 experiments/recovery_masking.py -q queries/eventskg-query.rq -f data/eventskg.ttl \
     -p profiles/eventskg-profile.yaml -o results/recovery
 
-# Clustering baselines (GMM, Ward), initialisation and bootstrap stability, OLS diagnostics
+# Clustering baselines (GMM, Ward), initialization and bootstrap stability, OLS diagnostics
 python3 experiments/evaluate_robustness.py -q queries/eventskg-query.rq -f data/eventskg.ttl \
     -p profiles/eventskg-profile.yaml -o results/robustness
 
@@ -229,7 +229,7 @@ The suite covers entropy (Eq. 1), missing-value recovery and consistency checks,
 
 If you use GraphLens, please cite:
 
-> Fathalla, S. and Mohamed, H. (2026). GraphLens: Machine learning-driven behavioural and visual analytics over heterogeneous knowledge graphs. Submitted to *Knowledge-Based Systems*.
+> Fathalla, S. and Mohamed, H. (2026). GraphLens: Machine learning-driven behavioral and visual analytics over heterogeneous knowledge graphs. Submitted to *Knowledge-Based Systems*.
 
 See also [`CITATION.cff`](CITATION.cff).
 
