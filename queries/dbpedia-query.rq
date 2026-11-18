@@ -1,36 +1,73 @@
 PREFIX dbo: <http://dbpedia.org/ontology/>
 PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX dbt: <http://dbpedia.org/datatype/>
+PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
-SELECT ?film ?label ?year ?country ?genre ?budget ?recoupedBudget ?recoveryRate
+# One row per film. Missing values stay missing (Open World Assumption): no default
+# year, country or language. MIN() rather than SAMPLE() picks one value when a film has
+# several, so every run returns the same result. No ORDER BY: DBpedia cannot page deep into sorted results.
+# In endpoint mode (-e) the GRAPHLENS-PARTITION line below splits the query into 16
+# slices of films so each stays within DBpedia's time limit; elsewhere it is a comment.
+# It sits in its own small sub-query: Virtuoso (DBpedia) ignores the slice filter when it
+# is placed in the large aggregated block, and every slice would return all films.
+# Data quality: only budgets and grosses typed in US dollars are used (DBpedia mixes
+# currencies and untyped numbers). Budgets under $10,000 are unit errors (e.g. "15" for
+# $15 million) and budgets over $500 million exceed any film ever made (e.g. 8 billion
+# Indonesian rupiah typed as dollars); both are excluded.
+SELECT ?film ?label ?year ?country ?language ?budget ?recoupedBudget ?recoveryRate
 WHERE {
-  ?film a dbo:Film ;
-        rdfs:label ?label ;
-        dbo:budget ?rawBudget ;
-        dbo:gross ?rawGross .
+  {
+    SELECT ?film
+           (MIN(?lblS) AS ?label)
+           (MAX(?b) AS ?budget)
+           (MAX(?g) AS ?gross)
+           # Release year: ontology date, else infobox date, else a "YYYY films" category
+           (COALESCE(MIN(?dOnto), MIN(?dInfobox), MIN(?dCategory)) AS ?year)
+           (COALESCE(MIN(?c1S), MIN(?c2S)) AS ?country)
+           # Original language (Wikipedia's film infobox has no genre field; DBpedia's
+           # "genre" values for films are mostly music genres and 90% missing)
+           (COALESCE(MIN(?l1S), MIN(?l2S)) AS ?language)
+    WHERE {
+      # Films with a budget and a gross; the partition line keeps one slice of them
+      {
+        SELECT DISTINCT ?film WHERE {
+          ?film a dbo:Film ; dbo:budget ?anyBudget ; dbo:gross ?anyGross .
+          # GRAPHLENS-PARTITION ?film
+        }
+      }
+      ?film rdfs:label ?lbl ;
+            dbo:budget ?rawBudget ;
+            dbo:gross ?rawGross .
+      FILTER(LANG(?lbl) = "en" || LANG(?lbl) = "")
+      BIND(STR(?lbl) AS ?lblS)
+      FILTER(DATATYPE(?rawBudget) = dbt:usDollar && DATATYPE(?rawGross) = dbt:usDollar)
+      BIND(xsd:double(STR(?rawBudget)) AS ?b)
+      BIND(xsd:double(STR(?rawGross)) AS ?g)
+      FILTER(?b >= 10000 && ?b <= 500000000 && ?g >= 0)
 
-  BIND(xsd:double(str(?rawBudget)) AS ?budget)
-  BIND(xsd:double(str(?rawGross)) AS ?gross)
+      OPTIONAL { ?film dbo:releaseDate ?d1 }
+      BIND(STR(?d1) AS ?dOnto)
+      OPTIONAL { ?film dbp:released ?d2 }
+      BIND(STR(?d2) AS ?dInfobox)
+      OPTIONAL { ?film dct:subject ?cat
+                 FILTER(REGEX(STR(?cat), "Category:[0-9]{4}_films$")) }
+      BIND(STR(?cat) AS ?dCategory)
 
-  FILTER(?budget > 0 && ?gross >= 0)
-
+      OPTIONAL { ?film dbo:country ?c1 }
+      OPTIONAL { ?film dbp:country ?c2 }
+      BIND(STR(?c1) AS ?c1S)
+      BIND(STR(?c2) AS ?c2S)
+      OPTIONAL { ?film dbo:language ?l1 }
+      OPTIONAL { ?film dbp:language ?l2 }
+      # "http://dbpedia.org/resource/English_language" and "English" both become "English"
+      BIND(REPLACE(STR(?l1), "^.*/|_language$", "") AS ?l1S)
+      BIND(REPLACE(STR(?l2), "^.*/|_language$", "") AS ?l2S)
+    }
+    GROUP BY ?film
+  }
+  # Recouped budget and recovery rate from the same per-film budget and gross
   BIND(IF(?gross >= ?budget, ?budget, ?gross) AS ?recoupedBudget)
   BIND(?recoupedBudget / ?budget AS ?recoveryRate)
-
-  OPTIONAL { ?film dbo:releaseDate ?releaseDate }
-  BIND(IF(BOUND(?releaseDate), STR(?releaseDate), "2015") AS ?year)
-
-  # Fallback predicate bindings for geographic location
-  OPTIONAL { ?film dbo:country ?c1 }
-  OPTIONAL { ?film dbp:country ?c2 }
-  BIND(COALESCE(?c1, ?c2, "United States") AS ?country)
-
-  # Fallback predicate bindings for film genre
-  OPTIONAL { ?film dbo:genre ?g1 }
-  OPTIONAL { ?film dbp:genre ?g2 }
-  BIND(COALESCE(?g1, ?g2, "Drama") AS ?genre)
-
-  FILTER(LANG(?label) = "en" || LANG(?label) = "")
 }
-ORDER BY DESC(?budget)

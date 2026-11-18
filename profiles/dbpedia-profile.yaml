@@ -4,10 +4,13 @@ labels:
   volume: "Production Budget ($)"
   success: "Recouped Budget ($)"
   rate: "Budget Recovery Rate"
-  category: "Genre"
+  category: "Original language"
   location: "Country"
   entity_identifier: "Film Title"
-  entity_group: "Film Series"
+  entity_group: "Films"
+  time: "Release year"
+  count: "Films"
+  band: "Recovery band"
 
 attributes:
   independent_metrics:
@@ -24,9 +27,9 @@ attributes:
       description: "Derived ratio (y = x2 / x1) bounded in [0, 1]"
 
   nominal_categories:
-    - identifier: "genre"
-      sparql_var: "genre"
-      description: "Primary category attribute (c1)"
+    - identifier: "language"
+      sparql_var: "language"
+      description: "Original language of the film (c1)"
     - identifier: "country"
       sparql_var: "country"
       semantic_type: "geo"
@@ -52,16 +55,24 @@ filters:
 clustering:
   log_volume: true
   k_min: 2
-  k_max: 3          # Fixed to 3 clusters to match cluster_bands exactly
-  fixed_k: 3
-  stability_runs: 10
+  k_max: 4
+  # Two bands: films that did and did not earn back their budget. About 60% of films
+  # recover exactly 100% (gross is capped at the budget), so a third cluster only splits
+  # the recovered films by budget size and would be mislabelled by recovery rate.
+  fixed_k: 2
+  stability_runs: 50
 
-cluster_bands:
-  - "Low-Budget Band"
-  - "Mid-Budget Band"
-  - "Blockbuster / High-Budget Band"
+cluster_bands:      # bands are ordered by mean recovery rate, lowest first
+  - "Low Recovery Band"
+  - "High Recovery Band"
 
 analysis:
   corr_method: "spearman"
+  top_categories: 10      # charts show the 10 most frequent languages, the rest as "Other"
 
-value_aliases: {}
+# Historical country names that DBpedia uses, drawn on today's map (delete to keep them apart)
+value_aliases:
+  country:
+    "British Hong Kong": "Hong Kong"
+    "French Third Republic": "France"
+    "United Kingdom Of Great Britain And Ireland": "United Kingdom"

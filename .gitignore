@@ -1,15 +1,27 @@
-# Python bytecode
+# Python
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
 # Environments
 venv/
+env/
 .env
-
 
 # OS metadata
 .DS_Store
 *.lock.processed
 
-# Ignore all programmatic pipeline outputs
-env/
+# Run outputs: regenerate with the commands in docs/USE_CASES.md and README.md
+/output/
+/results/
+scale_benchmark.json
+oxigraph.log
+
+# Large or downloadable data (see docs/USE_CASES.md)
+data/olympics.ttl
+data/*.zip
+olympics_db/
+experiments/scalability/*.ttl
+experiments/scalability/*_output/
+experiments/scalability/*_time.txt

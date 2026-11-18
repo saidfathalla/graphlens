@@ -1,0 +1,53 @@
+PREFIX walls: <http://wallscope.co.uk/ontology/olympics/>
+PREFIX dbo:   <http://dbpedia.org/ontology/>
+PREFIX dbp:   <http://dbpedia.org/property/>
+PREFIX foaf:  <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+
+# Olympics knowledge graph (wallscope/olympics-rdf, 1.78M triples, 1896-2016).
+# One row per national delegation at a Summer Games, split by gender:
+#   entries       athlete-event entries of the delegation      (volume)
+#   medalEntries  entries that won a medal                     (success, <= entries)
+#   medalRate     medalEntries / entries                       (ratio)
+# Athletes linked to more than one NOC are excluded (about 2% of athletes): the graph
+# records teams per athlete, not per Games, so their NOC at a given Games is unknown.
+# For the Winter Games, replace "Summer" with "Winter" below.
+SELECT ?delegation ?noc ?country ?year ?gender ?entries ?medalEntries ?medalRate
+WHERE {
+  # 1. entries and medal entries per NOC, Games year and gender
+  {
+    SELECT ?nocNode ?year ?gender (COUNT(?inst) AS ?entries) (COUNT(?m) AS ?medalEntries)
+    WHERE {
+      # each athlete's single NOC, computed once
+      { SELECT ?athlete (SAMPLE(?n) AS ?nocNode) WHERE { ?athlete dbo:team ?t . ?n dbo:ground ?t }
+        GROUP BY ?athlete HAVING (COUNT(DISTINCT ?n) = 1) }
+      ?athlete foaf:gender ?gender .
+      ?inst  walls:athlete ?athlete ;
+             walls:games ?games .
+      ?games walls:season <http://wallscope.co.uk/resource/olympics/season/Summer> ;
+             dbp:year ?year .
+      OPTIONAL { ?inst walls:medal ?m }
+    }
+    GROUP BY ?nocNode ?year ?gender
+  }
+  # 2. NOC code and country name; the country is the NOC's largest team
+  #    (e.g. "United States", not a club such as "Atalanta Boat Club-1")
+  {
+    SELECT ?nocNode (SAMPLE(?code) AS ?noc) (SAMPLE(?teamName) AS ?country) WHERE {
+      { SELECT ?nocNode (MAX(?size) AS ?maxSize) WHERE {
+          { SELECT ?nocNode ?t (COUNT(?a) AS ?size) WHERE { ?nocNode dbo:ground ?t . ?a dbo:team ?t }
+            GROUP BY ?nocNode ?t } }
+        GROUP BY ?nocNode }
+      { SELECT ?nocNode ?t (COUNT(?a) AS ?size) WHERE { ?nocNode dbo:ground ?t . ?a dbo:team ?t }
+        GROUP BY ?nocNode ?t }
+      FILTER(?size = ?maxSize)
+      ?t rdfs:label ?tl .
+      ?nocNode rdfs:label ?nl .
+      BIND(STR(?tl) AS ?teamName)
+      BIND(STR(?nl) AS ?code)
+    }
+    GROUP BY ?nocNode
+  }
+  BIND(?medalEntries / ?entries AS ?medalRate)
+  BIND(CONCAT(?noc, " ", STR(?year), " ", REPLACE(STR(?gender), "^.*/", "")) AS ?delegation)
+}

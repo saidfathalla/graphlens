@@ -1,0 +1,85 @@
+# GraphLens profile: national delegations at the Summer Olympics, 1896-2016
+# Data: wallscope/olympics-rdf (Olympics knowledge graph, 1.78M triples)
+# Query: queries/olympics-query.rq  (one row per NOC x Games x gender)
+target_class: "http://dbpedia.org/ontology/Olympics"
+
+labels:
+  volume: "Athlete entries"
+  success: "Medal-winning entries"
+  rate: "Medal rate"
+  category: "Gender"
+  location: "Country"
+  entity_identifier: "Delegation"
+  entity_group: "National Olympic Committees"
+  time: "Olympic year"
+  count: "Delegations (Games x gender)"
+  band: "Medal-efficiency band"
+
+attributes:
+  independent_metrics:
+    - identifier: "entries"
+      sparql_var: "entries"
+      description: "Athlete-event entries of the delegation (x1)"
+    - identifier: "medalEntries"
+      sparql_var: "medalEntries"
+      description: "Entries that won a medal (x2 <= x1)"
+
+  derived_ratios:
+    - identifier: "medalRate"
+      sparql_var: "medalRate"
+      description: "medalEntries / entries (y)"
+
+  nominal_categories:
+    - identifier: "gender"
+      sparql_var: "gender"
+    - identifier: "country"
+      sparql_var: "country"
+      semantic_type: "geo"
+
+  temporal_indicators:
+    - identifier: "year"
+      sparql_var: "year"
+
+  entity_identifiers:
+    - identifier: "noc"
+      sparql_var: "noc"
+    - identifier: "delegation"
+      sparql_var: "delegation"
+
+cluster_bands:      # lowest to highest mean medal rate
+  - "Low Medal Rate"
+  - "Moderate Medal Rate"
+  - "High Medal Rate"
+
+clustering:
+  log_volume: true
+  k_min: 2
+  k_max: 6
+  stability_runs: 50
+
+analysis:
+  corr_method: "spearman"
+  top_n: 10
+
+value_aliases:
+  gender:
+    M: "Men"
+    F: "Women"
+  country:
+    # historical teams drawn on the territory of their main successor state
+    # (affects the map only; delete these lines to leave them off the map)
+    "Soviet Union": "Russia"
+    "Unified Team": "Russia"
+    "Czechoslovakia": "Czech Republic"
+    "Bohemia": "Czech Republic"
+    "Yugoslavia": "Serbia"
+    "Serbia and Montenegro": "Serbia"
+    "Rhodesia": "Zimbabwe"
+    "Malaya": "Malaysia"
+    "North Borneo": "Malaysia"
+    "Saar": "Germany"
+    "Crete": "Greece"
+    "United Arab Republic": "Egypt"
+    "North Yemen": "Yemen"
+    "South Yemen": "Yemen"
+    "South Vietnam": "Vietnam"

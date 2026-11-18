@@ -46,7 +46,7 @@ clustering:
   log_volume: true
   k_min: 2
   k_max: 6
-  stability_runs: 10
+  stability_runs: 50
 
 filters:
   year_min: 2000
