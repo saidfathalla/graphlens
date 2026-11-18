@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "GraphLens: Machine learning-driven behavioural and visual analytics over heterogeneous knowledge graphs"
-abstract: "Schema-agnostic, profile-configurable pipeline that turns SPARQL results over RDF knowledge graphs into recovered metrics, behavioural clusters, longitudinal trends and automatically routed visual analytics."
+title: "GraphLens: Machine learning-driven behavioral and visual analytics over heterogeneous knowledge graphs"
+abstract: "Schema-agnostic, profile-configurable pipeline that turns SPARQL results over RDF knowledge graphs into recovered metrics, behavioral clusters, longitudinal trends and automatically routed visual analytics."
 authors:
   - family-names: "Fathalla"
     given-names: "Said"
@@ -9,8 +9,8 @@ authors:
   - family-names: "Mohamed"
     given-names: "Heba"
     orcid: "https://orcid.org/0000-0003-3146-1937"
-version: "2.0.0"
-date-released: 2026-11-13
+version: "0.2.0"
+date-released: 2026-11-18
 url: "https://github.com/saidfathalla/graphlens"
 repository-code: "https://github.com/saidfathalla/graphlens"
 keywords:
